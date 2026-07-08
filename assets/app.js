@@ -192,13 +192,14 @@
     return { groups, activeGroup: active || null, activeGroupId: active ? active.id : null };
   }
 
-  // 解析当前应显示的群：URL ?gid= 优先 > localStorage > activeGroupId
+  // 解析当前应显示的群：URL ?gid= 优先 > localStorage > activeGroupId（null 时 fallback 到第一群）
   function resolveGroupId(activeId) {
     const up = new URLSearchParams(location.search).get('gid');
     if (up && /^\d+$/.test(up)) return parseInt(up, 10);
     const ls = localStorage.getItem('portal_gid');
     if (ls && /^\d+$/.test(ls)) return parseInt(ls, 10);
-    return activeId;
+    // null/undefined/falsy 时由调用方 fallback 到 groups[0].id
+    return activeId && Number.isFinite(activeId) ? activeId : null;
   }
 
   // 顶部群切换下拉
