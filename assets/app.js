@@ -320,26 +320,33 @@
 
       // --- 进度条：按「今天距开营的第几天 / 营期总天数」计算 ---
       const fill = document.getElementById('progressFill');
-      const duration = parseInt(detail.duration_days, 10) || 21;
+      const duration = parseInt(detail.duration_days, 10) || 30;
       const startDate = detail.start_date;       // YYYY-MM-DD 或 null
       if (startDate) {
         const start = new Date(startDate + 'T00:00:00');
         const today = new Date(); today.setHours(0, 0, 0, 0);
         const dayMs = 86400000;
         const elapsed = Math.floor((today - start) / dayMs);  // 开营当天 = 0
-        const dayNumber = Math.max(1, elapsed + 1);           // 第几天（从 1 起）
-        const pct = Math.max(2, Math.min(100, (dayNumber / duration) * 100));
-        set('progressDay', `第 ${dayNumber} 天`);
-        set('progressCrew', ` / 共 ${duration} 天`);
         set('progressMid', `第 ${Math.round(duration / 2)} 天`);
         if (elapsed < 0) {
-          set('progressStatus', `还有 ${Math.abs(elapsed)} 天开营`);
-        } else if (dayNumber > duration) {
-          set('progressStatus', `Live · 营期已结营`);
+          // 未开营：显示倒计时
+          const daysUntil = Math.abs(elapsed);
+          set('progressDay', `距开营 ${daysUntil} 天`);
+          set('progressCrew', ` / 共 ${duration} 天`);
+          set('progressStatus', `● 还有 ${daysUntil} 天开营`);
+          if (fill) setTimeout(() => (fill.style.width = '2%'), 250);
         } else {
-          set('progressStatus', `Live · 营期进行中`);
+          const dayNumber = Math.min(elapsed + 1, duration);    // 第几天（从 1 起）
+          const pct = Math.max(4, Math.min(100, (dayNumber / duration) * 100));
+          set('progressDay', `第 ${dayNumber} 天`);
+          set('progressCrew', ` / 共 ${duration} 天`);
+          if (dayNumber > duration) {
+            set('progressStatus', `已结营`);
+          } else {
+            set('progressStatus', `进行中 · 第 ${dayNumber}/${duration} 天`);
+          }
+          if (fill) setTimeout(() => (fill.style.width = pct.toFixed(1) + '%'), 250);
         }
-        if (fill) setTimeout(() => (fill.style.width = pct.toFixed(1) + '%'), 250);
       } else {
         // 未设置开营日期：优雅降级
         set('progressDay', '待设定');
@@ -604,7 +611,7 @@
     })();
     if (!allMembers.length) {
       const totalHint = raw.length
-        ? '<p>群里已有 ' + raw.length + ' 位成员，但都还没有解析出自我介绍。点顶部「🤖 批量自动提取全群自我介绍」试试。</p>'
+        ? '<p>群里已有 ' + raw.length + ' 位成员，但都还没有解析出自我介绍。</p>'
         : '<p>请先在设置页采集一些群消息。</p>';
       grid.innerHTML = '<div class="empty-state" style="column-span:all;width:100%"><div class="icon">👥</div><h3>还没有可展示的名片</h3>' + totalHint + '</div>';
     } else {
@@ -668,23 +675,7 @@
         }
       });
 
-      // 批量提取
-      document.getElementById('batchExtractBtn')?.addEventListener('click', async function () {
-        const btn = this;
-        btn.disabled = true;
-        const orig = btn.textContent;
-        btn.textContent = '正在批量提取…';
-        try {
-          const res = await P.fetchAPI('/groups/' + currentGroupId + '/members/batch-extract-intro', { method: 'POST' });
-          P.showToast('批量提取完成：处理 ' + res.processed + ' 人，跳过 ' + res.skipped + ' 人');
-          await refreshMembers();
-        } catch (err) {
-          P.showToast(err.message, 'error');
-        } finally {
-          btn.disabled = false;
-          btn.textContent = orig;
-        }
-      });
+      // 批量提取功能已移除（静态版不需要）
 
       // 弹窗关闭
       document.getElementById('introModal')?.addEventListener('click', function (e) {
@@ -712,21 +703,22 @@
   function renderDayHeader(summary) {
     const content = summary.content || {};
     const stats = [
-      { k: '当日消息', v: summary.message_count || 0 },
+      { k: '总消息数', v: summary.message_count || 0 },
       { k: '关键要点', v: (content.key_points || []).length },
       { k: '活跃成员', v: (content.active_members || []).length },
       { k: '讨论话题', v: (content.topics || []).length },
     ];
     return ''
-      + '<div class="day-header reveal">'
-      +   '<div class="day-header-l">'
-      +     '<div class="kicker">DAILY DIGEST · ' + P.escapeHtml(summary.date) + '</div>'
-      +     '<h2>' + P.escapeHtml(content.title || (summary.date + ' 群聊精华')) + '</h2>'
-      +     ((content.topics && content.topics.length) ? '<p>今日主要话题：' + content.topics.map(P.escapeHtml).join(' · ') + '</p>' : '')
-      +     '<div class="stats-grid">'
-      +       stats.map(function (s) { return '<div class="stat"><div class="k">' + s.k + '</div><div class="v">' + s.v + '</div></div>'; }).join('')
-      +     '</div>'
+      + '<div class="daily-header-row reveal">'
+      +   '<div class="date-pill">'
+      +     '<span class="date-num">' + P.escapeHtml(summary.date) + '</span>'
+      +     '<span class="date-phase">' + P.escapeHtml(content.title || '群聊精华') + '</span>'
       +   '</div>'
+      + '</div>'
+      + '<div class="daily-stats">'
+      +   stats.map(function (s) {
+        return '<div class="daily-stat"><div class="ds-k">' + s.k + '</div><div class="ds-v">' + s.v + '</div></div>';
+      }).join('')
       + '</div>';
   }
 
@@ -783,24 +775,42 @@
       const content = summary.content || {};
       const sections = content.sections || [];
       let html = renderDayHeader(summary);
+
+      // 今日导读：取第一条摘要或首条 keyPoint 作为导读
+      const leadText = (content.sections && content.sections[0] && content.sections[0].intro)
+        || (content.key_points && content.key_points.length ? content.key_points.slice(0, 3).join('；') : '')
+        || ('AI 已为当日 ' + (summary.message_count || 0) + ' 条消息生成精华。');
+      if (leadText) {
+        html += '<div class="digest-lead reveal"><div class="dl-title">今日导读</div><p class="dl-body">' + P.escapeHtml(leadText) + '</p></div>';
+      }
+
+      // 时间线板块
       if (sections.length === 0) {
         html += '<div class="empty-state" style="margin-top:24px"><div class="icon">📭</div><h3>当日没有解析出板块</h3><p>可以点击「重新生成」再试。</p></div>';
       } else {
         html += '<div class="timeline">' + sections.map(renderSection).join('') + '</div>';
       }
-      html += '<div style="text-align:center;margin-top:36px"><button class="btn btn-secondary" id="regenBtn" data-date="' + P.escapeHtml(date) + '">🔄 重新生成本日精华</button></div>';
+
+      // 静态模式不显示"重新生成"按钮
+      if (!P.STATIC_MODE) {
+        html += '<div style="text-align:center;margin-top:36px"><button class="btn btn-secondary" id="regenBtn" data-date="' + P.escapeHtml(date) + '">🔄 重新生成本日精华</button></div>';
+      }
       container.innerHTML = html;
       requestAnimationFrame(P.initReveal);
 
-      document.getElementById('regenBtn').addEventListener('click', async function () {
-        try {
-          this.disabled = true;
-          P.showToast('正在重新生成…');
-          await P.fetchAPI('/groups/' + currentGroupId + '/summaries/' + encodeURIComponent(date) + '/generate', { method: 'POST' });
-          P.showToast('生成成功！');
-          renderDay(date);
-        } catch (err) { P.showToast(err.message, 'error'); this.disabled = false; }
-      });
+      // 绑定重新生成（仅动态模式有此按钮）
+      const regenBtn = document.getElementById('regenBtn');
+      if (regenBtn) {
+        regenBtn.addEventListener('click', async function () {
+          try {
+            this.disabled = true;
+            P.showToast('正在重新生成…');
+            await P.fetchAPI('/groups/' + currentGroupId + '/summaries/' + encodeURIComponent(date) + '/generate', { method: 'POST' });
+            P.showToast('生成成功！');
+            renderDay(date);
+          } catch (err) { P.showToast(err.message, 'error'); this.disabled = false; }
+        });
+      }
     } catch (err) {
       container.innerHTML = '<div class="empty-state"><div class="icon">⚠️</div><h3>加载失败</h3><p>' + P.escapeHtml(err.message) + '</p></div>';
     }
@@ -838,10 +848,11 @@
         content.innerHTML = ''
           + '<div class="empty-state">'
           + '<div class="icon">📅</div><h3>还没有每日精华</h3>'
-          + '<p>点击下方按钮，让 AI 从今日消息中生成一份。</p>'
-          + '<button class="btn btn-primary" id="genTodayBtn">✨ 生成今日精华</button>'
+          + '<p>开营后群内产生消息时，将自动生成每日精华。</p>'
+          + (!P.STATIC_MODE ? '<button class="btn btn-primary" id="genTodayBtn">✨ 生成今日精华</button>' : '')
           + '</div>';
-        document.getElementById('genTodayBtn').addEventListener('click', generateToday);
+        const genBtn = document.getElementById('genTodayBtn');
+        if (genBtn) genBtn.addEventListener('click', generateToday);
         return;
       }
 
