@@ -1,0 +1,565 @@
+{
+ "messages": [
+  {
+   "id": 37250,
+   "time": "2026-07-08 15:23",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"可人-资料官\" 拍了拍 \"子依\"",
+   "type": "share"
+  },
+  {
+   "id": 37249,
+   "time": "2026-07-08 15:23",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"志愿者—红尘\" 拍了拍 \"顺意\" 说加油",
+   "type": "share"
+  },
+  {
+   "id": 37245,
+   "time": "2026-07-08 15:19",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"志愿者—红尘\" 拍了拍 \"玛丽\"",
+   "type": "share"
+  },
+  {
+   "id": 37225,
+   "time": "2026-07-08 12:50",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"可人-资料官\" 拍了拍 \"冯慧-Wennnn组\"",
+   "type": "share"
+  },
+  {
+   "id": 37224,
+   "time": "2026-07-08 12:50",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"可人-资料官\" 拍了拍 \"图图\" 的肩膀叫一声慧姐姐",
+   "type": "share"
+  },
+  {
+   "id": 37214,
+   "time": "2026-07-08 12:16",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"志愿者—红尘\" 拍了拍 \"康玲🌸\"",
+   "type": "share"
+  },
+  {
+   "id": 37213,
+   "time": "2026-07-08 12:15",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"康玲🌸\"",
+   "type": "share"
+  },
+  {
+   "id": 37210,
+   "time": "2026-07-08 12:15",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"青亭-大胡组\" 的肩膀说：画一个",
+   "type": "share"
+  },
+  {
+   "id": 37201,
+   "time": "2026-07-08 12:11",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"冯慧-Wennnn组\"",
+   "type": "share"
+  },
+  {
+   "id": 37198,
+   "time": "2026-07-08 12:08",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"世界那么大\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
+   "id": 37196,
+   "time": "2026-07-08 12:07",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"风\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
+   "id": 37194,
+   "time": "2026-07-08 12:07",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"志愿者—红尘\" 拍了拍 \"宏源@数字-小红书n8n志愿者\"",
+   "type": "share"
+  },
+  {
+   "id": 37190,
+   "time": "2026-07-08 12:05",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"冯慧-Wennnn组\"",
+   "type": "share"
+  },
+  {
+   "id": 37189,
+   "time": "2026-07-08 12:05",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"宏源@数字-小红书n8n志愿者\"",
+   "type": "share"
+  },
+  {
+   "id": 37184,
+   "time": "2026-07-08 11:48",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"吴惠林\" [爱心][爱心][爱心]",
+   "type": "share"
+  },
+  {
+   "id": 37183,
+   "time": "2026-07-08 11:48",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"轻如松云\"",
+   "type": "share"
+  },
+  {
+   "id": 37182,
+   "time": "2026-07-08 11:48",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"我心依旧\"",
+   "type": "share"
+  },
+  {
+   "id": 37181,
+   "time": "2026-07-08 11:48",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"Maggie\" 的肩说你又瘦了",
+   "type": "share"
+  },
+  {
+   "id": 37180,
+   "time": "2026-07-08 11:48",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"韵琪\"",
+   "type": "share"
+  },
+  {
+   "id": 37179,
+   "time": "2026-07-08 11:48",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"轻骏如风-全域AI带货\" 智慧的脑袋说就看好你",
+   "type": "share"
+  },
+  {
+   "id": 37178,
+   "time": "2026-07-08 11:48",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"WYR💋\"",
+   "type": "share"
+  },
+  {
+   "id": 37177,
+   "time": "2026-07-08 11:48",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"志愿者—红尘\" 勇敢的人先享受世界",
+   "type": "share"
+  },
+  {
+   "id": 37170,
+   "time": "2026-07-08 11:18",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"志愿者—红尘\" 拍了拍 \"轻骏如风-全域AI带货\" 智慧的脑袋说就看好你",
+   "type": "share"
+  },
+  {
+   "id": 37165,
+   "time": "2026-07-08 10:51",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"志愿者—红尘\" 拍了拍 \"韵琪\"",
+   "type": "share"
+  },
+  {
+   "id": 37164,
+   "time": "2026-07-08 10:51",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"志愿者—红尘\" 拍了拍 \"Maggie\" 的肩说你又瘦了",
+   "type": "share"
+  },
+  {
+   "id": 37163,
+   "time": "2026-07-08 10:51",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"志愿者—红尘\" 拍了拍 \"我心依旧\"",
+   "type": "share"
+  },
+  {
+   "id": 37162,
+   "time": "2026-07-08 10:51",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"志愿者—红尘\" 拍了拍 \"吴惠林\" [爱心][爱心][爱心]",
+   "type": "share"
+  },
+  {
+   "id": 37157,
+   "time": "2026-07-08 10:44",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"志愿者—红尘\" 拍了拍 \"轻如松云\"",
+   "type": "share"
+  },
+  {
+   "id": 37151,
+   "time": "2026-07-08 10:42",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"志愿者—红尘\" 拍了拍 \"时光云廊\"",
+   "type": "share"
+  },
+  {
+   "id": 37149,
+   "time": "2026-07-08 10:41",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"时光云廊\"",
+   "type": "share"
+  },
+  {
+   "id": 37147,
+   "time": "2026-07-08 10:36",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"王芳DOSSEN\"",
+   "type": "share"
+  },
+  {
+   "id": 37146,
+   "time": "2026-07-08 10:36",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"李春明-全域AI带货\"",
+   "type": "share"
+  },
+  {
+   "id": 37145,
+   "time": "2026-07-08 10:36",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"CK\"",
+   "type": "share"
+  },
+  {
+   "id": 37143,
+   "time": "2026-07-08 10:36",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"李春明-全域AI带货\"",
+   "type": "share"
+  },
+  {
+   "id": 37140,
+   "time": "2026-07-08 10:34",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"王芳DOSSEN\"",
+   "type": "share"
+  },
+  {
+   "id": 37137,
+   "time": "2026-07-08 10:33",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"向阳而生\"",
+   "type": "share"
+  },
+  {
+   "id": 37134,
+   "time": "2026-07-08 10:33",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"Daqing-全域AI带货\"",
+   "type": "share"
+  },
+  {
+   "id": 37129,
+   "time": "2026-07-08 10:23",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"李-大胡组\"",
+   "type": "share"
+  },
+  {
+   "id": 37128,
+   "time": "2026-07-08 10:23",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"莉\"",
+   "type": "share"
+  },
+  {
+   "id": 37126,
+   "time": "2026-07-08 10:23",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"X —红尘组\" 的肚肚DuangDuang.",
+   "type": "share"
+  },
+  {
+   "id": 37125,
+   "time": "2026-07-08 10:23",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"Andy\"",
+   "type": "share"
+  },
+  {
+   "id": 37124,
+   "time": "2026-07-08 10:23",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"鸟儿\" ，送你三十天好运[烟花]",
+   "type": "share"
+  },
+  {
+   "id": 37123,
+   "time": "2026-07-08 10:23",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"东哥1- 天朋彬帅\"",
+   "type": "share"
+  },
+  {
+   "id": 37122,
+   "time": "2026-07-08 10:23",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"波子\"",
+   "type": "share"
+  },
+  {
+   "id": 37116,
+   "time": "2026-07-08 10:17",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"鸟儿\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
+   "id": 37113,
+   "time": "2026-07-08 10:14",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"轻言\" 呦，又变优秀了",
+   "type": "share"
+  },
+  {
+   "id": 37108,
+   "time": "2026-07-08 10:13",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"鸟儿\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
+   "id": 37106,
+   "time": "2026-07-08 10:12",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"大胡\"",
+   "type": "share"
+  },
+  {
+   "id": 37105,
+   "time": "2026-07-08 10:12",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"资料官－时光\" 乘风破浪，快乐航海[烟花]",
+   "type": "share"
+  },
+  {
+   "id": 37104,
+   "time": "2026-07-08 10:12",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"志愿者—红尘\" 今日大群破冰",
+   "type": "share"
+  },
+  {
+   "id": 37103,
+   "time": "2026-07-08 10:12",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"楔子-红尘组\"",
+   "type": "share"
+  },
+  {
+   "id": 37102,
+   "time": "2026-07-08 10:12",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"张冬兰～红尘姐\" 聪明的脑袋瓜",
+   "type": "share"
+  },
+  {
+   "id": 37101,
+   "time": "2026-07-08 10:12",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Annia Shaw-领队\" 拍了拍 \"Czh-【边城组】\"",
+   "type": "share"
+  },
+  {
+   "id": 37097,
+   "time": "2026-07-08 10:09",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"A明珠\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
+   "id": 37095,
+   "time": "2026-07-08 10:09",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"鸟儿\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
+   "id": 37093,
+   "time": "2026-07-08 10:08",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"希言 - 风组\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
+   "id": 37086,
+   "time": "2026-07-08 10:06",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"抖音电商－时光\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
+   "id": 37082,
+   "time": "2026-07-08 10:05",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"鸟儿\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
+   "id": 37079,
+   "time": "2026-07-08 10:04",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"Richard蘇-wennnn组\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
+   "id": 37074,
+   "time": "2026-07-08 10:03",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"小迷糊水獭（语汐）-全域AI带货\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
+   "id": 37073,
+   "time": "2026-07-08 10:03",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"抖音电商－时光\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
+   "id": 37072,
+   "time": "2026-07-08 10:03",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"sYang\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  }
+ ],
+ "total": 62,
+ "page": 1,
+ "page_size": 62
+}

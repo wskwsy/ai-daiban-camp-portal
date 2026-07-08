@@ -1,0 +1,79 @@
+{
+ "messages": [
+  {
+   "id": 37244,
+   "time": "2026-07-08 15:18",
+   "date": "2026-07-08",
+   "sender_id": 1,
+   "sender": "",
+   "content": "\"玛丽\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 37242,
+   "time": "2026-07-08 14:57",
+   "date": "2026-07-08",
+   "sender_id": 1,
+   "sender": "",
+   "content": "\"志愿者-亚飞\"邀请\"。。\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 37233,
+   "time": "2026-07-08 14:24",
+   "date": "2026-07-08",
+   "sender_id": 1,
+   "sender": "",
+   "content": "\"子依\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 37217,
+   "time": "2026-07-08 12:20",
+   "date": "2026-07-08",
+   "sender_id": 1,
+   "sender": "",
+   "content": "\"宏源@数字-小红书n8n志愿者\"邀请\"He颖🦋\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 37172,
+   "time": "2026-07-08 11:36",
+   "date": "2026-07-08",
+   "sender_id": 1,
+   "sender": "",
+   "content": "\"aaron_xie\"邀请\"顺意\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 37130,
+   "time": "2026-07-08 10:28",
+   "date": "2026-07-08",
+   "sender_id": 1,
+   "sender": "",
+   "content": "\"Annia Shaw-领队 \"邀请\"可人\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 37092,
+   "time": "2026-07-08 10:08",
+   "date": "2026-07-08",
+   "sender_id": 1,
+   "sender": "",
+   "content": "",
+   "type": "system"
+  },
+  {
+   "id": 37071,
+   "time": "2026-07-08 10:02",
+   "date": "2026-07-08",
+   "sender_id": 1,
+   "sender": "",
+   "content": "\"Annia Shaw-领队 \"修改群名为“【破冰中】全域AI带货4群｜11期”",
+   "type": "system"
+  }
+ ],
+ "total": 8,
+ "page": 1,
+ "page_size": 8
+}
