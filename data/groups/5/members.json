@@ -1,6 +1,22 @@
 {
  "members": [
   {
+   "id": 860,
+   "nickname": "CC",
+   "display_name": "CC",
+   "avatar": null,
+   "intro": null,
+   "message_count": 1
+  },
+  {
+   "id": 859,
+   "nickname": "赞",
+   "display_name": "赞",
+   "avatar": null,
+   "intro": null,
+   "message_count": 1
+  },
+  {
    "id": 858,
    "nickname": "木木-边城组",
    "display_name": "木木-边城组",
