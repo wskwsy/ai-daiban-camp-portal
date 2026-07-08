@@ -839,67 +839,6 @@ code.inline { background: var(--bg-alt); padding: 2px 8px; border-radius: 6px; f
 }
 .hero-group:empty { display: none; }
 
-/* ========== 每日精华页 — 绿色渐变 Hero ========== */
-.daily-hero {
-  background: linear-gradient(135deg, #0d7a5f 0%, #10986f 40%, #14b88a 100%);
-  color: #fff;
-  padding: 80px 28px 64px;
-}
-.daily-hero .eyebrow { color: rgba(255,255,255,.65); }
-.daily-hero .eyebrow .dot { background: rgba(255,255,255,.9); }
-.daily-hero .h-title { color: #fff; font-size: clamp(32px, 5vw, 52px); }
-.daily-hero .h-sub { color: rgba(255,255,255,.8); font-size: 15.5px; max-width: 640px; }
-[data-theme="dark"] .daily-hero {
-  background: linear-gradient(135deg, #064e3b 0%, #065f46 50%, #047857 100%);
-}
-
-/* 日期胶囊（深绿圆角标签） */
-.date-pill {
-  display: inline-flex;
-  flex-direction: column;
-  padding: 14px 24px;
-  border-radius: 16px;
-  background: linear-gradient(135deg, #0d7a5f, #10a37b);
-  color: #fff;
-  gap: 2px;
-  box-shadow: 0 4px 20px rgba(13,122,95,.3);
-}
-.date-pill .date-num { font-size: 22px; font-weight: 700; letter-spacing: .02em; }
-.date-pill .date-phase { font-size: 12px; opacity: .8; }
-
-/* 每日精华 — 统计卡片行 */
-.daily-stats {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 16px;
-  margin: 28px 0 0;
-}
-@media (max-width: 800px) { .daily-stats { grid-template-columns: repeat(2, 1fr); } }
-.daily-stat {
-  background: var(--paper);
-  border: 1px solid var(--line);
-  border-radius: 16px;
-  padding: 22px 18px;
-  transition: transform .25s ease, box-shadow .25s ease;
-}
-.daily-stat:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
-.daily-stat .ds-k { font-size: 12px; color: var(--mute); letter-spacing .05em; margin-bottom: 8px; text-transform: uppercase; }
-.daily-stat .ds-v { font-family: var(--serif); font-size: clamp(28px, 4vw, 40px); font-weight: 700; color: var(--ink); line-height: 1.1; }
-
-/* 今日导读区块 */
-.digest-lead {
-  margin-top: 32px;
-  padding: 24px 26px;
-  border-radius: 16px;
-  background: var(--bg-alt);
-  border-left: 4px solid var(--accent-2, #10b981);
-}
-.digest-lead .dl-title {
-  font-size: 14px; font-weight: 700; color: var(--accent-2, #10b981);
-  margin: 0 0 12px; letter-spacing: .03em;
-}
-.digest-lead .dl-body { font-size: 14.5px; color: var(--ink-2); line-height: 1.9; margin: 0; }
-
 /* container for messages/settings pages */
 .container { max-width: 1240px; margin: 0 auto; padding: 0 28px; }
 .section.plain { padding: 48px 28px 80px; }

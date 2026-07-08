@@ -703,22 +703,21 @@
   function renderDayHeader(summary) {
     const content = summary.content || {};
     const stats = [
-      { k: '总消息数', v: summary.message_count || 0 },
+      { k: '当日消息', v: summary.message_count || 0 },
       { k: '关键要点', v: (content.key_points || []).length },
       { k: '活跃成员', v: (content.active_members || []).length },
       { k: '讨论话题', v: (content.topics || []).length },
     ];
     return ''
-      + '<div class="daily-header-row reveal">'
-      +   '<div class="date-pill">'
-      +     '<span class="date-num">' + P.escapeHtml(summary.date) + '</span>'
-      +     '<span class="date-phase">' + P.escapeHtml(content.title || '群聊精华') + '</span>'
+      + '<div class="day-header reveal">'
+      +   '<div class="day-header-l">'
+      +     '<div class="kicker">DAILY DIGEST · ' + P.escapeHtml(summary.date) + '</div>'
+      +     '<h2>' + P.escapeHtml(content.title || (summary.date + ' 群聊精华')) + '</h2>'
+      +     ((content.topics && content.topics.length) ? '<p>今日主要话题：' + content.topics.map(P.escapeHtml).join(' · ') + '</p>' : '')
+      +     '<div class="stats-grid">'
+      +       stats.map(function (s) { return '<div class="stat"><div class="k">' + s.k + '</div><div class="v">' + s.v + '</div></div>'; }).join('')
+      +     '</div>'
       +   '</div>'
-      + '</div>'
-      + '<div class="daily-stats">'
-      +   stats.map(function (s) {
-        return '<div class="daily-stat"><div class="ds-k">' + s.k + '</div><div class="ds-v">' + s.v + '</div></div>';
-      }).join('')
       + '</div>';
   }
 
@@ -772,17 +771,8 @@
     container.innerHTML = '<div class="loading">正在读取 ' + P.escapeHtml(date) + ' 的精华…</div>';
     try {
       const summary = await P.fetchAPI('/groups/' + currentGroupId + '/summaries/' + encodeURIComponent(date));
-      const content = summary.content || {};
-      const sections = content.sections || [];
+      const sections = (summary.content || {}).sections || [];
       let html = renderDayHeader(summary);
-
-      // 今日导读：取第一条摘要或首条 keyPoint 作为导读
-      const leadText = (content.sections && content.sections[0] && content.sections[0].intro)
-        || (content.key_points && content.key_points.length ? content.key_points.slice(0, 3).join('；') : '')
-        || ('AI 已为当日 ' + (summary.message_count || 0) + ' 条消息生成精华。');
-      if (leadText) {
-        html += '<div class="digest-lead reveal"><div class="dl-title">今日导读</div><p class="dl-body">' + P.escapeHtml(leadText) + '</p></div>';
-      }
 
       // 时间线板块
       if (sections.length === 0) {
