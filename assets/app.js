@@ -192,6 +192,40 @@
     return { groups, activeGroup: active || null, activeGroupId: active ? active.id : null };
   }
 
+  // 解析当前应显示的群：URL ?gid= 优先 > localStorage > activeGroupId
+  function resolveGroupId(activeId) {
+    const up = new URLSearchParams(location.search).get('gid');
+    if (up && /^\d+$/.test(up)) return parseInt(up, 10);
+    const ls = localStorage.getItem('portal_gid');
+    if (ls && /^\d+$/.test(ls)) return parseInt(ls, 10);
+    return activeId;
+  }
+
+  // 顶部群切换下拉
+  function renderGroupSwitcher(mountEl, currentId, groups) {
+    if (!mountEl || !groups || !groups.length) return;
+    mountEl.innerHTML = ''
+      + '<label class="gs-label" title="切换群">'
+      +   '<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>'
+      +   '<select id="groupSelect" class="gs-select">'
+      +     groups.map(function (g) {
+            const st = g.stats || {};
+            const cnt = st.members || g.member_count || 0;
+            return '<option value="' + g.id + '"' + (g.id === currentId ? ' selected' : '') + '>'
+              + escapeHtml(g.name || ('群' + g.id)) + ' · ' + cnt + '人</option>';
+          }).join('')
+      +   '</select>'
+      + '</label>';
+    const sel = mountEl.querySelector('#groupSelect');
+    if (sel) sel.addEventListener('change', function () {
+      const gid = parseInt(sel.value, 10);
+      localStorage.setItem('portal_gid', String(gid));
+      const url = new URL(location.href);
+      url.searchParams.set('gid', String(gid));
+      location.href = url.pathname + url.search;
+    });
+  }
+
   // ============ 主题 ============
   function applyTheme(t) {
     const eff = t === 'system'
@@ -232,7 +266,7 @@
   requestAnimationFrame(initReveal);
 
   // 暴露到全局
-  window.__PORTAL = { fetchAPI, showToast, escapeHtml, formatMessageContent, stripMedia, debounce, firstChar, paletteIdx, initReveal, todayISO, loadGroups, STATIC_MODE };
+  window.__PORTAL = { fetchAPI, showToast, escapeHtml, formatMessageContent, stripMedia, debounce, firstChar, paletteIdx, initReveal, todayISO, loadGroups, resolveGroupId, renderGroupSwitcher, STATIC_MODE };
 })();
 
 // ============================================================
@@ -259,7 +293,9 @@
         return;
       }
 
-      const group = activeGroup;
+      const currentGroupId = P.resolveGroupId(activeGroup.id);
+      const group = groups.find(g => g.id === currentGroupId) || activeGroup;
+      P.renderGroupSwitcher(document.getElementById('groupSwitcher'), currentGroupId, groups);
       const brand = document.getElementById('brandGroupName');
       if (brand) brand.textContent = group.name || 'AI破局门户';
 
@@ -590,7 +626,8 @@
       if (brand && activeGroup) brand.textContent = activeGroup.name || 'AI破局门户';
       const heroGroup = document.getElementById('memberGroupName');
       if (heroGroup && activeGroup) heroGroup.textContent = '📌 ' + (activeGroup.name || '未知群');
-      currentGroupId = activeGroupId;
+      currentGroupId = P.resolveGroupId(activeGroupId);
+      P.renderGroupSwitcher(document.getElementById('groupSwitcher'), currentGroupId, groups);
       await refreshMembers();
 
       document.getElementById('tagChips').addEventListener('click', e => {
@@ -788,9 +825,11 @@
         content.innerHTML = '<div class="empty-state"><div class="icon">🛟</div><h3>暂无群组数据</h3><p>请先采集群消息。</p></div>';
         return;
       }
+      const currentGroupId = P.resolveGroupId(activeGroupId);
+      const group = groups.find(g => g.id === currentGroupId) || activeGroup;
+      P.renderGroupSwitcher(document.getElementById('groupSwitcher'), currentGroupId, groups);
       const brand = document.getElementById('brandGroupName');
-      if (brand && activeGroup) brand.textContent = activeGroup.name || 'AI破局门户';
-      currentGroupId = activeGroupId;
+      if (brand) brand.textContent = group.name || 'AI破局门户';
       const { summaries } = await P.fetchAPI('/groups/' + currentGroupId + '/summaries?limit=60');
       allSummaries = summaries || [];
       if (allSummaries.length === 0) {
@@ -900,9 +939,12 @@
         list.innerHTML = '<div class="empty-state"><div class="icon">🛟</div><h3>暂无群组数据</h3></div>';
         return;
       }
+      const groupId2 = P.resolveGroupId(activeGroupId);
+      const group = groups.find(g => g.id === groupId2) || activeGroup;
+      P.renderGroupSwitcher(document.getElementById('groupSwitcher'), groupId2, groups);
       const brand = document.getElementById('brandGroupName');
-      if (brand && activeGroup) brand.textContent = activeGroup.name || 'AI破局门户';
-      groupId = activeGroupId;
+      if (brand) brand.textContent = group.name || 'AI破局门户';
+      groupId = groupId2;
       const { members } = await P.fetchAPI('/groups/' + groupId + '/members?limit=500');
       const sel = document.getElementById('senderFilter');
       sel.innerHTML = '<option value="">全部成员</option>'
