@@ -120,6 +120,20 @@ html[data-theme="dark"] .bg-noise { opacity: .09; mix-blend-mode: screen; }
   height: .22em; background: color-mix(in oklab, var(--accent-2) 55%, transparent);
   z-index: -1; border-radius: 3px; }
 .h-title em { font-style: normal; color: var(--accent-3); }
+.h-title .hero-main {
+  display: block;
+  font-size: clamp(28px, 4.4vw, 54px);
+  line-height: 1.15; letter-spacing: -.01em;
+}
+.h-title .hero-sub {
+  display: block;
+  font-size: clamp(21px, 2.9vw, 32px);
+  line-height: 1.2; letter-spacing: -.005em;
+  margin-top: 10px;
+  background: linear-gradient(100deg, var(--accent), var(--accent-3));
+  -webkit-background-clip: text; background-clip: text;
+  -webkit-text-fill-color: transparent; color: transparent;
+}
 .h-sub { font-size: clamp(15px, 1.35vw, 18px); color: var(--ink-3); max-width: 720px; margin: 0 0 40px; line-height: 1.75; }
 
 /* --------- Progress card --------- */
