@@ -514,6 +514,15 @@ html[data-theme="dark"] .chip.active { background: var(--accent); border-color: 
 .avatar.p5 { background: linear-gradient(135deg, #DB2777, #F472B6); }
 .avatar.p6 { background: linear-gradient(135deg, #4D7C0F, #A3E635); }
 .avatar.p7 { background: linear-gradient(135deg, #0891B2, #22D3EE); }
+/* modal avatar 调色板（与卡片保持一致） */
+.im-avatar.p0 { background: linear-gradient(135deg, #2563EB, #3B82F6); }
+.im-avatar.p1 { background: linear-gradient(135deg, #059669, #34D399); }
+.im-avatar.p2 { background: linear-gradient(135deg, #D97706, #FBBF24); }
+.im-avatar.p3 { background: linear-gradient(135deg, #7C3AED, #A78BFA); }
+.im-avatar.p4 { background: linear-gradient(135deg, #0284C7, #38BDF8); }
+.im-avatar.p5 { background: linear-gradient(135deg, #DB2777, #F472B6); }
+.im-avatar.p6 { background: linear-gradient(135deg, #4D7C0F, #A3E635); }
+.im-avatar.p7 { background: linear-gradient(135deg, #0891B2, #22D3EE); }
 
 /* empty state */
 .empty {
