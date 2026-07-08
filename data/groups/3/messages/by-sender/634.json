@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 32390,
+   "time": "2026-05-23 11:11",
+   "date": "2026-05-23",
+   "sender_id": 634,
+   "sender": "沐小拾",
+   "content": "已阅读并认可",
+   "type": "text"
+  },
+  {
+   "id": 27036,
+   "time": "2026-04-05 09:31",
+   "date": "2026-04-05",
+   "sender_id": 634,
+   "sender": "沐小拾",
+   "content": "1",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

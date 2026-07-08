@@ -1,0 +1,70 @@
+{
+ "messages": [
+  {
+   "id": 23380,
+   "time": "2026-03-02 22:06",
+   "date": "2026-03-02",
+   "sender_id": 500,
+   "sender": "Annie",
+   "content": "晚安[爱心][月亮]",
+   "type": "text"
+  },
+  {
+   "id": 23134,
+   "time": "2026-03-01 17:14",
+   "date": "2026-03-01",
+   "sender_id": 500,
+   "sender": "Annie",
+   "content": "学习[握手]",
+   "type": "text"
+  },
+  {
+   "id": 23133,
+   "time": "2026-03-01 17:13",
+   "date": "2026-03-01",
+   "sender_id": 500,
+   "sender": "Annie",
+   "content": "[转账|发送 ￥56.00]",
+   "type": "share"
+  },
+  {
+   "id": 22606,
+   "time": "2026-02-27 15:49",
+   "date": "2026-02-27",
+   "sender_id": 500,
+   "sender": "Annie",
+   "content": "我的都是原来注册的，发布过东西的，可以直接用哇",
+   "type": "text"
+  },
+  {
+   "id": 22568,
+   "time": "2026-02-27 15:32",
+   "date": "2026-02-27",
+   "sender_id": 500,
+   "sender": "Annie",
+   "content": "[分享]",
+   "type": "share"
+  },
+  {
+   "id": 7550,
+   "time": "2026-02-27 10:40",
+   "date": "2026-02-27",
+   "sender_id": 500,
+   "sender": "Annie",
+   "content": "我也要紧跟菜菜老师的脚步，争取今年踏实动起来",
+   "type": "text"
+  },
+  {
+   "id": 7546,
+   "time": "2026-02-27 10:37",
+   "date": "2026-02-27",
+   "sender_id": 500,
+   "sender": "Annie",
+   "content": "很实在",
+   "type": "text"
+  }
+ ],
+ "total": 7,
+ "page": 1,
+ "page_size": 7
+}

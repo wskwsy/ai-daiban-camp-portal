@@ -1,0 +1,70 @@
+{
+ "messages": [
+  {
+   "id": 2048,
+   "time": "2026-07-07 10:06",
+   "date": "2026-07-07",
+   "sender_id": 174,
+   "sender": "吴义松-codex行动营领队",
+   "content": "更换志愿者官方需要一些时间，新志愿者到位会及时加的，稍微等等就好",
+   "type": "share"
+  },
+  {
+   "id": 1849,
+   "time": "2026-07-06 17:00",
+   "date": "2026-07-06",
+   "sender_id": 174,
+   "sender": "吴义松-codex行动营领队",
+   "content": "OK，感谢，我让志愿者加一下问问",
+   "type": "share"
+  },
+  {
+   "id": 1838,
+   "time": "2026-07-06 16:54",
+   "date": "2026-07-06",
+   "sender_id": 174,
+   "sender": "吴义松-codex行动营领队",
+   "content": "这个学员大家有的，也帮忙捞一捞[抱拳]",
+   "type": "text"
+  },
+  {
+   "id": 1839,
+   "time": "2026-07-06 16:54",
+   "date": "2026-07-06",
+   "sender_id": 174,
+   "sender": "吴义松-codex行动营领队",
+   "content": "![图片](http://127.0.0.1:5030/image/1dd0f6ffdd977790faa11e571bcf140f,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/002160ed70f3f62c22ffae2561020fa1)",
+   "type": "image"
+  },
+  {
+   "id": 1825,
+   "time": "2026-07-06 16:28",
+   "date": "2026-07-06",
+   "sender_id": 174,
+   "sender": "吴义松-codex行动营领队",
+   "content": "![图片](http://127.0.0.1:5030/image/2d63e6bf725d4cc3f76173780ed2883d,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/405b3d8f050f5a600ae9dd32e4d857a8)",
+   "type": "image"
+  },
+  {
+   "id": 1824,
+   "time": "2026-07-06 16:28",
+   "date": "2026-07-06",
+   "sender_id": 174,
+   "sender": "吴义松-codex行动营领队",
+   "content": "这个学员也请大家帮忙捞一捞[抱拳]",
+   "type": "text"
+  },
+  {
+   "id": 1553,
+   "time": "2026-07-06 09:30",
+   "date": "2026-07-06",
+   "sender_id": 174,
+   "sender": "吴义松-codex行动营领队",
+   "content": "[强][强][强]",
+   "type": "share"
+  }
+ ],
+ "total": 7,
+ "page": 1,
+ "page_size": 7
+}

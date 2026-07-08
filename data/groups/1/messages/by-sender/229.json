@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 2110,
+   "time": "2026-07-07 13:27",
+   "date": "2026-07-07",
+   "sender_id": 229,
+   "sender": "键盘-AI一人公司-熙雾组",
+   "content": "不然不会来这里捞人[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 2109,
+   "time": "2026-07-07 13:26",
+   "date": "2026-07-07",
+   "sender_id": 229,
+   "sender": "键盘-AI一人公司-熙雾组",
+   "content": "已经尝试过了",
+   "type": "text"
+  },
+  {
+   "id": 2107,
+   "time": "2026-07-07 13:24",
+   "date": "2026-07-07",
+   "sender_id": 229,
+   "sender": "键盘-AI一人公司-熙雾组",
+   "content": "![图片](http://127.0.0.1:5030/image/fab02cdae0f1a1abbcf91379502cfb47,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/19b80fef2df5fdeda86041bb94d2d519)",
+   "type": "image"
+  },
+  {
+   "id": 2104,
+   "time": "2026-07-07 13:24",
+   "date": "2026-07-07",
+   "sender_id": 229,
+   "sender": "键盘-AI一人公司-熙雾组",
+   "content": "捞人，大佬们，有这些学员的微信可以帮忙提醒一下",
+   "type": "text"
+  },
+  {
+   "id": 2105,
+   "time": "2026-07-07 13:24",
+   "date": "2026-07-07",
+   "sender_id": 229,
+   "sender": "键盘-AI一人公司-熙雾组",
+   "content": "![图片](http://127.0.0.1:5030/image/8712fa813abcef9c3613b5c6a885116c,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/d23cb0ffe54f5e35949e15f9e9061e7a)",
+   "type": "image"
+  },
+  {
+   "id": 2106,
+   "time": "2026-07-07 13:24",
+   "date": "2026-07-07",
+   "sender_id": 229,
+   "sender": "键盘-AI一人公司-熙雾组",
+   "content": "![图片](http://127.0.0.1:5030/image/76269ac45893a71558937c360be9f5b8,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/22f335b56bfa5706de5ee0cd851c5d3e)",
+   "type": "image"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

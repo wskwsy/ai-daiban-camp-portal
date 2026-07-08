@@ -1,0 +1,178 @@
+{
+ "messages": [
+  {
+   "id": 432,
+   "time": "2026-06-23 12:35",
+   "date": "2026-06-23",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "在和客服处理了",
+   "type": "text"
+  },
+  {
+   "id": 431,
+   "time": "2026-06-23 12:35",
+   "date": "2026-06-23",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "这是后台直接点击生成回放的",
+   "type": "text"
+  },
+  {
+   "id": 430,
+   "time": "2026-06-23 12:33",
+   "date": "2026-06-23",
+   "sender_id": 52,
+   "sender": "白兰度",
+   "content": "![图片](http://127.0.0.1:5030/image/1431c1e1120e4c30b4aaf33c179de3d0,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/17e7ef3861036714dae491bd84eb5dbd)",
+   "type": "image"
+  },
+  {
+   "id": 429,
+   "time": "2026-06-23 12:32",
+   "date": "2026-06-23",
+   "sender_id": 52,
+   "sender": "白兰度",
+   "content": "可能是视频原文件上传的时候被拉长了，要么什么地方误操作了吧",
+   "type": "text"
+  },
+  {
+   "id": 428,
+   "time": "2026-06-23 12:32",
+   "date": "2026-06-23",
+   "sender_id": 52,
+   "sender": "白兰度",
+   "content": "这个回放怎么 18 个小时[恐惧]",
+   "type": "text"
+  },
+  {
+   "id": 427,
+   "time": "2026-06-23 12:31",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "我打不开",
+   "type": "share"
+  },
+  {
+   "id": 426,
+   "time": "2026-06-23 12:31",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "我打不开",
+   "type": "text"
+  },
+  {
+   "id": 425,
+   "time": "2026-06-23 12:31",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "能不能传到破局，到破局打开啊",
+   "type": "text"
+  },
+  {
+   "id": 424,
+   "time": "2026-06-23 12:29",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "好的",
+   "type": "text"
+  },
+  {
+   "id": 423,
+   "time": "2026-06-23 12:28",
+   "date": "2026-06-23",
+   "sender_id": 48,
+   "sender": "拾光-AI PPT-夏蝉组",
+   "content": "@Helen～蝴蝶兰 有点小问题哦，可以看看我上面发的录音总结",
+   "type": "share"
+  },
+  {
+   "id": 421,
+   "time": "2026-06-23 12:27",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "[视频号|11期破局行动选题拆解-第1场](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvyzO0vuc7h9sZX7Xia6mKpo2ib56cU6AU4sWrKibGrHQQUuVwjiafflSZ5rpgKicmoticH0Xs1mh2fXTzOPA&bizid=1023&dotrans=0&hy=SZ&idx=1&m=&uzid=7a260)",
+   "type": "share"
+  },
+  {
+   "id": 422,
+   "time": "2026-06-23 12:27",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "这个回放没声音吗",
+   "type": "text"
+  },
+  {
+   "id": 420,
+   "time": "2026-06-23 12:11",
+   "date": "2026-06-23",
+   "sender_id": 50,
+   "sender": "飞哥",
+   "content": "[加油]",
+   "type": "text"
+  },
+  {
+   "id": 419,
+   "time": "2026-06-23 12:06",
+   "date": "2026-06-23",
+   "sender_id": 48,
+   "sender": "拾光-AI PPT-夏蝉组",
+   "content": "![视频](http://127.0.0.1:5030/video/ee1dd872e15e69ea790f6c34be694739,msg/video/2026-06/2a5c833f6793d3982830fdbe875e8bf3)",
+   "type": "video"
+  },
+  {
+   "id": 418,
+   "time": "2026-06-23 12:06",
+   "date": "2026-06-23",
+   "sender_id": 48,
+   "sender": "拾光-AI PPT-夏蝉组",
+   "content": "听录音也可以[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 417,
+   "time": "2026-06-23 12:05",
+   "date": "2026-06-23",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "昨天的回放生成确实有问题，我们也找视频号客服去处理了",
+   "type": "text"
+  },
+  {
+   "id": 416,
+   "time": "2026-06-23 11:21",
+   "date": "2026-06-23",
+   "sender_id": 49,
+   "sender": "ʚ Lily ིྀ²",
+   "content": "[强][强]",
+   "type": "text"
+  },
+  {
+   "id": 415,
+   "time": "2026-06-23 11:06",
+   "date": "2026-06-23",
+   "sender_id": 38,
+   "sender": "未知成员",
+   "content": "\"安一\" 拍了拍 \"拾光-AI PPT-夏蝉组\"",
+   "type": "share"
+  },
+  {
+   "id": 414,
+   "time": "2026-06-23 10:51",
+   "date": "2026-06-23",
+   "sender_id": 48,
+   "sender": "拾光-AI PPT-夏蝉组",
+   "content": "今天看回放发现拆解效果非常差\n\n我把昨天的行动营录音及原文总结分享给大家\n\n链接：https://pan.quark.cn/s/1dd04d653651",
+   "type": "text"
+  }
+ ],
+ "total": 19,
+ "page": 1,
+ "page_size": 19
+}

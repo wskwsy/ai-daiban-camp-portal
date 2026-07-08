@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 2442,
+   "time": "2026-06-24 00:07",
+   "date": "2026-06-24",
+   "sender_id": 305,
+   "sender": "曦曦aimee",
+   "content": "[转账|发送 ￥89.00]",
+   "type": "share"
+  },
+  {
+   "id": 23071,
+   "time": "2026-03-01 15:22",
+   "date": "2026-03-01",
+   "sender_id": 305,
+   "sender": "曦曦aimee",
+   "content": "[转账|发送 ￥39.90]",
+   "type": "share"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

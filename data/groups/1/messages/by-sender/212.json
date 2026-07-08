@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1995,
+   "time": "2026-07-06 22:14",
+   "date": "2026-07-06",
+   "sender_id": 212,
+   "sender": "ATYPICAL",
+   "content": "加上了，谢谢[玫瑰][玫瑰][玫瑰]",
+   "type": "text"
+  },
+  {
+   "id": 1973,
+   "time": "2026-07-06 21:22",
+   "date": "2026-07-06",
+   "sender_id": 212,
+   "sender": "ATYPICAL",
+   "content": "+1",
+   "type": "share"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

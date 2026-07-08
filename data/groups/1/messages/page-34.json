@@ -1,0 +1,457 @@
+{
+ "messages": [
+  {
+   "id": 470,
+   "time": "2026-06-24 09:56",
+   "date": "2026-06-24",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "还有4分钟",
+   "type": "text"
+  },
+  {
+   "id": 468,
+   "time": "2026-06-24 09:52",
+   "date": "2026-06-24",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "哦",
+   "type": "text"
+  },
+  {
+   "id": 469,
+   "time": "2026-06-24 09:52",
+   "date": "2026-06-24",
+   "sender_id": 56,
+   "sender": "雪花-破局AI小程序-渐渐组",
+   "content": "[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 467,
+   "time": "2026-06-24 09:52",
+   "date": "2026-06-24",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "测试了下",
+   "type": "text"
+  },
+  {
+   "id": 466,
+   "time": "2026-06-24 09:52",
+   "date": "2026-06-24",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "为何已经有1人报名了",
+   "type": "text"
+  },
+  {
+   "id": 465,
+   "time": "2026-06-24 09:52",
+   "date": "2026-06-24",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "10点正式开放报名",
+   "type": "text"
+  },
+  {
+   "id": 464,
+   "time": "2026-06-24 09:52",
+   "date": "2026-06-24",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "![图片](http://127.0.0.1:5030/image/00fff7e0606dca9ad16236105d6997b7,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/c2597e55b93ff35ddb9e6e43dae7d844)",
+   "type": "image"
+  },
+  {
+   "id": 463,
+   "time": "2026-06-24 09:50",
+   "date": "2026-06-24",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "https://aipoju.com/action",
+   "type": "text"
+  },
+  {
+   "id": 462,
+   "time": "2026-06-24 09:49",
+   "date": "2026-06-24",
+   "sender_id": 12,
+   "sender": "风-AI写作出海-海盐蓝组",
+   "content": "没开放应该",
+   "type": "text"
+  },
+  {
+   "id": 461,
+   "time": "2026-06-24 09:49",
+   "date": "2026-06-24",
+   "sender_id": 31,
+   "sender": "Derek-郁言-AI编程出海",
+   "content": "弱弱的问一下哪里可以看到这次的营",
+   "type": "text"
+  },
+  {
+   "id": 460,
+   "time": "2026-06-24 09:48",
+   "date": "2026-06-24",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "这个没有了",
+   "type": "text"
+  },
+  {
+   "id": 459,
+   "time": "2026-06-24 09:48",
+   "date": "2026-06-24",
+   "sender_id": 52,
+   "sender": "白兰度",
+   "content": "第一天的直播回放恢复了吗",
+   "type": "text"
+  },
+  {
+   "id": 458,
+   "time": "2026-06-24 09:48",
+   "date": "2026-06-24",
+   "sender_id": 55,
+   "sender": "L-jiehui",
+   "content": "之前分的AI TikTok是没有了么",
+   "type": "share"
+  },
+  {
+   "id": 457,
+   "time": "2026-06-24 09:48",
+   "date": "2026-06-24",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "10点开始报名",
+   "type": "text"
+  },
+  {
+   "id": 456,
+   "time": "2026-06-24 09:48",
+   "date": "2026-06-24",
+   "sender_id": 12,
+   "sender": "风-AI写作出海-海盐蓝组",
+   "content": "报名开始了吗？",
+   "type": "text"
+  },
+  {
+   "id": 455,
+   "time": "2026-06-24 09:47",
+   "date": "2026-06-24",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "现在只是初步分配，报名结束之后会二次调整，有不懂的问题随时问自己领队",
+   "type": "text"
+  },
+  {
+   "id": 454,
+   "time": "2026-06-24 09:47",
+   "date": "2026-06-24",
+   "sender_id": 53,
+   "sender": "天朋彬帅-TK AI电商-Annia组",
+   "content": "好的好的 谢谢庆哥[抱拳][抱拳][笑脸]",
+   "type": "text"
+  },
+  {
+   "id": 453,
+   "time": "2026-06-24 09:46",
+   "date": "2026-06-24",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "会分到其他营",
+   "type": "text"
+  },
+  {
+   "id": 452,
+   "time": "2026-06-24 09:46",
+   "date": "2026-06-24",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "感觉是AIP营",
+   "type": "text"
+  },
+  {
+   "id": 451,
+   "time": "2026-06-24 09:46",
+   "date": "2026-06-24",
+   "sender_id": 53,
+   "sender": "天朋彬帅-TK AI电商-Annia组",
+   "content": "还有哪个营需要志愿者，我报的那个好像没成营",
+   "type": "text"
+  },
+  {
+   "id": 450,
+   "time": "2026-06-24 09:46",
+   "date": "2026-06-24",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "学员报名结束之后，会根据实际报名情况再进行调整志愿者",
+   "type": "text"
+  },
+  {
+   "id": 449,
+   "time": "2026-06-24 09:46",
+   "date": "2026-06-24",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "不知道在哪里看，",
+   "type": "text"
+  },
+  {
+   "id": 448,
+   "time": "2026-06-24 09:46",
+   "date": "2026-06-24",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "我分的是哪个营？",
+   "type": "text"
+  },
+  {
+   "id": 447,
+   "time": "2026-06-24 09:45",
+   "date": "2026-06-24",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "只有自己是志愿者的营才能学",
+   "type": "text"
+  },
+  {
+   "id": 446,
+   "time": "2026-06-24 09:45",
+   "date": "2026-06-24",
+   "sender_id": 4,
+   "sender": "Lily -公众号漫画-杜汭锜组",
+   "content": "6呀！",
+   "type": "text"
+  },
+  {
+   "id": 445,
+   "time": "2026-06-24 09:45",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "一个就够了。精力时间有限的",
+   "type": "text"
+  },
+  {
+   "id": 444,
+   "time": "2026-06-24 09:45",
+   "date": "2026-06-24",
+   "sender_id": 4,
+   "sender": "Lily -公众号漫画-杜汭锜组",
+   "content": "还能这样？",
+   "type": "share"
+  },
+  {
+   "id": 443,
+   "time": "2026-06-24 09:44",
+   "date": "2026-06-24",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "想学哪个可以先报名，等志愿者二次分配完之后在退出也行",
+   "type": "share"
+  },
+  {
+   "id": 442,
+   "time": "2026-06-24 09:44",
+   "date": "2026-06-24",
+   "sender_id": 4,
+   "sender": "Lily -公众号漫画-杜汭锜组",
+   "content": "随便哪个都能学，是得在结束整个航海以后，等官方放开了权限才能看",
+   "type": "text"
+  },
+  {
+   "id": 441,
+   "time": "2026-06-24 09:44",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "对",
+   "type": "share"
+  },
+  {
+   "id": 440,
+   "time": "2026-06-24 09:44",
+   "date": "2026-06-24",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "跟我想的一样",
+   "type": "text"
+  },
+  {
+   "id": 439,
+   "time": "2026-06-24 09:44",
+   "date": "2026-06-24",
+   "sender_id": 4,
+   "sender": "Lily -公众号漫画-杜汭锜组",
+   "content": "如果有其他的航线想学，还是得报名。只是自己服务的航线不需要报名、",
+   "type": "text"
+  },
+  {
+   "id": 438,
+   "time": "2026-06-24 09:43",
+   "date": "2026-06-24",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "什么意思，志愿者不需要报名，随便哪个都能学？",
+   "type": "text"
+  },
+  {
+   "id": 437,
+   "time": "2026-06-24 09:43",
+   "date": "2026-06-24",
+   "sender_id": 4,
+   "sender": "Lily -公众号漫画-杜汭锜组",
+   "content": "志愿者是直接参与所在的航线",
+   "type": "text"
+  },
+  {
+   "id": 436,
+   "time": "2026-06-24 09:43",
+   "date": "2026-06-24",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"王佩Emmy\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 435,
+   "time": "2026-06-24 09:38",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 434,
+   "time": "2026-06-24 09:38",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "志愿者了。不需要报名",
+   "type": "text"
+  },
+  {
+   "id": 433,
+   "time": "2026-06-24 09:38",
+   "date": "2026-06-24",
+   "sender_id": 53,
+   "sender": "天朋彬帅-TK AI电商-Annia组",
+   "content": "今天是不是可以报名了[笑脸]",
+   "type": "text"
+  },
+  {
+   "id": 432,
+   "time": "2026-06-23 12:35",
+   "date": "2026-06-23",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "在和客服处理了",
+   "type": "text"
+  },
+  {
+   "id": 431,
+   "time": "2026-06-23 12:35",
+   "date": "2026-06-23",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "这是后台直接点击生成回放的",
+   "type": "text"
+  },
+  {
+   "id": 430,
+   "time": "2026-06-23 12:33",
+   "date": "2026-06-23",
+   "sender_id": 52,
+   "sender": "白兰度",
+   "content": "![图片](http://127.0.0.1:5030/image/1431c1e1120e4c30b4aaf33c179de3d0,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/17e7ef3861036714dae491bd84eb5dbd)",
+   "type": "image"
+  },
+  {
+   "id": 429,
+   "time": "2026-06-23 12:32",
+   "date": "2026-06-23",
+   "sender_id": 52,
+   "sender": "白兰度",
+   "content": "可能是视频原文件上传的时候被拉长了，要么什么地方误操作了吧",
+   "type": "text"
+  },
+  {
+   "id": 428,
+   "time": "2026-06-23 12:32",
+   "date": "2026-06-23",
+   "sender_id": 52,
+   "sender": "白兰度",
+   "content": "这个回放怎么 18 个小时[恐惧]",
+   "type": "text"
+  },
+  {
+   "id": 427,
+   "time": "2026-06-23 12:31",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "我打不开",
+   "type": "share"
+  },
+  {
+   "id": 426,
+   "time": "2026-06-23 12:31",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "我打不开",
+   "type": "text"
+  },
+  {
+   "id": 425,
+   "time": "2026-06-23 12:31",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "能不能传到破局，到破局打开啊",
+   "type": "text"
+  },
+  {
+   "id": 424,
+   "time": "2026-06-23 12:29",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "好的",
+   "type": "text"
+  },
+  {
+   "id": 423,
+   "time": "2026-06-23 12:28",
+   "date": "2026-06-23",
+   "sender_id": 48,
+   "sender": "拾光-AI PPT-夏蝉组",
+   "content": "@Helen～蝴蝶兰 有点小问题哦，可以看看我上面发的录音总结",
+   "type": "share"
+  },
+  {
+   "id": 421,
+   "time": "2026-06-23 12:27",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "[视频号|11期破局行动选题拆解-第1场](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvyzO0vuc7h9sZX7Xia6mKpo2ib56cU6AU4sWrKibGrHQQUuVwjiafflSZ5rpgKicmoticH0Xs1mh2fXTzOPA&bizid=1023&dotrans=0&hy=SZ&idx=1&m=&uzid=7a260)",
+   "type": "share"
+  },
+  {
+   "id": 422,
+   "time": "2026-06-23 12:27",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "这个回放没声音吗",
+   "type": "text"
+  }
+ ],
+ "total": 2120,
+ "page": 34,
+ "page_size": 50
+}

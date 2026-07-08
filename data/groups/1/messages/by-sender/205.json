@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1965,
+   "time": "2026-07-06 20:21",
+   "date": "2026-07-06",
+   "sender_id": 205,
+   "sender": "熙雾AI",
+   "content": "长时间不回复可以打电话试试",
+   "type": "text"
+  },
+  {
+   "id": 1939,
+   "time": "2026-07-06 18:50",
+   "date": "2026-07-06",
+   "sender_id": 205,
+   "sender": "熙雾AI",
+   "content": "消息太多，被覆盖了吧",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

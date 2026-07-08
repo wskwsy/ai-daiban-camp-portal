@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 2077,
+   "time": "2026-07-07 10:57",
+   "date": "2026-07-07",
+   "sender_id": 159,
+   "sender": "ㅤRain",
+   "content": "不是加了么",
+   "type": "share"
+  },
+  {
+   "id": 1476,
+   "time": "2026-07-05 20:02",
+   "date": "2026-07-05",
+   "sender_id": 159,
+   "sender": "ㅤRain",
+   "content": "目前在小群，还没被拉大群",
+   "type": "share"
+  },
+  {
+   "id": 1471,
+   "time": "2026-07-05 19:51",
+   "date": "2026-07-05",
+   "sender_id": 159,
+   "sender": "ㅤRain",
+   "content": "储备人才[666]",
+   "type": "text"
+  },
+  {
+   "id": 1462,
+   "time": "2026-07-05 19:41",
+   "date": "2026-07-05",
+   "sender_id": 159,
+   "sender": "ㅤRain",
+   "content": "有志愿者加，拉小群了，你稍微等等",
+   "type": "text"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

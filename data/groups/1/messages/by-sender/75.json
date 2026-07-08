@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 2013,
+   "time": "2026-07-06 22:53",
+   "date": "2026-07-06",
+   "sender_id": 75,
+   "sender": "程程- AI写作出海-天气123组",
+   "content": "捞人，找不着可有添加过这个圈友的",
+   "type": "text"
+  },
+  {
+   "id": 2014,
+   "time": "2026-07-06 22:53",
+   "date": "2026-07-06",
+   "sender_id": 75,
+   "sender": "程程- AI写作出海-天气123组",
+   "content": "![图片](http://127.0.0.1:5030/image/3bb165d250b821ad0a645f0f179223b6,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/b07ea4f1caf8f30e12e07dc3b2652100)",
+   "type": "image"
+  },
+  {
+   "id": 1525,
+   "time": "2026-07-05 23:47",
+   "date": "2026-07-05",
+   "sender_id": 75,
+   "sender": "程程- AI写作出海-天气123组",
+   "content": "手机号发短信",
+   "type": "text"
+  },
+  {
+   "id": 607,
+   "time": "2026-06-24 12:17",
+   "date": "2026-06-24",
+   "sender_id": 75,
+   "sender": "程程- AI写作出海-天气123组",
+   "content": "ppt肯定能变现的，而且不难，不追求高客单，还是很好变现的",
+   "type": "text"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

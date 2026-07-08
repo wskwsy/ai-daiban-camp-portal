@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 29871,
+   "time": "2026-04-30 20:40",
+   "date": "2026-04-30",
+   "sender_id": 531,
+   "sender": "净极光通达",
+   "content": "收到",
+   "type": "text"
+  },
+  {
+   "id": 28234,
+   "time": "2026-04-14 22:57",
+   "date": "2026-04-14",
+   "sender_id": 531,
+   "sender": "净极光通达",
+   "content": "[转账|接收 ￥19.00]",
+   "type": "share"
+  },
+  {
+   "id": 28216,
+   "time": "2026-04-14 17:50",
+   "date": "2026-04-14",
+   "sender_id": 531,
+   "sender": "净极光通达",
+   "content": "![图片](http://127.0.0.1:5030/image/a19567fbf4ccb411cc34c87c0ecc273a,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-04/Img/587dd20455602fd6209948ac78a0530e)",
+   "type": "image"
+  },
+  {
+   "id": 27737,
+   "time": "2026-04-11 11:36",
+   "date": "2026-04-11",
+   "sender_id": 531,
+   "sender": "净极光通达",
+   "content": "我们是相亲相爱一家人",
+   "type": "text"
+  },
+  {
+   "id": 9396,
+   "time": "2026-01-30 00:03",
+   "date": "2026-01-30",
+   "sender_id": 531,
+   "sender": "净极光通达",
+   "content": "一行老师生日快乐[庆祝][庆祝]",
+   "type": "text"
+  },
+  {
+   "id": 9222,
+   "time": "2026-01-29 21:04",
+   "date": "2026-01-29",
+   "sender_id": 531,
+   "sender": "净极光通达",
+   "content": "[爱心]",
+   "type": "text"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

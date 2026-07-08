@@ -1,0 +1,286 @@
+{
+ "messages": [
+  {
+   "id": 285,
+   "time": "2026-06-09 09:46",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "[偷笑]",
+   "type": "text"
+  },
+  {
+   "id": 284,
+   "time": "2026-06-09 09:46",
+   "date": "2026-06-09",
+   "sender_id": 3,
+   "sender": "声而不凡-公众号漫画工作流-鸟儿组",
+   "content": "你们非要把群整封了，才罢休[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 283,
+   "time": "2026-06-09 09:46",
+   "date": "2026-06-09",
+   "sender_id": 34,
+   "sender": "王瑞",
+   "content": "好的",
+   "type": "text"
+  },
+  {
+   "id": 282,
+   "time": "2026-06-09 09:44",
+   "date": "2026-06-09",
+   "sender_id": 36,
+   "sender": "行者LeoSun",
+   "content": "这个IP 就不要讨论了。",
+   "type": "text"
+  },
+  {
+   "id": 281,
+   "time": "2026-06-09 09:44",
+   "date": "2026-06-09",
+   "sender_id": 38,
+   "sender": "未知成员",
+   "content": "\"程莉\" 拍了拍 \"行者LeoSun\"",
+   "type": "share"
+  },
+  {
+   "id": 280,
+   "time": "2026-06-09 09:43",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "静态住宅吗",
+   "type": "text"
+  },
+  {
+   "id": 279,
+   "time": "2026-06-09 09:43",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "[奸笑]",
+   "type": "text"
+  },
+  {
+   "id": 278,
+   "time": "2026-06-09 09:43",
+   "date": "2026-06-09",
+   "sender_id": 36,
+   "sender": "行者LeoSun",
+   "content": "好几年前注册的",
+   "type": "text"
+  },
+  {
+   "id": 277,
+   "time": "2026-06-09 09:42",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "@行者LeoSun 你是不是有关系，我为啥只能免费开两个",
+   "type": "text"
+  },
+  {
+   "id": 276,
+   "time": "2026-06-09 09:41",
+   "date": "2026-06-09",
+   "sender_id": 36,
+   "sender": "行者LeoSun",
+   "content": "2个一起用 够了",
+   "type": "text"
+  },
+  {
+   "id": 275,
+   "time": "2026-06-09 09:41",
+   "date": "2026-06-09",
+   "sender_id": 36,
+   "sender": "行者LeoSun",
+   "content": "免费的3开  再加上比特的10开",
+   "type": "text"
+  },
+  {
+   "id": 274,
+   "time": "2026-06-09 09:41",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "还好啊，可以买终生的10个环境，差不多够了",
+   "type": "text"
+  },
+  {
+   "id": 273,
+   "time": "2026-06-09 09:41",
+   "date": "2026-06-09",
+   "sender_id": 37,
+   "sender": "Annia Shaw-领队",
+   "content": "奈何有点贵",
+   "type": "share"
+  },
+  {
+   "id": 272,
+   "time": "2026-06-09 09:40",
+   "date": "2026-06-09",
+   "sender_id": 12,
+   "sender": "风-AI写作出海-海盐蓝组",
+   "content": "谢谢",
+   "type": "share"
+  },
+  {
+   "id": 271,
+   "time": "2026-06-09 09:40",
+   "date": "2026-06-09",
+   "sender_id": 36,
+   "sender": "行者LeoSun",
+   "content": "比特也不错",
+   "type": "text"
+  },
+  {
+   "id": 270,
+   "time": "2026-06-09 09:40",
+   "date": "2026-06-09",
+   "sender_id": 36,
+   "sender": "行者LeoSun",
+   "content": "ads更好点",
+   "type": "text"
+  },
+  {
+   "id": 269,
+   "time": "2026-06-09 09:40",
+   "date": "2026-06-09",
+   "sender_id": 37,
+   "sender": "Annia Shaw-领队",
+   "content": "我一直用的是ADS",
+   "type": "text"
+  },
+  {
+   "id": 268,
+   "time": "2026-06-09 09:40",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "我用的ads",
+   "type": "text"
+  },
+  {
+   "id": 267,
+   "time": "2026-06-09 09:39",
+   "date": "2026-06-09",
+   "sender_id": 36,
+   "sender": "行者LeoSun",
+   "content": "还有批量帐号",
+   "type": "text"
+  },
+  {
+   "id": 266,
+   "time": "2026-06-09 09:39",
+   "date": "2026-06-09",
+   "sender_id": 37,
+   "sender": "Annia Shaw-领队",
+   "content": "还有这个操作啊，几个人可以拼",
+   "type": "share"
+  },
+  {
+   "id": 265,
+   "time": "2026-06-09 09:39",
+   "date": "2026-06-09",
+   "sender_id": 36,
+   "sender": "行者LeoSun",
+   "content": "出海 用的多",
+   "type": "text"
+  },
+  {
+   "id": 264,
+   "time": "2026-06-09 09:39",
+   "date": "2026-06-09",
+   "sender_id": 36,
+   "sender": "行者LeoSun",
+   "content": "每多开一个 是一个独立的环境，可以设置一个IP。",
+   "type": "text"
+  },
+  {
+   "id": 263,
+   "time": "2026-06-09 09:38",
+   "date": "2026-06-09",
+   "sender_id": 12,
+   "sender": "风-AI写作出海-海盐蓝组",
+   "content": "这个浏览器有什么作用？",
+   "type": "share"
+  },
+  {
+   "id": 262,
+   "time": "2026-06-09 09:37",
+   "date": "2026-06-09",
+   "sender_id": 36,
+   "sender": "行者LeoSun",
+   "content": "@王瑞 续费的没有 。我有拼的。 每个月100开，35的，",
+   "type": "text"
+  },
+  {
+   "id": 261,
+   "time": "2026-06-09 09:19",
+   "date": "2026-06-09",
+   "sender_id": 35,
+   "sender": "老朱（独善其身）",
+   "content": "你在哪个营学到这个概念的去哪个营问问圈友或教练会更快\n我不懂这个 提供一个思路",
+   "type": "text"
+  },
+  {
+   "id": 260,
+   "time": "2026-06-09 09:09",
+   "date": "2026-06-09",
+   "sender_id": 34,
+   "sender": "王瑞",
+   "content": "谁有比特浏览器续费的折扣了",
+   "type": "text"
+  },
+  {
+   "id": 259,
+   "time": "2026-06-09 08:18",
+   "date": "2026-06-09",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "满血即梦太贵了，豆包试试，这类视频。",
+   "type": "text"
+  },
+  {
+   "id": 258,
+   "time": "2026-06-09 08:17",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "这种视频即梦就可以搞定",
+   "type": "text"
+  },
+  {
+   "id": 257,
+   "time": "2026-06-09 08:04",
+   "date": "2026-06-09",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "很明显是多个视频拼接起来的，痕迹很明显",
+   "type": "text"
+  },
+  {
+   "id": 256,
+   "time": "2026-06-09 08:02",
+   "date": "2026-06-09",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "这种视频是怎么制作的流程？有没有群里面的大佬知道的？因为它的时间是59秒，怎么做到了延续的？",
+   "type": "text"
+  },
+  {
+   "id": 255,
+   "time": "2026-06-09 08:01",
+   "date": "2026-06-09",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "![视频](http://127.0.0.1:5030/video/8aa2ecf32a8094fcd0a3471591e42ab0,msg/video/2026-06/0f6971972d04c1d6d612e345db5954fb)",
+   "type": "video"
+  }
+ ],
+ "total": 31,
+ "page": 1,
+ "page_size": 31
+}

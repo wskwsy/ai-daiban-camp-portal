@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 729,
+   "time": "2026-06-24 17:27",
+   "date": "2026-06-24",
+   "sender_id": 7,
+   "sender": "红杉",
+   "content": "看起来小程序市场不错啊",
+   "type": "text"
+  },
+  {
+   "id": 708,
+   "time": "2026-06-24 16:23",
+   "date": "2026-06-24",
+   "sender_id": 7,
+   "sender": "红杉",
+   "content": "我也有这个感觉，不过我单子本来也不多，不确定是不是幻觉",
+   "type": "text"
+  },
+  {
+   "id": 699,
+   "time": "2026-06-24 15:54",
+   "date": "2026-06-24",
+   "sender_id": 7,
+   "sender": "红杉",
+   "content": "近期大家有感觉ppt业务少或者降价吗",
+   "type": "text"
+  },
+  {
+   "id": 133,
+   "time": "2026-06-08 17:36",
+   "date": "2026-06-08",
+   "sender_id": 7,
+   "sender": "红杉",
+   "content": "那不就是智能体吗",
+   "type": "text"
+  },
+  {
+   "id": 130,
+   "time": "2026-06-08 17:36",
+   "date": "2026-06-08",
+   "sender_id": 7,
+   "sender": "红杉",
+   "content": "还是代写又稳定又快",
+   "type": "text"
+  },
+  {
+   "id": 120,
+   "time": "2026-06-08 17:31",
+   "date": "2026-06-08",
+   "sender_id": 7,
+   "sender": "红杉",
+   "content": "看来挺赚钱啊",
+   "type": "text"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

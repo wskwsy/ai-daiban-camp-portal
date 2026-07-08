@@ -1,0 +1,52 @@
+{
+ "messages": [
+  {
+   "id": 4513,
+   "time": "2026-05-01 14:19",
+   "date": "2026-05-01",
+   "sender_id": 438,
+   "sender": "Fifi",
+   "content": "收到了 谢谢菜菜老师[爱心]\n真的是受之有愧",
+   "type": "text"
+  },
+  {
+   "id": 28407,
+   "time": "2026-04-15 22:08",
+   "date": "2026-04-15",
+   "sender_id": 438,
+   "sender": "Fifi",
+   "content": "和一个人在一起最大的意义，就是因为他，而让自己变得很好，更完整。",
+   "type": "text"
+  },
+  {
+   "id": 27964,
+   "time": "2026-04-13 08:05",
+   "date": "2026-04-13",
+   "sender_id": 438,
+   "sender": "Fifi",
+   "content": "[转账|接收 ￥25.00]",
+   "type": "share"
+  },
+  {
+   "id": 27961,
+   "time": "2026-04-13 08:02",
+   "date": "2026-04-13",
+   "sender_id": 438,
+   "sender": "Fifi",
+   "content": "![图片](http://127.0.0.1:5030/image/a828da93908363988b08cca351c0ea25,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-04/Img/8a15eb84ec98225c23ad1444e5f3ac15)",
+   "type": "image"
+  },
+  {
+   "id": 23118,
+   "time": "2026-03-01 16:35",
+   "date": "2026-03-01",
+   "sender_id": 438,
+   "sender": "Fifi",
+   "content": "很开心在3月春暖花开的季节遇见大家！[爱心][爱心]\n\n菜菜老师自带引力，所以我来了！！[嘿哈]",
+   "type": "text"
+  }
+ ],
+ "total": 5,
+ "page": 1,
+ "page_size": 5
+}

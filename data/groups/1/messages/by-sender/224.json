@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 2099,
+   "time": "2026-07-07 12:03",
+   "date": "2026-07-07",
+   "sender_id": 224,
+   "sender": "吉祥君Jay",
+   "content": "这位谁有好友帮忙联系一下",
+   "type": "text"
+  },
+  {
+   "id": 2098,
+   "time": "2026-07-07 12:03",
+   "date": "2026-07-07",
+   "sender_id": 224,
+   "sender": "吉祥君Jay",
+   "content": "![图片](http://127.0.0.1:5030/image/61c6163da73883d9fcda297d969bf109,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/55234ff7f2083c0f1a5e4ceecb2c72cc)",
+   "type": "image"
+  },
+  {
+   "id": 2063,
+   "time": "2026-07-07 10:24",
+   "date": "2026-07-07",
+   "sender_id": 224,
+   "sender": "吉祥君Jay",
+   "content": "捞个人",
+   "type": "text"
+  },
+  {
+   "id": 2062,
+   "time": "2026-07-07 10:23",
+   "date": "2026-07-07",
+   "sender_id": 224,
+   "sender": "吉祥君Jay",
+   "content": "![图片](http://127.0.0.1:5030/image/48cd6c0a3119989373c111a74ba45755,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/f8c04df088e118285e92549b75780ba6)",
+   "type": "image"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

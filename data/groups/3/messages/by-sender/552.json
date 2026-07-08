@@ -1,0 +1,52 @@
+{
+ "messages": [
+  {
+   "id": 22932,
+   "time": "2026-03-01 10:52",
+   "date": "2026-03-01",
+   "sender_id": 552,
+   "sender": "江藜",
+   "content": "[转账|发送 ￥39.90]",
+   "type": "share"
+  },
+  {
+   "id": 22636,
+   "time": "2026-02-27 16:31",
+   "date": "2026-02-27",
+   "sender_id": 552,
+   "sender": "江藜",
+   "content": "[分享]",
+   "type": "share"
+  },
+  {
+   "id": 20814,
+   "time": "2026-02-16 19:51",
+   "date": "2026-02-16",
+   "sender_id": 552,
+   "sender": "江藜",
+   "content": "家人们除夕🥳🧨快乐",
+   "type": "text"
+  },
+  {
+   "id": 10514,
+   "time": "2026-01-21 13:26",
+   "date": "2026-01-21",
+   "sender_id": 552,
+   "sender": "江藜",
+   "content": "[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 10494,
+   "time": "2026-01-21 13:26",
+   "date": "2026-01-21",
+   "sender_id": 552,
+   "sender": "江藜",
+   "content": "![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=d3f7bac8ccc8913d2821e6eb6a8f0bf7&filekey=30350201010421301f02020106040253480410d3f7bac8ccc8913d2821e6eb6a8f0bf7020307342b040d00000004627466730000000132&hy=SH&storeid=2631fe1b80008c2fc000000000000010600004f50534810d67b40b79156a39&bizid=1023)",
+   "type": "sticker"
+  }
+ ],
+ "total": 5,
+ "page": 1,
+ "page_size": 5
+}

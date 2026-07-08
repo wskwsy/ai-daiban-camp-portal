@@ -1,0 +1,106 @@
+{
+ "messages": [
+  {
+   "id": 2069,
+   "time": "2026-07-07 10:27",
+   "date": "2026-07-07",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "捞个人",
+   "type": "text"
+  },
+  {
+   "id": 2070,
+   "time": "2026-07-07 10:27",
+   "date": "2026-07-07",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "![图片](http://127.0.0.1:5030/image/7e570c17eb835544f1b1e421f20ec610,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/cd621ac8e15481e38846ad98e5e16f82)",
+   "type": "image"
+  },
+  {
+   "id": 1969,
+   "time": "2026-07-06 20:26",
+   "date": "2026-07-06",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "好的 谢谢",
+   "type": "text"
+  },
+  {
+   "id": 1622,
+   "time": "2026-07-06 11:20",
+   "date": "2026-07-06",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "@宛月 公众号细分AIP 感谢",
+   "type": "text"
+  },
+  {
+   "id": 1619,
+   "time": "2026-07-06 11:17",
+   "date": "2026-07-06",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "报志愿者了怎么还报了行动营了",
+   "type": "text"
+  },
+  {
+   "id": 1616,
+   "time": "2026-07-06 11:16",
+   "date": "2026-07-06",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "就是他",
+   "type": "text"
+  },
+  {
+   "id": 1611,
+   "time": "2026-07-06 11:08",
+   "date": "2026-07-06",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "捞人 有认识这个人的吗",
+   "type": "text"
+  },
+  {
+   "id": 1612,
+   "time": "2026-07-06 11:08",
+   "date": "2026-07-06",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "![图片](http://127.0.0.1:5030/image/4626e0a6eb74a328309daf230b177656,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/2ecb70f23f64cdbc8744db4629afdf7d)",
+   "type": "image"
+  },
+  {
+   "id": 1598,
+   "time": "2026-07-06 10:40",
+   "date": "2026-07-06",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "![图片](http://127.0.0.1:5030/image/e77fb8d1542ef9d3d51bb289c51903e0,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/d0947ab5fe2f77733b59048e5540ca78)",
+   "type": "image"
+  },
+  {
+   "id": 1596,
+   "time": "2026-07-06 10:40",
+   "date": "2026-07-06",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "捞人 有认识这两个的吗",
+   "type": "text"
+  },
+  {
+   "id": 1597,
+   "time": "2026-07-06 10:40",
+   "date": "2026-07-06",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "![图片](http://127.0.0.1:5030/image/82c0143e8c6845eda72dbdb7a356f4c7,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/f370d6049ace4abac4c9e1b4295f0828)",
+   "type": "image"
+  }
+ ],
+ "total": 11,
+ "page": 1,
+ "page_size": 11
+}

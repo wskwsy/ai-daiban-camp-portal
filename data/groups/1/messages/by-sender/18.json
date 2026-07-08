@@ -1,0 +1,16 @@
+{
+ "messages": [
+  {
+   "id": 170,
+   "time": "2026-06-08 17:52",
+   "date": "2026-06-08",
+   "sender_id": 18,
+   "sender": "KT",
+   "content": "我用的苹果账号登录，没有出现手机号登录情况",
+   "type": "text"
+  }
+ ],
+ "total": 1,
+ "page": 1,
+ "page_size": 1
+}

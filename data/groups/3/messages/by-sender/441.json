@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 4532,
+   "time": "2026-05-01 17:09",
+   "date": "2026-05-01",
+   "sender_id": 441,
+   "sender": "思齐",
+   "content": "收到了 谢谢菜菜老师[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 25635,
+   "time": "2026-03-12 21:32",
+   "date": "2026-03-12",
+   "sender_id": 441,
+   "sender": "思齐",
+   "content": "1",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

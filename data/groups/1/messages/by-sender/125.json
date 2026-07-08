@@ -1,0 +1,97 @@
+{
+ "messages": [
+  {
+   "id": 2015,
+   "time": "2026-07-06 23:54",
+   "date": "2026-07-06",
+   "sender_id": 125,
+   "sender": "横笛",
+   "content": "各位兄弟姐妹们，捞人了，这个学员微信和手机号都没搜索到，星球号：18214\n微信名：xiaoming\n微信 ：ruxming\n电话13312861408",
+   "type": "text"
+  },
+  {
+   "id": 1915,
+   "time": "2026-07-06 18:01",
+   "date": "2026-07-06",
+   "sender_id": 125,
+   "sender": "横笛",
+   "content": "打不通电话",
+   "type": "text"
+  },
+  {
+   "id": 1914,
+   "time": "2026-07-06 18:01",
+   "date": "2026-07-06",
+   "sender_id": 125,
+   "sender": "横笛",
+   "content": "星球号：18214\n微信名：xiaoming\n微信 ：ruxming\n电话13312861408",
+   "type": "text"
+  },
+  {
+   "id": 1913,
+   "time": "2026-07-06 18:00",
+   "date": "2026-07-06",
+   "sender_id": 125,
+   "sender": "横笛",
+   "content": "![图片](http://127.0.0.1:5030/image/1c331d8a1487f9c06436ca9c8bb7aaa8,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/a8081ca798cccbc599fcfa2c73e51870)",
+   "type": "image"
+  },
+  {
+   "id": 1912,
+   "time": "2026-07-06 18:00",
+   "date": "2026-07-06",
+   "sender_id": 125,
+   "sender": "横笛",
+   "content": "，捞人，",
+   "type": "text"
+  },
+  {
+   "id": 1030,
+   "time": "2026-07-04 21:54",
+   "date": "2026-07-04",
+   "sender_id": 125,
+   "sender": "横笛",
+   "content": "我马上问他要",
+   "type": "text"
+  },
+  {
+   "id": 1029,
+   "time": "2026-07-04 21:54",
+   "date": "2026-07-04",
+   "sender_id": 125,
+   "sender": "横笛",
+   "content": "好的",
+   "type": "text"
+  },
+  {
+   "id": 1027,
+   "time": "2026-07-04 21:52",
+   "date": "2026-07-04",
+   "sender_id": 125,
+   "sender": "横笛",
+   "content": "@运营鑫",
+   "type": "text"
+  },
+  {
+   "id": 1025,
+   "time": "2026-07-04 21:52",
+   "date": "2026-07-04",
+   "sender_id": 125,
+   "sender": "横笛",
+   "content": "这位圈友说她是报的AI 带货，现在在我们小程序群里",
+   "type": "text"
+  },
+  {
+   "id": 1026,
+   "time": "2026-07-04 21:52",
+   "date": "2026-07-04",
+   "sender_id": 125,
+   "sender": "横笛",
+   "content": "![图片](http://127.0.0.1:5030/image/2f9e42724fb30af6ecefe61d1c9ca541,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/640c97d71e8ef314c4f62f4293e05da5)",
+   "type": "image"
+  }
+ ],
+ "total": 10,
+ "page": 1,
+ "page_size": 10
+}

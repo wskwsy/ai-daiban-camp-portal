@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1093,
+   "time": "2026-07-05 09:17",
+   "date": "2026-07-05",
+   "sender_id": 33,
+   "sender": "Kirito",
+   "content": "@关二爷 群公告有～",
+   "type": "text"
+  },
+  {
+   "id": 253,
+   "time": "2026-06-08 21:54",
+   "date": "2026-06-08",
+   "sender_id": 33,
+   "sender": "Kirito",
+   "content": "？[破涕为笑]",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

@@ -1,0 +1,115 @@
+{
+ "messages": [
+  {
+   "id": 1662,
+   "time": "2026-07-06 12:25",
+   "date": "2026-07-06",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "好的",
+   "type": "text"
+  },
+  {
+   "id": 1659,
+   "time": "2026-07-06 12:22",
+   "date": "2026-07-06",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "电话不接  微信不回",
+   "type": "text"
+  },
+  {
+   "id": 1657,
+   "time": "2026-07-06 12:21",
+   "date": "2026-07-06",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "这人大家有吗",
+   "type": "text"
+  },
+  {
+   "id": 1656,
+   "time": "2026-07-06 12:21",
+   "date": "2026-07-06",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "![图片](http://127.0.0.1:5030/image/e0cee35f26e4d03fe8dd89e667c6e2a3,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/8ba0732d0601a7f6e92b8c1e689c720a)",
+   "type": "image"
+  },
+  {
+   "id": 846,
+   "time": "2026-07-03 13:00",
+   "date": "2026-07-03",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "要不然分到你的志愿者要急死了。",
+   "type": "text"
+  },
+  {
+   "id": 845,
+   "time": "2026-07-03 13:00",
+   "date": "2026-07-03",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "@罗晓钊-TK AI电商-Annia组  你这个确实挺添麻烦的，最好和官方说一下，然后领队和志愿说一下。",
+   "type": "text"
+  },
+  {
+   "id": 427,
+   "time": "2026-06-23 12:31",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "我打不开",
+   "type": "share"
+  },
+  {
+   "id": 426,
+   "time": "2026-06-23 12:31",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "我打不开",
+   "type": "text"
+  },
+  {
+   "id": 425,
+   "time": "2026-06-23 12:31",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "能不能传到破局，到破局打开啊",
+   "type": "text"
+  },
+  {
+   "id": 424,
+   "time": "2026-06-23 12:29",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "好的",
+   "type": "text"
+  },
+  {
+   "id": 421,
+   "time": "2026-06-23 12:27",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "[视频号|11期破局行动选题拆解-第1场](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvyzO0vuc7h9sZX7Xia6mKpo2ib56cU6AU4sWrKibGrHQQUuVwjiafflSZ5rpgKicmoticH0Xs1mh2fXTzOPA&bizid=1023&dotrans=0&hy=SZ&idx=1&m=&uzid=7a260)",
+   "type": "share"
+  },
+  {
+   "id": 422,
+   "time": "2026-06-23 12:27",
+   "date": "2026-06-23",
+   "sender_id": 51,
+   "sender": "Helen～蝴蝶兰",
+   "content": "这个回放没声音吗",
+   "type": "text"
+  }
+ ],
+ "total": 12,
+ "page": 1,
+ "page_size": 12
+}

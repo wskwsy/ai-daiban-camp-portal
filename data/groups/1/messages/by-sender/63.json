@@ -1,0 +1,79 @@
+{
+ "messages": [
+  {
+   "id": 1632,
+   "time": "2026-07-06 11:25",
+   "date": "2026-07-06",
+   "sender_id": 63,
+   "sender": "小柒",
+   "content": "![图片](http://127.0.0.1:5030/image/13f0d880ea7041418dede217ba539d0f,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/4ad6e52affe1c5034838dfbd3fa3141f)",
+   "type": "image"
+  },
+  {
+   "id": 1631,
+   "time": "2026-07-06 11:25",
+   "date": "2026-07-06",
+   "sender_id": 63,
+   "sender": "小柒",
+   "content": "这个有人加过吗",
+   "type": "text"
+  },
+  {
+   "id": 841,
+   "time": "2026-07-01 22:10",
+   "date": "2026-07-01",
+   "sender_id": 63,
+   "sender": "小柒",
+   "content": "好像不一样的两条赛道的吧",
+   "type": "text"
+  },
+  {
+   "id": 839,
+   "time": "2026-07-01 22:04",
+   "date": "2026-07-01",
+   "sender_id": 63,
+   "sender": "小柒",
+   "content": "报名了这不看你发的信息还不知道[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 714,
+   "time": "2026-06-24 16:29",
+   "date": "2026-06-24",
+   "sender_id": 63,
+   "sender": "小柒",
+   "content": "[破涕为笑][破涕为笑][破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 712,
+   "time": "2026-06-24 16:28",
+   "date": "2026-06-24",
+   "sender_id": 63,
+   "sender": "小柒",
+   "content": "怎么说呢",
+   "type": "text"
+  },
+  {
+   "id": 526,
+   "time": "2026-06-24 10:18",
+   "date": "2026-06-24",
+   "sender_id": 63,
+   "sender": "小柒",
+   "content": "OK",
+   "type": "text"
+  },
+  {
+   "id": 523,
+   "time": "2026-06-24 10:17",
+   "date": "2026-06-24",
+   "sender_id": 63,
+   "sender": "小柒",
+   "content": "有没有地方可以看自己报名的记录呢",
+   "type": "text"
+  }
+ ],
+ "total": 8,
+ "page": 1,
+ "page_size": 8
+}

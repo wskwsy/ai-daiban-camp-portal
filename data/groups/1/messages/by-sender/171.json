@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1545,
+   "time": "2026-07-06 08:14",
+   "date": "2026-07-06",
+   "sender_id": 171,
+   "sender": "贾烟火～Helen组",
+   "content": "找人[抱拳]",
+   "type": "text"
+  },
+  {
+   "id": 1546,
+   "time": "2026-07-06 08:14",
+   "date": "2026-07-06",
+   "sender_id": 171,
+   "sender": "贾烟火～Helen组",
+   "content": "![图片](http://127.0.0.1:5030/image/2a48d07650b2ca32648a470872dfcd1f,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/7c3c82f781a2fdb5809b99367bdfd298)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

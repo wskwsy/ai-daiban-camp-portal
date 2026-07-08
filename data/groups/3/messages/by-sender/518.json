@@ -1,0 +1,403 @@
+{
+ "messages": [
+  {
+   "id": 21062,
+   "time": "2026-02-17 00:38",
+   "date": "2026-02-17",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "飞燕老师辛苦啦[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 21059,
+   "time": "2026-02-17 00:34",
+   "date": "2026-02-17",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "飞燕老师一起转吗",
+   "type": "share"
+  },
+  {
+   "id": 20986,
+   "time": "2026-02-17 00:11",
+   "date": "2026-02-17",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "放炮呢",
+   "type": "text"
+  },
+  {
+   "id": 20981,
+   "time": "2026-02-17 00:11",
+   "date": "2026-02-17",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "没有呢",
+   "type": "text"
+  },
+  {
+   "id": 20969,
+   "time": "2026-02-17 00:08",
+   "date": "2026-02-17",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "![动画表情](http://wxapp.tc.qq.com/275/20304/stodownload?m=9b5d15746c6c145b32842c76dfa36273&filekey=30350201010421301f020201130402534804109b5d15746c6c145b32842c76dfa362730203058f1c040d00000004627466730000000132&hy=SH&storeid=26784bb2f000ac18ab4674ee80000011300004f50534820960b01e6acb95fb&bizid=1023)",
+   "type": "sticker"
+  },
+  {
+   "id": 20924,
+   "time": "2026-02-16 20:17",
+   "date": "2026-02-16",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "谢谢油姐",
+   "type": "text"
+  },
+  {
+   "id": 20887,
+   "time": "2026-02-16 20:14",
+   "date": "2026-02-16",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "牛逼",
+   "type": "text"
+  },
+  {
+   "id": 20881,
+   "time": "2026-02-16 20:10",
+   "date": "2026-02-16",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "[名片]",
+   "type": "card"
+  },
+  {
+   "id": 20875,
+   "time": "2026-02-16 20:10",
+   "date": "2026-02-16",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "京墨",
+   "type": "text"
+  },
+  {
+   "id": 20747,
+   "time": "2026-02-16 19:46",
+   "date": "2026-02-16",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "千厉",
+   "type": "text"
+  },
+  {
+   "id": 20730,
+   "time": "2026-02-16 19:46",
+   "date": "2026-02-16",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "婉婉",
+   "type": "text"
+  },
+  {
+   "id": 20729,
+   "time": "2026-02-16 19:45",
+   "date": "2026-02-16",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "阿琦",
+   "type": "text"
+  },
+  {
+   "id": 20716,
+   "time": "2026-02-16 19:44",
+   "date": "2026-02-16",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "kt",
+   "type": "text"
+  },
+  {
+   "id": 20680,
+   "time": "2026-02-16 19:41",
+   "date": "2026-02-16",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "吉吉",
+   "type": "text"
+  },
+  {
+   "id": 20625,
+   "time": "2026-02-16 19:32",
+   "date": "2026-02-16",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "油姐除夕快乐",
+   "type": "text"
+  },
+  {
+   "id": 20183,
+   "time": "2026-02-09 21:11",
+   "date": "2026-02-09",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "恭喜恭喜[庆祝][庆祝][庆祝]\n能赚多少啊好厉害",
+   "type": "text"
+  },
+  {
+   "id": 20133,
+   "time": "2026-02-09 20:21",
+   "date": "2026-02-09",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "太强了",
+   "type": "share"
+  },
+  {
+   "id": 19864,
+   "time": "2026-02-09 15:07",
+   "date": "2026-02-09",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "看着好香",
+   "type": "text"
+  },
+  {
+   "id": 19738,
+   "time": "2026-02-09 12:05",
+   "date": "2026-02-09",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "已认真阅读，确认参与项目",
+   "type": "text"
+  },
+  {
+   "id": 19417,
+   "time": "2026-02-08 16:09",
+   "date": "2026-02-08",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "多少钱来着",
+   "type": "text"
+  },
+  {
+   "id": 9031,
+   "time": "2026-02-06 22:56",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "去的敦煌莫高窟吗",
+   "type": "text"
+  },
+  {
+   "id": 9027,
+   "time": "2026-02-06 22:55",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "没看你发朋友圈啊",
+   "type": "text"
+  },
+  {
+   "id": 9026,
+   "time": "2026-02-06 22:55",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "[尴尬][尴尬]",
+   "type": "text"
+  },
+  {
+   "id": 9021,
+   "time": "2026-02-06 22:53",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "啥时候去敦煌",
+   "type": "text"
+  },
+  {
+   "id": 9020,
+   "time": "2026-02-06 22:53",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "写作进行的怎么样了",
+   "type": "text"
+  },
+  {
+   "id": 9005,
+   "time": "2026-02-06 22:51",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "好厉害",
+   "type": "text"
+  },
+  {
+   "id": 9004,
+   "time": "2026-02-06 22:50",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "油姐精力真旺盛啊，弄了这么多项目",
+   "type": "text"
+  },
+  {
+   "id": 8951,
+   "time": "2026-02-06 22:34",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "我得满足吗",
+   "type": "text"
+  },
+  {
+   "id": 8950,
+   "time": "2026-02-06 22:34",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "![图片](http://127.0.0.1:5030/image/2c19eff80b55aebc7acb9ceb3f7c2c6c,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/e353cb964e96cba50a670f649950130a)",
+   "type": "image"
+  },
+  {
+   "id": 8731,
+   "time": "2026-02-05 21:54",
+   "date": "2026-02-05",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "已进群",
+   "type": "text"
+  },
+  {
+   "id": 9439,
+   "time": "2026-01-30 09:27",
+   "date": "2026-01-30",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "[苦涩]",
+   "type": "share"
+  },
+  {
+   "id": 9265,
+   "time": "2026-01-29 21:21",
+   "date": "2026-01-29",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 17755,
+   "time": "2026-01-28 21:50",
+   "date": "2026-01-28",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "令狐冲",
+   "type": "text"
+  },
+  {
+   "id": 17754,
+   "time": "2026-01-28 21:50",
+   "date": "2026-01-28",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "哲睿",
+   "type": "text"
+  },
+  {
+   "id": 17748,
+   "time": "2026-01-28 21:50",
+   "date": "2026-01-28",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "猜男的啊",
+   "type": "text"
+  },
+  {
+   "id": 17739,
+   "time": "2026-01-28 21:50",
+   "date": "2026-01-28",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "吉吉老师",
+   "type": "text"
+  },
+  {
+   "id": 17737,
+   "time": "2026-01-28 21:50",
+   "date": "2026-01-28",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "棉花糖",
+   "type": "text"
+  },
+  {
+   "id": 17023,
+   "time": "2026-01-27 20:02",
+   "date": "2026-01-27",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "399吗",
+   "type": "text"
+  },
+  {
+   "id": 17021,
+   "time": "2026-01-27 20:02",
+   "date": "2026-01-27",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "退货率高吗",
+   "type": "text"
+  },
+  {
+   "id": 17018,
+   "time": "2026-01-27 20:00",
+   "date": "2026-01-27",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "卖衣服吗",
+   "type": "text"
+  },
+  {
+   "id": 17017,
+   "time": "2026-01-27 20:00",
+   "date": "2026-01-27",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "这个佣金比例是多少啊",
+   "type": "text"
+  },
+  {
+   "id": 17015,
+   "time": "2026-01-27 20:00",
+   "date": "2026-01-27",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "![图片](http://127.0.0.1:5030/image/512adf03f25414fde6b33845277789d9,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-01/Img/c00be7a67f7fefb93b6fe8003dcfbc25)",
+   "type": "image"
+  },
+  {
+   "id": 10531,
+   "time": "2026-01-21 13:27",
+   "date": "2026-01-21",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "牛逼",
+   "type": "text"
+  },
+  {
+   "id": 12553,
+   "time": "2026-01-07 23:33",
+   "date": "2026-01-07",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "哪儿个平台",
+   "type": "text"
+  }
+ ],
+ "total": 44,
+ "page": 1,
+ "page_size": 44
+}

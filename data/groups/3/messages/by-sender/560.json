@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 27973,
+   "time": "2026-04-13 08:52",
+   "date": "2026-04-13",
+   "sender_id": 560,
+   "sender": "西西",
+   "content": "[吐]",
+   "type": "text"
+  },
+  {
+   "id": 27937,
+   "time": "2026-04-12 22:22",
+   "date": "2026-04-12",
+   "sender_id": 560,
+   "sender": "西西",
+   "content": "[转账|接收 ￥19.00]",
+   "type": "share"
+  },
+  {
+   "id": 27901,
+   "time": "2026-04-12 20:32",
+   "date": "2026-04-12",
+   "sender_id": 560,
+   "sender": "西西",
+   "content": "![图片](http://127.0.0.1:5030/image/7cb6c4583fbb7568e9a645d21634e4e3,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-04/Img/31d459a2d2b46f6d9be686d657587452)",
+   "type": "image"
+  },
+  {
+   "id": 23364,
+   "time": "2026-03-02 18:40",
+   "date": "2026-03-02",
+   "sender_id": 560,
+   "sender": "西西",
+   "content": "[转账|发送 ￥39.90]",
+   "type": "share"
+  },
+  {
+   "id": 22789,
+   "time": "2026-02-28 19:56",
+   "date": "2026-02-28",
+   "sender_id": 560,
+   "sender": "西西",
+   "content": "[分享]",
+   "type": "share"
+  },
+  {
+   "id": 11235,
+   "time": "2026-01-02 17:42",
+   "date": "2026-01-02",
+   "sender_id": 560,
+   "sender": "西西",
+   "content": "[爱心]",
+   "type": "text"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

@@ -1,0 +1,232 @@
+{
+ "messages": [
+  {
+   "id": 2043,
+   "time": "2026-07-07 09:59",
+   "date": "2026-07-07",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "找人",
+   "type": "text"
+  },
+  {
+   "id": 2042,
+   "time": "2026-07-07 09:59",
+   "date": "2026-07-07",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "![图片](http://127.0.0.1:5030/image/644671dfda67a89eae46ff0b9994d5fe,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/9f9a37a030a0deb302616cfe415a537e)",
+   "type": "image"
+  },
+  {
+   "id": 1932,
+   "time": "2026-07-06 18:42",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "不好意思哈，这个我没有，只有领队自己可以登录志愿者系统才可以查看有哪些志愿者哦，和你们登录才能查看学员是一样的",
+   "type": "share"
+  },
+  {
+   "id": 1922,
+   "time": "2026-07-06 18:20",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "客气了",
+   "type": "text"
+  },
+  {
+   "id": 1920,
+   "time": "2026-07-06 18:19",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "稍等等哈，我已经在领队群艾特了小红书的领队了，本期有4位领队，不确定你的领队是谁[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 1918,
+   "time": "2026-07-06 18:15",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "你说的是AI小红书虚拟产品？ @Y",
+   "type": "share"
+  },
+  {
+   "id": 1866,
+   "time": "2026-07-06 17:17",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "2个群都艾特了",
+   "type": "text"
+  },
+  {
+   "id": 1865,
+   "time": "2026-07-06 17:17",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "![图片](http://127.0.0.1:5030/image/3c073dc31e3c9d26547797f0eab5709f,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/6051ff01754f59c4e73d070e4b149405)",
+   "type": "image"
+  },
+  {
+   "id": 1863,
+   "time": "2026-07-06 17:16",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "他关闭了群添加[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 1861,
+   "time": "2026-07-06 17:13",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "客气了",
+   "type": "text"
+  },
+  {
+   "id": 1859,
+   "time": "2026-07-06 17:13",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "![图片](http://127.0.0.1:5030/image/99384151d876adb2782a648952f3cdbb,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/4f839dd7e4c8de31bdcc5e8facf5c561)",
+   "type": "image"
+  },
+  {
+   "id": 1858,
+   "time": "2026-07-06 17:13",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "帮你问了，不确定他是否通过微信申请",
+   "type": "text"
+  },
+  {
+   "id": 1857,
+   "time": "2026-07-06 17:09",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "@小万-AI一人公司-熙雾组",
+   "type": "text"
+  },
+  {
+   "id": 1856,
+   "time": "2026-07-06 17:09",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "看到了共同群聊 不确定是不是",
+   "type": "text"
+  },
+  {
+   "id": 1855,
+   "time": "2026-07-06 17:09",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "![图片](http://127.0.0.1:5030/image/7df551065aa94c27e58c1d0993d4dba8,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/62b7168cf904ada906b701b23ebc0b04)",
+   "type": "image"
+  },
+  {
+   "id": 1661,
+   "time": "2026-07-06 12:24",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "这两天先尝试联系 ，明天再联系不上就系统登记吧，后续竹子会出手[坏笑] @Helen～蝴蝶兰",
+   "type": "text"
+  },
+  {
+   "id": 1239,
+   "time": "2026-07-05 11:31",
+   "date": "2026-07-05",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "真的关注的，有心人自己会添加志愿者的[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 1236,
+   "time": "2026-07-05 11:31",
+   "date": "2026-07-05",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "现在比之前好多了，报名的课程可以看到志愿者的信息了",
+   "type": "share"
+  },
+  {
+   "id": 1233,
+   "time": "2026-07-05 11:30",
+   "date": "2026-07-05",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "还有时间呢，明后两天再试试，如果实在联系不上的可以在系统里登记，后面竹子助理会处理[坏笑]",
+   "type": "text"
+  },
+  {
+   "id": 1180,
+   "time": "2026-07-05 10:32",
+   "date": "2026-07-05",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "建议添加学员的时候分2-3个时间段添加，可能存在部分账号一次性添加受限",
+   "type": "text"
+  },
+  {
+   "id": 1036,
+   "time": "2026-07-04 22:53",
+   "date": "2026-07-04",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=2390ca5dd0998477b30696ac76cbd3da&filekey=30350201010421301f020201060402534804102390ca5dd0998477b30696ac76cbd3da0203021b83040d00000004627466730000000132&hy=SH&storeid=26307a4db000bc6b5000000000000010600004f50534818865b40b6a882dc2&bizid=1023)",
+   "type": "sticker"
+  },
+  {
+   "id": 1009,
+   "time": "2026-07-04 20:38",
+   "date": "2026-07-04",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "PPT的志愿者晚点哈，我人在外面，晚点到家添加各位[合十]",
+   "type": "text"
+  },
+  {
+   "id": 973,
+   "time": "2026-07-04 20:18",
+   "date": "2026-07-04",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "还可以星球发私信",
+   "type": "text"
+  },
+  {
+   "id": 932,
+   "time": "2026-07-04 19:37",
+   "date": "2026-07-04",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "不用急，可能领队有事情，稍微等下就好[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 409,
+   "time": "2026-06-22 20:01",
+   "date": "2026-06-22",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "[视频号直播|11期破局行动选题拆解-第1场]",
+   "type": "share"
+  }
+ ],
+ "total": 25,
+ "page": 1,
+ "page_size": 25
+}

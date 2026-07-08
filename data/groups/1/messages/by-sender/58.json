@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 2031,
+   "time": "2026-07-07 09:10",
+   "date": "2026-07-07",
+   "sender_id": 58,
+   "sender": "小红书虚拟XiXi",
+   "content": "打微信语音较有效果",
+   "type": "text"
+  },
+  {
+   "id": 1555,
+   "time": "2026-07-06 09:36",
+   "date": "2026-07-06",
+   "sender_id": 58,
+   "sender": "小红书虚拟XiXi",
+   "content": "@大胡 有不看微信的给他打电话[微笑]",
+   "type": "text"
+  },
+  {
+   "id": 1551,
+   "time": "2026-07-06 09:27",
+   "date": "2026-07-06",
+   "sender_id": 58,
+   "sender": "小红书虚拟XiXi",
+   "content": "我负责33人小红书虚拟产品，全部加微，都已进大小群，第一步工作顺利完成[微笑]",
+   "type": "text"
+  },
+  {
+   "id": 894,
+   "time": "2026-07-04 17:25",
+   "date": "2026-07-04",
+   "sender_id": 58,
+   "sender": "小红书虚拟XiXi",
+   "content": "没开了",
+   "type": "text"
+  },
+  {
+   "id": 489,
+   "time": "2026-06-24 10:04",
+   "date": "2026-06-24",
+   "sender_id": 58,
+   "sender": "小红书虚拟XiXi",
+   "content": "@凤歌-AI 教育微课-helen 组 谢谢",
+   "type": "text"
+  },
+  {
+   "id": 483,
+   "time": "2026-06-24 10:03",
+   "date": "2026-06-24",
+   "sender_id": 58,
+   "sender": "小红书虚拟XiXi",
+   "content": "报名链接发一下，我没找到",
+   "type": "text"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

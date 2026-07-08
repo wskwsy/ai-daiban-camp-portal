@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 25967,
+   "time": "2026-03-14 00:37",
+   "date": "2026-03-14",
+   "sender_id": 631,
+   "sender": "季节",
+   "content": "另外付费是嘛",
+   "type": "text"
+  },
+  {
+   "id": 25966,
+   "time": "2026-03-14 00:37",
+   "date": "2026-03-14",
+   "sender_id": 631,
+   "sender": "季节",
+   "content": "好",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

@@ -1,0 +1,952 @@
+{
+ "messages": [
+  {
+   "id": 2120,
+   "time": "2026-07-07 13:52",
+   "date": "2026-07-07",
+   "sender_id": 140,
+   "sender": "海盐蓝",
+   "content": "@风-全域 AI 带货-Annia组 嗯嗯，加上就行",
+   "type": "text"
+  },
+  {
+   "id": 2119,
+   "time": "2026-07-07 13:52",
+   "date": "2026-07-07",
+   "sender_id": 72,
+   "sender": "风-全域 AI 带货-Annia组",
+   "content": "@海盐蓝 通过了，她加了我，这加她名片还加不上",
+   "type": "text"
+  },
+  {
+   "id": 2118,
+   "time": "2026-07-07 13:49",
+   "date": "2026-07-07",
+   "sender_id": 231,
+   "sender": "✨红红✨-咸鱼补单8.21",
+   "content": "手机发短信，或者在知识星球上私信对方留言试试@小万-AI一人公司-熙雾组 ",
+   "type": "share"
+  },
+  {
+   "id": 2117,
+   "time": "2026-07-07 13:49",
+   "date": "2026-07-07",
+   "sender_id": 140,
+   "sender": "海盐蓝",
+   "content": "@风-全域 AI 带货-Annia组 名片发你了",
+   "type": "share"
+  },
+  {
+   "id": 2116,
+   "time": "2026-07-07 13:46",
+   "date": "2026-07-07",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "手机、微信都查无此人",
+   "type": "text"
+  },
+  {
+   "id": 2115,
+   "time": "2026-07-07 13:46",
+   "date": "2026-07-07",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "我打了三次，都没人接",
+   "type": "text"
+  },
+  {
+   "id": 2114,
+   "time": "2026-07-07 13:46",
+   "date": "2026-07-07",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "![图片](http://127.0.0.1:5030/image/aab3b8fc701a9a8dd5d51d016998ad03,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/18480b8dd449caeee7c5e99137777aed)",
+   "type": "image"
+  },
+  {
+   "id": 2113,
+   "time": "2026-07-07 13:43",
+   "date": "2026-07-07",
+   "sender_id": 72,
+   "sender": "风-全域 AI 带货-Annia组",
+   "content": "捞人，能搜到，但是一直不通过，哪位兄弟姐妹有他好友不",
+   "type": "text"
+  },
+  {
+   "id": 2112,
+   "time": "2026-07-07 13:43",
+   "date": "2026-07-07",
+   "sender_id": 72,
+   "sender": "风-全域 AI 带货-Annia组",
+   "content": "![图片](http://127.0.0.1:5030/image/75e187681991a49acd23dd7837af2a3e,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/816e602a31a5aecfb3ccf19003d50113)",
+   "type": "image"
+  },
+  {
+   "id": 2111,
+   "time": "2026-07-07 13:27",
+   "date": "2026-07-07",
+   "sender_id": 230,
+   "sender": "魏一佳",
+   "content": "一般要打三次 才可能接",
+   "type": "text"
+  },
+  {
+   "id": 2110,
+   "time": "2026-07-07 13:27",
+   "date": "2026-07-07",
+   "sender_id": 229,
+   "sender": "键盘-AI一人公司-熙雾组",
+   "content": "不然不会来这里捞人[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 2109,
+   "time": "2026-07-07 13:26",
+   "date": "2026-07-07",
+   "sender_id": 229,
+   "sender": "键盘-AI一人公司-熙雾组",
+   "content": "已经尝试过了",
+   "type": "text"
+  },
+  {
+   "id": 2108,
+   "time": "2026-07-07 13:25",
+   "date": "2026-07-07",
+   "sender_id": 230,
+   "sender": "魏一佳",
+   "content": "直接电话",
+   "type": "text"
+  },
+  {
+   "id": 2107,
+   "time": "2026-07-07 13:24",
+   "date": "2026-07-07",
+   "sender_id": 229,
+   "sender": "键盘-AI一人公司-熙雾组",
+   "content": "![图片](http://127.0.0.1:5030/image/fab02cdae0f1a1abbcf91379502cfb47,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/19b80fef2df5fdeda86041bb94d2d519)",
+   "type": "image"
+  },
+  {
+   "id": 2104,
+   "time": "2026-07-07 13:24",
+   "date": "2026-07-07",
+   "sender_id": 229,
+   "sender": "键盘-AI一人公司-熙雾组",
+   "content": "捞人，大佬们，有这些学员的微信可以帮忙提醒一下",
+   "type": "text"
+  },
+  {
+   "id": 2105,
+   "time": "2026-07-07 13:24",
+   "date": "2026-07-07",
+   "sender_id": 229,
+   "sender": "键盘-AI一人公司-熙雾组",
+   "content": "![图片](http://127.0.0.1:5030/image/8712fa813abcef9c3613b5c6a885116c,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/d23cb0ffe54f5e35949e15f9e9061e7a)",
+   "type": "image"
+  },
+  {
+   "id": 2106,
+   "time": "2026-07-07 13:24",
+   "date": "2026-07-07",
+   "sender_id": 229,
+   "sender": "键盘-AI一人公司-熙雾组",
+   "content": "![图片](http://127.0.0.1:5030/image/76269ac45893a71558937c360be9f5b8,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/22f335b56bfa5706de5ee0cd851c5d3e)",
+   "type": "image"
+  },
+  {
+   "id": 2103,
+   "time": "2026-07-07 12:35",
+   "date": "2026-07-07",
+   "sender_id": 227,
+   "sender": "星瑜-AI设计-渔子清组",
+   "content": "好的 谢谢 情况我和学员说了，这几天都是在正常添加中，让他耐心等待下开营前都会对接到位的[玫瑰]",
+   "type": "text"
+  },
+  {
+   "id": 2102,
+   "time": "2026-07-07 12:12",
+   "date": "2026-07-07",
+   "sender_id": 228,
+   "sender": "AI内容工厂—相由心生",
+   "content": "让他点进去他报的行动营的页面里不是就能看到他的志愿者是谁了吗？",
+   "type": "text"
+  },
+  {
+   "id": 2101,
+   "time": "2026-07-07 12:11",
+   "date": "2026-07-07",
+   "sender_id": 227,
+   "sender": "星瑜-AI设计-渔子清组",
+   "content": "35886这个学员表示没有codex的志愿者联系他，辛苦对接下[抱拳]",
+   "type": "text"
+  },
+  {
+   "id": 2100,
+   "time": "2026-07-07 12:10",
+   "date": "2026-07-07",
+   "sender_id": 227,
+   "sender": "星瑜-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/2164ce5412aa8151aec29b922301b1f0,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/27bc06d51029371552a047e4aa2414d3)",
+   "type": "image"
+  },
+  {
+   "id": 2099,
+   "time": "2026-07-07 12:03",
+   "date": "2026-07-07",
+   "sender_id": 224,
+   "sender": "吉祥君Jay",
+   "content": "这位谁有好友帮忙联系一下",
+   "type": "text"
+  },
+  {
+   "id": 2098,
+   "time": "2026-07-07 12:03",
+   "date": "2026-07-07",
+   "sender_id": 224,
+   "sender": "吉祥君Jay",
+   "content": "![图片](http://127.0.0.1:5030/image/61c6163da73883d9fcda297d969bf109,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/55234ff7f2083c0f1a5e4ceecb2c72cc)",
+   "type": "image"
+  },
+  {
+   "id": 2097,
+   "time": "2026-07-07 11:53",
+   "date": "2026-07-07",
+   "sender_id": 38,
+   "sender": "未知成员",
+   "content": "\"海盐蓝\" 拍了拍 \"元元\" 心安即故乡",
+   "type": "share"
+  },
+  {
+   "id": 2096,
+   "time": "2026-07-07 11:52",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "就剩这个啦[抱拳]",
+   "type": "share"
+  },
+  {
+   "id": 2095,
+   "time": "2026-07-07 11:52",
+   "date": "2026-07-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"元元\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 2094,
+   "time": "2026-07-07 11:52",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "@海盐蓝 谢谢[强]",
+   "type": "text"
+  },
+  {
+   "id": 2093,
+   "time": "2026-07-07 11:47",
+   "date": "2026-07-07",
+   "sender_id": 140,
+   "sender": "海盐蓝",
+   "content": "@元元 这里@海燕777 ",
+   "type": "share"
+  },
+  {
+   "id": 2092,
+   "time": "2026-07-07 11:38",
+   "date": "2026-07-07",
+   "sender_id": 190,
+   "sender": "拾琪",
+   "content": "这三位谁有好友帮忙联系一下",
+   "type": "text"
+  },
+  {
+   "id": 2091,
+   "time": "2026-07-07 11:38",
+   "date": "2026-07-07",
+   "sender_id": 190,
+   "sender": "拾琪",
+   "content": "![图片](http://127.0.0.1:5030/image/bec88d28d28f9c157316c286360c4e45,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/8de4d033d337c106eeb66b6e5ae356aa)",
+   "type": "image"
+  },
+  {
+   "id": 2090,
+   "time": "2026-07-07 11:38",
+   "date": "2026-07-07",
+   "sender_id": 190,
+   "sender": "拾琪",
+   "content": "![图片](http://127.0.0.1:5030/image/a32e0f04653c29abf71cf94f92d37d5e,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/6d8721ddc862de0f99df20e7c8e67c23)",
+   "type": "image"
+  },
+  {
+   "id": 2089,
+   "time": "2026-07-07 11:38",
+   "date": "2026-07-07",
+   "sender_id": 190,
+   "sender": "拾琪",
+   "content": "![图片](http://127.0.0.1:5030/image/08c244d7200242e7be651cc32db0e290,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/6db9ad1bd4a81ffcea37399058c46a6e)",
+   "type": "image"
+  },
+  {
+   "id": 2088,
+   "time": "2026-07-07 11:38",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "![图片](http://127.0.0.1:5030/image/dddda1caf4aaaafde2be08c2f7f256e1,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/aa675944a15da8c1c3aca12b575bddc1)",
+   "type": "image"
+  },
+  {
+   "id": 2087,
+   "time": "2026-07-07 11:37",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "![图片](http://127.0.0.1:5030/image/3151b3976d691e4bdb3582c20b15f8de,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/9598f5fd3182f547497387867a67df19)",
+   "type": "image"
+  },
+  {
+   "id": 2086,
+   "time": "2026-07-07 11:37",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "这两位谁有好友帮忙联系一下",
+   "type": "text"
+  },
+  {
+   "id": 2085,
+   "time": "2026-07-07 11:35",
+   "date": "2026-07-07",
+   "sender_id": 98,
+   "sender": "玉佩-AI PPT 实战-译晨组",
+   "content": "我和他说一声",
+   "type": "text"
+  },
+  {
+   "id": 2084,
+   "time": "2026-07-07 11:34",
+   "date": "2026-07-07",
+   "sender_id": 145,
+   "sender": "a！舞歌-浮生若梦组",
+   "content": "@玉佩-AI PPT 实战-译晨组 我添加了，他没有同意",
+   "type": "text"
+  },
+  {
+   "id": 2083,
+   "time": "2026-07-07 11:33",
+   "date": "2026-07-07",
+   "sender_id": 38,
+   "sender": "未知成员",
+   "content": "\"a！舞歌-浮生若梦组\" 拍了拍 \"玉佩-AI PPT 实战-译晨组\" ，开心笑一笑",
+   "type": "share"
+  },
+  {
+   "id": 2082,
+   "time": "2026-07-07 11:33",
+   "date": "2026-07-07",
+   "sender_id": 98,
+   "sender": "玉佩-AI PPT 实战-译晨组",
+   "content": "@a！舞歌-浮生若梦组 ",
+   "type": "text"
+  },
+  {
+   "id": 2081,
+   "time": "2026-07-07 11:33",
+   "date": "2026-07-07",
+   "sender_id": 98,
+   "sender": "玉佩-AI PPT 实战-译晨组",
+   "content": "[名片]",
+   "type": "card"
+  },
+  {
+   "id": 2080,
+   "time": "2026-07-07 11:24",
+   "date": "2026-07-07",
+   "sender_id": 145,
+   "sender": "a！舞歌-浮生若梦组",
+   "content": "捞一下",
+   "type": "share"
+  },
+  {
+   "id": 2079,
+   "time": "2026-07-07 11:23",
+   "date": "2026-07-07",
+   "sender_id": 145,
+   "sender": "a！舞歌-浮生若梦组",
+   "content": "这位谁有好友帮忙联系一下",
+   "type": "text"
+  },
+  {
+   "id": 2078,
+   "time": "2026-07-07 11:23",
+   "date": "2026-07-07",
+   "sender_id": 145,
+   "sender": "a！舞歌-浮生若梦组",
+   "content": "![图片](http://127.0.0.1:5030/image/854a1a9d80561ee0ea0816ba96a61108,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/86469df74aee30a566206cc394aa5caf)",
+   "type": "image"
+  },
+  {
+   "id": 2077,
+   "time": "2026-07-07 10:57",
+   "date": "2026-07-07",
+   "sender_id": 159,
+   "sender": "ㅤRain",
+   "content": "不是加了么",
+   "type": "share"
+  },
+  {
+   "id": 2076,
+   "time": "2026-07-07 10:44",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "![图片](http://127.0.0.1:5030/image/3151b3976d691e4bdb3582c20b15f8de,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/8bd6c5e76141839ba89a357d06040771)",
+   "type": "image"
+  },
+  {
+   "id": 2075,
+   "time": "2026-07-07 10:44",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "![图片](http://127.0.0.1:5030/image/b5eb2b11d1928ce79cc698e9ca85b2fd,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/2356badd8cba7838d80594b36021aab7)",
+   "type": "image"
+  },
+  {
+   "id": 2074,
+   "time": "2026-07-07 10:42",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "捞个人",
+   "type": "text"
+  },
+  {
+   "id": 2073,
+   "time": "2026-07-07 10:41",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "![图片](http://127.0.0.1:5030/image/60e14721a6c76518a618a7c5a0a7a78a,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/7cd8425db9fe9ed6a17503c2595072e6)",
+   "type": "image"
+  },
+  {
+   "id": 2072,
+   "time": "2026-07-07 10:37",
+   "date": "2026-07-07",
+   "sender_id": 68,
+   "sender": "咖啡-AI小程序-渐渐",
+   "content": "好的哦，谢谢",
+   "type": "share"
+  },
+  {
+   "id": 2071,
+   "time": "2026-07-07 10:29",
+   "date": "2026-07-07",
+   "sender_id": 223,
+   "sender": "water-AI全域带货-张一组",
+   "content": "好的好的",
+   "type": "share"
+  },
+  {
+   "id": 2069,
+   "time": "2026-07-07 10:27",
+   "date": "2026-07-07",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "捞个人",
+   "type": "text"
+  },
+  {
+   "id": 2070,
+   "time": "2026-07-07 10:27",
+   "date": "2026-07-07",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "![图片](http://127.0.0.1:5030/image/7e570c17eb835544f1b1e421f20ec610,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/cd621ac8e15481e38846ad98e5e16f82)",
+   "type": "image"
+  },
+  {
+   "id": 2068,
+   "time": "2026-07-07 10:26",
+   "date": "2026-07-07",
+   "sender_id": 117,
+   "sender": "AI内容工厂-恋哲之",
+   "content": "我目前是提醒 2 次之后就加了[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 2067,
+   "time": "2026-07-07 10:26",
+   "date": "2026-07-07",
+   "sender_id": 117,
+   "sender": "AI内容工厂-恋哲之",
+   "content": "有些可能就是太忙没看到，再提醒下，如果还没收到你响应，我一般再加句，我可能会电话打扰哦",
+   "type": "text"
+  },
+  {
+   "id": 2066,
+   "time": "2026-07-07 10:25",
+   "date": "2026-07-07",
+   "sender_id": 225,
+   "sender": "AI 编程产品出海—小屋姐👍🏻",
+   "content": "耐心等等，官方会新分配志愿者添加哦",
+   "type": "share"
+  },
+  {
+   "id": 2065,
+   "time": "2026-07-07 10:24",
+   "date": "2026-07-07",
+   "sender_id": 223,
+   "sender": "water-AI全域带货-张一组",
+   "content": "已经隔了大半天了[捂脸]",
+   "type": "share"
+  },
+  {
+   "id": 2064,
+   "time": "2026-07-07 10:24",
+   "date": "2026-07-07",
+   "sender_id": 223,
+   "sender": "water-AI全域带货-张一组",
+   "content": "okok，感谢",
+   "type": "share"
+  },
+  {
+   "id": 2063,
+   "time": "2026-07-07 10:24",
+   "date": "2026-07-07",
+   "sender_id": 224,
+   "sender": "吉祥君Jay",
+   "content": "捞个人",
+   "type": "text"
+  },
+  {
+   "id": 2062,
+   "time": "2026-07-07 10:23",
+   "date": "2026-07-07",
+   "sender_id": 224,
+   "sender": "吉祥君Jay",
+   "content": "![图片](http://127.0.0.1:5030/image/48cd6c0a3119989373c111a74ba45755,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/f8c04df088e118285e92549b75780ba6)",
+   "type": "image"
+  },
+  {
+   "id": 2061,
+   "time": "2026-07-07 10:23",
+   "date": "2026-07-07",
+   "sender_id": 117,
+   "sender": "AI内容工厂-恋哲之",
+   "content": "一般先微信提醒，可能没看到，半天关注一下",
+   "type": "text"
+  },
+  {
+   "id": 2060,
+   "time": "2026-07-07 10:23",
+   "date": "2026-07-07",
+   "sender_id": 48,
+   "sender": "拾光-AI PPT-夏蝉组",
+   "content": "@water-AI全域带货-张一组 如果没进群，直接打微信电话",
+   "type": "text"
+  },
+  {
+   "id": 2059,
+   "time": "2026-07-07 10:21",
+   "date": "2026-07-07",
+   "sender_id": 223,
+   "sender": "water-AI全域带货-张一组",
+   "content": "礼貌求问，添加好友通过之后，发送进群邀请，以及再次邀请的信息完全不回复，这种你们一般都怎么解决呢，我这边有3个这样的[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 2058,
+   "time": "2026-07-07 10:14",
+   "date": "2026-07-07",
+   "sender_id": 117,
+   "sender": "AI内容工厂-恋哲之",
+   "content": "可以的，再课程打卡那里",
+   "type": "share"
+  },
+  {
+   "id": 2057,
+   "time": "2026-07-07 10:12",
+   "date": "2026-07-07",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "我有他微信，我推给你",
+   "type": "text"
+  },
+  {
+   "id": 2056,
+   "time": "2026-07-07 10:12",
+   "date": "2026-07-07",
+   "sender_id": 50,
+   "sender": "飞哥",
+   "content": "![图片](http://127.0.0.1:5030/image/04c706d04e57dbfeb7c440f5be8bbda2,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/66f8501f3f3cd3d5b6fc91cc4e351867)",
+   "type": "image"
+  },
+  {
+   "id": 2055,
+   "time": "2026-07-07 10:11",
+   "date": "2026-07-07",
+   "sender_id": 50,
+   "sender": "飞哥",
+   "content": "![图片](http://127.0.0.1:5030/image/00eddec78bf0b63622ccc2fe5ea4806f,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/e5dede861443c4c9ee439fad40de4074)",
+   "type": "image"
+  },
+  {
+   "id": 2054,
+   "time": "2026-07-07 10:11",
+   "date": "2026-07-07",
+   "sender_id": 50,
+   "sender": "飞哥",
+   "content": "微信号没用，，加不了，，，",
+   "type": "text"
+  },
+  {
+   "id": 2053,
+   "time": "2026-07-07 10:11",
+   "date": "2026-07-07",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "不是我加的那一个幸福小绵羊",
+   "type": "share"
+  },
+  {
+   "id": 2052,
+   "time": "2026-07-07 10:10",
+   "date": "2026-07-07",
+   "sender_id": 50,
+   "sender": "飞哥",
+   "content": "![图片](http://127.0.0.1:5030/image/afeb7a25efa98518575d26c6eea64574,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/d86342dcbe1d8d0d778076befc41fe32)",
+   "type": "image"
+  },
+  {
+   "id": 2051,
+   "time": "2026-07-07 10:09",
+   "date": "2026-07-07",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "有微信号吗",
+   "type": "share"
+  },
+  {
+   "id": 2050,
+   "time": "2026-07-07 10:09",
+   "date": "2026-07-07",
+   "sender_id": 222,
+   "sender": "红尘",
+   "content": "已报名的学员能看到吗？",
+   "type": "text"
+  },
+  {
+   "id": 2049,
+   "time": "2026-07-07 10:09",
+   "date": "2026-07-07",
+   "sender_id": 222,
+   "sender": "红尘",
+   "content": "请问预习手册是已开放的吧，我现在看不到了[尴尬]",
+   "type": "text"
+  },
+  {
+   "id": 2048,
+   "time": "2026-07-07 10:06",
+   "date": "2026-07-07",
+   "sender_id": 174,
+   "sender": "吴义松-codex行动营领队",
+   "content": "更换志愿者官方需要一些时间，新志愿者到位会及时加的，稍微等等就好",
+   "type": "share"
+  },
+  {
+   "id": 2047,
+   "time": "2026-07-07 10:04",
+   "date": "2026-07-07",
+   "sender_id": 68,
+   "sender": "咖啡-AI小程序-渐渐",
+   "content": "我和你是同一个志愿者，还没加我~",
+   "type": "share"
+  },
+  {
+   "id": 2046,
+   "time": "2026-07-07 10:04",
+   "date": "2026-07-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"咖啡-AI小程序-渐渐\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 2045,
+   "time": "2026-07-07 10:03",
+   "date": "2026-07-07",
+   "sender_id": 221,
+   "sender": "边城-全域AI带货-Annia组",
+   "content": "![图片](http://127.0.0.1:5030/image/ec47519e10670298b8412a3d34138f61,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/90bfc250fc79f381006fad1feadc7938)",
+   "type": "image"
+  },
+  {
+   "id": 2044,
+   "time": "2026-07-07 10:03",
+   "date": "2026-07-07",
+   "sender_id": 221,
+   "sender": "边城-全域AI带货-Annia组",
+   "content": "找人",
+   "type": "text"
+  },
+  {
+   "id": 2043,
+   "time": "2026-07-07 09:59",
+   "date": "2026-07-07",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "找人",
+   "type": "text"
+  },
+  {
+   "id": 2042,
+   "time": "2026-07-07 09:59",
+   "date": "2026-07-07",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "![图片](http://127.0.0.1:5030/image/644671dfda67a89eae46ff0b9994d5fe,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/9f9a37a030a0deb302616cfe415a537e)",
+   "type": "image"
+  },
+  {
+   "id": 2040,
+   "time": "2026-07-07 09:58",
+   "date": "2026-07-07",
+   "sender_id": 50,
+   "sender": "飞哥",
+   "content": "捞人，有没有大佬认识的，微信不通过",
+   "type": "text"
+  },
+  {
+   "id": 2041,
+   "time": "2026-07-07 09:58",
+   "date": "2026-07-07",
+   "sender_id": 50,
+   "sender": "飞哥",
+   "content": "![图片](http://127.0.0.1:5030/image/da2e60c398041bfed2cf87405ef1add2,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/b8651c941175cf4087175047ba526a3f)",
+   "type": "image"
+  },
+  {
+   "id": 2038,
+   "time": "2026-07-07 09:57",
+   "date": "2026-07-07",
+   "sender_id": 78,
+   "sender": "Zzz",
+   "content": "捞人，有没有大佬认识的[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 2039,
+   "time": "2026-07-07 09:57",
+   "date": "2026-07-07",
+   "sender_id": 78,
+   "sender": "Zzz",
+   "content": "![图片](http://127.0.0.1:5030/image/f17e5b7d5f31b891876c52f777ee70bc,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/6c6cfb25a85e61d54b51bc62d43b0ba5)",
+   "type": "image"
+  },
+  {
+   "id": 2037,
+   "time": "2026-07-07 09:56",
+   "date": "2026-07-07",
+   "sender_id": 209,
+   "sender": "长风-全域AI带货-Cherry组",
+   "content": "这个有人加过吗",
+   "type": "share"
+  },
+  {
+   "id": 2035,
+   "time": "2026-07-07 09:56",
+   "date": "2026-07-07",
+   "sender_id": 220,
+   "sender": "梁晋宇—lizzy组",
+   "content": "反向捞人，ai编程产品出海的志愿者麻烦加下我，我的那个志愿者说她退出了，但没有新的志愿者加我拉群",
+   "type": "text"
+  },
+  {
+   "id": 2036,
+   "time": "2026-07-07 09:56",
+   "date": "2026-07-07",
+   "sender_id": 220,
+   "sender": "梁晋宇—lizzy组",
+   "content": "![图片](http://127.0.0.1:5030/image/aaa22172d5e275046ff0c30e0866aabf,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/e21f8ca3cb1c68983a8b2aee1785848b)",
+   "type": "image"
+  },
+  {
+   "id": 2033,
+   "time": "2026-07-07 09:53",
+   "date": "2026-07-07",
+   "sender_id": 219,
+   "sender": "你若是风",
+   "content": "捞个人，请问下有小伙伴认识这位的么？加微信没回，电话打不进去",
+   "type": "text"
+  },
+  {
+   "id": 2034,
+   "time": "2026-07-07 09:53",
+   "date": "2026-07-07",
+   "sender_id": 219,
+   "sender": "你若是风",
+   "content": "![图片](http://127.0.0.1:5030/image/157d516e9b224f0b7716febf456dd22f,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/0e74d4644f94515c671fce955da33ce9)",
+   "type": "image"
+  },
+  {
+   "id": 2032,
+   "time": "2026-07-07 09:30",
+   "date": "2026-07-07",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "一开始就是打微信语音",
+   "type": "text"
+  },
+  {
+   "id": 2031,
+   "time": "2026-07-07 09:10",
+   "date": "2026-07-07",
+   "sender_id": 58,
+   "sender": "小红书虚拟XiXi",
+   "content": "打微信语音较有效果",
+   "type": "text"
+  },
+  {
+   "id": 2030,
+   "time": "2026-07-07 09:09",
+   "date": "2026-07-07",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "打电话也没接，发了短信。第一次遇上，添加微信成功之后，了无音信了二天",
+   "type": "text"
+  },
+  {
+   "id": 2029,
+   "time": "2026-07-07 09:04",
+   "date": "2026-07-07",
+   "sender_id": 130,
+   "sender": "半淺- AI PPT-译晨组",
+   "content": "[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 2028,
+   "time": "2026-07-07 09:04",
+   "date": "2026-07-07",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "应该在山上越野，我看他朋友圈经常爬山",
+   "type": "text"
+  },
+  {
+   "id": 2027,
+   "time": "2026-07-07 09:03",
+   "date": "2026-07-07",
+   "sender_id": 209,
+   "sender": "长风-全域AI带货-Cherry组",
+   "content": "捞个人，加微信没回，电话也没人接：41963\tʚ卿卿ɞ\tp41128\t15391549484",
+   "type": "text"
+  },
+  {
+   "id": 2026,
+   "time": "2026-07-07 08:58",
+   "date": "2026-07-07",
+   "sender_id": 157,
+   "sender": "AI内容工厂-羽晏",
+   "content": "太忙了吧，试试电话、电话短信、朋友圈评论",
+   "type": "text"
+  },
+  {
+   "id": 2025,
+   "time": "2026-07-07 08:50",
+   "date": "2026-07-07",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "[捂脸]我这有名学员，添加成功微信，就是没进大小群，打他微信电话都没接，奇了怪了。\n\n添加微信的第一天，他还回复我消息呢",
+   "type": "text"
+  },
+  {
+   "id": 2024,
+   "time": "2026-07-07 08:43",
+   "date": "2026-07-07",
+   "sender_id": 188,
+   "sender": "火龙果-AI设计-渔子清组",
+   "content": "应该是个老圈友了",
+   "type": "text"
+  },
+  {
+   "id": 2023,
+   "time": "2026-07-07 08:43",
+   "date": "2026-07-07",
+   "sender_id": 188,
+   "sender": "火龙果-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/1473b5af890209cede9cf045f30bb6b3,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/fea207d5ed69240a856579d2f1e82bf9)",
+   "type": "image"
+  },
+  {
+   "id": 2022,
+   "time": "2026-07-07 08:42",
+   "date": "2026-07-07",
+   "sender_id": 188,
+   "sender": "火龙果-AI设计-渔子清组",
+   "content": "我也来捞个人，有没有认识或加过的？",
+   "type": "text"
+  },
+  {
+   "id": 2021,
+   "time": "2026-07-07 08:42",
+   "date": "2026-07-07",
+   "sender_id": 110,
+   "sender": "小生-CodeX做产品-杨天蛇组",
+   "content": "你加了他没同意是吗？",
+   "type": "share"
+  },
+  {
+   "id": 2019,
+   "time": "2026-07-07 08:24",
+   "date": "2026-07-07",
+   "sender_id": 218,
+   "sender": "江城-全域AI带货-张一组",
+   "content": "这个能帮忙捞一下吗？",
+   "type": "text"
+  },
+  {
+   "id": 2020,
+   "time": "2026-07-07 08:24",
+   "date": "2026-07-07",
+   "sender_id": 218,
+   "sender": "江城-全域AI带货-张一组",
+   "content": "![图片](http://127.0.0.1:5030/image/4676914d1a6c63ab9962270ab88c5039,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/72990ca70e60c2d1fe6e50d988d32a1e)",
+   "type": "image"
+  },
+  {
+   "id": 2018,
+   "time": "2026-07-07 08:03",
+   "date": "2026-07-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"鸟儿\"邀请\"李舟舟\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 2017,
+   "time": "2026-07-07 07:29",
+   "date": "2026-07-07",
+   "sender_id": 82,
+   "sender": "北京杰克-AI带货志愿者",
+   "content": "捞人了朋友们，有有联系方式的吗？欢迎联系我",
+   "type": "share"
+  },
+  {
+   "id": 2016,
+   "time": "2026-07-07 00:37",
+   "date": "2026-07-07",
+   "sender_id": 120,
+   "sender": "流水若轩",
+   "content": "算力荒[捂脸]这个月干没了好几个套餐",
+   "type": "text"
+  }
+ ],
+ "total": 105,
+ "page": 1,
+ "page_size": 105
+}

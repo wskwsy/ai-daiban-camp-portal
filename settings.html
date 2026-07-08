@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#2563EB">
+<title>设置 · AI 破局门户</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./assets/style.css?v=15">
+</head>
+<body data-page="settings">
+
+<div class="bg-canvas"></div>
+<div class="bg-noise"></div>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a href="./index.html" class="brand">
+      <span class="mark">AI</span>
+      <span class="brand-text">
+        <span class="en">AI 破局 · 行动营</span>
+        <span class="zh" id="brandGroupName">AI破局门户</span>
+      </span>
+    </a>
+    <nav class="nav-links">
+      <a href="./index.html">首页</a>
+      <a href="./members.html">同营人</a>
+      <a href="./daily.html">每日精华</a>
+      <a href="./messages.html">消息</a>
+      <a href="./settings.html" class="active">设置</a>
+    </nav>
+    <div class="nav-actions">
+      <button class="theme-toggle" data-theme-btn aria-label="切换主题"><span class="theme-state">🌗</span></button>
+    </div>
+  </div>
+</header>
+
+<section class="hero inner">
+  <div class="hero-inner">
+    <span class="eyebrow reveal"><span class="dot"></span>SETTINGS · 系统设置</span>
+    <h1 class="h-title reveal d1">配置<em>AI 服务</em>与消息采集</h1>
+    <p class="h-sub reveal d2">仅管理员可见并可修改，请在网址后加 <code class="inline">?token=你的Token</code>。</p>
+  </div>
+</section>
+
+<main class="container section plain">
+  <!-- 从微信导入群 -->
+  <div class="card reveal" style="margin-bottom:24px">
+    <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;margin:0 0 8px">
+      <h2 style="margin:0;font-family:var(--serif);font-size:22px">📥 从微信导入群</h2>
+      <button type="button" id="loadChatlogBtn" class="btn btn-primary" style="padding:6px 14px;font-size:13px;width:auto">查看可用群</button>
+    </div>
+    <p style="color:var(--ink-3);line-height:1.85;margin:0 0 16px">
+      点击「查看可用群」会从本机 chatlog 服务拉取你微信里的所有群聊。<br>
+      找到想导入的群，点「导入」即可采集消息入库，无需敲命令行。<br>
+      <span style="font-size:13px;color:var(--mute)">可选：设置起止日期只导入某时间段的聊天记录，留空则全量导入。</span>
+    </p>
+    <!-- 时间范围选择器 -->
+    <div id="importTimeRange" style="display:flex;align-items:flex-end;gap:12px;flex-wrap:wrap;margin-bottom:14px">
+      <div style="display:flex;flex-direction:column;gap:4px">
+        <label style="font-size:13px;color:var(--ink-3)">起始日期</label>
+        <input type="date" id="importSince" style="padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink-1);font-size:14px">
+      </div>
+      <div style="display:flex;flex-direction:column;gap:4px">
+        <label style="font-size:13px;color:var(--ink-3)">结束日期</label>
+        <input type="date" id="importUntil" style="padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink-1);font-size:14px">
+      </div>
+      <button type="button" id="clearTimeRange" class="btn btn-secondary" style="padding:8px 14px;font-size:13px;width:auto">清除</button>
+    </div>
+    <div id="chatlogGroupsBox" style="display:none">
+      <input type="text" id="chatlogSearch" placeholder="搜索群名…" style="width:100%;padding:10px 14px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink-1);font-size:14px;margin-bottom:12px">
+      <div id="chatlogGroupsList" class="groups-list"></div>
+    </div>
+  </div>
+
+  <!-- 选择统计群 -->
+  <div class="card reveal" style="margin-bottom:24px">
+    <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;margin:0 0 8px">
+      <h2 style="margin:0;font-family:var(--serif);font-size:22px">🎯 选择要统计的群</h2>
+      <button type="button" id="refreshGroupsBtn" class="btn btn-secondary" style="padding:6px 14px;font-size:13px;width:auto">🔄 刷新</button>
+    </div>
+    <p style="color:var(--ink-3);line-height:1.85;margin:0 0 16px">
+      门户会把「首页 / 同营人 / 每日精华 / 消息」四个页面的数据都指向下方选中的群。<br>
+      新群会在采集脚本第一次导入消息后自动出现在这个列表里。
+    </p>
+    <div id="groupsList" class="groups-list">
+      <div class="loading">正在加载群列表…</div>
+    </div>
+  </div>
+
+  <!-- 营期设置 -->
+  <div class="card reveal" style="margin-bottom:24px">
+    <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;margin:0 0 8px">
+      <h2 style="margin:0;font-family:var(--serif);font-size:22px">📅 营期设置</h2>
+      <span id="campGroupName" style="font-size:13px;color:var(--mute)">当前群：—</span>
+    </div>
+    <p style="color:var(--ink-3);line-height:1.85;margin:0 0 16px">
+      填写开营日期和营期天数后，首页进度条会按「今天距开营的第几天 / 营期总天数」实时计算。<br>
+      <span style="font-size:13px;color:var(--mute)">每个群单独设置；留空开营日期时首页进度条显示「待设定营期」。</span>
+    </p>
+    <form id="campForm" class="settings-form" style="max-width:520px">
+      <div class="form-group">
+        <label>开营日期</label>
+        <input type="date" name="start_date" id="campStartDate" style="padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink-1);font-size:14px;max-width:240px">
+        <div class="hint">格式 YYYY-MM-DD，例如 2026-06-15</div>
+      </div>
+      <div class="form-group">
+        <label>营期天数</label>
+        <input type="number" name="duration_days" id="campDuration" min="1" max="365" value="21" style="padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink-1);font-size:14px;max-width:160px">
+        <div class="hint">营期总天数（默认 21 天）</div>
+      </div>
+      <button type="submit" class="btn btn-primary">保存营期</button>
+    </form>
+  </div>
+
+  <!-- AI 配置 -->
+  <div class="card reveal" style="margin-bottom:24px">
+    <h2 style="margin:0 0 20px;font-family:var(--serif);font-size:22px">🤖 AI 服务配置</h2>
+    <form id="aiConfigForm" class="settings-form">
+      <div class="form-group">
+        <label>AI Provider</label>
+        <select name="provider" id="providerSelect" required>
+          <option value="">选择 AI 服务…</option>
+        </select>
+        <div class="hint">选择你使用的 AI 服务提供商</div>
+      </div>
+      <div class="form-group">
+        <label>模型</label>
+        <select name="model" id="modelSelect" style="display:none">
+          <option value="">使用默认模型</option>
+        </select>
+        <input type="text" name="model_custom" id="modelCustomInput" placeholder="例如：ernie-bot-4" style="display:none">
+        <div class="hint">选择或输入模型名称</div>
+      </div>
+      <div class="form-group" style="display:none">
+        <label>API Base URL</label>
+        <input type="url" name="base_url" id="baseUrlInput" placeholder="https://api.openai.com/v1">
+        <div class="hint">自定义 API 地址（可选）</div>
+      </div>
+      <div class="form-group">
+        <label>API Key</label>
+        <input type="password" name="api_key" placeholder="sk-…" required>
+        <div class="hint">API 密钥仅保存在服务器本地数据库</div>
+      </div>
+      <button type="submit" class="btn btn-primary">保存配置</button>
+    </form>
+  </div>
+
+  <!-- 数据采集 -->
+  <div class="card reveal d1" style="margin-bottom:24px">
+    <h2 style="margin:0 0 12px;font-family:var(--serif);font-size:22px">📥 从微信群采集消息</h2>
+    <p style="color:var(--ink-3);line-height:1.85;margin:0 0 8px">
+      项目通过 <code class="inline">chatlog</code> 读取本机微信数据库并暴露 HTTP API，
+      再由 <code class="inline">scripts/collect_from_chatlog.py</code> 拉取指定群并调用后端
+      <code class="inline">POST /api/messages/import</code> 入库。
+    </p>
+    <pre class="code-block"># 1) 启动 chatlog HTTP API（默认 127.0.0.1:5030）
+chatlog server
+
+# 2) 首次全量同步某个群（--reset 会清掉上次断点）
+export PORTAL_ADMIN_TOKEN=你的Token
+python3 scripts/collect_from_chatlog.py \
+    --chat "群名称或chatroom_id" --reset --once
+
+# 3) 常驻增量轮询（每 60 秒拉一次新消息）
+python3 scripts/collect_from_chatlog.py \
+    --chat "群名称或chatroom_id" --interval 60
+
+# 4) 想加第二个群？把 --chat 换成另一个名字再跑一次即可
+#    入库后到本页顶部「选择要统计的群」切换即可</pre>
+    <p style="color:var(--ink-3);font-size:13.5px;margin:8px 0 0">
+      每个群单独一个采集进程；入库后自动出现在上方群列表，选中即可切换门户展示。
+    </p>
+  </div>
+
+  <!-- 使用说明 -->
+  <div class="card reveal d2">
+    <h2 style="margin:0 0 20px;font-family:var(--serif);font-size:22px">📖 使用流程</h2>
+    <ol style="padding-left:22px;color:var(--ink-2);line-height:1.9">
+      <li style="margin-bottom:10px"><strong>先配置 AI</strong> — 选择服务并填 API Key。</li>
+      <li style="margin-bottom:10px"><strong>再采集消息</strong> — 用 <code class="inline">scripts/collect_from_chatlog.py</code> 从微信群持续读取。</li>
+      <li style="margin-bottom:10px"><strong>生成每日精华</strong> — 在每日精华页面点击 <em>重新生成</em>，AI 会输出结构化 JSON。</li>
+      <li style="margin-bottom:10px"><strong>抽取同营人自我介绍</strong> — 名册每张卡片右下角点一次即可。</li>
+      <li><strong>部署到服务器</strong> — 参考 <code class="inline">deploy/</code> 目录里的 systemd + nginx 示例。</li>
+    </ol>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <span class="brand">AI 破局门户 · AI Action Portal</span>
+    <span class="fine">配置存储于服务器 SQLite；写操作需要 <code class="inline">X-Admin-Token</code></span>
+  </div>
+</footer>
+
+<script>window.PORTAL_STATIC=true;window.PORTAL_STATIC_BUILD="20260708142430";</script>
+<script src="./assets/app.js?v=15"></script>
+</body>
+</html>

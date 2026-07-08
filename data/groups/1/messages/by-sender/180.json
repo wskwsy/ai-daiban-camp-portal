@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1618,
+   "time": "2026-07-06 11:17",
+   "date": "2026-07-06",
+   "sender_id": 180,
+   "sender": "邱邦军",
+   "content": "有人有他们微信吗？",
+   "type": "text"
+  },
+  {
+   "id": 1617,
+   "time": "2026-07-06 11:17",
+   "date": "2026-07-06",
+   "sender_id": 180,
+   "sender": "邱邦军",
+   "content": "![图片](http://127.0.0.1:5030/image/65cc702aaf58ee97ea27a5c2400c17c4,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/8e344128a9ea80fe4965cad5a6ee395a)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

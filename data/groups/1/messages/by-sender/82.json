@@ -1,0 +1,52 @@
+{
+ "messages": [
+  {
+   "id": 2017,
+   "time": "2026-07-07 07:29",
+   "date": "2026-07-07",
+   "sender_id": 82,
+   "sender": "北京杰克-AI带货志愿者",
+   "content": "捞人了朋友们，有有联系方式的吗？欢迎联系我",
+   "type": "share"
+  },
+  {
+   "id": 1607,
+   "time": "2026-07-06 11:06",
+   "date": "2026-07-06",
+   "sender_id": 82,
+   "sender": "北京杰克-AI带货志愿者",
+   "content": "好的，谢谢",
+   "type": "text"
+  },
+  {
+   "id": 1603,
+   "time": "2026-07-06 11:05",
+   "date": "2026-07-06",
+   "sender_id": 82,
+   "sender": "北京杰克-AI带货志愿者",
+   "content": "![图片](http://127.0.0.1:5030/image/3889c697f7a4586b0aaf5a9806bdfa08,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/5128b8337ea609417bef68e21484abef)",
+   "type": "image"
+  },
+  {
+   "id": 1602,
+   "time": "2026-07-06 11:05",
+   "date": "2026-07-06",
+   "sender_id": 82,
+   "sender": "北京杰克-AI带货志愿者",
+   "content": "这种情况怎么解决，联系竹子吗",
+   "type": "text"
+  },
+  {
+   "id": 704,
+   "time": "2026-06-24 16:22",
+   "date": "2026-06-24",
+   "sender_id": 82,
+   "sender": "北京杰克-AI带货志愿者",
+   "content": "有",
+   "type": "share"
+  }
+ ],
+ "total": 5,
+ "page": 1,
+ "page_size": 5
+}

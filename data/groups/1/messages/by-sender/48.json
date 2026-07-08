@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 2060,
+   "time": "2026-07-07 10:23",
+   "date": "2026-07-07",
+   "sender_id": 48,
+   "sender": "拾光-AI PPT-夏蝉组",
+   "content": "@water-AI全域带货-张一组 如果没进群，直接打微信电话",
+   "type": "text"
+  },
+  {
+   "id": 855,
+   "time": "2026-07-03 14:20",
+   "date": "2026-07-03",
+   "sender_id": 48,
+   "sender": "拾光-AI PPT-夏蝉组",
+   "content": "关键是，他是志愿者，他要加很多学员进群",
+   "type": "text"
+  },
+  {
+   "id": 423,
+   "time": "2026-06-23 12:28",
+   "date": "2026-06-23",
+   "sender_id": 48,
+   "sender": "拾光-AI PPT-夏蝉组",
+   "content": "@Helen～蝴蝶兰 有点小问题哦，可以看看我上面发的录音总结",
+   "type": "share"
+  },
+  {
+   "id": 419,
+   "time": "2026-06-23 12:06",
+   "date": "2026-06-23",
+   "sender_id": 48,
+   "sender": "拾光-AI PPT-夏蝉组",
+   "content": "![视频](http://127.0.0.1:5030/video/ee1dd872e15e69ea790f6c34be694739,msg/video/2026-06/2a5c833f6793d3982830fdbe875e8bf3)",
+   "type": "video"
+  },
+  {
+   "id": 418,
+   "time": "2026-06-23 12:06",
+   "date": "2026-06-23",
+   "sender_id": 48,
+   "sender": "拾光-AI PPT-夏蝉组",
+   "content": "听录音也可以[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 414,
+   "time": "2026-06-23 10:51",
+   "date": "2026-06-23",
+   "sender_id": 48,
+   "sender": "拾光-AI PPT-夏蝉组",
+   "content": "今天看回放发现拆解效果非常差\n\n我把昨天的行动营录音及原文总结分享给大家\n\n链接：https://pan.quark.cn/s/1dd04d653651",
+   "type": "text"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

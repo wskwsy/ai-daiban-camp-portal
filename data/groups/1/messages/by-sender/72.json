@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 2119,
+   "time": "2026-07-07 13:52",
+   "date": "2026-07-07",
+   "sender_id": 72,
+   "sender": "风-全域 AI 带货-Annia组",
+   "content": "@海盐蓝 通过了，她加了我，这加她名片还加不上",
+   "type": "text"
+  },
+  {
+   "id": 2113,
+   "time": "2026-07-07 13:43",
+   "date": "2026-07-07",
+   "sender_id": 72,
+   "sender": "风-全域 AI 带货-Annia组",
+   "content": "捞人，能搜到，但是一直不通过，哪位兄弟姐妹有他好友不",
+   "type": "text"
+  },
+  {
+   "id": 2112,
+   "time": "2026-07-07 13:43",
+   "date": "2026-07-07",
+   "sender_id": 72,
+   "sender": "风-全域 AI 带货-Annia组",
+   "content": "![图片](http://127.0.0.1:5030/image/75e187681991a49acd23dd7837af2a3e,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/816e602a31a5aecfb3ccf19003d50113)",
+   "type": "image"
+  },
+  {
+   "id": 863,
+   "time": "2026-07-04 12:36",
+   "date": "2026-07-04",
+   "sender_id": 72,
+   "sender": "风-全域 AI 带货-Annia组",
+   "content": "[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 860,
+   "time": "2026-07-04 12:34",
+   "date": "2026-07-04",
+   "sender_id": 72,
+   "sender": "风-全域 AI 带货-Annia组",
+   "content": "@大师兄-AI一人公司短视频制作-雪儿 你是做AI工具的那个大师兄不",
+   "type": "text"
+  },
+  {
+   "id": 597,
+   "time": "2026-06-24 11:41",
+   "date": "2026-06-24",
+   "sender_id": 72,
+   "sender": "风-全域 AI 带货-Annia组",
+   "content": "@王庆 我们没有的项目就等着随机分配了么？还是可以稍微选择一下呢",
+   "type": "text"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

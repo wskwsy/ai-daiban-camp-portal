@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 12247,
+   "time": "2026-01-06 15:27",
+   "date": "2026-01-06",
+   "sender_id": 571,
+   "sender": "xiao苏",
+   "content": "谢谢菜菜老师[爱心][爱心][爱心]",
+   "type": "text"
+  },
+  {
+   "id": 12246,
+   "time": "2026-01-06 15:27",
+   "date": "2026-01-06",
+   "sender_id": 571,
+   "sender": "xiao苏",
+   "content": "确认了一笔转账，当前微信版本不支持展示该内容。",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

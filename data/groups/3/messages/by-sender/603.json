@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 18462,
+   "time": "2026-02-01 22:10",
+   "date": "2026-02-01",
+   "sender_id": 603,
+   "sender": "小渔多米",
+   "content": "㊗望舒老师生日快乐[庆祝][庆祝]",
+   "type": "text"
+  },
+  {
+   "id": 18355,
+   "time": "2026-02-01 19:17",
+   "date": "2026-02-01",
+   "sender_id": 603,
+   "sender": "小渔多米",
+   "content": "1",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

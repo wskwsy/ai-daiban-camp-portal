@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 2111,
+   "time": "2026-07-07 13:27",
+   "date": "2026-07-07",
+   "sender_id": 230,
+   "sender": "魏一佳",
+   "content": "一般要打三次 才可能接",
+   "type": "text"
+  },
+  {
+   "id": 2108,
+   "time": "2026-07-07 13:25",
+   "date": "2026-07-07",
+   "sender_id": 230,
+   "sender": "魏一佳",
+   "content": "直接电话",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

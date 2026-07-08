@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 336,
+   "time": "2026-06-10 10:44",
+   "date": "2026-06-10",
+   "sender_id": 40,
+   "sender": "AI小红书起号实战 志愿者",
+   "content": "谢谢",
+   "type": "text"
+  },
+  {
+   "id": 331,
+   "time": "2026-06-10 10:42",
+   "date": "2026-06-10",
+   "sender_id": 40,
+   "sender": "AI小红书起号实战 志愿者",
+   "content": "这个培训可以看回放吗？",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

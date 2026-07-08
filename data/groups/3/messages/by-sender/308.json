@@ -1,0 +1,52 @@
+{
+ "messages": [
+  {
+   "id": 36216,
+   "time": "2026-06-27 14:47",
+   "date": "2026-06-27",
+   "sender_id": 308,
+   "sender": "书乐",
+   "content": "@菜籽油（此号不加人） 好滴  菜菜",
+   "type": "text"
+  },
+  {
+   "id": 36209,
+   "time": "2026-06-27 14:47",
+   "date": "2026-06-27",
+   "sender_id": 308,
+   "sender": "书乐",
+   "content": "[红包]",
+   "type": "share"
+  },
+  {
+   "id": 2460,
+   "time": "2026-06-24 09:28",
+   "date": "2026-06-24",
+   "sender_id": 308,
+   "sender": "书乐",
+   "content": "[转账|发送 ￥89.00]",
+   "type": "share"
+  },
+  {
+   "id": 23848,
+   "time": "2026-03-05 11:51",
+   "date": "2026-03-05",
+   "sender_id": 308,
+   "sender": "书乐",
+   "content": "[分享]",
+   "type": "share"
+  },
+  {
+   "id": 19658,
+   "time": "2026-02-08 22:05",
+   "date": "2026-02-08",
+   "sender_id": 308,
+   "sender": "书乐",
+   "content": "蟹蟹大大",
+   "type": "text"
+  }
+ ],
+ "total": 5,
+ "page": 1,
+ "page_size": 5
+}

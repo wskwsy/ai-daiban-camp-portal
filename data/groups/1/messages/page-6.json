@@ -1,0 +1,457 @@
+{
+ "messages": [
+  {
+   "id": 1870,
+   "time": "2026-07-06 17:25",
+   "date": "2026-07-06",
+   "sender_id": 198,
+   "sender": "大倪-lizzy组",
+   "content": "捞人 有认识的吗？留的号码不对，联系不上",
+   "type": "text"
+  },
+  {
+   "id": 1869,
+   "time": "2026-07-06 17:21",
+   "date": "2026-07-06",
+   "sender_id": 154,
+   "sender": "Ai思维-悔海-渐渐组",
+   "content": "联系不上",
+   "type": "text"
+  },
+  {
+   "id": 1868,
+   "time": "2026-07-06 17:21",
+   "date": "2026-07-06",
+   "sender_id": 154,
+   "sender": "Ai思维-悔海-渐渐组",
+   "content": "捞人 有认识的吗",
+   "type": "text"
+  },
+  {
+   "id": 1867,
+   "time": "2026-07-06 17:21",
+   "date": "2026-07-06",
+   "sender_id": 154,
+   "sender": "Ai思维-悔海-渐渐组",
+   "content": "![图片](http://127.0.0.1:5030/image/9b4783650d190c1a59b6f9086e5484f9,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/d687b83bdbd3376cda9bd35a7a68d341)",
+   "type": "image"
+  },
+  {
+   "id": 1866,
+   "time": "2026-07-06 17:17",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "2个群都艾特了",
+   "type": "text"
+  },
+  {
+   "id": 1865,
+   "time": "2026-07-06 17:17",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "![图片](http://127.0.0.1:5030/image/3c073dc31e3c9d26547797f0eab5709f,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/6051ff01754f59c4e73d070e4b149405)",
+   "type": "image"
+  },
+  {
+   "id": 1864,
+   "time": "2026-07-06 17:16",
+   "date": "2026-07-06",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "那在群里面艾特他，行吗？",
+   "type": "text"
+  },
+  {
+   "id": 1863,
+   "time": "2026-07-06 17:16",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "他关闭了群添加[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 1862,
+   "time": "2026-07-06 17:13",
+   "date": "2026-07-06",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "我感觉好像是的，因为我打他的电话确实是南京的，但是打不通",
+   "type": "text"
+  },
+  {
+   "id": 1861,
+   "time": "2026-07-06 17:13",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "客气了",
+   "type": "text"
+  },
+  {
+   "id": 1860,
+   "time": "2026-07-06 17:13",
+   "date": "2026-07-06",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "好的，谢谢你",
+   "type": "text"
+  },
+  {
+   "id": 1859,
+   "time": "2026-07-06 17:13",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "![图片](http://127.0.0.1:5030/image/99384151d876adb2782a648952f3cdbb,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/4f839dd7e4c8de31bdcc5e8facf5c561)",
+   "type": "image"
+  },
+  {
+   "id": 1858,
+   "time": "2026-07-06 17:13",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "帮你问了，不确定他是否通过微信申请",
+   "type": "text"
+  },
+  {
+   "id": 1857,
+   "time": "2026-07-06 17:09",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "@小万-AI一人公司-熙雾组",
+   "type": "text"
+  },
+  {
+   "id": 1856,
+   "time": "2026-07-06 17:09",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "看到了共同群聊 不确定是不是",
+   "type": "text"
+  },
+  {
+   "id": 1855,
+   "time": "2026-07-06 17:09",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "![图片](http://127.0.0.1:5030/image/7df551065aa94c27e58c1d0993d4dba8,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/62b7168cf904ada906b701b23ebc0b04)",
+   "type": "image"
+  },
+  {
+   "id": 1854,
+   "time": "2026-07-06 17:03",
+   "date": "2026-07-06",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "![图片](http://127.0.0.1:5030/image/22bc30abbdb0e22cc018e715bdebe061,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/f8bc25cea3aa14808dc36fa3ec1b0e55)",
+   "type": "image"
+  },
+  {
+   "id": 1853,
+   "time": "2026-07-06 17:03",
+   "date": "2026-07-06",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "捞人，这个有人认识吗？",
+   "type": "text"
+  },
+  {
+   "id": 1852,
+   "time": "2026-07-06 17:00",
+   "date": "2026-07-06",
+   "sender_id": 92,
+   "sender": "俊-破局AI思维-渐渐组",
+   "content": "![图片](http://127.0.0.1:5030/image/af30bc2d114018035098de6f9da59cc2,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/b6d2814efb67af522f7a73e8f2018ab6)",
+   "type": "image"
+  },
+  {
+   "id": 1851,
+   "time": "2026-07-06 17:00",
+   "date": "2026-07-06",
+   "sender_id": 92,
+   "sender": "俊-破局AI思维-渐渐组",
+   "content": "![图片](http://127.0.0.1:5030/image/e519fa1463ebc6d28b26a0f155018bab,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/4049eb3764347cbcf2ecbf70d8467277)",
+   "type": "image"
+  },
+  {
+   "id": 1850,
+   "time": "2026-07-06 17:00",
+   "date": "2026-07-06",
+   "sender_id": 92,
+   "sender": "俊-破局AI思维-渐渐组",
+   "content": "捞人，这两位有人认识吗，加不上",
+   "type": "text"
+  },
+  {
+   "id": 1849,
+   "time": "2026-07-06 17:00",
+   "date": "2026-07-06",
+   "sender_id": 174,
+   "sender": "吴义松-codex行动营领队",
+   "content": "OK，感谢，我让志愿者加一下问问",
+   "type": "share"
+  },
+  {
+   "id": 1848,
+   "time": "2026-07-06 16:59",
+   "date": "2026-07-06",
+   "sender_id": 65,
+   "sender": "微光-AI设计-渔子清组",
+   "content": "这个看微信号和名称与你的相符@吴义松-codex行动营领队 ",
+   "type": "share"
+  },
+  {
+   "id": 1847,
+   "time": "2026-07-06 16:59",
+   "date": "2026-07-06",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "我有一个电话打不通，微信查无此号",
+   "type": "text"
+  },
+  {
+   "id": 1846,
+   "time": "2026-07-06 16:58",
+   "date": "2026-07-06",
+   "sender_id": 65,
+   "sender": "微光-AI设计-渔子清组",
+   "content": "[名片]",
+   "type": "card"
+  },
+  {
+   "id": 1845,
+   "time": "2026-07-06 16:58",
+   "date": "2026-07-06",
+   "sender_id": 197,
+   "sender": "朱朱",
+   "content": "我这里也有两个人联系不到，电话都打了也不接",
+   "type": "text"
+  },
+  {
+   "id": 1843,
+   "time": "2026-07-06 16:58",
+   "date": "2026-07-06",
+   "sender_id": 197,
+   "sender": "朱朱",
+   "content": "![图片](http://127.0.0.1:5030/image/493421ffaae35bc67981d9102a10722e,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/157177ce388f0b04707ab74b5a3b8d14)",
+   "type": "image"
+  },
+  {
+   "id": 1844,
+   "time": "2026-07-06 16:58",
+   "date": "2026-07-06",
+   "sender_id": 197,
+   "sender": "朱朱",
+   "content": "![图片](http://127.0.0.1:5030/image/6dfa70d24ec8c1d75bc28e08602e7ba7,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/26c84fdbb1025ade90619113faf1d56f)",
+   "type": "image"
+  },
+  {
+   "id": 1842,
+   "time": "2026-07-06 16:58",
+   "date": "2026-07-06",
+   "sender_id": 141,
+   "sender": "金玲-AI一人公司-熙雾组",
+   "content": "可以搜到，但是她不添加；电话也能响，就是不接；星球也给她留言了",
+   "type": "share"
+  },
+  {
+   "id": 1841,
+   "time": "2026-07-06 16:56",
+   "date": "2026-07-06",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "这个不是能搜到吗",
+   "type": "text"
+  },
+  {
+   "id": 1840,
+   "time": "2026-07-06 16:56",
+   "date": "2026-07-06",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/63192510e1232add7af5b2c3768d863d,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/f55aa2208628cf701451030968865685)",
+   "type": "image"
+  },
+  {
+   "id": 1838,
+   "time": "2026-07-06 16:54",
+   "date": "2026-07-06",
+   "sender_id": 174,
+   "sender": "吴义松-codex行动营领队",
+   "content": "这个学员大家有的，也帮忙捞一捞[抱拳]",
+   "type": "text"
+  },
+  {
+   "id": 1839,
+   "time": "2026-07-06 16:54",
+   "date": "2026-07-06",
+   "sender_id": 174,
+   "sender": "吴义松-codex行动营领队",
+   "content": "![图片](http://127.0.0.1:5030/image/1dd0f6ffdd977790faa11e571bcf140f,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/002160ed70f3f62c22ffae2561020fa1)",
+   "type": "image"
+  },
+  {
+   "id": 1837,
+   "time": "2026-07-06 16:44",
+   "date": "2026-07-06",
+   "sender_id": 162,
+   "sender": "Jerry.z",
+   "content": "好嘞，感谢",
+   "type": "text"
+  },
+  {
+   "id": 1836,
+   "time": "2026-07-06 16:43",
+   "date": "2026-07-06",
+   "sender_id": 133,
+   "sender": "如意姑姑-ai带货-杜汭锜组",
+   "content": "@Eleven-小红书起号实战-柳古点 @Jerry.z   \n\n我核对过星球号了，你们要找的是她，跟我3月份添加的星球号62334是一样的，但是微信和手机号大概是改了",
+   "type": "share"
+  },
+  {
+   "id": 1835,
+   "time": "2026-07-06 16:34",
+   "date": "2026-07-06",
+   "sender_id": 196,
+   "sender": "Eleven-小红书起号实战-柳古点",
+   "content": "[OK]",
+   "type": "share"
+  },
+  {
+   "id": 1834,
+   "time": "2026-07-06 16:33",
+   "date": "2026-07-06",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "群里找到一个同名的，我尝试联系一下",
+   "type": "share"
+  },
+  {
+   "id": 1833,
+   "time": "2026-07-06 16:32",
+   "date": "2026-07-06",
+   "sender_id": 162,
+   "sender": "Jerry.z",
+   "content": "我们加下，如果有消息了我们互动下",
+   "type": "text"
+  },
+  {
+   "id": 1832,
+   "time": "2026-07-06 16:31",
+   "date": "2026-07-06",
+   "sender_id": 162,
+   "sender": "Jerry.z",
+   "content": "关键有一个还是空号郁闷",
+   "type": "text"
+  },
+  {
+   "id": 1831,
+   "time": "2026-07-06 16:31",
+   "date": "2026-07-06",
+   "sender_id": 162,
+   "sender": "Jerry.z",
+   "content": "是吧，你也没联系上吧，真是让人头大",
+   "type": "share"
+  },
+  {
+   "id": 1830,
+   "time": "2026-07-06 16:30",
+   "date": "2026-07-06",
+   "sender_id": 196,
+   "sender": "Eleven-小红书起号实战-柳古点",
+   "content": "你这个两个人和我一样，都没加上，看来他俩既报了虚拟资料，又报了小红书起号@Jerry.z ",
+   "type": "share"
+  },
+  {
+   "id": 1829,
+   "time": "2026-07-06 16:30",
+   "date": "2026-07-06",
+   "sender_id": 133,
+   "sender": "如意姑姑-ai带货-杜汭锜组",
+   "content": "昵称一样，但是微信号没对上，不知道是不是，你再确认",
+   "type": "share"
+  },
+  {
+   "id": 1828,
+   "time": "2026-07-06 16:30",
+   "date": "2026-07-06",
+   "sender_id": 141,
+   "sender": "金玲-AI一人公司-熙雾组",
+   "content": "这个学员也请大家帮忙捞一捞[抱拳]",
+   "type": "text"
+  },
+  {
+   "id": 1827,
+   "time": "2026-07-06 16:30",
+   "date": "2026-07-06",
+   "sender_id": 141,
+   "sender": "金玲-AI一人公司-熙雾组",
+   "content": "![图片](http://127.0.0.1:5030/image/6d5a6e976501ad5faed4d066d763b155,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/aa24a7f427c45d9cc8a0b7f8d76bfdef)",
+   "type": "image"
+  },
+  {
+   "id": 1826,
+   "time": "2026-07-06 16:28",
+   "date": "2026-07-06",
+   "sender_id": 133,
+   "sender": "如意姑姑-ai带货-杜汭锜组",
+   "content": "[名片]",
+   "type": "card"
+  },
+  {
+   "id": 1825,
+   "time": "2026-07-06 16:28",
+   "date": "2026-07-06",
+   "sender_id": 174,
+   "sender": "吴义松-codex行动营领队",
+   "content": "![图片](http://127.0.0.1:5030/image/2d63e6bf725d4cc3f76173780ed2883d,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/405b3d8f050f5a600ae9dd32e4d857a8)",
+   "type": "image"
+  },
+  {
+   "id": 1824,
+   "time": "2026-07-06 16:28",
+   "date": "2026-07-06",
+   "sender_id": 174,
+   "sender": "吴义松-codex行动营领队",
+   "content": "这个学员也请大家帮忙捞一捞[抱拳]",
+   "type": "text"
+  },
+  {
+   "id": 1823,
+   "time": "2026-07-06 16:28",
+   "date": "2026-07-06",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "AI设计",
+   "type": "share"
+  },
+  {
+   "id": 1822,
+   "time": "2026-07-06 16:28",
+   "date": "2026-07-06",
+   "sender_id": 194,
+   "sender": "AI内容工厂-小熊猫",
+   "content": "3Q",
+   "type": "text"
+  },
+  {
+   "id": 1821,
+   "time": "2026-07-06 16:27",
+   "date": "2026-07-06",
+   "sender_id": 194,
+   "sender": "AI内容工厂-小熊猫",
+   "content": "[OK]",
+   "type": "text"
+  }
+ ],
+ "total": 2120,
+ "page": 6,
+ "page_size": 50
+}

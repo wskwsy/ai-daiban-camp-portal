@@ -1,0 +1,52 @@
+{
+ "messages": [
+  {
+   "id": 768,
+   "time": "2026-06-26 22:20",
+   "date": "2026-06-26",
+   "sender_id": 37,
+   "sender": "Annia Shaw-领队",
+   "content": "我登录没出现需要手机验证 你可以试下用美区静态节Dian开全局试下 ",
+   "type": "text"
+  },
+  {
+   "id": 767,
+   "time": "2026-06-26 22:18",
+   "date": "2026-06-26",
+   "sender_id": 37,
+   "sender": "Annia Shaw-领队",
+   "content": "用接码平台",
+   "type": "share"
+  },
+  {
+   "id": 273,
+   "time": "2026-06-09 09:41",
+   "date": "2026-06-09",
+   "sender_id": 37,
+   "sender": "Annia Shaw-领队",
+   "content": "奈何有点贵",
+   "type": "share"
+  },
+  {
+   "id": 269,
+   "time": "2026-06-09 09:40",
+   "date": "2026-06-09",
+   "sender_id": 37,
+   "sender": "Annia Shaw-领队",
+   "content": "我一直用的是ADS",
+   "type": "text"
+  },
+  {
+   "id": 266,
+   "time": "2026-06-09 09:39",
+   "date": "2026-06-09",
+   "sender_id": 37,
+   "sender": "Annia Shaw-领队",
+   "content": "还有这个操作啊，几个人可以拼",
+   "type": "share"
+  }
+ ],
+ "total": 5,
+ "page": 1,
+ "page_size": 5
+}

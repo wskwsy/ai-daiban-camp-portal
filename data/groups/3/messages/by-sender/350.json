@@ -1,0 +1,97 @@
+{
+ "messages": [
+  {
+   "id": 33801,
+   "time": "2026-06-05 23:35",
+   "date": "2026-06-05",
+   "sender_id": 350,
+   "sender": "wish",
+   "content": "太好啦",
+   "type": "text"
+  },
+  {
+   "id": 3545,
+   "time": "2026-06-01 23:14",
+   "date": "2026-06-01",
+   "sender_id": 350,
+   "sender": "wish",
+   "content": "谢谢油姐的经验分享[爱心][爱心]",
+   "type": "text"
+  },
+  {
+   "id": 28113,
+   "time": "2026-04-13 17:29",
+   "date": "2026-04-13",
+   "sender_id": 350,
+   "sender": "wish",
+   "content": "恭喜🎉万物ai拍星球突破1500人🎉[烟花]",
+   "type": "text"
+  },
+  {
+   "id": 25652,
+   "time": "2026-03-12 21:41",
+   "date": "2026-03-12",
+   "sender_id": 350,
+   "sender": "wish",
+   "content": "1",
+   "type": "text"
+  },
+  {
+   "id": 23867,
+   "time": "2026-03-05 13:06",
+   "date": "2026-03-05",
+   "sender_id": 350,
+   "sender": "wish",
+   "content": "[分享]",
+   "type": "share"
+  },
+  {
+   "id": 17846,
+   "time": "2026-01-28 21:58",
+   "date": "2026-01-28",
+   "sender_id": 350,
+   "sender": "wish",
+   "content": "恭喜@令狐冲🙉（晚11点睡觉） 成为2026第一个推荐菜籽油战略家的销冠[庆祝][烟花]",
+   "type": "text"
+  },
+  {
+   "id": 17795,
+   "time": "2026-01-28 21:53",
+   "date": "2026-01-28",
+   "sender_id": 350,
+   "sender": "wish",
+   "content": "恭喜@令狐冲🙉（晚11点睡觉） 推荐战略家一枚，深度绑定菜籽油[庆祝][庆祝][庆祝]",
+   "type": "text"
+  },
+  {
+   "id": 17705,
+   "time": "2026-01-28 21:47",
+   "date": "2026-01-28",
+   "sender_id": 350,
+   "sender": "wish",
+   "content": "阿猫吗",
+   "type": "text"
+  },
+  {
+   "id": 10012,
+   "time": "2026-01-26 21:32",
+   "date": "2026-01-26",
+   "sender_id": 350,
+   "sender": "wish",
+   "content": "腊八节快乐[爱心][爱心][爱心]",
+   "type": "text"
+  },
+  {
+   "id": 15668,
+   "time": "2026-01-23 13:43",
+   "date": "2026-01-23",
+   "sender_id": 350,
+   "sender": "wish",
+   "content": "新年后，咱们一起开工大吉，一起在2026做出稳定的收入",
+   "type": "text"
+  }
+ ],
+ "total": 10,
+ "page": 1,
+ "page_size": 10
+}

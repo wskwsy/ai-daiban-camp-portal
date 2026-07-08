@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1805,
+   "time": "2026-07-06 16:19",
+   "date": "2026-07-06",
+   "sender_id": 193,
+   "sender": "爱学习的睿哥",
+   "content": "各位大哥大姐，帮帮忙，这位破局的圈友的微信号和手机号都联系不了。\n",
+   "type": "text"
+  },
+  {
+   "id": 1806,
+   "time": "2026-07-06 16:19",
+   "date": "2026-07-06",
+   "sender_id": 193,
+   "sender": "爱学习的睿哥",
+   "content": "![图片](http://127.0.0.1:5030/image/902142a0a7b3b0e5298ddd3b3f39fb45,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/64bab8934760611f5408adb888d11d37)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

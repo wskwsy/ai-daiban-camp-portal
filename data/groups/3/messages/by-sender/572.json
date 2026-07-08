@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 12288,
+   "time": "2026-01-06 16:30",
+   "date": "2026-01-06",
+   "sender_id": 572,
+   "sender": "Ai摄影海盐²",
+   "content": "认可",
+   "type": "share"
+  },
+  {
+   "id": 12269,
+   "time": "2026-01-06 16:24",
+   "date": "2026-01-06",
+   "sender_id": 572,
+   "sender": "Ai摄影海盐²",
+   "content": "在你身上学到老多了 虽然都没咋聊天 哈哈啊哈",
+   "type": "text"
+  },
+  {
+   "id": 12265,
+   "time": "2026-01-06 16:23",
+   "date": "2026-01-06",
+   "sender_id": 572,
+   "sender": "Ai摄影海盐²",
+   "content": "[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 12264,
+   "time": "2026-01-06 16:23",
+   "date": "2026-01-06",
+   "sender_id": 572,
+   "sender": "Ai摄影海盐²",
+   "content": "菜籽油 太牛了 ！！！！一直专注给人提供价值~~",
+   "type": "text"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

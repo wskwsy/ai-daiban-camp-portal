@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 4237,
+   "time": "2026-04-30 23:04",
+   "date": "2026-04-30",
+   "sender_id": 381,
+   "sender": "四季",
+   "content": "菜菜老师辛苦了早点休息",
+   "type": "text"
+  },
+  {
+   "id": 28816,
+   "time": "2026-04-19 13:17",
+   "date": "2026-04-19",
+   "sender_id": 381,
+   "sender": "四季",
+   "content": "[转账|发送 ￥9.90]",
+   "type": "share"
+  },
+  {
+   "id": 28540,
+   "time": "2026-04-16 20:56",
+   "date": "2026-04-16",
+   "sender_id": 381,
+   "sender": "四季",
+   "content": "[抱拳]",
+   "type": "text"
+  },
+  {
+   "id": 28539,
+   "time": "2026-04-16 20:56",
+   "date": "2026-04-16",
+   "sender_id": 381,
+   "sender": "四季",
+   "content": "谢谢大家",
+   "type": "text"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

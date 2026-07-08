@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 10561,
+   "time": "2026-01-21 13:30",
+   "date": "2026-01-21",
+   "sender_id": 550,
+   "sender": "豆小含的完美世界",
+   "content": "[红包]",
+   "type": "share"
+  },
+  {
+   "id": 10489,
+   "time": "2026-01-21 13:26",
+   "date": "2026-01-21",
+   "sender_id": 550,
+   "sender": "豆小含的完美世界",
+   "content": "[爱心]",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

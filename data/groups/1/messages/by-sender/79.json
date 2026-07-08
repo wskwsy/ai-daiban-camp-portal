@@ -1,0 +1,52 @@
+{
+ "messages": [
+  {
+   "id": 1954,
+   "time": "2026-07-06 19:53",
+   "date": "2026-07-06",
+   "sender_id": 79,
+   "sender": "Gary 陈家怡",
+   "content": "发了短信",
+   "type": "text"
+  },
+  {
+   "id": 1953,
+   "time": "2026-07-06 19:53",
+   "date": "2026-07-06",
+   "sender_id": 79,
+   "sender": "Gary 陈家怡",
+   "content": "@鸟儿 我也在加他",
+   "type": "text"
+  },
+  {
+   "id": 627,
+   "time": "2026-06-24 13:18",
+   "date": "2026-06-24",
+   "sender_id": 79,
+   "sender": "Gary 陈家怡",
+   "content": " 之前那个有一个月的延续",
+   "type": "text"
+  },
+  {
+   "id": 622,
+   "time": "2026-06-24 13:17",
+   "date": "2026-06-24",
+   "sender_id": 79,
+   "sender": "Gary 陈家怡",
+   "content": "@野生老肖 这里的几千块都进账了吗",
+   "type": "text"
+  },
+  {
+   "id": 616,
+   "time": "2026-06-24 13:13",
+   "date": "2026-06-24",
+   "sender_id": 79,
+   "sender": "Gary 陈家怡",
+   "content": "用GPT做中标概率很高",
+   "type": "text"
+  }
+ ],
+ "total": 5,
+ "page": 1,
+ "page_size": 5
+}

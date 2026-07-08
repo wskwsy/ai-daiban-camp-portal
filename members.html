@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#2563EB">
+<title>同营人 · AI 破局门户</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./assets/style.css?v=15">
+</head>
+<body data-page="members">
+
+<div class="bg-canvas"></div>
+<div class="bg-noise"></div>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a href="./index.html" class="brand">
+      <span class="mark">AI</span>
+      <span class="brand-text">
+        <span class="en">AI 破局 · 行动营</span>
+        <span class="zh" id="brandGroupName">AI破局门户</span>
+      </span>
+    </a>
+    <nav class="nav-links">
+      <a href="./index.html">首页</a>
+      <a href="./members.html" class="active">同营人</a>
+      <a href="./daily.html">每日精华</a>
+      <a href="./messages.html">消息</a>
+      <a href="./settings.html">设置</a>
+    </nav>
+    <div class="nav-actions">
+      <button class="theme-toggle" data-theme-btn aria-label="切换主题"><span class="theme-state">🌗</span></button>
+    </div>
+  </div>
+</header>
+
+<!-- Hero -->
+<section class="hero inner">
+  <div class="hero-inner">
+    <span class="eyebrow reveal"><span class="dot"></span>MEMBERS · 同营人名册</span>
+    <h1 class="h-title reveal d1">
+      <span class="num" id="mCount">0</span>位同营人，<br>各自带着<em>不同的能力</em>
+    </h1>
+    <div class="hero-group reveal d1" id="memberGroupName"></div>
+    <p class="h-sub reveal d2">
+      资料来自群内自我介绍，AI / 规则解析后可按能力、城市、关键词快速筛选。<br>
+      <button type="button" id="batchExtractBtn" class="btn btn-primary" style="margin-top:14px;padding:8px 18px;font-size:13px;width:auto;display:inline-flex">🤖 批量自动提取全营自我介绍</button>
+    </p>
+  </div>
+</section>
+
+<!-- Filters bar -->
+<div class="filters-bar">
+  <div class="filters-inner">
+    <label class="search-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="searchInput" type="search" placeholder="搜索昵称、城市、能力、关键词…">
+    </label>
+    <div class="filter-count" id="filterCount">共 <strong>0</strong> 位同营人</div>
+    <div class="tag-chips" id="tagChips"></div>
+  </div>
+</div>
+
+<!-- Members grid -->
+<main class="members-wrap">
+  <div class="members-inner">
+    <div class="members-grid" id="membersGrid">
+      <div class="loading">正在从群里读取同营人……</div>
+    </div>
+  </div>
+</main>
+
+<!-- Full intro modal -->
+<div id="introModal" class="modal" aria-hidden="true">
+  <div class="modal-backdrop"></div>
+  <div class="modal-card" role="dialog" aria-modal="true">
+    <button type="button" class="modal-close" aria-label="关闭">×</button>
+    <div class="modal-body" id="introModalBody"></div>
+  </div>
+</div>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <span class="brand">AI 破局门户 · AI Action Portal</span>
+    <span class="fine">名册字段由 AI / 规则引擎从群消息中提取，如有偏差可重新提取</span>
+  </div>
+</footer>
+
+<script>window.PORTAL_STATIC=true;window.PORTAL_STATIC_BUILD="20260708142430";</script>
+<script src="./assets/app.js?v=15"></script>
+</body>
+</html>

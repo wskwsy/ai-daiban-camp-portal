@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 9509,
+   "time": "2026-01-30 10:18",
+   "date": "2026-01-30",
+   "sender_id": 530,
+   "sender": "流西",
+   "content": "谢谢菜菜老师！谢谢三叶草老师辛苦啦~[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 9219,
+   "time": "2026-01-29 21:04",
+   "date": "2026-01-29",
+   "sender_id": 530,
+   "sender": "流西",
+   "content": "[爱心]",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

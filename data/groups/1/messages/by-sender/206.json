@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1949,
+   "time": "2026-07-06 19:48",
+   "date": "2026-07-06",
+   "sender_id": 206,
+   "sender": "地球AI｜曾子迪",
+   "content": "捞个人，电话，短信都触达了，目前还没有添加",
+   "type": "text"
+  },
+  {
+   "id": 1948,
+   "time": "2026-07-06 19:48",
+   "date": "2026-07-06",
+   "sender_id": 206,
+   "sender": "地球AI｜曾子迪",
+   "content": "![图片](http://127.0.0.1:5030/image/a89174e09b9821e29155bb73d71c0fcc,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/7d88f093023a1c926665f446fb05eaeb)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

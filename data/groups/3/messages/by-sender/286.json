@@ -1,0 +1,187 @@
+{
+ "messages": [
+  {
+   "id": 2403,
+   "time": "2026-06-23 22:06",
+   "date": "2026-06-23",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "[转账|发送 ￥89.00]",
+   "type": "share"
+  },
+  {
+   "id": 34543,
+   "time": "2026-06-13 14:18",
+   "date": "2026-06-13",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "欢迎@思文 新股东回家[爱心][爱心][爱心]",
+   "type": "text"
+  },
+  {
+   "id": 34528,
+   "time": "2026-06-13 14:16",
+   "date": "2026-06-13",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "欢迎@默水  新股东回家[爱心][爱心][爱心]",
+   "type": "text"
+  },
+  {
+   "id": 34512,
+   "time": "2026-06-13 14:05",
+   "date": "2026-06-13",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "菜菜老师，扫码进不去了",
+   "type": "share"
+  },
+  {
+   "id": 34169,
+   "time": "2026-06-10 10:10",
+   "date": "2026-06-10",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "祝菜菜老师早日康复，好好休息，身体第一~[爱心][玫瑰]",
+   "type": "text"
+  },
+  {
+   "id": 33859,
+   "time": "2026-06-06 09:08",
+   "date": "2026-06-06",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "想行动",
+   "type": "text"
+  },
+  {
+   "id": 32316,
+   "time": "2026-05-23 10:36",
+   "date": "2026-05-23",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "已阅读并认可",
+   "type": "text"
+  },
+  {
+   "id": 28930,
+   "time": "2026-04-19 20:26",
+   "date": "2026-04-19",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "[转账|发送 ￥9.90]",
+   "type": "share"
+  },
+  {
+   "id": 26035,
+   "time": "2026-03-14 12:37",
+   "date": "2026-03-14",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "我已确认，并遵守规则",
+   "type": "text"
+  },
+  {
+   "id": 5128,
+   "time": "2026-03-10 11:26",
+   "date": "2026-03-10",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "1",
+   "type": "text"
+  },
+  {
+   "id": 7045,
+   "time": "2026-03-06 15:17",
+   "date": "2026-03-06",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "[转账|发送 ￥39.90]",
+   "type": "share"
+  },
+  {
+   "id": 21560,
+   "time": "2026-02-21 16:59",
+   "date": "2026-02-21",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "[转账|发送 ￥56.00]",
+   "type": "share"
+  },
+  {
+   "id": 8746,
+   "time": "2026-02-06 13:38",
+   "date": "2026-02-06",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "已进群",
+   "type": "text"
+  },
+  {
+   "id": 18389,
+   "time": "2026-02-01 20:54",
+   "date": "2026-02-01",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "㊗望舒老师生日快乐[庆祝][庆祝]",
+   "type": "text"
+  },
+  {
+   "id": 17324,
+   "time": "2026-01-28 12:53",
+   "date": "2026-01-28",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "@菜籽油（24小时内尽量回复信息） 菜菜老师， 我要进涨粉群",
+   "type": "text"
+  },
+  {
+   "id": 16743,
+   "time": "2026-01-27 12:28",
+   "date": "2026-01-27",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "确认了一笔转账，当前微信版本不支持展示该内容。",
+   "type": "text"
+  },
+  {
+   "id": 16699,
+   "time": "2026-01-27 11:53",
+   "date": "2026-01-27",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "向他人发起了一笔转账，当前微信版本不支持展示该内容。",
+   "type": "text"
+  },
+  {
+   "id": 15659,
+   "time": "2026-01-23 13:42",
+   "date": "2026-01-23",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "新年后，咱们一起开工大吉，一起在2026做出稳定的收入",
+   "type": "text"
+  },
+  {
+   "id": 14037,
+   "time": "2026-01-19 20:36",
+   "date": "2026-01-19",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "[红包]",
+   "type": "share"
+  },
+  {
+   "id": 12633,
+   "time": "2026-01-08 17:30",
+   "date": "2026-01-08",
+   "sender_id": 286,
+   "sender": "Rose",
+   "content": "向他人发起了一笔转账，当前微信版本不支持展示该内容。",
+   "type": "text"
+  }
+ ],
+ "total": 20,
+ "page": 1,
+ "page_size": 20
+}

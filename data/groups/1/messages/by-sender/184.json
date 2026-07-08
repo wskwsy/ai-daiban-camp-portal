@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1634,
+   "time": "2026-07-06 11:31",
+   "date": "2026-07-06",
+   "sender_id": 184,
+   "sender": "阿宇",
+   "content": "![图片](http://127.0.0.1:5030/image/5e952a30c47947c582f6a529f7af5d68,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/23cc2df0f74b1ca7da7daabf51693bd2)",
+   "type": "image"
+  },
+  {
+   "id": 1633,
+   "time": "2026-07-06 11:31",
+   "date": "2026-07-06",
+   "sender_id": 184,
+   "sender": "阿宇",
+   "content": "这个通过我微信就没反应了",
+   "type": "share"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 1499,
+   "time": "2026-07-05 21:31",
+   "date": "2026-07-05",
+   "sender_id": 55,
+   "sender": "L-jiehui",
+   "content": "[憨笑]",
+   "type": "text"
+  },
+  {
+   "id": 1477,
+   "time": "2026-07-05 20:03",
+   "date": "2026-07-05",
+   "sender_id": 55,
+   "sender": "L-jiehui",
+   "content": "是的，有学员让拉大群和小群",
+   "type": "text"
+  },
+  {
+   "id": 1475,
+   "time": "2026-07-05 20:01",
+   "date": "2026-07-05",
+   "sender_id": 55,
+   "sender": "L-jiehui",
+   "content": "小红书虚拟产品的有了么",
+   "type": "text"
+  },
+  {
+   "id": 1474,
+   "time": "2026-07-05 20:01",
+   "date": "2026-07-05",
+   "sender_id": 55,
+   "sender": "L-jiehui",
+   "content": "大群是指所有学员的群吗？",
+   "type": "text"
+  },
+  {
+   "id": 518,
+   "time": "2026-06-24 10:14",
+   "date": "2026-06-24",
+   "sender_id": 55,
+   "sender": "L-jiehui",
+   "content": "+1，从哪里可以看到",
+   "type": "share"
+  },
+  {
+   "id": 458,
+   "time": "2026-06-24 09:48",
+   "date": "2026-06-24",
+   "sender_id": 55,
+   "sender": "L-jiehui",
+   "content": "之前分的AI TikTok是没有了么",
+   "type": "share"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

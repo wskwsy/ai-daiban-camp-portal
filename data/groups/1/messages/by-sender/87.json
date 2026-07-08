@@ -1,0 +1,70 @@
+{
+ "messages": [
+  {
+   "id": 1427,
+   "time": "2026-07-05 15:46",
+   "date": "2026-07-05",
+   "sender_id": 87,
+   "sender": "朱伟-全域AI带货-Annia组",
+   "content": "好的",
+   "type": "text"
+  },
+  {
+   "id": 1425,
+   "time": "2026-07-05 15:43",
+   "date": "2026-07-05",
+   "sender_id": 87,
+   "sender": "朱伟-全域AI带货-Annia组",
+   "content": "有没有人收到这个短信",
+   "type": "text"
+  },
+  {
+   "id": 1424,
+   "time": "2026-07-05 15:43",
+   "date": "2026-07-05",
+   "sender_id": 87,
+   "sender": "朱伟-全域AI带货-Annia组",
+   "content": "![图片](http://127.0.0.1:5030/image/bd34733f4e3bf42e2ae6bb69f46e1cf6,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/59751e196c6876bca104ddd4e4bc49bd)",
+   "type": "image"
+  },
+  {
+   "id": 1407,
+   "time": "2026-07-05 15:17",
+   "date": "2026-07-05",
+   "sender_id": 87,
+   "sender": "朱伟-全域AI带货-Annia组",
+   "content": "谢谢",
+   "type": "share"
+  },
+  {
+   "id": 1399,
+   "time": "2026-07-05 15:12",
+   "date": "2026-07-05",
+   "sender_id": 87,
+   "sender": "朱伟-全域AI带货-Annia组",
+   "content": "我是这样回复的：你哪个手机方便都可以，只能拉一个微信入群学习",
+   "type": "text"
+  },
+  {
+   "id": 1398,
+   "time": "2026-07-05 15:11",
+   "date": "2026-07-05",
+   "sender_id": 87,
+   "sender": "朱伟-全域AI带货-Annia组",
+   "content": "＃举手\n有学员问：你好，我前两天弄手机号绑定时，不小心把手机号绑到这个微信号上来了，我报名时填的不是这个微信号。我现在是直接用这个微信号学习还是换回以前的？",
+   "type": "text"
+  },
+  {
+   "id": 760,
+   "time": "2026-06-25 22:24",
+   "date": "2026-06-25",
+   "sender_id": 87,
+   "sender": "朱伟-全域AI带货-Annia组",
+   "content": "可惜了tk",
+   "type": "text"
+  }
+ ],
+ "total": 7,
+ "page": 1,
+ "page_size": 7
+}

@@ -1,0 +1,421 @@
+{
+ "messages": [
+  {
+   "id": 1841,
+   "time": "2026-07-06 16:56",
+   "date": "2026-07-06",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "这个不是能搜到吗",
+   "type": "text"
+  },
+  {
+   "id": 1840,
+   "time": "2026-07-06 16:56",
+   "date": "2026-07-06",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/63192510e1232add7af5b2c3768d863d,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/f55aa2208628cf701451030968865685)",
+   "type": "image"
+  },
+  {
+   "id": 1823,
+   "time": "2026-07-06 16:28",
+   "date": "2026-07-06",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "AI设计",
+   "type": "share"
+  },
+  {
+   "id": 1813,
+   "time": "2026-07-06 16:25",
+   "date": "2026-07-06",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "电话也加不上",
+   "type": "text"
+  },
+  {
+   "id": 1812,
+   "time": "2026-07-06 16:25",
+   "date": "2026-07-06",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "发了 不会",
+   "type": "text"
+  },
+  {
+   "id": 1808,
+   "time": "2026-07-06 16:25",
+   "date": "2026-07-06",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "捞人 碰到这种 wxid 的真头痛",
+   "type": "text"
+  },
+  {
+   "id": 1807,
+   "time": "2026-07-06 16:24",
+   "date": "2026-07-06",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/d7c42afdc0568dfe82a61bdfccb0be8e,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/d1c6ff832b9c6f5d5a896c946329a4d1)",
+   "type": "image"
+  },
+  {
+   "id": 1562,
+   "time": "2026-07-06 09:38",
+   "date": "2026-07-06",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "这个谁捞到了",
+   "type": "text"
+  },
+  {
+   "id": 1560,
+   "time": "2026-07-06 09:38",
+   "date": "2026-07-06",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/d997e556203123d9ff8f7e18138dfe09,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/544f0389e340e96530cab6a9d10529b6)",
+   "type": "image"
+  },
+  {
+   "id": 1505,
+   "time": "2026-07-05 21:45",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "好多微信不对，手机号不对的。。",
+   "type": "text"
+  },
+  {
+   "id": 1465,
+   "time": "2026-07-05 19:45",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "捞人，可有人加上了。微信昵称都没有。 手机号也加不上。",
+   "type": "text"
+  },
+  {
+   "id": 1464,
+   "time": "2026-07-05 19:45",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/a9c500cd0e992885b707fb5026007e24,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/2cd4039c02c4edae7c5d73ab36bfd31e)",
+   "type": "image"
+  },
+  {
+   "id": 1191,
+   "time": "2026-07-05 10:37",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "或者这个群里发下，可能有人之前加过他",
+   "type": "text"
+  },
+  {
+   "id": 1190,
+   "time": "2026-07-05 10:36",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "或者 打电话",
+   "type": "text"
+  },
+  {
+   "id": 1189,
+   "time": "2026-07-05 10:36",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "发短信 让他加你",
+   "type": "text"
+  },
+  {
+   "id": 1185,
+   "time": "2026-07-05 10:33",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "我是老号",
+   "type": "text"
+  },
+  {
+   "id": 1184,
+   "time": "2026-07-05 10:33",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "我一次性加了33个",
+   "type": "text"
+  },
+  {
+   "id": 1172,
+   "time": "2026-07-05 10:28",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "1天20个 别加太多",
+   "type": "share"
+  },
+  {
+   "id": 1149,
+   "time": "2026-07-05 10:21",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/e4f1e2e1e67aff2b97363cfee28279fd,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/c89f9ab243cf886fc59804d89acbf596)",
+   "type": "image"
+  },
+  {
+   "id": 1147,
+   "time": "2026-07-05 10:20",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "带货里面教",
+   "type": "text"
+  },
+  {
+   "id": 1146,
+   "time": "2026-07-05 10:20",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "AI 短视频 我觉得可以放弃了",
+   "type": "text"
+  },
+  {
+   "id": 1101,
+   "time": "2026-07-05 09:28",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "谢谢",
+   "type": "share"
+  },
+  {
+   "id": 1095,
+   "time": "2026-07-05 09:18",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "怎么都是姓胡的。。。",
+   "type": "text"
+  },
+  {
+   "id": 1094,
+   "time": "2026-07-05 09:18",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/2b9b6e1860b7202c5d54ff4929664309,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/96de295df68be70605c31d12fa7bbc80)",
+   "type": "image"
+  },
+  {
+   "id": 1079,
+   "time": "2026-07-05 08:40",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/df2e766c08804a43e382f62b1c0eacaa,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/4dcbc6a96244b839e50358b2ec9cfd5d)",
+   "type": "image"
+  },
+  {
+   "id": 1078,
+   "time": "2026-07-05 08:40",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "捞人 可有加过的",
+   "type": "text"
+  },
+  {
+   "id": 1076,
+   "time": "2026-07-05 08:28",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "为啥我不能下拉",
+   "type": "text"
+  },
+  {
+   "id": 1074,
+   "time": "2026-07-05 08:26",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "你们下拉能用吗？",
+   "type": "text"
+  },
+  {
+   "id": 1073,
+   "time": "2026-07-05 08:26",
+   "date": "2026-07-05",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/3922c8c3c969196342d8bcaeda507872,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/23e456a8e6d3dbb1a93f98db6a239442)",
+   "type": "image"
+  },
+  {
+   "id": 555,
+   "time": "2026-06-24 10:30",
+   "date": "2026-06-24",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "都缺钱",
+   "type": "text"
+  },
+  {
+   "id": 470,
+   "time": "2026-06-24 09:56",
+   "date": "2026-06-24",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "还有4分钟",
+   "type": "text"
+  },
+  {
+   "id": 463,
+   "time": "2026-06-24 09:50",
+   "date": "2026-06-24",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "https://aipoju.com/action",
+   "type": "text"
+  },
+  {
+   "id": 332,
+   "time": "2026-06-10 10:43",
+   "date": "2026-06-10",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "ads 是啥",
+   "type": "share"
+  },
+  {
+   "id": 195,
+   "time": "2026-06-08 18:03",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "20% 净利润 差不多",
+   "type": "text"
+  },
+  {
+   "id": 192,
+   "time": "2026-06-08 17:59",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "还没到那个量",
+   "type": "text"
+  },
+  {
+   "id": 188,
+   "time": "2026-06-08 17:58",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "一件代发啊",
+   "type": "share"
+  },
+  {
+   "id": 183,
+   "time": "2026-06-08 17:56",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "训练营我看回放了 主要我是跟卖卖",
+   "type": "share"
+  },
+  {
+   "id": 181,
+   "time": "2026-06-08 17:55",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "8000 左右货赚 2500↔️ 2 个月",
+   "type": "text"
+  },
+  {
+   "id": 173,
+   "time": "2026-06-08 17:53",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "不是跟卖",
+   "type": "text"
+  },
+  {
+   "id": 171,
+   "time": "2026-06-08 17:52",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "没 我做精铺",
+   "type": "share"
+  },
+  {
+   "id": 161,
+   "time": "2026-06-08 17:49",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "现在自己琢磨自动化俄罗斯电商",
+   "type": "text"
+  },
+  {
+   "id": 159,
+   "time": "2026-06-08 17:49",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "自己瞎做的 2 个月了 提现一次",
+   "type": "text"
+  },
+  {
+   "id": 157,
+   "time": "2026-06-08 17:49",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/d247330f2c5729df15df73889cf9e9f7,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/f4f1c8af15fec4513a0c1e1679d51a0c)",
+   "type": "image"
+  },
+  {
+   "id": 118,
+   "time": "2026-06-08 17:29",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "感觉挺不错的。",
+   "type": "text"
+  },
+  {
+   "id": 117,
+   "time": "2026-06-08 17:29",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "这个电商这一期还有没？",
+   "type": "text"
+  },
+  {
+   "id": 114,
+   "time": "2026-06-08 17:10",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "不可以，说了 要公司",
+   "type": "share"
+  }
+ ],
+ "total": 46,
+ "page": 1,
+ "page_size": 46
+}

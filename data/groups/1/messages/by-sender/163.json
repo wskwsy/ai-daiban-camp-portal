@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 1491,
+   "time": "2026-07-05 21:11",
+   "date": "2026-07-05",
+   "sender_id": 163,
+   "sender": "哈哈姐+小红书虚拟资料+志愿者",
+   "content": "![图片](http://127.0.0.1:5030/image/3740eed0b1d1151589c4ba5db6c87174,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/ef41a90613f184861731b03a727ce520)",
+   "type": "image"
+  },
+  {
+   "id": 1483,
+   "time": "2026-07-05 21:02",
+   "date": "2026-07-05",
+   "sender_id": 163,
+   "sender": "哈哈姐+小红书虚拟资料+志愿者",
+   "content": "捞人",
+   "type": "text"
+  },
+  {
+   "id": 1482,
+   "time": "2026-07-05 21:02",
+   "date": "2026-07-05",
+   "sender_id": 163,
+   "sender": "哈哈姐+小红书虚拟资料+志愿者",
+   "content": "![图片](http://127.0.0.1:5030/image/dc82566c9a35080f44eea17d22f5350c,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/0d09fc2b0f45b12d69c1ba89d55bb5d2)",
+   "type": "image"
+  },
+  {
+   "id": 1480,
+   "time": "2026-07-05 20:43",
+   "date": "2026-07-05",
+   "sender_id": 163,
+   "sender": "哈哈姐+小红书虚拟资料+志愿者",
+   "content": "![图片](http://127.0.0.1:5030/image/8d24b476a6aa1e4eb9cfdfff1c8263c3,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/08bb5b56578de49c7fc21fc02dec15fd)",
+   "type": "image"
+  },
+  {
+   "id": 1479,
+   "time": "2026-07-05 20:43",
+   "date": "2026-07-05",
+   "sender_id": 163,
+   "sender": "哈哈姐+小红书虚拟资料+志愿者",
+   "content": "捞人，有人加了他微信吗",
+   "type": "text"
+  },
+  {
+   "id": 1478,
+   "time": "2026-07-05 20:43",
+   "date": "2026-07-05",
+   "sender_id": 163,
+   "sender": "哈哈姐+小红书虚拟资料+志愿者",
+   "content": "![图片](http://127.0.0.1:5030/image/a957b6bf9dcc3f63eed1c6ae6e1fa088,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/c8e85e5f3d9c101103dc6916e9100ab7)",
+   "type": "image"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

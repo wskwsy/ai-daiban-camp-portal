@@ -1,0 +1,16 @@
+{
+ "messages": [
+  {
+   "id": 2385,
+   "time": "2026-06-23 21:48",
+   "date": "2026-06-23",
+   "sender_id": 278,
+   "sender": "柏年天下",
+   "content": "[转账|发送 ￥89.00]",
+   "type": "share"
+  }
+ ],
+ "total": 1,
+ "page": 1,
+ "page_size": 1
+}

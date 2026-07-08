@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 180,
+   "time": "2026-06-08 17:54",
+   "date": "2026-06-08",
+   "sender_id": 8,
+   "sender": "泰山Ai",
+   "content": "你要是压30万，日入8000没问题",
+   "type": "text"
+  },
+  {
+   "id": 175,
+   "time": "2026-06-08 17:53",
+   "date": "2026-06-08",
+   "sender_id": 8,
+   "sender": "泰山Ai",
+   "content": "我给你个网址",
+   "type": "text"
+  },
+  {
+   "id": 122,
+   "time": "2026-06-08 17:31",
+   "date": "2026-06-08",
+   "sender_id": 8,
+   "sender": "泰山Ai",
+   "content": "有家底的可以做",
+   "type": "text"
+  },
+  {
+   "id": 121,
+   "time": "2026-06-08 17:31",
+   "date": "2026-06-08",
+   "sender_id": 8,
+   "sender": "泰山Ai",
+   "content": "我们这有做的，确实挣钱但是押款也很厉害",
+   "type": "text"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

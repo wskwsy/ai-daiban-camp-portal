@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 1490,
+   "time": "2026-07-05 21:11",
+   "date": "2026-07-05",
+   "sender_id": 28,
+   "sender": "清心～小红书起号～柳古点组",
+   "content": "@金花 谢谢[抱拳][抱拳]",
+   "type": "text"
+  },
+  {
+   "id": 1485,
+   "time": "2026-07-05 21:06",
+   "date": "2026-07-05",
+   "sender_id": 28,
+   "sender": "清心～小红书起号～柳古点组",
+   "content": "谁有这个宝子的微信呀？我这儿微信加不上，电话加完名字不对，电话不接！",
+   "type": "text"
+  },
+  {
+   "id": 1484,
+   "time": "2026-07-05 21:05",
+   "date": "2026-07-05",
+   "sender_id": 28,
+   "sender": "清心～小红书起号～柳古点组",
+   "content": "![图片](http://127.0.0.1:5030/image/ee014d7bd65a4247318b563df8e5e0da,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/2752fad9ad94acad9d5bfc95f8519161)",
+   "type": "image"
+  },
+  {
+   "id": 479,
+   "time": "2026-06-24 10:01",
+   "date": "2026-06-24",
+   "sender_id": 28,
+   "sender": "清心～小红书起号～柳古点组",
+   "content": "押金不退的",
+   "type": "text"
+  },
+  {
+   "id": 475,
+   "time": "2026-06-24 10:01",
+   "date": "2026-06-24",
+   "sender_id": 28,
+   "sender": "清心～小红书起号～柳古点组",
+   "content": "![图片](http://127.0.0.1:5030/image/af4dac07c1b2a004377737712a8914e0,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/93a5da3c15ef9b343bcfeadd5c9ad831)",
+   "type": "image"
+  },
+  {
+   "id": 241,
+   "time": "2026-06-08 21:24",
+   "date": "2026-06-08",
+   "sender_id": 28,
+   "sender": "清心～小红书起号～柳古点组",
+   "content": "我也是[耶]",
+   "type": "text"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

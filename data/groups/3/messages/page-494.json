@@ -1,0 +1,457 @@
+{
+ "messages": [
+  {
+   "id": 9035,
+   "time": "2026-02-06 23:01",
+   "date": "2026-02-06",
+   "sender_id": 358,
+   "sender": "梁冠绬",
+   "content": "5 年前的手机",
+   "type": "text"
+  },
+  {
+   "id": 9034,
+   "time": "2026-02-06 23:01",
+   "date": "2026-02-06",
+   "sender_id": 358,
+   "sender": "梁冠绬",
+   "content": "![图片](http://127.0.0.1:5030/image/7a3e2c57dd35c1c05f406d08a2f3a4a5,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/1304c3726ec0f8cca0c00f750dee2ed0)",
+   "type": "image"
+  },
+  {
+   "id": 9033,
+   "time": "2026-02-06 22:56",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "@一只幸运🐱 不聊天哈",
+   "type": "text"
+  },
+  {
+   "id": 9031,
+   "time": "2026-02-06 22:56",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "去的敦煌莫高窟吗",
+   "type": "text"
+  },
+  {
+   "id": 9032,
+   "time": "2026-02-06 22:56",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "其实我就不爱拍照😂没人发现吗？我拍照美颜都懒得用",
+   "type": "text"
+  },
+  {
+   "id": 9030,
+   "time": "2026-02-06 22:55",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "我不喜欢什么事都发朋友圈[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 9029,
+   "time": "2026-02-06 22:55",
+   "date": "2026-02-06",
+   "sender_id": 237,
+   "sender": "系统消息",
+   "content": "\"橘子\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 9028,
+   "time": "2026-02-06 22:55",
+   "date": "2026-02-06",
+   "sender_id": 237,
+   "sender": "系统消息",
+   "content": "\"橘子\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 9027,
+   "time": "2026-02-06 22:55",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "没看你发朋友圈啊",
+   "type": "text"
+  },
+  {
+   "id": 9026,
+   "time": "2026-02-06 22:55",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "[尴尬][尴尬]",
+   "type": "text"
+  },
+  {
+   "id": 9025,
+   "time": "2026-02-06 22:55",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "这是多久没关注我们啊",
+   "type": "text"
+  },
+  {
+   "id": 9024,
+   "time": "2026-02-06 22:55",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "@一只幸运🐱 敦煌不都去完了吗？",
+   "type": "text"
+  },
+  {
+   "id": 9023,
+   "time": "2026-02-06 22:54",
+   "date": "2026-02-06",
+   "sender_id": 271,
+   "sender": "淼林成意",
+   "content": "看来要去买手机去啦[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 9022,
+   "time": "2026-02-06 22:54",
+   "date": "2026-02-06",
+   "sender_id": 271,
+   "sender": "淼林成意",
+   "content": "哇塞  感谢菜菜老师[哇]",
+   "type": "share"
+  },
+  {
+   "id": 9021,
+   "time": "2026-02-06 22:53",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "啥时候去敦煌",
+   "type": "text"
+  },
+  {
+   "id": 9020,
+   "time": "2026-02-06 22:53",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "写作进行的怎么样了",
+   "type": "text"
+  },
+  {
+   "id": 9019,
+   "time": "2026-02-06 22:53",
+   "date": "2026-02-06",
+   "sender_id": 327,
+   "sender": "沐晨🍀",
+   "content": "我明天找找家里的老手机",
+   "type": "text"
+  },
+  {
+   "id": 9018,
+   "time": "2026-02-06 22:52",
+   "date": "2026-02-06",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "说是短剧一级授权商",
+   "type": "text"
+  },
+  {
+   "id": 9017,
+   "time": "2026-02-06 22:52",
+   "date": "2026-02-06",
+   "sender_id": 302,
+   "sender": "I7",
+   "content": "安卓6的能不 ",
+   "type": "share"
+  },
+  {
+   "id": 9016,
+   "time": "2026-02-06 22:52",
+   "date": "2026-02-06",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "不是代运营",
+   "type": "share"
+  },
+  {
+   "id": 9015,
+   "time": "2026-02-06 22:52",
+   "date": "2026-02-06",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "你真得好心",
+   "type": "share"
+  },
+  {
+   "id": 9014,
+   "time": "2026-02-06 22:52",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "就是纯带大家了",
+   "type": "text"
+  },
+  {
+   "id": 9013,
+   "time": "2026-02-06 22:52",
+   "date": "2026-02-06",
+   "sender_id": 240,
+   "sender": "筱宇",
+   "content": "有些代运营也不靠谱",
+   "type": "share"
+  },
+  {
+   "id": 9012,
+   "time": "2026-02-06 22:52",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "比如有人骂我，大家也没去跟风骂我，所以我的每个项目，都是没赚大家钱",
+   "type": "text"
+  },
+  {
+   "id": 9011,
+   "time": "2026-02-06 22:51",
+   "date": "2026-02-06",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "主要是他不诚实",
+   "type": "share"
+  },
+  {
+   "id": 9010,
+   "time": "2026-02-06 22:51",
+   "date": "2026-02-06",
+   "sender_id": 271,
+   "sender": "淼林成意",
+   "content": "哇",
+   "type": "text"
+  },
+  {
+   "id": 9009,
+   "time": "2026-02-06 22:51",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "因为这个是果实群，大家都对我很好",
+   "type": "text"
+  },
+  {
+   "id": 9008,
+   "time": "2026-02-06 22:51",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "@大婷婷 其实他放市场上他要几千块也正常",
+   "type": "text"
+  },
+  {
+   "id": 9007,
+   "time": "2026-02-06 22:51",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "你们直接找以前旧手机，家里不用的老手机",
+   "type": "text"
+  },
+  {
+   "id": 9006,
+   "time": "2026-02-06 22:51",
+   "date": "2026-02-06",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "我一听就不靠谱",
+   "type": "text"
+  },
+  {
+   "id": 9005,
+   "time": "2026-02-06 22:51",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "好厉害",
+   "type": "text"
+  },
+  {
+   "id": 9004,
+   "time": "2026-02-06 22:50",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "油姐精力真旺盛啊，弄了这么多项目",
+   "type": "text"
+  },
+  {
+   "id": 9003,
+   "time": "2026-02-06 22:50",
+   "date": "2026-02-06",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "短剧",
+   "type": "text"
+  },
+  {
+   "id": 9002,
+   "time": "2026-02-06 22:50",
+   "date": "2026-02-06",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "我之前差点儿交了大几千",
+   "type": "text"
+  },
+  {
+   "id": 9001,
+   "time": "2026-02-06 22:50",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/1f59ac715c079d13e9ee9f509bf751ec,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/3794fee91e28f1869c3de7b76205ff88)",
+   "type": "image"
+  },
+  {
+   "id": 9000,
+   "time": "2026-02-06 22:50",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/6fbf4c7ef168f42d83510071bfab0e9f,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/a3d512392f03d38d6437bc8e7ec16d3b)",
+   "type": "image"
+  },
+  {
+   "id": 8999,
+   "time": "2026-02-06 22:50",
+   "date": "2026-02-06",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "油姐，你太厉害了",
+   "type": "text"
+  },
+  {
+   "id": 8998,
+   "time": "2026-02-06 22:50",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "因为人家聚焦",
+   "type": "text"
+  },
+  {
+   "id": 8997,
+   "time": "2026-02-06 22:50",
+   "date": "2026-02-06",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "这得多老的机子[破涕为笑]",
+   "type": "share"
+  },
+  {
+   "id": 8996,
+   "time": "2026-02-06 22:50",
+   "date": "2026-02-06",
+   "sender_id": 419,
+   "sender": "冉冉",
+   "content": "明天看看婆婆的旧手机适合不[偷笑]",
+   "type": "text"
+  },
+  {
+   "id": 8995,
+   "time": "2026-02-06 22:50",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "就跟明星带货一样，为啥人家出单快",
+   "type": "text"
+  },
+  {
+   "id": 8994,
+   "time": "2026-02-06 22:49",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "核心就是保护大家的注意力",
+   "type": "text"
+  },
+  {
+   "id": 8993,
+   "time": "2026-02-06 22:49",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "😂",
+   "type": "text"
+  },
+  {
+   "id": 8992,
+   "time": "2026-02-06 22:49",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[捂脸]短期的，发陪伴群免费学，押金都不收",
+   "type": "text"
+  },
+  {
+   "id": 8991,
+   "time": "2026-02-06 22:49",
+   "date": "2026-02-06",
+   "sender_id": 271,
+   "sender": "淼林成意",
+   "content": "可以把型号发给豆包问一下，这个更清楚[嘿哈]",
+   "type": "share"
+  },
+  {
+   "id": 8990,
+   "time": "2026-02-06 22:48",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "短期项目，不推了，耗费心力精力，折磨人的精神",
+   "type": "text"
+  },
+  {
+   "id": 8989,
+   "time": "2026-02-06 22:48",
+   "date": "2026-02-06",
+   "sender_id": 327,
+   "sender": "沐晨🍀",
+   "content": "14，好像不行",
+   "type": "text"
+  },
+  {
+   "id": 8988,
+   "time": "2026-02-06 22:48",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "今年我们的项目，核心就是长期项目，变现持久项目",
+   "type": "text"
+  },
+  {
+   "id": 8987,
+   "time": "2026-02-06 22:47",
+   "date": "2026-02-06",
+   "sender_id": 327,
+   "sender": "沐晨🍀",
+   "content": "![图片](http://127.0.0.1:5030/image/f9999015edce2e23cd4a0190135337d8,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/d4a5e96312dceab8cddf52b077e7c449)",
+   "type": "image"
+  },
+  {
+   "id": 8986,
+   "time": "2026-02-06 22:47",
+   "date": "2026-02-06",
+   "sender_id": 327,
+   "sender": "沐晨🍀",
+   "content": "我的可以吗？",
+   "type": "text"
+  }
+ ],
+ "total": 34567,
+ "page": 494,
+ "page_size": 50
+}

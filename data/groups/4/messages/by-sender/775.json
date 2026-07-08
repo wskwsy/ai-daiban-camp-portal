@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 36995,
+   "time": "2025-12-28 19:17",
+   "date": "2025-12-28",
+   "sender_id": 775,
+   "sender": "Devin-武",
+   "content": "热烈欢迎我们的教练天团[庆祝][烟花][礼物]",
+   "type": "text"
+  },
+  {
+   "id": 36951,
+   "time": "2025-12-28 18:06",
+   "date": "2025-12-28",
+   "sender_id": 775,
+   "sender": "Devin-武",
+   "content": "![动画表情](http://wxapp.tc.qq.com/275/20304/stodownload?m=eb5bf0666e7b6e5c7bb71c29a9ff807d&filekey=30350201010421301f02020113040253480410eb5bf0666e7b6e5c7bb71c29a9ff807d0203022a6b040d00000004627466730000000132&hy=SH&storeid=267aca4c40006f0b8b43c15930000011300004f50534829660b01e6bba8b7a&bizid=1023)",
+   "type": "sticker"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

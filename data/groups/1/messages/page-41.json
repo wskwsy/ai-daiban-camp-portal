@@ -1,0 +1,457 @@
+{
+ "messages": [
+  {
+   "id": 120,
+   "time": "2026-06-08 17:31",
+   "date": "2026-06-08",
+   "sender_id": 7,
+   "sender": "红杉",
+   "content": "看来挺赚钱啊",
+   "type": "text"
+  },
+  {
+   "id": 119,
+   "time": "2026-06-08 17:31",
+   "date": "2026-06-08",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "没有了",
+   "type": "share"
+  },
+  {
+   "id": 118,
+   "time": "2026-06-08 17:29",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "感觉挺不错的。",
+   "type": "text"
+  },
+  {
+   "id": 117,
+   "time": "2026-06-08 17:29",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "这个电商这一期还有没？",
+   "type": "text"
+  },
+  {
+   "id": 116,
+   "time": "2026-06-08 17:12",
+   "date": "2026-06-08",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "[捂脸]就是这往期学员问题比较多，还问我为什么呢",
+   "type": "text"
+  },
+  {
+   "id": 115,
+   "time": "2026-06-08 17:11",
+   "date": "2026-06-08",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "已经跟她说了",
+   "type": "text"
+  },
+  {
+   "id": 114,
+   "time": "2026-06-08 17:10",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "不可以，说了 要公司",
+   "type": "share"
+  },
+  {
+   "id": 112,
+   "time": "2026-06-08 17:05",
+   "date": "2026-06-08",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "👌🏻",
+   "type": "text"
+  },
+  {
+   "id": 113,
+   "time": "2026-06-08 17:05",
+   "date": "2026-06-08",
+   "sender_id": 4,
+   "sender": "Lily -公众号漫画-杜汭锜组",
+   "content": "一定要公司",
+   "type": "text"
+  },
+  {
+   "id": 111,
+   "time": "2026-06-08 17:05",
+   "date": "2026-06-08",
+   "sender_id": 3,
+   "sender": "声而不凡-公众号漫画工作流-鸟儿组",
+   "content": "@伴月 要公司的才行",
+   "type": "text"
+  },
+  {
+   "id": 110,
+   "time": "2026-06-08 17:04",
+   "date": "2026-06-08",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "跨境电商那个课程里面提到在俄罗斯平台做电商需要开通企业营业执照。那开个体工商户执照是不是也可以呢？还是说一定要开有限公司的",
+   "type": "text"
+  },
+  {
+   "id": 109,
+   "time": "2026-06-08 17:04",
+   "date": "2026-06-08",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "![图片](http://127.0.0.1:5030/image/69327f5cb170bc736aac3044582dd1ac,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/73cb44c5727b56adb935d92f6a4a0a97)",
+   "type": "image"
+  },
+  {
+   "id": 108,
+   "time": "2026-06-08 17:04",
+   "date": "2026-06-08",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "有位往期的学员咨询，报名的问题",
+   "type": "text"
+  },
+  {
+   "id": 107,
+   "time": "2026-06-08 16:06",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Cherry\"邀请\"长风\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 106,
+   "time": "2026-06-08 16:04",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Cherry\"邀请\"小草\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 105,
+   "time": "2026-06-08 15:42",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"悔海拾萃\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 104,
+   "time": "2026-06-08 15:34",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Cherry\"邀请\"blue～blood（AI进化版）\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 103,
+   "time": "2026-06-08 15:33",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Cherry\"邀请\"张宇华\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 102,
+   "time": "2026-06-08 15:31",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渔子清\"邀请\"老朱（独善其身）\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 101,
+   "time": "2026-06-08 14:46",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"一方\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 100,
+   "time": "2026-06-08 14:03",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"Blue蓝蓝\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 99,
+   "time": "2026-06-08 11:46",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"朱朱\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 98,
+   "time": "2026-06-08 11:04",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"Xuᴗue\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 97,
+   "time": "2026-06-08 10:54",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Annia Shaw-领队 \"邀请\"宏源@数字-小红书n8n志愿者\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 96,
+   "time": "2026-06-08 09:30",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"皮卡丘大哥\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 95,
+   "time": "2026-06-08 09:23",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"jyxer\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 94,
+   "time": "2026-06-08 09:21",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"黄可\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 93,
+   "time": "2026-06-08 09:19",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"十三行图\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 92,
+   "time": "2026-06-08 09:10",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"国哥AI\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 91,
+   "time": "2026-06-08 09:08",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"横笛\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 90,
+   "time": "2026-06-08 09:07",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"俊\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 89,
+   "time": "2026-06-08 09:07",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"海边的曼彻斯特\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 88,
+   "time": "2026-06-08 09:06",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"晏闻艺\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 87,
+   "time": "2026-06-08 07:44",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Annia Shaw-领队 \"邀请\"忠陆先森\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 86,
+   "time": "2026-06-08 07:39",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"杜汭锜（ruì qí）-08期领队\"邀请\"陌上花开\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 85,
+   "time": "2026-06-08 01:09",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"海盐蓝\"邀请\"谢华\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 84,
+   "time": "2026-06-07 23:28",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"文武双全\"邀请\"小可\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 83,
+   "time": "2026-06-07 23:20",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Annia Shaw-领队 \"邀请\"天朋彬帅👌赵彬\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 82,
+   "time": "2026-06-07 23:03",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"羽晗\"邀请\"清群\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 81,
+   "time": "2026-06-07 22:51",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"羽晗\"邀请\"Amy\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 80,
+   "time": "2026-06-07 22:14",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"浮生若梦\"邀请\"怀瑾-openclaw获客志愿者\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 79,
+   "time": "2026-06-07 21:53",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Cherry\"邀请\"忘忧\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 78,
+   "time": "2026-06-07 21:47",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"羽晗\"邀请\"sun\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 77,
+   "time": "2026-06-07 21:43",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"羽晗\"邀请\"小九\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 76,
+   "time": "2026-06-07 21:31",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Cherry\"邀请\"乘枫\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 75,
+   "time": "2026-06-07 21:06",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"浮生若梦\"邀请\"老张\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 74,
+   "time": "2026-06-07 20:59",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"羽晗\"邀请\"微微笑\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 73,
+   "time": "2026-06-07 20:53",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"浮生若梦\"邀请\"光军\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 72,
+   "time": "2026-06-07 20:42",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"浮生若梦\"邀请\"a！舞歌\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 71,
+   "time": "2026-06-07 20:38",
+   "date": "2026-06-07",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"宁伊\"邀请\"小光 | 视觉变现操盘手\"加入了群聊",
+   "type": "system"
+  }
+ ],
+ "total": 2120,
+ "page": 41,
+ "page_size": 50
+}

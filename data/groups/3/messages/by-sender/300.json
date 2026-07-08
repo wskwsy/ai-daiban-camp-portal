@@ -1,0 +1,115 @@
+{
+ "messages": [
+  {
+   "id": 2435,
+   "time": "2026-06-23 23:17",
+   "date": "2026-06-23",
+   "sender_id": 300,
+   "sender": "MO_ST",
+   "content": "[转账|发送 ￥89.00]",
+   "type": "share"
+  },
+  {
+   "id": 33864,
+   "time": "2026-06-06 11:04",
+   "date": "2026-06-06",
+   "sender_id": 300,
+   "sender": "MO_ST",
+   "content": "想行动",
+   "type": "text"
+  },
+  {
+   "id": 33746,
+   "time": "2026-06-04 22:43",
+   "date": "2026-06-04",
+   "sender_id": 300,
+   "sender": "MO_ST",
+   "content": "[转账|发送 ￥99.00]",
+   "type": "share"
+  },
+  {
+   "id": 4402,
+   "time": "2026-05-01 10:32",
+   "date": "2026-05-01",
+   "sender_id": 300,
+   "sender": "MO_ST",
+   "content": "收到了 谢谢菜菜老师[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 28874,
+   "time": "2026-04-19 13:55",
+   "date": "2026-04-19",
+   "sender_id": 300,
+   "sender": "MO_ST",
+   "content": "[转账|发送 ￥9.90]",
+   "type": "share"
+  },
+  {
+   "id": 28152,
+   "time": "2026-04-13 18:44",
+   "date": "2026-04-13",
+   "sender_id": 300,
+   "sender": "MO_ST",
+   "content": "[转账|接收 ￥19.00]",
+   "type": "share"
+  },
+  {
+   "id": 28135,
+   "time": "2026-04-13 18:12",
+   "date": "2026-04-13",
+   "sender_id": 300,
+   "sender": "MO_ST",
+   "content": "![图片](http://127.0.0.1:5030/image/e4cdebb4f87e2681f84e87adcfc639cf,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-04/Img/aa50ebca74de29f7cdf8c1e1c1903f68)",
+   "type": "image"
+  },
+  {
+   "id": 23073,
+   "time": "2026-03-01 16:02",
+   "date": "2026-03-01",
+   "sender_id": 300,
+   "sender": "MO_ST",
+   "content": "[转账|发送 ￥39.90]",
+   "type": "share"
+  },
+  {
+   "id": 22694,
+   "time": "2026-02-27 19:59",
+   "date": "2026-02-27",
+   "sender_id": 300,
+   "sender": "MO_ST",
+   "content": "[分享]",
+   "type": "share"
+  },
+  {
+   "id": 6484,
+   "time": "2026-02-26 08:25",
+   "date": "2026-02-26",
+   "sender_id": 300,
+   "sender": "MO_ST",
+   "content": "[转账|发送 ￥56.00]",
+   "type": "share"
+  },
+  {
+   "id": 14019,
+   "time": "2026-01-19 20:01",
+   "date": "2026-01-19",
+   "sender_id": 300,
+   "sender": "MO_ST",
+   "content": "[红包]",
+   "type": "share"
+  },
+  {
+   "id": 12753,
+   "time": "2026-01-08 20:45",
+   "date": "2026-01-08",
+   "sender_id": 300,
+   "sender": "MO_ST",
+   "content": "向他人发起了一笔转账，当前微信版本不支持展示该内容。",
+   "type": "text"
+  }
+ ],
+ "total": 12,
+ "page": 1,
+ "page_size": 12
+}

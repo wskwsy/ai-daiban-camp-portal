@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1362,
+   "time": "2026-07-05 13:50",
+   "date": "2026-07-05",
+   "sender_id": 151,
+   "sender": "小卫",
+   "content": "![图片](http://127.0.0.1:5030/image/75c6aa6ffaca6b428df96d9498d7b72a,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/430da8676e1f27323ac049b5835ef4b7)",
+   "type": "image"
+  },
+  {
+   "id": 1363,
+   "time": "2026-07-05 13:50",
+   "date": "2026-07-05",
+   "sender_id": 151,
+   "sender": "小卫",
+   "content": "捞人 联系不上",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

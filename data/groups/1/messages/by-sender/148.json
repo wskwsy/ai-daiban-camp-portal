@@ -1,0 +1,88 @@
+{
+ "messages": [
+  {
+   "id": 1422,
+   "time": "2026-07-05 15:27",
+   "date": "2026-07-05",
+   "sender_id": 148,
+   "sender": "程建-志愿者",
+   "content": "他加我了，谢谢",
+   "type": "text"
+  },
+  {
+   "id": 1420,
+   "time": "2026-07-05 15:23",
+   "date": "2026-07-05",
+   "sender_id": 148,
+   "sender": "程建-志愿者",
+   "content": "小红书虚拟产品",
+   "type": "text"
+  },
+  {
+   "id": 1416,
+   "time": "2026-07-05 15:22",
+   "date": "2026-07-05",
+   "sender_id": 148,
+   "sender": "程建-志愿者",
+   "content": "加不上[苦涩]",
+   "type": "share"
+  },
+  {
+   "id": 1415,
+   "time": "2026-07-05 15:20",
+   "date": "2026-07-05",
+   "sender_id": 148,
+   "sender": "程建-志愿者",
+   "content": "谢谢",
+   "type": "share"
+  },
+  {
+   "id": 1404,
+   "time": "2026-07-05 15:14",
+   "date": "2026-07-05",
+   "sender_id": 148,
+   "sender": "程建-志愿者",
+   "content": "有人加过吗",
+   "type": "text"
+  },
+  {
+   "id": 1403,
+   "time": "2026-07-05 15:14",
+   "date": "2026-07-05",
+   "sender_id": 148,
+   "sender": "程建-志愿者",
+   "content": "![图片](http://127.0.0.1:5030/image/65a92e69ebff216c1a89fb3bcb344a15,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/f4f075b3c9b0d649fffdd17491d75699)",
+   "type": "image"
+  },
+  {
+   "id": 1303,
+   "time": "2026-07-05 11:51",
+   "date": "2026-07-05",
+   "sender_id": 148,
+   "sender": "程建-志愿者",
+   "content": "@子桐",
+   "type": "text"
+  },
+  {
+   "id": 1289,
+   "time": "2026-07-05 11:47",
+   "date": "2026-07-05",
+   "sender_id": 148,
+   "sender": "程建-志愿者",
+   "content": "捞人，可有人加过",
+   "type": "text"
+  },
+  {
+   "id": 1287,
+   "time": "2026-07-05 11:47",
+   "date": "2026-07-05",
+   "sender_id": 148,
+   "sender": "程建-志愿者",
+   "content": "![图片](http://127.0.0.1:5030/image/65a92e69ebff216c1a89fb3bcb344a15,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/6c867f52035b262c38b1bb4791acc772)",
+   "type": "image"
+  }
+ ],
+ "total": 9,
+ "page": 1,
+ "page_size": 9
+}

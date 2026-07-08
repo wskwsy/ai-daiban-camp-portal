@@ -1,0 +1,79 @@
+{
+ "messages": [
+  {
+   "id": 8489,
+   "time": "2026-02-12 23:59",
+   "date": "2026-02-12",
+   "sender_id": 515,
+   "sender": "燕2357",
+   "content": "真好，五湖四海都有朋友，想想都幸福[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 19778,
+   "time": "2026-02-09 13:28",
+   "date": "2026-02-09",
+   "sender_id": 515,
+   "sender": "燕2357",
+   "content": "哦哦，好",
+   "type": "text"
+  },
+  {
+   "id": 19776,
+   "time": "2026-02-09 13:27",
+   "date": "2026-02-09",
+   "sender_id": 515,
+   "sender": "燕2357",
+   "content": "@冉冉 帮忙看下，谢谢！",
+   "type": "text"
+  },
+  {
+   "id": 19775,
+   "time": "2026-02-09 13:27",
+   "date": "2026-02-09",
+   "sender_id": 515,
+   "sender": "燕2357",
+   "content": "![图片](http://127.0.0.1:5030/image/dcd29abce471ac6dfe9ffc73b917328a,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/417062e8ebb5086bc9f8a24beaea5d69)",
+   "type": "image"
+  },
+  {
+   "id": 19769,
+   "time": "2026-02-09 13:24",
+   "date": "2026-02-09",
+   "sender_id": 515,
+   "sender": "燕2357",
+   "content": "@冉冉 好的",
+   "type": "text"
+  },
+  {
+   "id": 19764,
+   "time": "2026-02-09 13:14",
+   "date": "2026-02-09",
+   "sender_id": 515,
+   "sender": "燕2357",
+   "content": "帮忙看下这个版本可以不？",
+   "type": "text"
+  },
+  {
+   "id": 19763,
+   "time": "2026-02-09 13:14",
+   "date": "2026-02-09",
+   "sender_id": 515,
+   "sender": "燕2357",
+   "content": "![图片](http://127.0.0.1:5030/image/5e2ea4bd1fae939606d9164d84bf8d6e,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/412054751f9f6d8b480425ee89edf649)",
+   "type": "image"
+  },
+  {
+   "id": 19750,
+   "time": "2026-02-09 12:29",
+   "date": "2026-02-09",
+   "sender_id": 515,
+   "sender": "燕2357",
+   "content": "已认真阅读，确认参与项目",
+   "type": "text"
+  }
+ ],
+ "total": 8,
+ "page": 1,
+ "page_size": 8
+}

@@ -1,0 +1,70 @@
+{
+ "messages": [
+  {
+   "id": 4203,
+   "time": "2026-04-30 22:31",
+   "date": "2026-04-30",
+   "sender_id": 379,
+   "sender": "妍妍得意",
+   "content": "收到",
+   "type": "text"
+  },
+  {
+   "id": 28055,
+   "time": "2026-04-13 11:45",
+   "date": "2026-04-13",
+   "sender_id": 379,
+   "sender": "妍妍得意",
+   "content": "[转账|接收 ￥19.00]",
+   "type": "share"
+  },
+  {
+   "id": 27978,
+   "time": "2026-04-13 09:03",
+   "date": "2026-04-13",
+   "sender_id": 379,
+   "sender": "妍妍得意",
+   "content": "已续费",
+   "type": "text"
+  },
+  {
+   "id": 27977,
+   "time": "2026-04-13 09:03",
+   "date": "2026-04-13",
+   "sender_id": 379,
+   "sender": "妍妍得意",
+   "content": "![图片](http://127.0.0.1:5030/image/d30124535e2027234d9bb803d3c65454,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-04/Img/b7ffb34ceb53f952b1bff24146d50f91)",
+   "type": "image"
+  },
+  {
+   "id": 20962,
+   "time": "2026-02-16 22:29",
+   "date": "2026-02-16",
+   "sender_id": 379,
+   "sender": "妍妍得意",
+   "content": "感恩遇见油姐[爱心][爱心][爱心]",
+   "type": "text"
+  },
+  {
+   "id": 20805,
+   "time": "2026-02-16 19:50",
+   "date": "2026-02-16",
+   "sender_id": 379,
+   "sender": "妍妍得意",
+   "content": "家人们除夕🥳🧨快乐",
+   "type": "text"
+  },
+  {
+   "id": 11183,
+   "time": "2026-01-02 07:38",
+   "date": "2026-01-02",
+   "sender_id": 379,
+   "sender": "妍妍得意",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  }
+ ],
+ "total": 7,
+ "page": 1,
+ "page_size": 7
+}

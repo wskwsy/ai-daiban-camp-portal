@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 1062,
+   "time": "2026-07-04 23:36",
+   "date": "2026-07-04",
+   "sender_id": 44,
+   "sender": "老野",
+   "content": "有点杀鸡焉有牛刀的感觉",
+   "type": "share"
+  },
+  {
+   "id": 913,
+   "time": "2026-07-04 19:29",
+   "date": "2026-07-04",
+   "sender_id": 44,
+   "sender": "老野",
+   "content": "我分在codex实战做产品行动营，先加十个",
+   "type": "text"
+  },
+  {
+   "id": 764,
+   "time": "2026-06-26 22:06",
+   "date": "2026-06-26",
+   "sender_id": 44,
+   "sender": "老野",
+   "content": "联系我",
+   "type": "text"
+  },
+  {
+   "id": 388,
+   "time": "2026-06-10 19:51",
+   "date": "2026-06-10",
+   "sender_id": 44,
+   "sender": "老野",
+   "content": "1",
+   "type": "text"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

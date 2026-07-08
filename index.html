@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#2563EB">
+<title>AI 破局门户 · 行动营</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./assets/style.css?v=15">
+</head>
+<body data-page="home">
+
+<div class="bg-canvas"></div>
+<div class="bg-noise"></div>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a href="./index.html" class="brand">
+      <span class="mark">AI</span>
+      <span class="brand-text">
+        <span class="en">AI 破局 · 行动营</span>
+        <span class="zh" id="brandGroupName">AI破局门户</span>
+      </span>
+    </a>
+    <nav class="nav-links">
+      <a href="./index.html" class="active">首页</a>
+      <a href="./members.html">同营人</a>
+      <a href="./daily.html">每日精华</a>
+      <a href="./messages.html">消息</a>
+      <a href="./settings.html">设置</a>
+    </nav>
+    <div class="nav-actions">
+      <button class="theme-toggle" data-theme-btn aria-label="切换主题">
+        <span class="theme-state">🌗</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-inner">
+    <span class="eyebrow reveal"><span class="dot"></span><span id="heroEyebrow">正在同步 · 行动营数据</span></span>
+    <h1 class="h-title reveal d1">
+      已汇聚 <span class="num" id="heroBigMsg">0</span> 条群消息，<br>
+      沉淀为可回看的<em>行动记忆</em>
+    </h1>
+    <p class="h-sub reveal d2" id="heroLede">
+      AI 每日汇聚群内讨论、亮点与请求，让每位同营人都能低摩擦跟上节奏、找到伙伴、把握机会。
+    </p>
+
+    <!-- 行动进度卡 -->
+    <div class="progress-card reveal d3">
+      <div class="progress-head">
+        <div>
+          <span class="l">营期进度</span>
+          <div class="v"><span id="progressDay">—</span><span class="of" id="progressCrew"> / 共 — 天</span></div>
+        </div>
+        <div class="status"><span class="tick"></span><span id="progressStatus">Live · 数据实时同步</span></div>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+      <div class="progress-scale">
+        <span>开营</span>
+        <span class="n" id="progressMid">半程</span>
+        <span>结营</span>
+      </div>
+      <div class="hero-meta">
+        <div class="cell reveal d1">
+          <div class="k">MESSAGES</div>
+          <div class="v"><span id="metaMsg">—</span><span class="u">条</span></div>
+          <div class="d">全部同营人共产</div>
+        </div>
+        <div class="cell reveal d2">
+          <div class="k">MEMBERS</div>
+          <div class="v"><span id="metaMember">—</span><span class="u">位</span></div>
+          <div class="d">已识别的同营人</div>
+        </div>
+        <div class="cell reveal d3">
+          <div class="k">DAILY DIGEST</div>
+          <div class="v"><span id="metaDigest">—</span><span class="u">篇</span></div>
+          <div class="d">AI 生成的每日精华</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 动态状态占位（首次渲染 / 空态 / 错误） -->
+<div id="homeStatus"></div>
+
+<!-- 能力标签（Ability finder） -->
+<section class="section" id="tagsSection" hidden>
+  <div class="section-inner">
+    <div class="section-head reveal">
+      <div>
+        <div class="num">01 · MEMBER ABILITIES</div>
+        <h2 class="section-title">按能力标签，找到同营人</h2>
+        <p class="section-sub">标签由 AI 从群内自我介绍中提炼，点击进入名册可继续筛选。</p>
+      </div>
+      <div class="section-side" id="tagsCount">—</div>
+    </div>
+    <div class="tags-grid" id="tagsGrid"></div>
+  </div>
+</section>
+
+<!-- 每日精华预览 -->
+<section class="section" id="digestSection" hidden style="padding-top:0">
+  <div class="section-inner">
+    <div class="section-head reveal">
+      <div>
+        <div class="num">02 · TODAY IN THE GROUP</div>
+        <h2 class="section-title">最近的一份每日精华</h2>
+        <p class="section-sub">AI 从群消息中提炼的当日要点，点右下角可查看完整。</p>
+      </div>
+      <div class="section-side"><a href="./daily.html" class="daily-link"><span>全部精华</span><span class="arrow">→</span></a></div>
+    </div>
+    <div class="daily-preview reveal d1">
+      <div class="daily-badge">
+        <span class="kicker">DAILY DIGEST</span>
+        <div class="date"><span class="icon">📅</span><span id="dpDate">—</span></div>
+        <span class="pill" id="dpBadge">最近一日</span>
+      </div>
+      <div class="daily-body">
+        <h3 id="dpTitle">今日精华</h3>
+        <p id="dpSummary">正在加载今日群聊要点……</p>
+        <ul id="dpBullets"></ul>
+        <a class="daily-link" id="dpMore" href="./daily.html"><span>查看完整精华</span><span class="arrow">→</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 上手三步 -->
+<section class="section" style="padding-top:0">
+  <div class="section-inner">
+    <div class="section-head reveal">
+      <div>
+        <div class="num">03 · GET STARTED</div>
+        <h2 class="section-title">三步上手，把群聊变成你的行动资产</h2>
+        <p class="section-sub">不用回看几千条聊天记录，照着这三步走，几分钟就能跟上节奏、找到伙伴、沉淀收获。</p>
+      </div>
+    </div>
+    <div class="tips">
+      <div class="tip reveal d1">
+        <span class="tip-step">01</span>
+        <div class="tip-icon">🧭</div>
+        <h4>先看每日精华</h4>
+        <p>不用翻群聊，AI 已把当天的讨论、亮点与招募整理成精华。每天花 3 分钟，就能跟上整个群的节奏。</p>
+      </div>
+      <div class="tip reveal d2">
+        <span class="tip-step">02</span>
+        <div class="tip-icon">🎯</div>
+        <h4>按标签找伙伴</h4>
+        <p>能力标签由 AI 从大家的自我介绍中提炼。想找运营、技术还是设计，点一下直达名册，精准链接同频的人。</p>
+      </div>
+      <div class="tip reveal d3">
+        <span class="tip-step">03</span>
+        <div class="tip-icon">💬</div>
+        <h4>消息页回溯讨论</h4>
+        <p>想找回某次分享或某位老师原话？去「消息」页搜关键词，直接定位原始上下文，再也不用在聊天记录里大海捞针。</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <span class="brand">AI 破局门户 · AI Action Portal</span>
+    <span class="fine">数据来自本群公开消息，由 AI 提炼，供营友回看</span>
+  </div>
+</footer>
+
+<script>window.PORTAL_STATIC=true;window.PORTAL_STATIC_BUILD="20260708142430";</script>
+<script src="./assets/app.js?v=15"></script>
+</body>
+</html>

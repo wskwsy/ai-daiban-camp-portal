@@ -1,0 +1,52 @@
+{
+ "messages": [
+  {
+   "id": 1894,
+   "time": "2026-07-06 17:44",
+   "date": "2026-07-06",
+   "sender_id": 154,
+   "sender": "Ai思维-悔海-渐渐组",
+   "content": "感谢刚发就通过了",
+   "type": "share"
+  },
+  {
+   "id": 1869,
+   "time": "2026-07-06 17:21",
+   "date": "2026-07-06",
+   "sender_id": 154,
+   "sender": "Ai思维-悔海-渐渐组",
+   "content": "联系不上",
+   "type": "text"
+  },
+  {
+   "id": 1868,
+   "time": "2026-07-06 17:21",
+   "date": "2026-07-06",
+   "sender_id": 154,
+   "sender": "Ai思维-悔海-渐渐组",
+   "content": "捞人 有认识的吗",
+   "type": "text"
+  },
+  {
+   "id": 1867,
+   "time": "2026-07-06 17:21",
+   "date": "2026-07-06",
+   "sender_id": 154,
+   "sender": "Ai思维-悔海-渐渐组",
+   "content": "![图片](http://127.0.0.1:5030/image/9b4783650d190c1a59b6f9086e5484f9,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/d687b83bdbd3376cda9bd35a7a68d341)",
+   "type": "image"
+  },
+  {
+   "id": 1385,
+   "time": "2026-07-05 14:32",
+   "date": "2026-07-05",
+   "sender_id": 154,
+   "sender": "Ai思维-悔海-渐渐组",
+   "content": "优秀",
+   "type": "share"
+  }
+ ],
+ "total": 5,
+ "page": 1,
+ "page_size": 5
+}

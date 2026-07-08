@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 2004,
+   "time": "2026-07-06 22:36",
+   "date": "2026-07-06",
+   "sender_id": 123,
+   "sender": "AI内容工厂-阿宝",
+   "content": "谢谢",
+   "type": "text"
+  },
+  {
+   "id": 1993,
+   "time": "2026-07-06 22:13",
+   "date": "2026-07-06",
+   "sender_id": 123,
+   "sender": "AI内容工厂-阿宝",
+   "content": "这位应该是在美国，电话关机了",
+   "type": "text"
+  },
+  {
+   "id": 1992,
+   "time": "2026-07-06 22:13",
+   "date": "2026-07-06",
+   "sender_id": 123,
+   "sender": "AI内容工厂-阿宝",
+   "content": "60567Lucy Ma - 波士顿房地产，捞个人，有服务过的嘛？",
+   "type": "text"
+  },
+  {
+   "id": 1001,
+   "time": "2026-07-04 20:30",
+   "date": "2026-07-04",
+   "sender_id": 123,
+   "sender": "AI内容工厂-阿宝",
+   "content": "今天开始加人了嘛？",
+   "type": "text"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1360,
+   "time": "2026-07-05 13:34",
+   "date": "2026-07-05",
+   "sender_id": 91,
+   "sender": "Ymo",
+   "content": "你打电话问问，我昨天也是这样情况，打电话打通加上的",
+   "type": "share"
+  },
+  {
+   "id": 780,
+   "time": "2026-06-26 23:19",
+   "date": "2026-06-26",
+   "sender_id": 91,
+   "sender": "Ymo",
+   "content": "@天朋彬帅-TK AI电商-Annia组 你去接码平台弄的码么",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

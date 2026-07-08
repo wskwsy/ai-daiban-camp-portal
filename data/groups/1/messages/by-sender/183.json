@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 1772,
+   "time": "2026-07-06 14:57",
+   "date": "2026-07-06",
+   "sender_id": 183,
+   "sender": "王克勇",
+   "content": "[奸笑]",
+   "type": "share"
+  },
+  {
+   "id": 1768,
+   "time": "2026-07-06 14:56",
+   "date": "2026-07-06",
+   "sender_id": 183,
+   "sender": "王克勇",
+   "content": "@辰泽-AI一人公司-熙雾组 咋样 找到人了吗",
+   "type": "share"
+  },
+  {
+   "id": 1753,
+   "time": "2026-07-06 14:52",
+   "date": "2026-07-06",
+   "sender_id": 183,
+   "sender": "王克勇",
+   "content": "你们有这个嘛 就差这一个了",
+   "type": "text"
+  },
+  {
+   "id": 1754,
+   "time": "2026-07-06 14:52",
+   "date": "2026-07-06",
+   "sender_id": 183,
+   "sender": "王克勇",
+   "content": "![图片](http://127.0.0.1:5030/image/8367bff7f05fd7244460c6881a81219c,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/99c46bf58981857102f258451f99f697)",
+   "type": "image"
+  },
+  {
+   "id": 1625,
+   "time": "2026-07-06 11:22",
+   "date": "2026-07-06",
+   "sender_id": 183,
+   "sender": "王克勇",
+   "content": "账号异常无法添加的这种咋办呀",
+   "type": "text"
+  },
+  {
+   "id": 1624,
+   "time": "2026-07-06 11:22",
+   "date": "2026-07-06",
+   "sender_id": 183,
+   "sender": "王克勇",
+   "content": "![图片](http://127.0.0.1:5030/image/e0f7e68c6602d4d2b02285cc88381b08,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/cca10d0a57b03e1270526de89eef6985)",
+   "type": "image"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

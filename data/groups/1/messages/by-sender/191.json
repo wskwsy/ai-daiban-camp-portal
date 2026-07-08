@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1794,
+   "time": "2026-07-06 15:21",
+   "date": "2026-07-06",
+   "sender_id": 191,
+   "sender": "忘忧",
+   "content": "请问有人有这个朋友的联系方式吗？也是加不上微信，星球电话短信也联系不到本人",
+   "type": "text"
+  },
+  {
+   "id": 1793,
+   "time": "2026-07-06 15:20",
+   "date": "2026-07-06",
+   "sender_id": 191,
+   "sender": "忘忧",
+   "content": "![图片](http://127.0.0.1:5030/image/6901e089a11d43f746cf8e42c18f8020,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/969db95fe5d4d239e7de31d7c6a93cfe)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 688,
+   "time": "2026-06-24 13:49",
+   "date": "2026-06-24",
+   "sender_id": 30,
+   "sender": "凯迪",
+   "content": "专精赛道是指啥？",
+   "type": "share"
+  },
+  {
+   "id": 674,
+   "time": "2026-06-24 13:43",
+   "date": "2026-06-24",
+   "sender_id": 30,
+   "sender": "凯迪",
+   "content": "那非常不错啊",
+   "type": "share"
+  },
+  {
+   "id": 247,
+   "time": "2026-06-08 21:32",
+   "date": "2026-06-08",
+   "sender_id": 30,
+   "sender": "凯迪",
+   "content": "厉害啊[强]",
+   "type": "share"
+  },
+  {
+   "id": 244,
+   "time": "2026-06-08 21:31",
+   "date": "2026-06-08",
+   "sender_id": 30,
+   "sender": "凯迪",
+   "content": "你是怎么做到的？",
+   "type": "share"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

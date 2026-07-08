@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 4459,
+   "time": "2026-05-01 11:47",
+   "date": "2026-05-01",
+   "sender_id": 428,
+   "sender": "伊雪儿",
+   "content": "收到了 谢谢菜菜老师[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 8730,
+   "time": "2026-02-05 21:51",
+   "date": "2026-02-05",
+   "sender_id": 428,
+   "sender": "伊雪儿",
+   "content": "已进群",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1497,
+   "time": "2026-07-05 21:15",
+   "date": "2026-07-05",
+   "sender_id": 167,
+   "sender": "小草-全域Ai 带货-Cherry组",
+   "content": "捞个人，微信申请发过去好几次，对方一直没有通过，暂时联系不上，有这位好友的麻烦联系他一下哦",
+   "type": "text"
+  },
+  {
+   "id": 1496,
+   "time": "2026-07-05 21:15",
+   "date": "2026-07-05",
+   "sender_id": 167,
+   "sender": "小草-全域Ai 带货-Cherry组",
+   "content": "![图片](http://127.0.0.1:5030/image/7be38e9e013fccd453b1d01e1cac7a76,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/26456687ee0a09d1897d6436e0a7e96d)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

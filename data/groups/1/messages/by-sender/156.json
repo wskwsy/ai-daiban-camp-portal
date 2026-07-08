@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1410,
+   "time": "2026-07-05 15:19",
+   "date": "2026-07-05",
+   "sender_id": 156,
+   "sender": "大茂爱睡觉",
+   "content": "捞人，有人加过么？",
+   "type": "text"
+  },
+  {
+   "id": 1411,
+   "time": "2026-07-05 15:19",
+   "date": "2026-07-05",
+   "sender_id": 156,
+   "sender": "大茂爱睡觉",
+   "content": "![图片](http://127.0.0.1:5030/image/04da0be956bc59d0d0ce12b6c593fcaf,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/d0f072300206b3ed5b86edc76a1e528c)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

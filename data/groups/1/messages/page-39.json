@@ -1,0 +1,457 @@
+{
+ "messages": [
+  {
+   "id": 220,
+   "time": "2026-06-08 18:24",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "不让其他地方用的",
+   "type": "text"
+  },
+  {
+   "id": 219,
+   "time": "2026-06-08 18:23",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "gg卡不是会被封吗",
+   "type": "text"
+  },
+  {
+   "id": 218,
+   "time": "2026-06-08 18:22",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "我最近打算再囤一张这类的卡。像那个沃达丰（Vodafone），最近都不好弄，充值也充不进去，或者接不到短信了",
+   "type": "text"
+  },
+  {
+   "id": 217,
+   "time": "2026-06-08 18:20",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "我得到的信息好像也是这样子的，不过没去验证过",
+   "type": "share"
+  },
+  {
+   "id": 216,
+   "time": "2026-06-08 18:17",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "说是一个号码只能绑定3个帳號",
+   "type": "text"
+  },
+  {
+   "id": 215,
+   "time": "2026-06-08 18:16",
+   "date": "2026-06-08",
+   "sender_id": 23,
+   "sender": "莹之光-公众号细分AIP打造-双",
+   "content": "➕你",
+   "type": "text"
+  },
+  {
+   "id": 214,
+   "time": "2026-06-08 18:16",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "是的",
+   "type": "text"
+  },
+  {
+   "id": 213,
+   "time": "2026-06-08 18:16",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "这个就只能私聊了，群内不好细说，容易炸",
+   "type": "share"
+  },
+  {
+   "id": 212,
+   "time": "2026-06-08 18:15",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"十七°\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 211,
+   "time": "2026-06-08 18:15",
+   "date": "2026-06-08",
+   "sender_id": 23,
+   "sender": "莹之光-公众号细分AIP打造-双",
+   "content": "搞不定啊，就一直卡在这了，我现在只能连deepseek",
+   "type": "share"
+  },
+  {
+   "id": 210,
+   "time": "2026-06-08 18:12",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "最近gg卡到手了正准备用结果弹手机号的又给我解除限制了[破涕为笑]",
+   "type": "share"
+  },
+  {
+   "id": 209,
+   "time": "2026-06-08 18:10",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "plus会员不会跳 现在",
+   "type": "share"
+  },
+  {
+   "id": 208,
+   "time": "2026-06-08 18:10",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "纯净度 加 账号地址",
+   "type": "share"
+  },
+  {
+   "id": 207,
+   "time": "2026-06-08 18:10",
+   "date": "2026-06-08",
+   "sender_id": 23,
+   "sender": "莹之光-公众号细分AIP打造-双",
+   "content": "怎么排查，一点就跳到了验证环节[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 206,
+   "time": "2026-06-08 18:09",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "排查一下就好了",
+   "type": "share"
+  },
+  {
+   "id": 205,
+   "time": "2026-06-08 18:09",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "我五个plus弹了两个手机号验证，有两个因为苹果没弹",
+   "type": "text"
+  },
+  {
+   "id": 204,
+   "time": "2026-06-08 18:09",
+   "date": "2026-06-08",
+   "sender_id": 23,
+   "sender": "莹之光-公众号细分AIP打造-双",
+   "content": "@星哥-AI设计 星哥，怎么判断是哪类问题导致的呢",
+   "type": "text"
+  },
+  {
+   "id": 203,
+   "time": "2026-06-08 18:09",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "是的",
+   "type": "text"
+  },
+  {
+   "id": 202,
+   "time": "2026-06-08 18:08",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "是的，就是前段时间限制，不管什么网络都可能弹",
+   "type": "share"
+  },
+  {
+   "id": 201,
+   "time": "2026-06-08 18:08",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "他最近限制解除了，只要你充值plus，它基本上都不验证",
+   "type": "text"
+  },
+  {
+   "id": 200,
+   "time": "2026-06-08 18:07",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "对，用静态IP还弹了一段时间，专门搞了一个gg卡，结果最近又不给我弹了[破涕为笑]",
+   "type": "share"
+  },
+  {
+   "id": 199,
+   "time": "2026-06-08 18:06",
+   "date": "2026-06-08",
+   "sender_id": 21,
+   "sender": "星哥-AI设计",
+   "content": "上次在线下活动现场，我分别帮小伙伴解决过1和3这两种情况",
+   "type": "text"
+  },
+  {
+   "id": 198,
+   "time": "2026-06-08 18:05",
+   "date": "2026-06-08",
+   "sender_id": 22,
+   "sender": "方恨少-AI设计-渔子清组",
+   "content": "我居然看不懂你们在聊什么[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 197,
+   "time": "2026-06-08 18:05",
+   "date": "2026-06-08",
+   "sender_id": 21,
+   "sender": "星哥-AI设计",
+   "content": "遇到codex跳手机验证，一般是三个原因：1上网工具设置不对。2 网络质量不行 。3 账号问题。",
+   "type": "text"
+  },
+  {
+   "id": 196,
+   "time": "2026-06-08 18:04",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "你说的是gg卡吧[捂脸][捂脸][捂脸]",
+   "type": "share"
+  },
+  {
+   "id": 195,
+   "time": "2026-06-08 18:03",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "20% 净利润 差不多",
+   "type": "text"
+  },
+  {
+   "id": 194,
+   "time": "2026-06-08 18:03",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "还专门弄了一个英国手机卡应对codex的验证",
+   "type": "text"
+  },
+  {
+   "id": 193,
+   "time": "2026-06-08 18:02",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "我的苹果也不需要手机号，不是苹果的几个账号碰到手机号验证了",
+   "type": "text"
+  },
+  {
+   "id": 192,
+   "time": "2026-06-08 17:59",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "还没到那个量",
+   "type": "text"
+  },
+  {
+   "id": 191,
+   "time": "2026-06-08 17:59",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "Gpt后台都可以看到号码，就是不让修改号码[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 190,
+   "time": "2026-06-08 17:58",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "![图片](http://127.0.0.1:5030/image/c701833417b9b224c9fe9e18bb319efe,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/c15e1c7a93b0479b24a69dfb21d7562b)",
+   "type": "image"
+  },
+  {
+   "id": 189,
+   "time": "2026-06-08 17:58",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "那这个压货看怎么压法？如果卖30万GMV，8000净利润还是有可能，但是30W的日 GMV，需要压的钱可不是小数目[捂脸]",
+   "type": "share"
+  },
+  {
+   "id": 188,
+   "time": "2026-06-08 17:58",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "一件代发啊",
+   "type": "share"
+  },
+  {
+   "id": 187,
+   "time": "2026-06-08 17:57",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "谢谢各位大佬",
+   "type": "text"
+  },
+  {
+   "id": 186,
+   "time": "2026-06-08 17:57",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "codex 开plus付费就不用手机号了",
+   "type": "text"
+  },
+  {
+   "id": 185,
+   "time": "2026-06-08 17:56",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "你是需要提前备货到俄罗斯吗？",
+   "type": "share"
+  },
+  {
+   "id": 184,
+   "time": "2026-06-08 17:56",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "这个8000是利润吧",
+   "type": "share"
+  },
+  {
+   "id": 183,
+   "time": "2026-06-08 17:56",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "训练营我看回放了 主要我是跟卖卖",
+   "type": "share"
+  },
+  {
+   "id": 182,
+   "time": "2026-06-08 17:56",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "压30W，日入8000GMV吗？",
+   "type": "share"
+  },
+  {
+   "id": 181,
+   "time": "2026-06-08 17:55",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "8000 左右货赚 2500↔️ 2 个月",
+   "type": "text"
+  },
+  {
+   "id": 180,
+   "time": "2026-06-08 17:54",
+   "date": "2026-06-08",
+   "sender_id": 8,
+   "sender": "泰山Ai",
+   "content": "你要是压30万，日入8000没问题",
+   "type": "text"
+  },
+  {
+   "id": 179,
+   "time": "2026-06-08 17:54",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "电脑装个hermes，你想要登录还是不想要登录，它会给你配置好",
+   "type": "text"
+  },
+  {
+   "id": 178,
+   "time": "2026-06-08 17:54",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "以前我参加过Temu的行动营，不过当时一直没开单[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 177,
+   "time": "2026-06-08 17:54",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "哦 上次主要做铺货吗？我也没参加",
+   "type": "share"
+  },
+  {
+   "id": 176,
+   "time": "2026-06-08 17:53",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "Ozon的净利润率如何呢？",
+   "type": "share"
+  },
+  {
+   "id": 175,
+   "time": "2026-06-08 17:53",
+   "date": "2026-06-08",
+   "sender_id": 8,
+   "sender": "泰山Ai",
+   "content": "我给你个网址",
+   "type": "text"
+  },
+  {
+   "id": 174,
+   "time": "2026-06-08 17:53",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "不登录不让用啊",
+   "type": "text"
+  },
+  {
+   "id": 173,
+   "time": "2026-06-08 17:53",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "不是跟卖",
+   "type": "text"
+  },
+  {
+   "id": 172,
+   "time": "2026-06-08 17:53",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "![图片](http://127.0.0.1:5030/image/8ca849f3abd695954c9f5d5e8716719e,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/6c2ac2f6948136481abda1f953e6fe66)",
+   "type": "image"
+  },
+  {
+   "id": 171,
+   "time": "2026-06-08 17:52",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "没 我做精铺",
+   "type": "share"
+  }
+ ],
+ "total": 2120,
+ "page": 39,
+ "page_size": 50
+}

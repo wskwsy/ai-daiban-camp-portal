@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1283,
+   "time": "2026-07-05 11:46",
+   "date": "2026-07-05",
+   "sender_id": 147,
+   "sender": "拾光-全域AI带货-杜汭锜组",
+   "content": "捞人 可有加过的朋友",
+   "type": "share"
+  },
+  {
+   "id": 1282,
+   "time": "2026-07-05 11:45",
+   "date": "2026-07-05",
+   "sender_id": 147,
+   "sender": "拾光-全域AI带货-杜汭锜组",
+   "content": "![图片](http://127.0.0.1:5030/image/d00b14efc6c42a5a6cd7676d80312328,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/b1ae5e5679e4679dfc53d64db9ddf206)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

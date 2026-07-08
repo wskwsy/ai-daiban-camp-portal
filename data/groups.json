@@ -1,0 +1,48 @@
+{
+ "groups": [
+  {
+   "id": 1,
+   "name": "11期破局行动|志愿者总群",
+   "chatroom_id": "44570562880@chatroom",
+   "member_count": 231,
+   "stats": {
+    "messages": 2120,
+    "members": 231,
+    "summaries": 0
+   }
+  },
+  {
+   "id": 2,
+   "name": "【已结营】AI小红书 1群|10期",
+   "chatroom_id": "58073621945@chatroom",
+   "member_count": 383,
+   "stats": {
+    "messages": 0,
+    "members": 0,
+    "summaries": 0
+   }
+  },
+  {
+   "id": 3,
+   "name": "菜籽油·果实朋友❶群",
+   "chatroom_id": "44105436697@chatroom",
+   "member_count": 426,
+   "stats": {
+    "messages": 34567,
+    "members": 426,
+    "summaries": 0
+   }
+  },
+  {
+   "id": 4,
+   "name": "【已结营】小红书虚拟产品5群-09期",
+   "chatroom_id": "52483051894@chatroom",
+   "member_count": 137,
+   "stats": {
+    "messages": 381,
+    "members": 137,
+    "summaries": 2
+   }
+  }
+ ]
+}

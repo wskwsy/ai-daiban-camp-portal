@@ -1,0 +1,88 @@
+{
+ "messages": [
+  {
+   "id": 2096,
+   "time": "2026-07-07 11:52",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "就剩这个啦[抱拳]",
+   "type": "share"
+  },
+  {
+   "id": 2094,
+   "time": "2026-07-07 11:52",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "@海盐蓝 谢谢[强]",
+   "type": "text"
+  },
+  {
+   "id": 2088,
+   "time": "2026-07-07 11:38",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "![图片](http://127.0.0.1:5030/image/dddda1caf4aaaafde2be08c2f7f256e1,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/aa675944a15da8c1c3aca12b575bddc1)",
+   "type": "image"
+  },
+  {
+   "id": 2087,
+   "time": "2026-07-07 11:37",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "![图片](http://127.0.0.1:5030/image/3151b3976d691e4bdb3582c20b15f8de,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/9598f5fd3182f547497387867a67df19)",
+   "type": "image"
+  },
+  {
+   "id": 2086,
+   "time": "2026-07-07 11:37",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "这两位谁有好友帮忙联系一下",
+   "type": "text"
+  },
+  {
+   "id": 2076,
+   "time": "2026-07-07 10:44",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "![图片](http://127.0.0.1:5030/image/3151b3976d691e4bdb3582c20b15f8de,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/8bd6c5e76141839ba89a357d06040771)",
+   "type": "image"
+  },
+  {
+   "id": 2075,
+   "time": "2026-07-07 10:44",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "![图片](http://127.0.0.1:5030/image/b5eb2b11d1928ce79cc698e9ca85b2fd,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/2356badd8cba7838d80594b36021aab7)",
+   "type": "image"
+  },
+  {
+   "id": 2074,
+   "time": "2026-07-07 10:42",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "捞个人",
+   "type": "text"
+  },
+  {
+   "id": 2073,
+   "time": "2026-07-07 10:41",
+   "date": "2026-07-07",
+   "sender_id": 226,
+   "sender": "元元",
+   "content": "![图片](http://127.0.0.1:5030/image/60e14721a6c76518a618a7c5a0a7a78a,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/7cd8425db9fe9ed6a17503c2595072e6)",
+   "type": "image"
+  }
+ ],
+ "total": 9,
+ "page": 1,
+ "page_size": 9
+}

@@ -1,0 +1,70 @@
+{
+ "messages": [
+  {
+   "id": 36110,
+   "time": "2026-06-26 22:11",
+   "date": "2026-06-26",
+   "sender_id": 620,
+   "sender": "一只黑猫",
+   "content": "祝贺子瞻老师公司开业大吉！[烟花][烟花]",
+   "type": "text"
+  },
+  {
+   "id": 28114,
+   "time": "2026-04-13 17:29",
+   "date": "2026-04-13",
+   "sender_id": 620,
+   "sender": "一只黑猫",
+   "content": "恭喜🎉万物ai拍星球突破1500人🎉[烟花]",
+   "type": "text"
+  },
+  {
+   "id": 28034,
+   "time": "2026-04-13 11:28",
+   "date": "2026-04-13",
+   "sender_id": 620,
+   "sender": "一只黑猫",
+   "content": "![图片](http://127.0.0.1:5030/image/ee55d564088e3df3e4ec6e360a34fe6f,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-04/Img/b4dd5457bf570a79d8d9489acd859b0e)",
+   "type": "image"
+  },
+  {
+   "id": 27093,
+   "time": "2026-04-05 15:11",
+   "date": "2026-04-05",
+   "sender_id": 620,
+   "sender": "一只黑猫",
+   "content": "恭喜@六六Six @七哥Seven¹ 登上微博热搜[庆祝][庆祝][庆祝]",
+   "type": "text"
+  },
+  {
+   "id": 31547,
+   "time": "2026-04-04 12:55",
+   "date": "2026-04-04",
+   "sender_id": 620,
+   "sender": "一只黑猫",
+   "content": "恭喜@婉婉 变现4500💰恭喜🎉🎉🎉",
+   "type": "text"
+  },
+  {
+   "id": 26005,
+   "time": "2026-03-14 12:12",
+   "date": "2026-03-14",
+   "sender_id": 620,
+   "sender": "一只黑猫",
+   "content": "我已确认，并遵守规则",
+   "type": "text"
+  },
+  {
+   "id": 23163,
+   "time": "2026-03-01 23:12",
+   "date": "2026-03-01",
+   "sender_id": 620,
+   "sender": "一只黑猫",
+   "content": "[转账|发送 ￥39.90]",
+   "type": "share"
+  }
+ ],
+ "total": 7,
+ "page": 1,
+ "page_size": 7
+}

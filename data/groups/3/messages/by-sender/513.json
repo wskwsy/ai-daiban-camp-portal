@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 8030,
+   "time": "2026-02-18 15:07",
+   "date": "2026-02-18",
+   "sender_id": 513,
+   "sender": "祥子",
+   "content": "感谢油姐，春节大礼包[福]",
+   "type": "text"
+  },
+  {
+   "id": 8029,
+   "time": "2026-02-18 15:07",
+   "date": "2026-02-18",
+   "sender_id": 513,
+   "sender": "祥子",
+   "content": "[转账|接收 ￥220.00]",
+   "type": "share"
+  },
+  {
+   "id": 11933,
+   "time": "2026-01-04 19:07",
+   "date": "2026-01-04",
+   "sender_id": 513,
+   "sender": "祥子",
+   "content": "卖他一个销冠基地",
+   "type": "text"
+  },
+  {
+   "id": 11931,
+   "time": "2026-01-04 19:07",
+   "date": "2026-01-04",
+   "sender_id": 513,
+   "sender": "祥子",
+   "content": "销冠吧",
+   "type": "text"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

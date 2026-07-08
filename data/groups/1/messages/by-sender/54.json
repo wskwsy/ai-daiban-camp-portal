@@ -1,0 +1,97 @@
+{
+ "messages": [
+  {
+   "id": 1072,
+   "time": "2026-07-05 08:19",
+   "date": "2026-07-05",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "好吧",
+   "type": "text"
+  },
+  {
+   "id": 1070,
+   "time": "2026-07-05 08:08",
+   "date": "2026-07-05",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "打开看了，没有志愿者服务面板",
+   "type": "text"
+  },
+  {
+   "id": 1068,
+   "time": "2026-07-05 07:57",
+   "date": "2026-07-05",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "我被分到哪个组了，也没显示。我报的AIP细分组，昨天细分组教练说我被调到其他组了，其他组教练会联系我，我也没看到哦",
+   "type": "text"
+  },
+  {
+   "id": 825,
+   "time": "2026-07-01 18:25",
+   "date": "2026-07-01",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "哦，好的",
+   "type": "text"
+  },
+  {
+   "id": 821,
+   "time": "2026-07-01 18:17",
+   "date": "2026-07-01",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "我们志愿者报的自己志愿的营，押金开营之后退还是现在自己退，咋搞？",
+   "type": "text"
+  },
+  {
+   "id": 452,
+   "time": "2026-06-24 09:46",
+   "date": "2026-06-24",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "感觉是AIP营",
+   "type": "text"
+  },
+  {
+   "id": 449,
+   "time": "2026-06-24 09:46",
+   "date": "2026-06-24",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "不知道在哪里看，",
+   "type": "text"
+  },
+  {
+   "id": 448,
+   "time": "2026-06-24 09:46",
+   "date": "2026-06-24",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "我分的是哪个营？",
+   "type": "text"
+  },
+  {
+   "id": 440,
+   "time": "2026-06-24 09:44",
+   "date": "2026-06-24",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "跟我想的一样",
+   "type": "text"
+  },
+  {
+   "id": 438,
+   "time": "2026-06-24 09:43",
+   "date": "2026-06-24",
+   "sender_id": 54,
+   "sender": "王佩Emmy",
+   "content": "什么意思，志愿者不需要报名，随便哪个都能学？",
+   "type": "text"
+  }
+ ],
+ "total": 10,
+ "page": 1,
+ "page_size": 10
+}

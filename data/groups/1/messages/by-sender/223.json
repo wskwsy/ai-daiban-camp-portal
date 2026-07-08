@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 2071,
+   "time": "2026-07-07 10:29",
+   "date": "2026-07-07",
+   "sender_id": 223,
+   "sender": "water-AI全域带货-张一组",
+   "content": "好的好的",
+   "type": "share"
+  },
+  {
+   "id": 2065,
+   "time": "2026-07-07 10:24",
+   "date": "2026-07-07",
+   "sender_id": 223,
+   "sender": "water-AI全域带货-张一组",
+   "content": "已经隔了大半天了[捂脸]",
+   "type": "share"
+  },
+  {
+   "id": 2064,
+   "time": "2026-07-07 10:24",
+   "date": "2026-07-07",
+   "sender_id": 223,
+   "sender": "water-AI全域带货-张一组",
+   "content": "okok，感谢",
+   "type": "share"
+  },
+  {
+   "id": 2059,
+   "time": "2026-07-07 10:21",
+   "date": "2026-07-07",
+   "sender_id": 223,
+   "sender": "water-AI全域带货-张一组",
+   "content": "礼貌求问，添加好友通过之后，发送进群邀请，以及再次邀请的信息完全不回复，这种你们一般都怎么解决呢，我这边有3个这样的[捂脸]",
+   "type": "text"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

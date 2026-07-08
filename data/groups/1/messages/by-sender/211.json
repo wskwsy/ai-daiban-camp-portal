@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1972,
+   "time": "2026-07-06 20:52",
+   "date": "2026-07-06",
+   "sender_id": 211,
+   "sender": "今日课毕",
+   "content": "87245\t林\talin7196\t18610456956",
+   "type": "text"
+  },
+  {
+   "id": 1971,
+   "time": "2026-07-06 20:51",
+   "date": "2026-07-06",
+   "sender_id": 211,
+   "sender": "今日课毕",
+   "content": "捞人\n林\talin7196\t18610456956",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

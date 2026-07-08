@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 791,
+   "time": "2026-06-28 23:44",
+   "date": "2026-06-28",
+   "sender_id": 38,
+   "sender": "未知成员",
+   "content": "\"大胡\" 拍了拍 \"深情的告别\"",
+   "type": "share"
+  },
+  {
+   "id": 790,
+   "time": "2026-06-28 19:10",
+   "date": "2026-06-28",
+   "sender_id": 38,
+   "sender": "未知成员",
+   "content": "\"Breaking\" 拍了拍 \"深情的告别\"",
+   "type": "share"
+  },
+  {
+   "id": 789,
+   "time": "2026-06-28 18:05",
+   "date": "2026-06-28",
+   "sender_id": 38,
+   "sender": "未知成员",
+   "content": "\"罗晓钊-TK AI电商-Annia组\" 拍了拍 \"深情的告别\"",
+   "type": "share"
+  },
+  {
+   "id": 788,
+   "time": "2026-06-28 17:56",
+   "date": "2026-06-28",
+   "sender_id": 38,
+   "sender": "未知成员",
+   "content": "\"星哥-AI设计\" 拍了拍 \"深情的告别\"",
+   "type": "share"
+  },
+  {
+   "id": 787,
+   "time": "2026-06-28 17:54",
+   "date": "2026-06-28",
+   "sender_id": 95,
+   "sender": "南小数-AI一人公司-熙雾组",
+   "content": "1",
+   "type": "share"
+  },
+  {
+   "id": 786,
+   "time": "2026-06-28 17:20",
+   "date": "2026-06-28",
+   "sender_id": 94,
+   "sender": "HK",
+   "content": "有没有擅长企业级AI编程、对接到一位做 Ai 企业培训的高手，有很多单子哇",
+   "type": "text"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

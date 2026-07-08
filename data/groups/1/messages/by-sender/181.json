@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1620,
+   "time": "2026-07-06 11:18",
+   "date": "2026-07-06",
+   "sender_id": 181,
+   "sender": "陆宏伟",
+   "content": "我也捞一个",
+   "type": "text"
+  },
+  {
+   "id": 1621,
+   "time": "2026-07-06 11:18",
+   "date": "2026-07-06",
+   "sender_id": 181,
+   "sender": "陆宏伟",
+   "content": "![图片](http://127.0.0.1:5030/image/cc9fc98b175dbb8ef5f31617a059ad40,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/5c7b749e2f8aa6dc4167516ba7cf11ee)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

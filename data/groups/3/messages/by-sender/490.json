@@ -1,0 +1,106 @@
+{
+ "messages": [
+  {
+   "id": 31331,
+   "time": "2026-05-10 22:18",
+   "date": "2026-05-10",
+   "sender_id": 490,
+   "sender": "九月🌸",
+   "content": "[转账|发送 ￥19.90]",
+   "type": "share"
+  },
+  {
+   "id": 28677,
+   "time": "2026-04-18 16:37",
+   "date": "2026-04-18",
+   "sender_id": 490,
+   "sender": "九月🌸",
+   "content": "[转账|接收 ￥99.00]",
+   "type": "share"
+  },
+  {
+   "id": 28667,
+   "time": "2026-04-18 11:06",
+   "date": "2026-04-18",
+   "sender_id": 490,
+   "sender": "九月🌸",
+   "content": "@菜籽油¹ 油姐，还有我的",
+   "type": "text"
+  },
+  {
+   "id": 28666,
+   "time": "2026-04-18 11:04",
+   "date": "2026-04-18",
+   "sender_id": 490,
+   "sender": "九月🌸",
+   "content": "![图片](http://127.0.0.1:5030/image/0bab3f3c7c436a0d582c01bb311b6014,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-04/Img/50ac76331c36c016c21363b892d2969d)",
+   "type": "image"
+  },
+  {
+   "id": 6757,
+   "time": "2026-03-11 16:40",
+   "date": "2026-03-11",
+   "sender_id": 490,
+   "sender": "九月🌸",
+   "content": "好的，谢谢油姐",
+   "type": "text"
+  },
+  {
+   "id": 6750,
+   "time": "2026-03-11 16:38",
+   "date": "2026-03-11",
+   "sender_id": 490,
+   "sender": "九月🌸",
+   "content": "有海报吗？我看看",
+   "type": "text"
+  },
+  {
+   "id": 6739,
+   "time": "2026-03-11 16:37",
+   "date": "2026-03-11",
+   "sender_id": 490,
+   "sender": "九月🌸",
+   "content": "@菜籽油 剪辑训练营怎么报名？",
+   "type": "text"
+  },
+  {
+   "id": 23836,
+   "time": "2026-03-04 20:33",
+   "date": "2026-03-04",
+   "sender_id": 490,
+   "sender": "九月🌸",
+   "content": "[分享]",
+   "type": "share"
+  },
+  {
+   "id": 23072,
+   "time": "2026-03-01 15:22",
+   "date": "2026-03-01",
+   "sender_id": 490,
+   "sender": "九月🌸",
+   "content": "[转账|发送 ￥39.90]",
+   "type": "share"
+  },
+  {
+   "id": 22773,
+   "time": "2026-02-28 15:07",
+   "date": "2026-02-28",
+   "sender_id": 490,
+   "sender": "九月🌸",
+   "content": "[分享]",
+   "type": "share"
+  },
+  {
+   "id": 8756,
+   "time": "2026-02-06 15:27",
+   "date": "2026-02-06",
+   "sender_id": 490,
+   "sender": "九月🌸",
+   "content": "已进群",
+   "type": "text"
+  }
+ ],
+ "total": 11,
+ "page": 1,
+ "page_size": 11
+}

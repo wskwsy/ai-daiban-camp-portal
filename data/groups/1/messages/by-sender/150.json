@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1357,
+   "time": "2026-07-05 13:24",
+   "date": "2026-07-05",
+   "sender_id": 150,
+   "sender": "榮——Helen组",
+   "content": "![图片](http://127.0.0.1:5030/image/8604ccce71b915429c2d6129f109d457,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/8c5b862597c4e4edb58a5f0d13c94183)",
+   "type": "image"
+  },
+  {
+   "id": 1356,
+   "time": "2026-07-05 13:24",
+   "date": "2026-07-05",
+   "sender_id": 150,
+   "sender": "榮——Helen组",
+   "content": "求助\n\n谁有《卿心》的微信，星球号95000\n\n微信号和手机号都添加不上",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

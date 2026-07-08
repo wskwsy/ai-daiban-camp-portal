@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 1942,
+   "time": "2026-07-06 19:39",
+   "date": "2026-07-06",
+   "sender_id": 175,
+   "sender": "Sneaker-鞋罗汉",
+   "content": "星球号也没回",
+   "type": "text"
+  },
+  {
+   "id": 1941,
+   "time": "2026-07-06 19:39",
+   "date": "2026-07-06",
+   "sender_id": 175,
+   "sender": "Sneaker-鞋罗汉",
+   "content": "![图片](http://127.0.0.1:5030/image/88efc3b82840e036c4e5f44a96e4efbd,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/bb4db44454ac602c350efdb00e83c999)",
+   "type": "image"
+  },
+  {
+   "id": 1940,
+   "time": "2026-07-06 19:39",
+   "date": "2026-07-06",
+   "sender_id": 175,
+   "sender": "Sneaker-鞋罗汉",
+   "content": "我也捞个人，有这人的吗，电话不通，短信没回，微信手机都加不上[擦汗]",
+   "type": "text"
+  },
+  {
+   "id": 1554,
+   "time": "2026-07-06 09:30",
+   "date": "2026-07-06",
+   "sender_id": 175,
+   "sender": "Sneaker-鞋罗汉",
+   "content": "[强][强][强]",
+   "type": "share"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

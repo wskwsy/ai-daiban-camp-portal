@@ -1,0 +1,16 @@
+{
+ "messages": [
+  {
+   "id": 23159,
+   "time": "2026-03-01 22:55",
+   "date": "2026-03-01",
+   "sender_id": 619,
+   "sender": "管弦乐",
+   "content": "[转账|发送 ￥39.90]",
+   "type": "share"
+  }
+ ],
+ "total": 1,
+ "page": 1,
+ "page_size": 1
+}

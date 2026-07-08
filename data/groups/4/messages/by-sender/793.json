@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 37054,
+   "time": "2025-12-28 22:27",
+   "date": "2025-12-28",
+   "sender_id": 793,
+   "sender": "缘来如此",
+   "content": "0点后",
+   "type": "text"
+  },
+  {
+   "id": 37051,
+   "time": "2025-12-28 22:27",
+   "date": "2025-12-28",
+   "sender_id": 793,
+   "sender": "缘来如此",
+   "content": "明天才开放",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

@@ -1,0 +1,169 @@
+{
+ "messages": [
+  {
+   "id": 1248,
+   "time": "2026-07-05 11:33",
+   "date": "2026-07-05",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "只要不提示，就没事，继续加",
+   "type": "text"
+  },
+  {
+   "id": 1246,
+   "time": "2026-07-05 11:33",
+   "date": "2026-07-05",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "我一口气加了33个，就完事了，加完了",
+   "type": "share"
+  },
+  {
+   "id": 1235,
+   "time": "2026-07-05 11:30",
+   "date": "2026-07-05",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "晚上还不通过，就打电话",
+   "type": "text"
+  },
+  {
+   "id": 1228,
+   "time": "2026-07-05 11:28",
+   "date": "2026-07-05",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "我这边还挺顺利的，就一个没通过，其他的都进群了",
+   "type": "text"
+  },
+  {
+   "id": 1003,
+   "time": "2026-07-04 20:31",
+   "date": "2026-07-04",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "我加完了[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 524,
+   "time": "2026-06-24 10:17",
+   "date": "2026-06-24",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "我志愿者报了俩。 一个编程。一个自动化。给我分的自动化。能调到编程里吗",
+   "type": "text"
+  },
+  {
+   "id": 509,
+   "time": "2026-06-24 10:10",
+   "date": "2026-06-24",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "报了",
+   "type": "share"
+  },
+  {
+   "id": 498,
+   "time": "2026-06-24 10:07",
+   "date": "2026-06-24",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "好的，那我不报了，我报了其他的行动营",
+   "type": "text"
+  },
+  {
+   "id": 494,
+   "time": "2026-06-24 10:06",
+   "date": "2026-06-24",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "做志愿者的，是不是必须要报名这个行动营才行",
+   "type": "text"
+  },
+  {
+   "id": 285,
+   "time": "2026-06-09 09:46",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "[偷笑]",
+   "type": "text"
+  },
+  {
+   "id": 280,
+   "time": "2026-06-09 09:43",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "静态住宅吗",
+   "type": "text"
+  },
+  {
+   "id": 279,
+   "time": "2026-06-09 09:43",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "[奸笑]",
+   "type": "text"
+  },
+  {
+   "id": 277,
+   "time": "2026-06-09 09:42",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "@行者LeoSun 你是不是有关系，我为啥只能免费开两个",
+   "type": "text"
+  },
+  {
+   "id": 274,
+   "time": "2026-06-09 09:41",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "还好啊，可以买终生的10个环境，差不多够了",
+   "type": "text"
+  },
+  {
+   "id": 268,
+   "time": "2026-06-09 09:40",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "我用的ads",
+   "type": "text"
+  },
+  {
+   "id": 258,
+   "time": "2026-06-09 08:17",
+   "date": "2026-06-09",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "这种视频即梦就可以搞定",
+   "type": "text"
+  },
+  {
+   "id": 250,
+   "time": "2026-06-08 21:34",
+   "date": "2026-06-08",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "![图片](http://127.0.0.1:5030/image/f68c036016bf43d664af773cbacb6f04,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/0211a64927705f431cde2d3f1ed0f49f)",
+   "type": "image"
+  },
+  {
+   "id": 233,
+   "time": "2026-06-08 18:47",
+   "date": "2026-06-08",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "我也是国内的",
+   "type": "text"
+  }
+ ],
+ "total": 18,
+ "page": 1,
+ "page_size": 18
+}

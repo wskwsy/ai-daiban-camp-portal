@@ -1,0 +1,151 @@
+{
+ "messages": [
+  {
+   "id": 1361,
+   "time": "2026-07-05 13:44",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "@子桐 尘尘联系上了，加你了",
+   "type": "text"
+  },
+  {
+   "id": 1312,
+   "time": "2026-07-05 11:52",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "@子桐 这是哪个营的",
+   "type": "text"
+  },
+  {
+   "id": 1307,
+   "time": "2026-07-05 11:51",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "我看不到对方微信号",
+   "type": "text"
+  },
+  {
+   "id": 1305,
+   "time": "2026-07-05 11:51",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "头像是不是",
+   "type": "text"
+  },
+  {
+   "id": 1301,
+   "time": "2026-07-05 11:50",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "是这个吗",
+   "type": "text"
+  },
+  {
+   "id": 1300,
+   "time": "2026-07-05 11:50",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "![图片](http://127.0.0.1:5030/image/75c752cbdd82ff12f33b0dfa817095ae,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/55897794491da29337711b02c58505b7)",
+   "type": "image"
+  },
+  {
+   "id": 1299,
+   "time": "2026-07-05 11:50",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "@子桐 ",
+   "type": "text"
+  },
+  {
+   "id": 1285,
+   "time": "2026-07-05 11:46",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "是鼓励打卡",
+   "type": "text"
+  },
+  {
+   "id": 1284,
+   "time": "2026-07-05 11:46",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "@半淺- AI PPT-译晨组 对",
+   "type": "text"
+  },
+  {
+   "id": 1267,
+   "time": "2026-07-05 11:39",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "有格式要求",
+   "type": "share"
+  },
+  {
+   "id": 1225,
+   "time": "2026-07-05 11:26",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "这都很正常，有的学员的确防备心理很强，不接外地号[捂脸]能做的就是坚持打电话[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 1221,
+   "time": "2026-07-05 11:23",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=89c103dc9b99af7c2cdbd2e8a9e732a3&filekey=30340201010420301e020201060402535a041089c103dc9b99af7c2cdbd2e8a9e732a30202183d040d00000004627466730000000132&hy=SZ&storeid=263bed7190003d5e177eaa2790000010600004f50535a1149a970b686aede8&bizid=1023)",
+   "type": "sticker"
+  },
+  {
+   "id": 1219,
+   "time": "2026-07-05 11:23",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "这种隔一段时间打一次电话，如果挂断了就发短信说明你的身份",
+   "type": "share"
+  },
+  {
+   "id": 1217,
+   "time": "2026-07-05 11:20",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "可以打电话问一下",
+   "type": "share"
+  },
+  {
+   "id": 1207,
+   "time": "2026-07-05 10:48",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "群发助手可以一键转发给打了标签的学员，就是不能发带有链接的内容",
+   "type": "text"
+  },
+  {
+   "id": 1161,
+   "time": "2026-07-05 10:24",
+   "date": "2026-07-05",
+   "sender_id": 144,
+   "sender": "听风",
+   "content": "建议聚焦一个，我曾经报过两个营，除非一天啥事不干只学习，聚焦两个营的学习任务加打卡可能就得花上半天多时间",
+   "type": "text"
+  }
+ ],
+ "total": 16,
+ "page": 1,
+ "page_size": 16
+}

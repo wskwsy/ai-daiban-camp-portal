@@ -1,0 +1,457 @@
+{
+ "messages": [
+  {
+   "id": 8985,
+   "time": "2026-02-06 22:47",
+   "date": "2026-02-06",
+   "sender_id": 237,
+   "sender": "系统消息",
+   "content": "\"昕玥🍀\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 8984,
+   "time": "2026-02-06 22:46",
+   "date": "2026-02-06",
+   "sender_id": 271,
+   "sender": "淼林成意",
+   "content": "嗯嗯",
+   "type": "share"
+  },
+  {
+   "id": 8982,
+   "time": "2026-02-06 22:45",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "这个手机可以做哈",
+   "type": "text"
+  },
+  {
+   "id": 8983,
+   "time": "2026-02-06 22:45",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/cc07610912f9cb83157e8f9101cbc9a9,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/6d79715e8d651086b17011de1ea3426a)",
+   "type": "image"
+  },
+  {
+   "id": 8981,
+   "time": "2026-02-06 22:45",
+   "date": "2026-02-06",
+   "sender_id": 508,
+   "sender": "潘潘爱拿铁",
+   "content": "转你啦@菜籽油（24小时内尽量回复信息） ",
+   "type": "text"
+  },
+  {
+   "id": 8980,
+   "time": "2026-02-06 22:44",
+   "date": "2026-02-06",
+   "sender_id": 495,
+   "sender": "懂将来",
+   "content": "我的是16叭，。",
+   "type": "text"
+  },
+  {
+   "id": 8979,
+   "time": "2026-02-06 22:44",
+   "date": "2026-02-06",
+   "sender_id": 495,
+   "sender": "懂将来",
+   "content": "![图片](http://127.0.0.1:5030/image/92e29b4cf88ee06dbf5530df78f8cca2,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/a1599112a1283e1c599310f834073e4d)",
+   "type": "image"
+  },
+  {
+   "id": 8978,
+   "time": "2026-02-06 22:44",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "你们看我都没花时间去搞流量，我的一心都在项目上，现在基本上我天天最多十分钟时间做IP",
+   "type": "text"
+  },
+  {
+   "id": 8977,
+   "time": "2026-02-06 22:44",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "过年最好赚，后面也一直可以做",
+   "type": "text"
+  },
+  {
+   "id": 8976,
+   "time": "2026-02-06 22:43",
+   "date": "2026-02-06",
+   "sender_id": 271,
+   "sender": "淼林成意",
+   "content": "菜菜老师，这个项目是一直能做吗，还是就是过年那一阵来着",
+   "type": "text"
+  },
+  {
+   "id": 8975,
+   "time": "2026-02-06 22:42",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[擦汗]如果说我服务你赚钱，你都跑来围观，那下次我拒绝服务你，你不想想，我服务外面的人我最少要收费五位数的",
+   "type": "text"
+  },
+  {
+   "id": 8974,
+   "time": "2026-02-06 22:42",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "如果说，参加了就是围观，我不建议参加，这个项目耗费我的精力，电商类的项目，你们都是我亲自服务",
+   "type": "text"
+  },
+  {
+   "id": 8973,
+   "time": "2026-02-06 22:41",
+   "date": "2026-02-06",
+   "sender_id": 349,
+   "sender": "宛汝吸金小姐姐³⁴感恩心理师",
+   "content": "这是我妈妈的老人机",
+   "type": "text"
+  },
+  {
+   "id": 8972,
+   "time": "2026-02-06 22:41",
+   "date": "2026-02-06",
+   "sender_id": 349,
+   "sender": "宛汝吸金小姐姐³⁴感恩心理师",
+   "content": "这个呢",
+   "type": "text"
+  },
+  {
+   "id": 8971,
+   "time": "2026-02-06 22:41",
+   "date": "2026-02-06",
+   "sender_id": 349,
+   "sender": "宛汝吸金小姐姐³⁴感恩心理师",
+   "content": "![图片](http://127.0.0.1:5030/image/c5408398b5b55750f973ef9ced43f211,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/447b13468aded91448f504b58d5da6e3)",
+   "type": "image"
+  },
+  {
+   "id": 8970,
+   "time": "2026-02-06 22:41",
+   "date": "2026-02-06",
+   "sender_id": 271,
+   "sender": "淼林成意",
+   "content": "嗯嗯",
+   "type": "share"
+  },
+  {
+   "id": 8969,
+   "time": "2026-02-06 22:41",
+   "date": "2026-02-06",
+   "sender_id": 256,
+   "sender": "影",
+   "content": "![图片](http://127.0.0.1:5030/image/e494d6336b8ed249772332d91c883473,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/1bbf33ed5aacec4d8c495bc79765edfc)",
+   "type": "image"
+  },
+  {
+   "id": 8968,
+   "time": "2026-02-06 22:41",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "如果讲不能挣钱，我也不敢发这个群里面来😂",
+   "type": "text"
+  },
+  {
+   "id": 8967,
+   "time": "2026-02-06 22:40",
+   "date": "2026-02-06",
+   "sender_id": 271,
+   "sender": "淼林成意",
+   "content": "鸿蒙和安卓是哪个比较好",
+   "type": "share"
+  },
+  {
+   "id": 8966,
+   "time": "2026-02-06 22:40",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[捂脸]能挣钱的，就不用在意买个二手机的钱了",
+   "type": "text"
+  },
+  {
+   "id": 8965,
+   "time": "2026-02-06 22:40",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "手机不符合的情况下，去拼多多买二手，只要100多块钱",
+   "type": "text"
+  },
+  {
+   "id": 8964,
+   "time": "2026-02-06 22:39",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "拼多多的",
+   "type": "text"
+  },
+  {
+   "id": 8963,
+   "time": "2026-02-06 22:39",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/b99efb8f5884ab546715ff49b8edb9cd,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/aea85537f0b7ef84dfee8ec72637ccc3)",
+   "type": "image"
+  },
+  {
+   "id": 8962,
+   "time": "2026-02-06 22:38",
+   "date": "2026-02-06",
+   "sender_id": 257,
+   "sender": "陈建荣",
+   "content": "这是11的嘛",
+   "type": "text"
+  },
+  {
+   "id": 8961,
+   "time": "2026-02-06 22:38",
+   "date": "2026-02-06",
+   "sender_id": 257,
+   "sender": "陈建荣",
+   "content": "![图片](http://127.0.0.1:5030/image/cc1f7a1a0d8f8692688c8979cd3b7035,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/3ede5c6b43e83ee39d313daaf19161ba)",
+   "type": "image"
+  },
+  {
+   "id": 8960,
+   "time": "2026-02-06 22:38",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "荣耀鸿蒙2.0也可以",
+   "type": "text"
+  },
+  {
+   "id": 8959,
+   "time": "2026-02-06 22:37",
+   "date": "2026-02-06",
+   "sender_id": 455,
+   "sender": "千历",
+   "content": "这是安卓14，要10的",
+   "type": "text"
+  },
+  {
+   "id": 8958,
+   "time": "2026-02-06 22:36",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "这手机太新",
+   "type": "share"
+  },
+  {
+   "id": 8957,
+   "time": "2026-02-06 22:36",
+   "date": "2026-02-06",
+   "sender_id": 349,
+   "sender": "宛汝吸金小姐姐³⁴感恩心理师",
+   "content": "这是多少",
+   "type": "text"
+  },
+  {
+   "id": 8956,
+   "time": "2026-02-06 22:36",
+   "date": "2026-02-06",
+   "sender_id": 349,
+   "sender": "宛汝吸金小姐姐³⁴感恩心理师",
+   "content": "![图片](http://127.0.0.1:5030/image/71d9aeccf67ac626d18d2c8c27f31e5a,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/3ee7b3b06b0ddaea68afcc4b188e1db6)",
+   "type": "image"
+  },
+  {
+   "id": 8955,
+   "time": "2026-02-06 22:36",
+   "date": "2026-02-06",
+   "sender_id": 455,
+   "sender": "千历",
+   "content": "是的",
+   "type": "text"
+  },
+  {
+   "id": 8954,
+   "time": "2026-02-06 22:36",
+   "date": "2026-02-06",
+   "sender_id": 508,
+   "sender": "潘潘爱拿铁",
+   "content": "这种么",
+   "type": "text"
+  },
+  {
+   "id": 8953,
+   "time": "2026-02-06 22:36",
+   "date": "2026-02-06",
+   "sender_id": 508,
+   "sender": "潘潘爱拿铁",
+   "content": "![图片](http://127.0.0.1:5030/image/cc07610912f9cb83157e8f9101cbc9a9,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/fbc37b077d3b94875d9cd570efabf9a5)",
+   "type": "image"
+  },
+  {
+   "id": 8952,
+   "time": "2026-02-06 22:35",
+   "date": "2026-02-06",
+   "sender_id": 455,
+   "sender": "千历",
+   "content": "弄荣耀老款手机，支持鸿蒙的，基本都是2.0",
+   "type": "text"
+  },
+  {
+   "id": 8951,
+   "time": "2026-02-06 22:34",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "我得满足吗",
+   "type": "text"
+  },
+  {
+   "id": 8950,
+   "time": "2026-02-06 22:34",
+   "date": "2026-02-06",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "![图片](http://127.0.0.1:5030/image/2c19eff80b55aebc7acb9ceb3f7c2c6c,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/e353cb964e96cba50a670f649950130a)",
+   "type": "image"
+  },
+  {
+   "id": 8949,
+   "time": "2026-02-06 22:34",
+   "date": "2026-02-06",
+   "sender_id": 271,
+   "sender": "淼林成意",
+   "content": "就是必须安卓10，感觉这个是老版本哎，我刚才看我手机是安卓13[捂脸]",
+   "type": "share"
+  },
+  {
+   "id": 8948,
+   "time": "2026-02-06 22:34",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "这个不符合",
+   "type": "share"
+  },
+  {
+   "id": 8947,
+   "time": "2026-02-06 22:32",
+   "date": "2026-02-06",
+   "sender_id": 498,
+   "sender": "蓝皮皮",
+   "content": "我这个达标了没[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 8946,
+   "time": "2026-02-06 22:32",
+   "date": "2026-02-06",
+   "sender_id": 498,
+   "sender": "蓝皮皮",
+   "content": "![图片](http://127.0.0.1:5030/image/37347e6ec12ae0dea2e5baf246e9b132,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/117cae50a2476847f42e13e411ac81e8)",
+   "type": "image"
+  },
+  {
+   "id": 8945,
+   "time": "2026-02-06 22:32",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "所以说，鸿蒙系统还是有用的[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 8944,
+   "time": "2026-02-06 22:31",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[旺柴][旺柴][旺柴]",
+   "type": "text"
+  },
+  {
+   "id": 8943,
+   "time": "2026-02-06 22:31",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "快手平台，黑科技自动发作品，解放双手 ",
+   "type": "text"
+  },
+  {
+   "id": 8942,
+   "time": "2026-02-06 22:31",
+   "date": "2026-02-06",
+   "sender_id": 349,
+   "sender": "宛汝吸金小姐姐³⁴感恩心理师",
+   "content": "我得搞个安卓手机",
+   "type": "text"
+  },
+  {
+   "id": 8941,
+   "time": "2026-02-06 22:31",
+   "date": "2026-02-06",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "一机可以登入两个快手号，一个普通快手，一个极速快手",
+   "type": "text"
+  },
+  {
+   "id": 8940,
+   "time": "2026-02-06 22:31",
+   "date": "2026-02-06",
+   "sender_id": 455,
+   "sender": "千历",
+   "content": "@无意无义 快手",
+   "type": "text"
+  },
+  {
+   "id": 8939,
+   "time": "2026-02-06 22:29",
+   "date": "2026-02-06",
+   "sender_id": 376,
+   "sender": "无意无义",
+   "content": "什么平台",
+   "type": "text"
+  },
+  {
+   "id": 8938,
+   "time": "2026-02-06 22:28",
+   "date": "2026-02-06",
+   "sender_id": 253,
+   "sender": "菜籽油 | 24小时内回复信息",
+   "content": "你们去买几千块的课，都没人在意变不变现",
+   "type": "text"
+  },
+  {
+   "id": 8937,
+   "time": "2026-02-06 22:28",
+   "date": "2026-02-06",
+   "sender_id": 253,
+   "sender": "菜籽油 | 24小时内回复信息",
+   "content": "超级的，顶级的内部价了[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 8936,
+   "time": "2026-02-06 22:28",
+   "date": "2026-02-06",
+   "sender_id": 498,
+   "sender": "蓝皮皮",
+   "content": "需要一机一号吗",
+   "type": "text"
+  }
+ ],
+ "total": 34567,
+ "page": 495,
+ "page_size": 50
+}

@@ -1,0 +1,88 @@
+{
+ "messages": [
+  {
+   "id": 1511,
+   "time": "2026-07-05 22:20",
+   "date": "2026-07-05",
+   "sender_id": 139,
+   "sender": "风景",
+   "content": "这个微信，电话都不对",
+   "type": "share"
+  },
+  {
+   "id": 1510,
+   "time": "2026-07-05 22:19",
+   "date": "2026-07-05",
+   "sender_id": 139,
+   "sender": "风景",
+   "content": "![图片](http://127.0.0.1:5030/image/2014096e38b9365f93ad354566fa5a8e,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/58e13b773115636b6151dc648f277a0a)",
+   "type": "image"
+  },
+  {
+   "id": 1509,
+   "time": "2026-07-05 22:19",
+   "date": "2026-07-05",
+   "sender_id": 139,
+   "sender": "风景",
+   "content": "捞人，有加好友的麻烦帮忙滴滴一下",
+   "type": "text"
+  },
+  {
+   "id": 1508,
+   "time": "2026-07-05 22:18",
+   "date": "2026-07-05",
+   "sender_id": 139,
+   "sender": "风景",
+   "content": "![图片](http://127.0.0.1:5030/image/9bf74a747a1d874f2678c3acc82b09e9,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/ceaf700af4d2a7c22d9bad7f47ffcb12)",
+   "type": "image"
+  },
+  {
+   "id": 1332,
+   "time": "2026-07-05 12:38",
+   "date": "2026-07-05",
+   "sender_id": 139,
+   "sender": "风景",
+   "content": "捞人",
+   "type": "text"
+  },
+  {
+   "id": 1331,
+   "time": "2026-07-05 12:38",
+   "date": "2026-07-05",
+   "sender_id": 139,
+   "sender": "风景",
+   "content": "![图片](http://127.0.0.1:5030/image/2014096e38b9365f93ad354566fa5a8e,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/bfe90871218b3ec6f59295d370520b33)",
+   "type": "image"
+  },
+  {
+   "id": 1138,
+   "time": "2026-07-05 10:12",
+   "date": "2026-07-05",
+   "sender_id": 139,
+   "sender": "风景",
+   "content": "我以为是学员[呲牙]",
+   "type": "share"
+  },
+  {
+   "id": 1136,
+   "time": "2026-07-05 10:12",
+   "date": "2026-07-05",
+   "sender_id": 139,
+   "sender": "风景",
+   "content": "好吧",
+   "type": "share"
+  },
+  {
+   "id": 1128,
+   "time": "2026-07-05 10:09",
+   "date": "2026-07-05",
+   "sender_id": 139,
+   "sender": "风景",
+   "content": "@海盐蓝 拉错群了吧",
+   "type": "text"
+  }
+ ],
+ "total": 9,
+ "page": 1,
+ "page_size": 9
+}

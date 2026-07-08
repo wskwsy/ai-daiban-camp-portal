@@ -1,0 +1,70 @@
+{
+ "messages": [
+  {
+   "id": 1770,
+   "time": "2026-07-06 14:56",
+   "date": "2026-07-06",
+   "sender_id": 76,
+   "sender": "💋小妖🍭📖",
+   "content": "哈～原来那个要急死的人，是我～[尴尬]",
+   "type": "share"
+  },
+  {
+   "id": 1201,
+   "time": "2026-07-05 10:38",
+   "date": "2026-07-05",
+   "sender_id": 76,
+   "sender": "💋小妖🍭📖",
+   "content": "![图片](http://127.0.0.1:5030/image/1cf094e3486d7191ca2f9fa83619dcc5,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/71f98fafdf955a9ea398f631c65eae02)",
+   "type": "image"
+  },
+  {
+   "id": 1200,
+   "time": "2026-07-05 10:38",
+   "date": "2026-07-05",
+   "sender_id": 76,
+   "sender": "💋小妖🍭📖",
+   "content": "这个人，有人之前加过他吗？？",
+   "type": "text"
+  },
+  {
+   "id": 1192,
+   "time": "2026-07-05 10:37",
+   "date": "2026-07-05",
+   "sender_id": 76,
+   "sender": "💋小妖🍭📖",
+   "content": "好",
+   "type": "text"
+  },
+  {
+   "id": 1188,
+   "time": "2026-07-05 10:35",
+   "date": "2026-07-05",
+   "sender_id": 76,
+   "sender": "💋小妖🍭📖",
+   "content": "我这里有一个微信找不到他，手机也找不到他，怎么办呢？",
+   "type": "text"
+  },
+  {
+   "id": 901,
+   "time": "2026-07-04 19:09",
+   "date": "2026-07-04",
+   "sender_id": 76,
+   "sender": "💋小妖🍭📖",
+   "content": "是说要工作起来了么？",
+   "type": "text"
+  },
+  {
+   "id": 608,
+   "time": "2026-06-24 12:46",
+   "date": "2026-06-24",
+   "sender_id": 76,
+   "sender": "💋小妖🍭📖",
+   "content": "志愿者是不是可以不报名？等分配就行了吧～",
+   "type": "text"
+  }
+ ],
+ "total": 7,
+ "page": 1,
+ "page_size": 7
+}

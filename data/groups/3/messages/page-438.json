@@ -1,0 +1,457 @@
+{
+ "messages": [
+  {
+   "id": 7835,
+   "time": "2026-02-17 20:49",
+   "date": "2026-02-17",
+   "sender_id": 354,
+   "sender": "🔴张亚男",
+   "content": "[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 7834,
+   "time": "2026-02-17 20:48",
+   "date": "2026-02-17",
+   "sender_id": 354,
+   "sender": "🔴张亚男",
+   "content": "馋了",
+   "type": "text"
+  },
+  {
+   "id": 7833,
+   "time": "2026-02-17 20:48",
+   "date": "2026-02-17",
+   "sender_id": 354,
+   "sender": "🔴张亚男",
+   "content": "我的天",
+   "type": "text"
+  },
+  {
+   "id": 7832,
+   "time": "2026-02-17 20:48",
+   "date": "2026-02-17",
+   "sender_id": 354,
+   "sender": "🔴张亚男",
+   "content": "[色]",
+   "type": "text"
+  },
+  {
+   "id": 7831,
+   "time": "2026-02-17 20:47",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/240ac62adac124856624dd11a00571d9,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/33f958e6d46111b8a3acc689a3fccd8b)",
+   "type": "image"
+  },
+  {
+   "id": 7830,
+   "time": "2026-02-17 20:47",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/173d627155863a49e9e1d98f085a2b0e,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/e8e033a5ad181d8ac337fc48fc10514f)",
+   "type": "image"
+  },
+  {
+   "id": 7829,
+   "time": "2026-02-17 20:35",
+   "date": "2026-02-17",
+   "sender_id": 255,
+   "sender": "竹子  减脂版，已-12斤",
+   "content": "![视频](http://127.0.0.1:5030/video/a57e1b800ff0dafa20ece049251e8e6e,b8302e8f57690f891d5f285c90962461,msg/video/2026-02/3a08e76763ce832b1ddea8d93db6f7ef)",
+   "type": "video"
+  },
+  {
+   "id": 7828,
+   "time": "2026-02-17 20:29",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "@一支钢笔的故事 我也第一次吃",
+   "type": "text"
+  },
+  {
+   "id": 7827,
+   "time": "2026-02-17 20:29",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[旺柴][旺柴][旺柴]就属你精@潘潘爱拿铁 ",
+   "type": "text"
+  },
+  {
+   "id": 7826,
+   "time": "2026-02-17 20:29",
+   "date": "2026-02-17",
+   "sender_id": 314,
+   "sender": "一支钢笔的故事",
+   "content": "甜的吗？",
+   "type": "text"
+  },
+  {
+   "id": 7825,
+   "time": "2026-02-17 20:29",
+   "date": "2026-02-17",
+   "sender_id": 314,
+   "sender": "一支钢笔的故事",
+   "content": "看着很好吃的样子。",
+   "type": "text"
+  },
+  {
+   "id": 7824,
+   "time": "2026-02-17 20:29",
+   "date": "2026-02-17",
+   "sender_id": 508,
+   "sender": "潘潘爱拿铁",
+   "content": "[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 7823,
+   "time": "2026-02-17 20:29",
+   "date": "2026-02-17",
+   "sender_id": 508,
+   "sender": "潘潘爱拿铁",
+   "content": "侧边不是写着",
+   "type": "text"
+  },
+  {
+   "id": 7822,
+   "time": "2026-02-17 20:29",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "@一支钢笔的故事 糖油果子",
+   "type": "text"
+  },
+  {
+   "id": 7821,
+   "time": "2026-02-17 20:28",
+   "date": "2026-02-17",
+   "sender_id": 314,
+   "sender": "一支钢笔的故事",
+   "content": "这是啥？",
+   "type": "text"
+  },
+  {
+   "id": 7820,
+   "time": "2026-02-17 20:27",
+   "date": "2026-02-17",
+   "sender_id": 255,
+   "sender": "竹子  减脂版，已-12斤",
+   "content": "分享一个烟花秀",
+   "type": "text"
+  },
+  {
+   "id": 7819,
+   "time": "2026-02-17 20:27",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "现做的耶",
+   "type": "text"
+  },
+  {
+   "id": 7818,
+   "time": "2026-02-17 20:27",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "哈哈哈",
+   "type": "text"
+  },
+  {
+   "id": 7817,
+   "time": "2026-02-17 20:27",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/91205c9b5e3bfa5edbd89668ec331aec,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/75ff5b145f0dbbb61ec666544a45b718)",
+   "type": "image"
+  },
+  {
+   "id": 7816,
+   "time": "2026-02-17 20:27",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![视频](http://127.0.0.1:5030/video/660077244e506fd59a7934ba5ac7a24b,msg/video/2026-02/7e523e26ff1b0d9c7bb039fca1d8dc7a)",
+   "type": "video"
+  },
+  {
+   "id": 7815,
+   "time": "2026-02-17 19:32",
+   "date": "2026-02-17",
+   "sender_id": 261,
+   "sender": "Andy🌸 紫云🐬 心理",
+   "content": "有些时间和空间还能摆出图案字更有意思",
+   "type": "text"
+  },
+  {
+   "id": 7814,
+   "time": "2026-02-17 19:31",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "大人小孩子都爱玩",
+   "type": "text"
+  },
+  {
+   "id": 7813,
+   "time": "2026-02-17 19:31",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "哈哈哈",
+   "type": "text"
+  },
+  {
+   "id": 7812,
+   "time": "2026-02-17 19:31",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "真的好有意思",
+   "type": "text"
+  },
+  {
+   "id": 7811,
+   "time": "2026-02-17 19:26",
+   "date": "2026-02-17",
+   "sender_id": 261,
+   "sender": "Andy🌸 紫云🐬 心理",
+   "content": "你问问让带不，里面有水算液体",
+   "type": "text"
+  },
+  {
+   "id": 7810,
+   "time": "2026-02-17 19:26",
+   "date": "2026-02-17",
+   "sender_id": 496,
+   "sender": "萤火",
+   "content": "是的，这个好看",
+   "type": "text"
+  },
+  {
+   "id": 7809,
+   "time": "2026-02-17 19:26",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "我觉得很有意义，哈哈哈",
+   "type": "text"
+  },
+  {
+   "id": 7808,
+   "time": "2026-02-17 19:26",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[愉快][愉快][愉快]",
+   "type": "text"
+  },
+  {
+   "id": 7807,
+   "time": "2026-02-17 19:26",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "我带回深圳，线下见面，我就给小伙伴们这个礼物，我自己做的",
+   "type": "text"
+  },
+  {
+   "id": 7806,
+   "time": "2026-02-17 19:25",
+   "date": "2026-02-17",
+   "sender_id": 271,
+   "sender": "淼林成意",
+   "content": "我们上学的时候养，我之前还以为它是生物啥的[破涕为笑]",
+   "type": "share"
+  },
+  {
+   "id": 7805,
+   "time": "2026-02-17 19:25",
+   "date": "2026-02-17",
+   "sender_id": 496,
+   "sender": "萤火",
+   "content": "哇好玩",
+   "type": "text"
+  },
+  {
+   "id": 7804,
+   "time": "2026-02-17 19:25",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "嘿嘿",
+   "type": "text"
+  },
+  {
+   "id": 7803,
+   "time": "2026-02-17 19:25",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/bb53d93c22d9103b7c597b525c80a20b,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/e82d65b532ef8fd582b4eaf58a16a937)",
+   "type": "image"
+  },
+  {
+   "id": 7802,
+   "time": "2026-02-17 19:25",
+   "date": "2026-02-17",
+   "sender_id": 261,
+   "sender": "Andy🌸 紫云🐬 心理",
+   "content": "小红书有人做这个赛道。放在各种形状模具里面养",
+   "type": "text"
+  },
+  {
+   "id": 7801,
+   "time": "2026-02-17 19:24",
+   "date": "2026-02-17",
+   "sender_id": 256,
+   "sender": "影",
+   "content": "我家现在还有呢",
+   "type": "text"
+  },
+  {
+   "id": 7800,
+   "time": "2026-02-17 19:24",
+   "date": "2026-02-17",
+   "sender_id": 496,
+   "sender": "萤火",
+   "content": "没想到这个能卖的",
+   "type": "text"
+  },
+  {
+   "id": 7799,
+   "time": "2026-02-17 19:23",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "嘿嘿嘿",
+   "type": "text"
+  },
+  {
+   "id": 7798,
+   "time": "2026-02-17 19:23",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[奸笑][奸笑][奸笑]",
+   "type": "text"
+  },
+  {
+   "id": 7797,
+   "time": "2026-02-17 19:23",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/7f116bdc080d6eceaf6b3aad7c7ce23b,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/0ddfeb6b6739ba3a86ae10cf314eca41)",
+   "type": "image"
+  },
+  {
+   "id": 7796,
+   "time": "2026-02-17 19:22",
+   "date": "2026-02-17",
+   "sender_id": 496,
+   "sender": "萤火",
+   "content": "水晶宝宝这个，以前还养过它，大了就爆掉了[捂脸]",
+   "type": "share"
+  },
+  {
+   "id": 7795,
+   "time": "2026-02-17 19:05",
+   "date": "2026-02-17",
+   "sender_id": 507,
+   "sender": "章鱼🐙",
+   "content": "谢谢菜菜老师",
+   "type": "text"
+  },
+  {
+   "id": 7794,
+   "time": "2026-02-17 19:05",
+   "date": "2026-02-17",
+   "sender_id": 507,
+   "sender": "章鱼🐙",
+   "content": "[转账|接收 ￥1100.00](新年分红，理智消费)",
+   "type": "share"
+  },
+  {
+   "id": 7793,
+   "time": "2026-02-17 19:04",
+   "date": "2026-02-17",
+   "sender_id": 314,
+   "sender": "一支钢笔的故事",
+   "content": "好漂亮！",
+   "type": "text"
+  },
+  {
+   "id": 7792,
+   "time": "2026-02-17 19:04",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/f1af11a30fbc28e777aa057c1cc56b04,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/a367ecb34aee4066862780851a42eb8e)",
+   "type": "image"
+  },
+  {
+   "id": 7791,
+   "time": "2026-02-17 19:04",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/11417f05a372b6e9ea0eed4db26642bc,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/26a8fe4e0b0e38c6f7f5288d2d015947)",
+   "type": "image"
+  },
+  {
+   "id": 7790,
+   "time": "2026-02-17 19:04",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/d1e78dd1442c0d1adda19232e7f9687c,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/43f5eb108e17f07d39dd61749f1ae2c0)",
+   "type": "image"
+  },
+  {
+   "id": 7789,
+   "time": "2026-02-17 19:04",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[奸笑][奸笑][奸笑]好好玩，这个，许愿瓶",
+   "type": "text"
+  },
+  {
+   "id": 7788,
+   "time": "2026-02-17 19:04",
+   "date": "2026-02-17",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/3a590ae66c8ecd2ecb3bc6ba828afcc1,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/4926521525c075c1f4a73ec49e417a66)",
+   "type": "image"
+  },
+  {
+   "id": 7787,
+   "time": "2026-02-17 16:05",
+   "date": "2026-02-17",
+   "sender_id": 506,
+   "sender": "环环",
+   "content": "谢谢菜菜老师，新年快乐[烟花][烟花]",
+   "type": "text"
+  },
+  {
+   "id": 7786,
+   "time": "2026-02-17 16:05",
+   "date": "2026-02-17",
+   "sender_id": 506,
+   "sender": "环环",
+   "content": "[转账|接收 ￥188.88](新年分红，理智消费)",
+   "type": "share"
+  }
+ ],
+ "total": 34567,
+ "page": 438,
+ "page_size": 50
+}

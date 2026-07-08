@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 2024,
+   "time": "2026-07-07 08:43",
+   "date": "2026-07-07",
+   "sender_id": 188,
+   "sender": "火龙果-AI设计-渔子清组",
+   "content": "应该是个老圈友了",
+   "type": "text"
+  },
+  {
+   "id": 2023,
+   "time": "2026-07-07 08:43",
+   "date": "2026-07-07",
+   "sender_id": 188,
+   "sender": "火龙果-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/1473b5af890209cede9cf045f30bb6b3,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/fea207d5ed69240a856579d2f1e82bf9)",
+   "type": "image"
+  },
+  {
+   "id": 2022,
+   "time": "2026-07-07 08:42",
+   "date": "2026-07-07",
+   "sender_id": 188,
+   "sender": "火龙果-AI设计-渔子清组",
+   "content": "我也来捞个人，有没有认识或加过的？",
+   "type": "text"
+  },
+  {
+   "id": 1693,
+   "time": "2026-07-06 14:30",
+   "date": "2026-07-06",
+   "sender_id": 188,
+   "sender": "火龙果-AI设计-渔子清组",
+   "content": "我上次拉人就被风控了，还是小心一点好，",
+   "type": "text"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

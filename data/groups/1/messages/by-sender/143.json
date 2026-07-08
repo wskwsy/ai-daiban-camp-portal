@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 1220,
+   "time": "2026-07-05 11:23",
+   "date": "2026-07-05",
+   "sender_id": 143,
+   "sender": "仰行-AI小红书虚拟－羽晗组",
+   "content": "@听风  @咖啡-AI小程序-渐渐 谢谢",
+   "type": "text"
+  },
+  {
+   "id": 1214,
+   "time": "2026-07-05 11:20",
+   "date": "2026-07-05",
+   "sender_id": 143,
+   "sender": "仰行-AI小红书虚拟－羽晗组",
+   "content": "微信昵称搜到的人，靠谱吗，其他两项都不行",
+   "type": "text"
+  },
+  {
+   "id": 1160,
+   "time": "2026-07-05 10:24",
+   "date": "2026-07-05",
+   "sender_id": 143,
+   "sender": "仰行-AI小红书虚拟－羽晗组",
+   "content": "![图片](http://127.0.0.1:5030/image/4eec07a76882f296c8f8c428cf122110,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/1b9f30382dd5f853bf09c1d851519ea8)",
+   "type": "image"
+  },
+  {
+   "id": 1159,
+   "time": "2026-07-05 10:24",
+   "date": "2026-07-05",
+   "sender_id": 143,
+   "sender": "仰行-AI小红书虚拟－羽晗组",
+   "content": "捞个人，有哪位和这位有联系",
+   "type": "text"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

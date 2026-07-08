@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#2563EB">
+<title>每日精华 · AI 破局门户</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./assets/style.css?v=15">
+</head>
+<body data-page="daily">
+
+<div class="bg-canvas"></div>
+<div class="bg-noise"></div>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a href="./index.html" class="brand">
+      <span class="mark">AI</span>
+      <span class="brand-text">
+        <span class="en">AI 破局 · 行动营</span>
+        <span class="zh" id="brandGroupName">AI破局门户</span>
+      </span>
+    </a>
+    <nav class="nav-links">
+      <a href="./index.html">首页</a>
+      <a href="./members.html">同营人</a>
+      <a href="./daily.html" class="active">每日精华</a>
+      <a href="./messages.html">消息</a>
+      <a href="./settings.html">设置</a>
+    </nav>
+    <div class="nav-actions">
+      <button class="theme-toggle" data-theme-btn aria-label="切换主题"><span class="theme-state">🌗</span></button>
+    </div>
+  </div>
+</header>
+
+<!-- Hero -->
+<section class="hero inner">
+  <div class="hero-inner">
+    <span class="eyebrow reveal"><span class="dot"></span>DAILY DIGEST · 每日精华</span>
+    <h1 class="h-title reveal d1">
+      每一天，都值得<em>沉淀一份精华</em>
+    </h1>
+    <p class="h-sub reveal d2">
+      左侧切换日期，AI 会从当日群消息中整理讨论要点、亮点语录、招募与团队等。
+    </p>
+  </div>
+</section>
+
+<main class="container section" style="padding-top:24px">
+  <!-- 日期标签栏 -->
+  <div class="day-tabs" id="dayTabs"></div>
+
+  <!-- 头部 + 时间线 -->
+  <div id="dayContent">
+    <div class="loading">正在读取每日精华……</div>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <span class="brand">AI 破局门户 · AI Action Portal</span>
+    <span class="fine">精华由 AI 生成，节选自群内公开消息，可在管理员权限下重新生成</span>
+  </div>
+</footer>
+
+<script>window.PORTAL_STATIC=true;window.PORTAL_STATIC_BUILD="20260708142430";</script>
+<script src="./assets/app.js?v=15"></script>
+</body>
+</html>

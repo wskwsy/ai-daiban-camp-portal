@@ -1,0 +1,70 @@
+{
+ "messages": [
+  {
+   "id": 1896,
+   "time": "2026-07-06 17:49",
+   "date": "2026-07-06",
+   "sender_id": 77,
+   "sender": "小凤-公众号漫画工作流-鸟儿组",
+   "content": "#捞人",
+   "type": "text"
+  },
+  {
+   "id": 1897,
+   "time": "2026-07-06 17:49",
+   "date": "2026-07-06",
+   "sender_id": 77,
+   "sender": "小凤-公众号漫画工作流-鸟儿组",
+   "content": "![图片](http://127.0.0.1:5030/image/8aa4c851253a25b5393e7dd46c271ea8,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/db79eb65142f0214fa087d87b9188bbb)",
+   "type": "image"
+  },
+  {
+   "id": 1431,
+   "time": "2026-07-05 16:00",
+   "date": "2026-07-05",
+   "sender_id": 77,
+   "sender": "小凤-公众号漫画工作流-鸟儿组",
+   "content": "捞人，有人加过么",
+   "type": "text"
+  },
+  {
+   "id": 1430,
+   "time": "2026-07-05 16:00",
+   "date": "2026-07-05",
+   "sender_id": 77,
+   "sender": "小凤-公众号漫画工作流-鸟儿组",
+   "content": "![图片](http://127.0.0.1:5030/image/f7f0c90c6a2735e8584b544f7d281b65,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/daaf57cf2933f89cf747eb6a3f17e245)",
+   "type": "image"
+  },
+  {
+   "id": 640,
+   "time": "2026-06-24 13:21",
+   "date": "2026-06-24",
+   "sender_id": 77,
+   "sender": "小凤-公众号漫画工作流-鸟儿组",
+   "content": "行动营的接单 结营后想继续接 有门槛吗？比如要开会员之类的？",
+   "type": "text"
+  },
+  {
+   "id": 617,
+   "time": "2026-06-24 13:13",
+   "date": "2026-06-24",
+   "sender_id": 77,
+   "sender": "小凤-公众号漫画工作流-鸟儿组",
+   "content": "自己发咸鱼接单 还是有专门的接单平台",
+   "type": "text"
+  },
+  {
+   "id": 612,
+   "time": "2026-06-24 12:55",
+   "date": "2026-06-24",
+   "sender_id": 77,
+   "sender": "小凤-公众号漫画工作流-鸟儿组",
+   "content": "做的一般的话 能有个多少",
+   "type": "text"
+  }
+ ],
+ "total": 7,
+ "page": 1,
+ "page_size": 7
+}

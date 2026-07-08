@@ -1,0 +1,952 @@
+{
+ "total": 2120,
+ "dates": [
+  "2026-07-07",
+  "2026-07-06",
+  "2026-07-05",
+  "2026-07-04",
+  "2026-07-03",
+  "2026-07-02",
+  "2026-07-01",
+  "2026-06-30",
+  "2026-06-29",
+  "2026-06-28",
+  "2026-06-27",
+  "2026-06-26",
+  "2026-06-25",
+  "2026-06-24",
+  "2026-06-23",
+  "2026-06-22",
+  "2026-06-11",
+  "2026-06-10",
+  "2026-06-09",
+  "2026-06-08",
+  "2026-06-07"
+ ],
+ "senders": [
+  {
+   "id": 140,
+   "name": "海盐蓝"
+  },
+  {
+   "id": 72,
+   "name": "风-全域 AI 带货-Annia组"
+  },
+  {
+   "id": 231,
+   "name": "✨红红✨-咸鱼补单8.21"
+  },
+  {
+   "id": 27,
+   "name": "小万-AI一人公司-熙雾组"
+  },
+  {
+   "id": 230,
+   "name": "魏一佳"
+  },
+  {
+   "id": 229,
+   "name": "键盘-AI一人公司-熙雾组"
+  },
+  {
+   "id": 227,
+   "name": "星瑜-AI设计-渔子清组"
+  },
+  {
+   "id": 228,
+   "name": "AI内容工厂—相由心生"
+  },
+  {
+   "id": 224,
+   "name": "吉祥君Jay"
+  },
+  {
+   "id": 38,
+   "name": "未知成员"
+  },
+  {
+   "id": 226,
+   "name": "元元"
+  },
+  {
+   "id": 1,
+   "name": "系统消息"
+  },
+  {
+   "id": 190,
+   "name": "拾琪"
+  },
+  {
+   "id": 98,
+   "name": "玉佩-AI PPT 实战-译晨组"
+  },
+  {
+   "id": 145,
+   "name": "a！舞歌-浮生若梦组"
+  },
+  {
+   "id": 159,
+   "name": "ㅤRain"
+  },
+  {
+   "id": 68,
+   "name": "咖啡-AI小程序-渐渐"
+  },
+  {
+   "id": 223,
+   "name": "water-AI全域带货-张一组"
+  },
+  {
+   "id": 177,
+   "name": "橙锋AI"
+  },
+  {
+   "id": 117,
+   "name": "AI内容工厂-恋哲之"
+  },
+  {
+   "id": 225,
+   "name": "AI 编程产品出海—小屋姐👍🏻"
+  },
+  {
+   "id": 48,
+   "name": "拾光-AI PPT-夏蝉组"
+  },
+  {
+   "id": 129,
+   "name": "子奕"
+  },
+  {
+   "id": 50,
+   "name": "飞哥"
+  },
+  {
+   "id": 222,
+   "name": "红尘"
+  },
+  {
+   "id": 174,
+   "name": "吴义松-codex行动营领队"
+  },
+  {
+   "id": 221,
+   "name": "边城-全域AI带货-Annia组"
+  },
+  {
+   "id": 47,
+   "name": "小王"
+  },
+  {
+   "id": 78,
+   "name": "Zzz"
+  },
+  {
+   "id": 209,
+   "name": "长风-全域AI带货-Cherry组"
+  },
+  {
+   "id": 220,
+   "name": "梁晋宇—lizzy组"
+  },
+  {
+   "id": 219,
+   "name": "你若是风"
+  },
+  {
+   "id": 2,
+   "name": "熊教官"
+  },
+  {
+   "id": 58,
+   "name": "小红书虚拟XiXi"
+  },
+  {
+   "id": 130,
+   "name": "半淺- AI PPT-译晨组"
+  },
+  {
+   "id": 157,
+   "name": "AI内容工厂-羽晏"
+  },
+  {
+   "id": 188,
+   "name": "火龙果-AI设计-渔子清组"
+  },
+  {
+   "id": 110,
+   "name": "小生-CodeX做产品-杨天蛇组"
+  },
+  {
+   "id": 218,
+   "name": "江城-全域AI带货-张一组"
+  },
+  {
+   "id": 82,
+   "name": "北京杰克-AI带货志愿者"
+  },
+  {
+   "id": 120,
+   "name": "流水若轩"
+  },
+  {
+   "id": 125,
+   "name": "横笛"
+  },
+  {
+   "id": 75,
+   "name": "程程- AI写作出海-天气123组"
+  },
+  {
+   "id": 217,
+   "name": "宁伊"
+  },
+  {
+   "id": 214,
+   "name": "Breaking"
+  },
+  {
+   "id": 216,
+   "name": "焦哥"
+  },
+  {
+   "id": 4,
+   "name": "Lily -公众号漫画-杜汭锜组"
+  },
+  {
+   "id": 123,
+   "name": "AI内容工厂-阿宝"
+  },
+  {
+   "id": 89,
+   "name": "彼岸"
+  },
+  {
+   "id": 215,
+   "name": "宏源@数字-小红书n8n志愿者"
+  },
+  {
+   "id": 210,
+   "name": "乔乔-破局AI思维-麋鹿鲁哟组"
+  },
+  {
+   "id": 212,
+   "name": "ATYPICAL"
+  },
+  {
+   "id": 141,
+   "name": "金玲-AI一人公司-熙雾组"
+  },
+  {
+   "id": 200,
+   "name": "Sprime"
+  },
+  {
+   "id": 213,
+   "name": "Handsome（人多，回复慢））"
+  },
+  {
+   "id": 114,
+   "name": "AI思维-晨煦"
+  },
+  {
+   "id": 22,
+   "name": "方恨少-AI设计-渔子清组"
+  },
+  {
+   "id": 211,
+   "name": "今日课毕"
+  },
+  {
+   "id": 205,
+   "name": "熙雾AI"
+  },
+  {
+   "id": 79,
+   "name": "Gary 陈家怡"
+  },
+  {
+   "id": 208,
+   "name": "沈然"
+  },
+  {
+   "id": 207,
+   "name": "鸟儿"
+  },
+  {
+   "id": 206,
+   "name": "地球AI｜曾子迪"
+  },
+  {
+   "id": 56,
+   "name": "雪花-破局AI小程序-渐渐组"
+  },
+  {
+   "id": 39,
+   "name": "运营鑫"
+  },
+  {
+   "id": 175,
+   "name": "Sneaker-鞋罗汉"
+  },
+  {
+   "id": 202,
+   "name": "Y"
+  },
+  {
+   "id": 100,
+   "name": "柳古点.🌈小红书起号营"
+  },
+  {
+   "id": 204,
+   "name": "羽晗"
+  },
+  {
+   "id": 161,
+   "name": "华仔Andy"
+  },
+  {
+   "id": 203,
+   "name": "香香"
+  },
+  {
+   "id": 173,
+   "name": "大胡"
+  },
+  {
+   "id": 132,
+   "name": "汽水-AI PPT-夏蝉组"
+  },
+  {
+   "id": 198,
+   "name": "大倪-lizzy组"
+  },
+  {
+   "id": 201,
+   "name": "Ai小程序-星卡-渐渐组"
+  },
+  {
+   "id": 77,
+   "name": "小凤-公众号漫画工作流-鸟儿组"
+  },
+  {
+   "id": 59,
+   "name": "颜恒-全域AI带货-Annia组"
+  },
+  {
+   "id": 154,
+   "name": "Ai思维-悔海-渐渐组"
+  },
+  {
+   "id": 20,
+   "name": "95°"
+  },
+  {
+   "id": 61,
+   "name": "闫言-一人公司-熙雾组"
+  },
+  {
+   "id": 60,
+   "name": "凤歌-全域 AI 带货-helen 组"
+  },
+  {
+   "id": 149,
+   "name": "AI教育微课-helen组-文婕志愿者"
+  },
+  {
+   "id": 199,
+   "name": "<msg><appmsg appid=\"\" sdkver=\"0\"><title>这个我今天刚加过，加了好几次，短信不回，打电话才通过</title><des></des><action></action><type>57</type><showtype>0</showtype><soundtype>0</soundtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url></url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><songalbumurl></songalbumurl><songlyric></songlyric><template_id></template_id><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><aeskey></aeskey></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><thumburl></thumburl><md5></md5><statextstr></statextstr><refermsg><chatusr>qq842757763</chatusr><type>3</type><createtime>1783329958</createtime><msgsource>&lt;msgsource&gt;\n\t&lt;img_file_name&gt;262a684f-a60a-4e05-b72d-d94b281e60ba.png&lt;/img_file_name&gt;\n\t&lt;alnode&gt;\n\t\t&lt;fr&gt;1&lt;/fr&gt;\n\t\t&lt;cf&gt;3&lt;/cf&gt;\n\t&lt;/alnode&gt;\n\t&lt;sec_msg_node&gt;\n\t\t&lt;uuid&gt;ff004a3932c4e28a0cea1fe1d3421e3c_&lt;/uuid&gt;\n\t\t&lt;risk-file-flag /&gt;\n\t\t&lt;risk-file-md5-list /&gt;\n\t&lt;/sec_msg_node&gt;\n\t&lt;imgmsg_pd cdnbigimgurl_size=\"3501\" cdnbigimgurl_pd_pri=\"30\" cdnbigimgurl_pd=\"0\" /&gt;\n\t&lt;silence&gt;0&lt;/silence&gt;\n\t&lt;membercount&gt;455&lt;/membercount&gt;\n\t&lt;signature&gt;N0_V1_eLrTCIOW|v1_DRGpyF8W&lt;/signature&gt;\n\t&lt;tmp_node&gt;\n\t\t&lt;publisher-id&gt;&lt;/publisher-id&gt;\n\t&lt;/tmp_node&gt;\n&lt;/msgsource&gt;\n</msgsource><displayname></displayname><svrid>6180181764909534206</svrid><fromusr>44570562880@chatroom</fromusr><content>qq842757763"
+  },
+  {
+   "id": 194,
+   "name": "AI内容工厂-小熊猫"
+  },
+  {
+   "id": 92,
+   "name": "俊-破局AI思维-渐渐组"
+  },
+  {
+   "id": 65,
+   "name": "微光-AI设计-渔子清组"
+  },
+  {
+   "id": 197,
+   "name": "朱朱"
+  },
+  {
+   "id": 5,
+   "name": "java同学-AI设计-渔子清组"
+  },
+  {
+   "id": 162,
+   "name": "Jerry.z"
+  },
+  {
+   "id": 133,
+   "name": "如意姑姑-ai带货-杜汭锜组"
+  },
+  {
+   "id": 196,
+   "name": "Eleven-小红书起号实战-柳古点"
+  },
+  {
+   "id": 195,
+   "name": "麋鹿鲁哟-AI破局思维-领队"
+  },
+  {
+   "id": 31,
+   "name": "Derek-郁言-AI编程出海"
+  },
+  {
+   "id": 193,
+   "name": "爱学习的睿哥"
+  },
+  {
+   "id": 192,
+   "name": "小丽-全域AI带货志愿者"
+  },
+  {
+   "id": 191,
+   "name": "忘忧"
+  },
+  {
+   "id": 164,
+   "name": "金花-AI全域带货-Helen组"
+  },
+  {
+   "id": 64,
+   "name": "AI内容工厂-墨琛"
+  },
+  {
+   "id": 176,
+   "name": "辰泽-AI一人公司-熙雾组"
+  },
+  {
+   "id": 183,
+   "name": "王克勇"
+  },
+  {
+   "id": 76,
+   "name": "💋小妖🍭📖"
+  },
+  {
+   "id": 52,
+   "name": "白兰度"
+  },
+  {
+   "id": 41,
+   "name": "宛月 公众号细分AIP"
+  },
+  {
+   "id": 189,
+   "name": "大鹏展翅-Ai教育微课-宁伊组"
+  },
+  {
+   "id": 153,
+   "name": "星源-AI 小程序-郁言组"
+  },
+  {
+   "id": 186,
+   "name": "行舟-AI全域带货-helen组"
+  },
+  {
+   "id": 13,
+   "name": "一叶知秋"
+  },
+  {
+   "id": 187,
+   "name": "七歌-AI私域"
+  },
+  {
+   "id": 182,
+   "name": "蛋挞-AI思维"
+  },
+  {
+   "id": 136,
+   "name": "子桐"
+  },
+  {
+   "id": 185,
+   "name": "谛听-全域AI带货+志愿者"
+  },
+  {
+   "id": 51,
+   "name": "Helen～蝴蝶兰"
+  },
+  {
+   "id": 160,
+   "name": "恒毅皓月 小红书虚拟产品 kirito组"
+  },
+  {
+   "id": 138,
+   "name": "三横王者-一人公司短视频-双喜组"
+  },
+  {
+   "id": 43,
+   "name": "田超"
+  },
+  {
+   "id": 184,
+   "name": "阿宇"
+  },
+  {
+   "id": 63,
+   "name": "小柒"
+  },
+  {
+   "id": 66,
+   "name": "温白-公众号细分AIP打造-双喜"
+  },
+  {
+   "id": 181,
+   "name": "陆宏伟"
+  },
+  {
+   "id": 180,
+   "name": "邱邦军"
+  },
+  {
+   "id": 90,
+   "name": "怀瑾-codex实战产品"
+  },
+  {
+   "id": 179,
+   "name": "林允"
+  },
+  {
+   "id": 86,
+   "name": "内容工厂-兔女财"
+  },
+  {
+   "id": 178,
+   "name": "善良阿甘AI"
+  },
+  {
+   "id": 137,
+   "name": "🍀🍀🍀"
+  },
+  {
+   "id": 29,
+   "name": "大师兄-全域AI带货"
+  },
+  {
+   "id": 168,
+   "name": "奔跑的蜗牛+AI教育微课+志愿者"
+  },
+  {
+   "id": 67,
+   "name": "薄冰-AI设计-渔子清"
+  },
+  {
+   "id": 111,
+   "name": "一懒众衫小-小红书起号-柳古典组"
+  },
+  {
+   "id": 172,
+   "name": "AI教育微课-helen组-潇叶"
+  },
+  {
+   "id": 171,
+   "name": "贾烟火～Helen组"
+  },
+  {
+   "id": 170,
+   "name": "小九-小红书虚拟产品-羽晗组"
+  },
+  {
+   "id": 128,
+   "name": "GS-AI编程产品出海-小屋姐组"
+  },
+  {
+   "id": 42,
+   "name": "Bigcat-codex—Lizzy组"
+  },
+  {
+   "id": 122,
+   "name": "竹子-AI 编程产品出海-小屋姐组）"
+  },
+  {
+   "id": 169,
+   "name": "llllll"
+  },
+  {
+   "id": 139,
+   "name": "风景"
+  },
+  {
+   "id": 155,
+   "name": "ʚ瑞ʚ-AI一人公司-熙雾组"
+  },
+  {
+   "id": 124,
+   "name": "Blue蓝蓝-破局AI小程序-渐渐组"
+  },
+  {
+   "id": 55,
+   "name": "L-jiehui"
+  },
+  {
+   "id": 167,
+   "name": "小草-全域Ai 带货-Cherry组"
+  },
+  {
+   "id": 166,
+   "name": "医生"
+  },
+  {
+   "id": 165,
+   "name": "函阳郡王"
+  },
+  {
+   "id": 163,
+   "name": "哈哈姐+小红书虚拟资料+志愿者"
+  },
+  {
+   "id": 28,
+   "name": "清心～小红书起号～柳古点组"
+  },
+  {
+   "id": 71,
+   "name": "秦川-AI PPT-夏蝉组"
+  },
+  {
+   "id": 158,
+   "name": "太一-公众号细分AIP打造-双喜组"
+  },
+  {
+   "id": 87,
+   "name": "朱伟-全域AI带货-Annia组"
+  },
+  {
+   "id": 148,
+   "name": "程建-志愿者"
+  },
+  {
+   "id": 156,
+   "name": "大茂爱睡觉"
+  },
+  {
+   "id": 88,
+   "name": "伍哥-广州"
+  },
+  {
+   "id": 99,
+   "name": "渔子清"
+  },
+  {
+   "id": 152,
+   "name": "A~虎哥~08期编程出海志愿者"
+  },
+  {
+   "id": 119,
+   "name": "玄川-AI PPT-夏蝉组"
+  },
+  {
+   "id": 151,
+   "name": "小卫"
+  },
+  {
+   "id": 144,
+   "name": "听风"
+  },
+  {
+   "id": 91,
+   "name": "Ymo"
+  },
+  {
+   "id": 135,
+   "name": "Helen"
+  },
+  {
+   "id": 150,
+   "name": "榮——Helen组"
+  },
+  {
+   "id": 85,
+   "name": "小机AI-AI 编程产品出海-小屋姐组"
+  },
+  {
+   "id": 147,
+   "name": "拾光-全域AI带货-杜汭锜组"
+  },
+  {
+   "id": 62,
+   "name": "倞本-公众号漫画工作流-鸟儿组"
+  },
+  {
+   "id": 118,
+   "name": "时光-AI设计(含GPT image2)-稳稳组"
+  },
+  {
+   "id": 146,
+   "name": "ZYF-AI编程产品出海-小屋姐组"
+  },
+  {
+   "id": 26,
+   "name": "AI PPT 野生老肖 【小王组】"
+  },
+  {
+   "id": 25,
+   "name": "关二爷"
+  },
+  {
+   "id": 143,
+   "name": "仰行-AI小红书虚拟－羽晗组"
+  },
+  {
+   "id": 127,
+   "name": "天气123"
+  },
+  {
+   "id": 16,
+   "name": "张金龙—lizzy组"
+  },
+  {
+   "id": 134,
+   "name": "李泽霖-AI全域带货"
+  },
+  {
+   "id": 74,
+   "name": "吴茵-AI设计-渔子清组"
+  },
+  {
+   "id": 21,
+   "name": "星哥-AI设计"
+  },
+  {
+   "id": 142,
+   "name": "雅荷-AI写作出海-海盐蓝"
+  },
+  {
+   "id": 106,
+   "name": "无为（8:00-22:00）"
+  },
+  {
+   "id": 34,
+   "name": "王瑞"
+  },
+  {
+   "id": 46,
+   "name": "陈娟|扬玉领队|小红书虚拟资料"
+  },
+  {
+   "id": 33,
+   "name": "Kirito"
+  },
+  {
+   "id": 54,
+   "name": "王佩Emmy"
+  },
+  {
+   "id": 131,
+   "name": "千吉-CodeX做产品-杨天蛇组"
+  },
+  {
+   "id": 44,
+   "name": "老野"
+  },
+  {
+   "id": 108,
+   "name": "萍子-写作出海-天气123"
+  },
+  {
+   "id": 12,
+   "name": "风-AI写作出海-海盐蓝组"
+  },
+  {
+   "id": 126,
+   "name": "柚柚-AI一人公司-熙雾组"
+  },
+  {
+   "id": 11,
+   "name": "俊哥-公众号细分AIP打造-双喜组"
+  },
+  {
+   "id": 6,
+   "name": "王庆"
+  },
+  {
+   "id": 121,
+   "name": "浅浅-小红书虚拟产品-kiroto 组"
+  },
+  {
+   "id": 70,
+   "name": "十一｜AI 编程产品出海-小屋姐组"
+  },
+  {
+   "id": 116,
+   "name": "慧慧-AI PPT-译晨组"
+  },
+  {
+   "id": 103,
+   "name": "忠陆先森-全域 AI 带货 annia 组"
+  },
+  {
+   "id": 115,
+   "name": "译晨"
+  },
+  {
+   "id": 112,
+   "name": "庭婷Tina"
+  },
+  {
+   "id": 113,
+   "name": "杜汭锜（ruì qí）-08期领队"
+  },
+  {
+   "id": 109,
+   "name": "仇哥不愁丨公众号漫画丨鸟儿组"
+  },
+  {
+   "id": 107,
+   "name": "扬玉🍬"
+  },
+  {
+   "id": 105,
+   "name": "享亮"
+  },
+  {
+   "id": 104,
+   "name": "乐🎐 一人公司短视频制-雪儿组"
+  },
+  {
+   "id": 36,
+   "name": "行者LeoSun"
+  },
+  {
+   "id": 102,
+   "name": "锦鲤鹿-AI PPT-夏蝉组"
+  },
+  {
+   "id": 101,
+   "name": "你的树"
+  },
+  {
+   "id": 14,
+   "name": "罗晓钊-TK AI电商-Annia组"
+  },
+  {
+   "id": 97,
+   "name": "自由-AI思维"
+  },
+  {
+   "id": 96,
+   "name": "朝颜—破局思维—清铭一世界"
+  },
+  {
+   "id": 95,
+   "name": "南小数-AI一人公司-熙雾组"
+  },
+  {
+   "id": 94,
+   "name": "HK"
+  },
+  {
+   "id": 93,
+   "name": "Ankh 🐣"
+  },
+  {
+   "id": 53,
+   "name": "天朋彬帅-TK AI电商-Annia组"
+  },
+  {
+   "id": 84,
+   "name": "明天吃什么"
+  },
+  {
+   "id": 37,
+   "name": "Annia Shaw-领队"
+  },
+  {
+   "id": 15,
+   "name": "Emma-AI TK"
+  },
+  {
+   "id": 7,
+   "name": "红杉"
+  },
+  {
+   "id": 83,
+   "name": "小镇青年967720-Cherry组"
+  },
+  {
+   "id": 81,
+   "name": "海盐蓝-Ai写作左七"
+  },
+  {
+   "id": 30,
+   "name": "凯迪"
+  },
+  {
+   "id": 73,
+   "name": "陌上花开"
+  },
+  {
+   "id": 80,
+   "name": "风子"
+  },
+  {
+   "id": 69,
+   "name": "快乐小熊-codex-lizzy组"
+  },
+  {
+   "id": 57,
+   "name": "海吉"
+  },
+  {
+   "id": 24,
+   "name": "桃良十八"
+  },
+  {
+   "id": 10,
+   "name": "释"
+  },
+  {
+   "id": 49,
+   "name": "ʚ Lily ིྀ²"
+  },
+  {
+   "id": 35,
+   "name": "老朱（独善其身）"
+  },
+  {
+   "id": 45,
+   "name": "小胖-AI 编程产品出海-小屋姐组"
+  },
+  {
+   "id": 40,
+   "name": "AI小红书起号实战 志愿者"
+  },
+  {
+   "id": 3,
+   "name": "声而不凡-公众号漫画工作流-鸟儿组"
+  },
+  {
+   "id": 32,
+   "name": "皮卡丘大哥"
+  },
+  {
+   "id": 9,
+   "name": "聚水潭｜孙双喜｜13630865980"
+  },
+  {
+   "id": 23,
+   "name": "莹之光-公众号细分AIP打造-双"
+  },
+  {
+   "id": 19,
+   "name": "Doki"
+  },
+  {
+   "id": 8,
+   "name": "泰山Ai"
+  },
+  {
+   "id": 18,
+   "name": "KT"
+  },
+  {
+   "id": 17,
+   "name": "安迪-ai写作出海-海盐蓝组"
+  }
+ ]
+}

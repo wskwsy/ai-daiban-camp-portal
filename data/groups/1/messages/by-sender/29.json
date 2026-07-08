@@ -1,0 +1,88 @@
+{
+ "messages": [
+  {
+   "id": 1591,
+   "time": "2026-07-06 10:25",
+   "date": "2026-07-06",
+   "sender_id": 29,
+   "sender": "大师兄-全域AI带货",
+   "content": "有没有人认知这个人的，微信不加，电话不回的",
+   "type": "text"
+  },
+  {
+   "id": 1588,
+   "time": "2026-07-06 10:25",
+   "date": "2026-07-06",
+   "sender_id": 29,
+   "sender": "大师兄-全域AI带货",
+   "content": "![图片](http://127.0.0.1:5030/image/9280c180c173bfa61d61a3083ea2c249,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/9bdb369c2aa680713c1d6386b3322c08)",
+   "type": "image"
+  },
+  {
+   "id": 862,
+   "time": "2026-07-04 12:35",
+   "date": "2026-07-04",
+   "sender_id": 29,
+   "sender": "大师兄-全域AI带货",
+   "content": "俺是做小红书的大师兄",
+   "type": "text"
+  },
+  {
+   "id": 861,
+   "time": "2026-07-04 12:35",
+   "date": "2026-07-04",
+   "sender_id": 29,
+   "sender": "大师兄-全域AI带货",
+   "content": "应该不是",
+   "type": "text"
+  },
+  {
+   "id": 859,
+   "time": "2026-07-03 15:46",
+   "date": "2026-07-03",
+   "sender_id": 29,
+   "sender": "大师兄-全域AI带货",
+   "content": "没啥大师，官方联系不上会取消它的志愿者资格的。",
+   "type": "text"
+  },
+  {
+   "id": 600,
+   "time": "2026-06-24 11:42",
+   "date": "2026-06-24",
+   "sender_id": 29,
+   "sender": "大师兄-全域AI带货",
+   "content": "有小程序和编程的内容",
+   "type": "text"
+  },
+  {
+   "id": 599,
+   "time": "2026-06-24 11:42",
+   "date": "2026-06-24",
+   "sender_id": 29,
+   "sender": "大师兄-全域AI带货",
+   "content": "做虚拟产品",
+   "type": "text"
+  },
+  {
+   "id": 598,
+   "time": "2026-06-24 11:42",
+   "date": "2026-06-24",
+   "sender_id": 29,
+   "sender": "大师兄-全域AI带货",
+   "content": "小红书的那个里面也有关于编程相关内容的",
+   "type": "text"
+  },
+  {
+   "id": 242,
+   "time": "2026-06-08 21:26",
+   "date": "2026-06-08",
+   "sender_id": 29,
+   "sender": "大师兄-全域AI带货",
+   "content": "俺也是，大家一起加油。",
+   "type": "text"
+  }
+ ],
+ "total": 9,
+ "page": 1,
+ "page_size": 9
+}

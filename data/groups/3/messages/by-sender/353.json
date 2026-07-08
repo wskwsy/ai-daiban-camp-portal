@@ -1,0 +1,367 @@
+{
+ "messages": [
+  {
+   "id": 35437,
+   "time": "2026-06-21 20:10",
+   "date": "2026-06-21",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "谢谢子瞻老师[庆祝][庆祝]",
+   "type": "text"
+  },
+  {
+   "id": 34029,
+   "time": "2026-06-09 19:22",
+   "date": "2026-06-09",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "@菜籽油（没回复是人不在线） 一定要注意身体，平时好好休息",
+   "type": "text"
+  },
+  {
+   "id": 33780,
+   "time": "2026-06-05 23:28",
+   "date": "2026-06-05",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "太好啦",
+   "type": "text"
+  },
+  {
+   "id": 33767,
+   "time": "2026-06-05 23:22",
+   "date": "2026-06-05",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=cba81c6d8fdda5795cc26cc6d0cbce9e&filekey=30350201010421301f02020106040253480410cba81c6d8fdda5795cc26cc6d0cbce9e020301038a040d00000004627466730000000132&hy=SH&storeid=2631f46ac0004214a000000000000010600004f5053481cd67b40b77570657&bizid=1023)",
+   "type": "sticker"
+  },
+  {
+   "id": 32321,
+   "time": "2026-05-23 10:36",
+   "date": "2026-05-23",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "已阅读并认可[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 32283,
+   "time": "2026-05-23 10:29",
+   "date": "2026-05-23",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "超级棒",
+   "type": "text"
+  },
+  {
+   "id": 32168,
+   "time": "2026-05-22 21:10",
+   "date": "2026-05-22",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "根本没人舍得退这个群哈哈",
+   "type": "text"
+  },
+  {
+   "id": 32167,
+   "time": "2026-05-22 21:09",
+   "date": "2026-05-22",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=cba81c6d8fdda5795cc26cc6d0cbce9e&filekey=30350201010421301f02020106040253480410cba81c6d8fdda5795cc26cc6d0cbce9e020301038a040d00000004627466730000000132&hy=SH&storeid=2631f46ac0004214a000000000000010600004f5053481cd67b40b77570657&bizid=1023)",
+   "type": "sticker"
+  },
+  {
+   "id": 32158,
+   "time": "2026-05-22 21:05",
+   "date": "2026-05-22",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "![动画表情](http://wxapp.tc.qq.com/275/20304/stodownload?m=1f3dbe1eff57e7aff16bc85e85453ea2&filekey=30350201010421301f020201130402534804101f3dbe1eff57e7aff16bc85e85453ea20203009f02040d00000004627466730000000132&hy=SH&storeid=264d674bf000185f8b44a8c6d0000011300004f505348234448e0b6d581cc8&bizid=1023)",
+   "type": "sticker"
+  },
+  {
+   "id": 4108,
+   "time": "2026-05-16 23:14",
+   "date": "2026-05-16",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 4040,
+   "time": "2026-05-16 20:55",
+   "date": "2026-05-16",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "欢迎童哥[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 3709,
+   "time": "2026-05-13 20:01",
+   "date": "2026-05-13",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "恭喜@无意无义 报名成功同行者，与我们一路同行[庆祝][烟花]",
+   "type": "text"
+  },
+  {
+   "id": 3683,
+   "time": "2026-05-13 19:40",
+   "date": "2026-05-13",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "太实惠了，二群已经好几个人报名了",
+   "type": "text"
+  },
+  {
+   "id": 3672,
+   "time": "2026-05-13 19:37",
+   "date": "2026-05-13",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "尽快组织50人啊",
+   "type": "text"
+  },
+  {
+   "id": 3662,
+   "time": "2026-05-13 19:35",
+   "date": "2026-05-13",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "太大了",
+   "type": "text"
+  },
+  {
+   "id": 3661,
+   "time": "2026-05-13 19:35",
+   "date": "2026-05-13",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "妈耶 这力度",
+   "type": "text"
+  },
+  {
+   "id": 31411,
+   "time": "2026-05-12 20:21",
+   "date": "2026-05-12",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "来啦",
+   "type": "text"
+  },
+  {
+   "id": 31356,
+   "time": "2026-05-11 19:49",
+   "date": "2026-05-11",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "稍等问下吉吉老师@吉吉 ",
+   "type": "text"
+  },
+  {
+   "id": 31355,
+   "time": "2026-05-11 19:48",
+   "date": "2026-05-11",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "还没拉群是不是",
+   "type": "text"
+  },
+  {
+   "id": 31243,
+   "time": "2026-05-10 19:11",
+   "date": "2026-05-10",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "购买过菜籽油万物AI共创师(现名：万物AI同行者）的小伙伴们都是同行者@壁虎 ",
+   "type": "text"
+  },
+  {
+   "id": 31233,
+   "time": "2026-05-10 17:25",
+   "date": "2026-05-10",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "@青柠. 你是同行者不用发",
+   "type": "text"
+  },
+  {
+   "id": 31155,
+   "time": "2026-05-09 18:03",
+   "date": "2026-05-09",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "![动画表情](http://wxapp.tc.qq.com/275/20304/stodownload?m=a05dac3aab10d3264cb4f74ca2ef8065&filekey=30350201010421301f02020113040253480410a05dac3aab10d3264cb4f74ca2ef8065020300a19e040d00000004627466730000000132&hy=SH&storeid=2648c149b0000c565b439522a0000011300004f5053480c534b00b6e501bd9&bizid=1023)",
+   "type": "sticker"
+  },
+  {
+   "id": 31150,
+   "time": "2026-05-09 18:02",
+   "date": "2026-05-09",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "[捂脸]好",
+   "type": "text"
+  },
+  {
+   "id": 31146,
+   "time": "2026-05-09 18:01",
+   "date": "2026-05-09",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "好的好的，刚好看到～",
+   "type": "text"
+  },
+  {
+   "id": 31145,
+   "time": "2026-05-09 18:00",
+   "date": "2026-05-09",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "[转账|发送 ￥49.00]",
+   "type": "share"
+  },
+  {
+   "id": 30345,
+   "time": "2026-05-05 17:39",
+   "date": "2026-05-05",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "相亲相爱一家人[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 4387,
+   "time": "2026-05-01 10:24",
+   "date": "2026-05-01",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "收到了 谢谢菜菜老师[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 4261,
+   "time": "2026-04-30 23:26",
+   "date": "2026-04-30",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "好好休息",
+   "type": "text"
+  },
+  {
+   "id": 29868,
+   "time": "2026-04-30 20:40",
+   "date": "2026-04-30",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "收到",
+   "type": "text"
+  },
+  {
+   "id": 29770,
+   "time": "2026-04-30 18:04",
+   "date": "2026-04-30",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "真的是理解不了，吃水不忘挖井人呢",
+   "type": "share"
+  },
+  {
+   "id": 29755,
+   "time": "2026-04-30 18:00",
+   "date": "2026-04-30",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "这都什么人啊",
+   "type": "share"
+  },
+  {
+   "id": 29741,
+   "time": "2026-04-30 17:52",
+   "date": "2026-04-30",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "认可",
+   "type": "text"
+  },
+  {
+   "id": 29711,
+   "time": "2026-04-29 22:41",
+   "date": "2026-04-29",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "好棒",
+   "type": "text"
+  },
+  {
+   "id": 29547,
+   "time": "2026-04-27 23:47",
+   "date": "2026-04-27",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "紫色好看",
+   "type": "text"
+  },
+  {
+   "id": 29546,
+   "time": "2026-04-27 23:47",
+   "date": "2026-04-27",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "是哦 我竟然没看到上面还有紫色和粉色",
+   "type": "text"
+  },
+  {
+   "id": 29542,
+   "time": "2026-04-27 23:39",
+   "date": "2026-04-27",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "或者有没有其他色再换换，高端可爱点的",
+   "type": "text"
+  },
+  {
+   "id": 29541,
+   "time": "2026-04-27 23:38",
+   "date": "2026-04-27",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "还是绿的好看",
+   "type": "text"
+  },
+  {
+   "id": 29506,
+   "time": "2026-04-27 12:26",
+   "date": "2026-04-27",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "![图片](http://127.0.0.1:5030/image/46cdcfabaaed7bf1e106598efa1501a6,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-04/Img/7dc2665f392fc53264a9e5851b77d699)",
+   "type": "image"
+  },
+  {
+   "id": 29505,
+   "time": "2026-04-27 12:26",
+   "date": "2026-04-27",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "![图片](http://127.0.0.1:5030/image/8852aedea71739f1815abe6b2ecf2753,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-04/Img/8a529d80a2850abecb40a7df462c3f99)",
+   "type": "image"
+  },
+  {
+   "id": 29504,
+   "time": "2026-04-27 12:26",
+   "date": "2026-04-27",
+   "sender_id": 353,
+   "sender": "晴晴",
+   "content": "最近流量没那么好了，我的两个号已经两千啦",
+   "type": "text"
+  }
+ ],
+ "total": 40,
+ "page": 1,
+ "page_size": 40
+}

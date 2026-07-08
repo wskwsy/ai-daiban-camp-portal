@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 24528,
+   "time": "2026-03-08 16:43",
+   "date": "2026-03-08",
+   "sender_id": 557,
+   "sender": "路云",
+   "content": "恭喜💛电商明星带货突破150人🎉🎉",
+   "type": "text"
+  },
+  {
+   "id": 19765,
+   "time": "2026-02-09 13:18",
+   "date": "2026-02-09",
+   "sender_id": 557,
+   "sender": "路云",
+   "content": "已认真阅读，确认参与项目",
+   "type": "text"
+  },
+  {
+   "id": 17412,
+   "time": "2026-01-28 14:23",
+   "date": "2026-01-28",
+   "sender_id": 557,
+   "sender": "路云",
+   "content": "+1",
+   "type": "text"
+  },
+  {
+   "id": 11169,
+   "time": "2026-01-02 00:14",
+   "date": "2026-01-02",
+   "sender_id": 557,
+   "sender": "路云",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

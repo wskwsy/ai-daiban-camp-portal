@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 22523,
+   "time": "2026-02-27 15:20",
+   "date": "2026-02-27",
+   "sender_id": 607,
+   "sender": "ice",
+   "content": "[分享]",
+   "type": "share"
+  },
+  {
+   "id": 20033,
+   "time": "2026-02-09 18:42",
+   "date": "2026-02-09",
+   "sender_id": 607,
+   "sender": "ice",
+   "content": "老师，我这三个手机，是不是只有中间的可以用啊@菜籽油（24小时内尽量回复信息） ",
+   "type": "text"
+  },
+  {
+   "id": 20032,
+   "time": "2026-02-09 18:42",
+   "date": "2026-02-09",
+   "sender_id": 607,
+   "sender": "ice",
+   "content": "![图片](http://127.0.0.1:5030/image/d18e5323cff572db4a818f7f83ff3714,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/6134ea9065774f63aa3e26391451ed61)",
+   "type": "image"
+  },
+  {
+   "id": 19756,
+   "time": "2026-02-09 12:35",
+   "date": "2026-02-09",
+   "sender_id": 607,
+   "sender": "ice",
+   "content": "已认真阅读，确认参与项目",
+   "type": "text"
+  },
+  {
+   "id": 19608,
+   "time": "2026-02-08 21:35",
+   "date": "2026-02-08",
+   "sender_id": 607,
+   "sender": "ice",
+   "content": "@菜籽油（24小时内尽量回复信息） 菜菜老师，报名明星带货项目",
+   "type": "text"
+  },
+  {
+   "id": 19607,
+   "time": "2026-02-08 21:34",
+   "date": "2026-02-08",
+   "sender_id": 607,
+   "sender": "ice",
+   "content": "[转账|发送 ￥299.00]",
+   "type": "share"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

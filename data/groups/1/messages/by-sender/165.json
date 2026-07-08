@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1492,
+   "time": "2026-07-05 21:11",
+   "date": "2026-07-05",
+   "sender_id": 165,
+   "sender": "函阳郡王",
+   "content": "寻人，谢谢大家",
+   "type": "text"
+  },
+  {
+   "id": 1493,
+   "time": "2026-07-05 21:11",
+   "date": "2026-07-05",
+   "sender_id": 165,
+   "sender": "函阳郡王",
+   "content": "![图片](http://127.0.0.1:5030/image/5cb07d109743e6db15c679f0e91e2389,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/64aaa262622a4587ee080018e5c30d9a)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

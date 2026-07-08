@@ -1,0 +1,16 @@
+{
+ "messages": [
+  {
+   "id": 849,
+   "time": "2026-07-03 13:15",
+   "date": "2026-07-03",
+   "sender_id": 101,
+   "sender": "你的树",
+   "content": "已经失联了今天三号了",
+   "type": "text"
+  }
+ ],
+ "total": 1,
+ "page": 1,
+ "page_size": 1
+}

@@ -1,0 +1,277 @@
+{
+ "messages": [
+  {
+   "id": 2417,
+   "time": "2026-06-23 22:26",
+   "date": "2026-06-23",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "[转账|发送 ￥89.00]",
+   "type": "share"
+  },
+  {
+   "id": 32357,
+   "time": "2026-05-23 10:49",
+   "date": "2026-05-23",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "已阅读并认可",
+   "type": "text"
+  },
+  {
+   "id": 31823,
+   "time": "2026-05-17 16:32",
+   "date": "2026-05-17",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "已进，谢谢菜菜老师[爱心][爱心][爱心]",
+   "type": "text"
+  },
+  {
+   "id": 29872,
+   "time": "2026-04-30 20:40",
+   "date": "2026-04-30",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "收到",
+   "type": "text"
+  },
+  {
+   "id": 28058,
+   "time": "2026-04-13 11:47",
+   "date": "2026-04-13",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "已续费",
+   "type": "text"
+  },
+  {
+   "id": 28057,
+   "time": "2026-04-13 11:47",
+   "date": "2026-04-13",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "![图片](http://127.0.0.1:5030/image/3b153f900d11cd05c27938f8dec1de2f,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-04/Img/4fa97ed0df814ca5b5a877be013b1c3d)",
+   "type": "image"
+  },
+  {
+   "id": 27822,
+   "time": "2026-04-11 13:53",
+   "date": "2026-04-11",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "我们是相亲相爱的一家人",
+   "type": "text"
+  },
+  {
+   "id": 27692,
+   "time": "2026-04-10 19:39",
+   "date": "2026-04-10",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "我已阅读并遵守法律规则",
+   "type": "text"
+  },
+  {
+   "id": 5819,
+   "time": "2026-03-27 15:52",
+   "date": "2026-03-27",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "谢谢老师[玫瑰][玫瑰][玫瑰]",
+   "type": "text"
+  },
+  {
+   "id": 26087,
+   "time": "2026-03-14 15:26",
+   "date": "2026-03-14",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "我已确认，并遵守规则",
+   "type": "text"
+  },
+  {
+   "id": 26083,
+   "time": "2026-03-14 15:13",
+   "date": "2026-03-14",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "我已确认，并遵守规则",
+   "type": "text"
+  },
+  {
+   "id": 25870,
+   "time": "2026-03-13 19:35",
+   "date": "2026-03-13",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "恭喜🎉剪辑训练营突破280人恭喜[烟花][烟花][烟花]",
+   "type": "text"
+  },
+  {
+   "id": 25777,
+   "time": "2026-03-13 13:01",
+   "date": "2026-03-13",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "恭喜姐姐不凡🈵1000人🎉🎉",
+   "type": "text"
+  },
+  {
+   "id": 25645,
+   "time": "2026-03-12 21:36",
+   "date": "2026-03-12",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "1",
+   "type": "text"
+  },
+  {
+   "id": 25566,
+   "time": "2026-03-12 11:33",
+   "date": "2026-03-12",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "[玫瑰][玫瑰][玫瑰]",
+   "type": "text"
+  },
+  {
+   "id": 25564,
+   "time": "2026-03-12 11:09",
+   "date": "2026-03-12",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "@菜籽油 我不想错过群消息，想添到桌面，没搞好，刚看到消息，报歉，也撤不回了",
+   "type": "text"
+  },
+  {
+   "id": 25481,
+   "time": "2026-03-12 08:28",
+   "date": "2026-03-12",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "[小程序|金山文档丨WPS云文档](https://mp.weixin.qq.com/mp/waerrpage?appid=wx5b97b0686831c076&type=upgrade&upgradetype=3#wechat_redirect)",
+   "type": "share"
+  },
+  {
+   "id": 24338,
+   "time": "2026-03-08 11:34",
+   "date": "2026-03-08",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "恭喜@林圆 电商明星带货出单1万+恭喜🎉🎉🎉🎉",
+   "type": "text"
+  },
+  {
+   "id": 24332,
+   "time": "2026-03-08 11:33",
+   "date": "2026-03-08",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "女神节快乐[玫瑰][玫瑰]",
+   "type": "text"
+  },
+  {
+   "id": 24038,
+   "time": "2026-03-07 19:28",
+   "date": "2026-03-07",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "[转账|发送 ￥299.00]",
+   "type": "share"
+  },
+  {
+   "id": 22709,
+   "time": "2026-02-28 00:22",
+   "date": "2026-02-28",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "[分享]",
+   "type": "share"
+  },
+  {
+   "id": 19791,
+   "time": "2026-02-09 13:44",
+   "date": "2026-02-09",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "@锦宜妈妈 🍊 我那不行是吗，需要降到2",
+   "type": "text"
+  },
+  {
+   "id": 19785,
+   "time": "2026-02-09 13:41",
+   "date": "2026-02-09",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "怎么看的，这可行？",
+   "type": "text"
+  },
+  {
+   "id": 19783,
+   "time": "2026-02-09 13:41",
+   "date": "2026-02-09",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "![图片](http://127.0.0.1:5030/image/758a29fd898847bacac875ba12268aec,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/c95a0e0785fb8dc63189f06fa850d8f4)",
+   "type": "image"
+  },
+  {
+   "id": 19745,
+   "time": "2026-02-09 12:15",
+   "date": "2026-02-09",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "已认真阅读，确认参与项目",
+   "type": "text"
+  },
+  {
+   "id": 19743,
+   "time": "2026-02-09 12:15",
+   "date": "2026-02-09",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "[转账|发送 ￥56.00](参加短剧项目押金)",
+   "type": "share"
+  },
+  {
+   "id": 8728,
+   "time": "2026-02-05 21:48",
+   "date": "2026-02-05",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "已进群",
+   "type": "text"
+  },
+  {
+   "id": 14594,
+   "time": "2026-01-20 21:35",
+   "date": "2026-01-20",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 13950,
+   "time": "2026-01-19 18:19",
+   "date": "2026-01-19",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "向他人发起了一笔转账，当前微信版本不支持展示该内容。",
+   "type": "text"
+  },
+  {
+   "id": 13601,
+   "time": "2026-01-17 12:50",
+   "date": "2026-01-17",
+   "sender_id": 291,
+   "sender": "心语",
+   "content": "[爱心]",
+   "type": "text"
+  }
+ ],
+ "total": 30,
+ "page": 1,
+ "page_size": 30
+}

@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 2045,
+   "time": "2026-07-07 10:03",
+   "date": "2026-07-07",
+   "sender_id": 221,
+   "sender": "边城-全域AI带货-Annia组",
+   "content": "![图片](http://127.0.0.1:5030/image/ec47519e10670298b8412a3d34138f61,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/90bfc250fc79f381006fad1feadc7938)",
+   "type": "image"
+  },
+  {
+   "id": 2044,
+   "time": "2026-07-07 10:03",
+   "date": "2026-07-07",
+   "sender_id": 221,
+   "sender": "边城-全域AI带货-Annia组",
+   "content": "找人",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

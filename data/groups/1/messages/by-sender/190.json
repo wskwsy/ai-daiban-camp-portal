@@ -1,0 +1,52 @@
+{
+ "messages": [
+  {
+   "id": 2092,
+   "time": "2026-07-07 11:38",
+   "date": "2026-07-07",
+   "sender_id": 190,
+   "sender": "拾琪",
+   "content": "这三位谁有好友帮忙联系一下",
+   "type": "text"
+  },
+  {
+   "id": 2091,
+   "time": "2026-07-07 11:38",
+   "date": "2026-07-07",
+   "sender_id": 190,
+   "sender": "拾琪",
+   "content": "![图片](http://127.0.0.1:5030/image/bec88d28d28f9c157316c286360c4e45,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/8de4d033d337c106eeb66b6e5ae356aa)",
+   "type": "image"
+  },
+  {
+   "id": 2090,
+   "time": "2026-07-07 11:38",
+   "date": "2026-07-07",
+   "sender_id": 190,
+   "sender": "拾琪",
+   "content": "![图片](http://127.0.0.1:5030/image/a32e0f04653c29abf71cf94f92d37d5e,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/6d8721ddc862de0f99df20e7c8e67c23)",
+   "type": "image"
+  },
+  {
+   "id": 2089,
+   "time": "2026-07-07 11:38",
+   "date": "2026-07-07",
+   "sender_id": 190,
+   "sender": "拾琪",
+   "content": "![图片](http://127.0.0.1:5030/image/08c244d7200242e7be651cc32db0e290,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/6db9ad1bd4a81ffcea37399058c46a6e)",
+   "type": "image"
+  },
+  {
+   "id": 1739,
+   "time": "2026-07-06 14:41",
+   "date": "2026-07-06",
+   "sender_id": 190,
+   "sender": "拾琪",
+   "content": "报名之后就可以看了",
+   "type": "share"
+  }
+ ],
+ "total": 5,
+ "page": 1,
+ "page_size": 5
+}

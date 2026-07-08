@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 2035,
+   "time": "2026-07-07 09:56",
+   "date": "2026-07-07",
+   "sender_id": 220,
+   "sender": "梁晋宇—lizzy组",
+   "content": "反向捞人，ai编程产品出海的志愿者麻烦加下我，我的那个志愿者说她退出了，但没有新的志愿者加我拉群",
+   "type": "text"
+  },
+  {
+   "id": 2036,
+   "time": "2026-07-07 09:56",
+   "date": "2026-07-07",
+   "sender_id": 220,
+   "sender": "梁晋宇—lizzy组",
+   "content": "![图片](http://127.0.0.1:5030/image/aaa22172d5e275046ff0c30e0866aabf,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/e21f8ca3cb1c68983a8b2aee1785848b)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

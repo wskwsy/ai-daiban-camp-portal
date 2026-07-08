@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 933,
+   "time": "2026-07-04 19:38",
+   "date": "2026-07-04",
+   "sender_id": 112,
+   "sender": "庭婷Tina",
+   "content": "大家都出现志愿服务按钮了嘛",
+   "type": "text"
+  },
+  {
+   "id": 924,
+   "time": "2026-07-04 19:34",
+   "date": "2026-07-04",
+   "sender_id": 112,
+   "sender": "庭婷Tina",
+   "content": "@小机AI智能体 你让领队拉进来就行了",
+   "type": "share"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

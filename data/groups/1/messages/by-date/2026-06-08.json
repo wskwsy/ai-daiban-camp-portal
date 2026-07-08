@@ -1,0 +1,1537 @@
+{
+ "messages": [
+  {
+   "id": 254,
+   "time": "2026-06-08 21:55",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "以后小程序做好给ai用就可以了，以后的开发方向就是做给ai用的小程序",
+   "type": "text"
+  },
+  {
+   "id": 253,
+   "time": "2026-06-08 21:54",
+   "date": "2026-06-08",
+   "sender_id": 33,
+   "sender": "Kirito",
+   "content": "？[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 252,
+   "time": "2026-06-08 21:40",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "微信AI 来了，大热点！",
+   "type": "text"
+  },
+  {
+   "id": 251,
+   "time": "2026-06-08 21:40",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "[视频号|微信 AI 来了，小程序要重新洗牌了！](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFHRrDAMibkBJbzzoWu6VttMiaoFfnaVicvHyl245236icKnZjjNHia5dVfibUuYUjKOXR4n1Aojm5OVib0CkUS3dv7xVUWOWGHyO4GBAU8mshZG8F38A&hy=SH&idx=1&m=151af8fff81771c1ee5ff327e3b35cbb&uzid=7a170)",
+   "type": "share"
+  },
+  {
+   "id": 250,
+   "time": "2026-06-08 21:34",
+   "date": "2026-06-08",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "![图片](http://127.0.0.1:5030/image/f68c036016bf43d664af773cbacb6f04,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/0211a64927705f431cde2d3f1ed0f49f)",
+   "type": "image"
+  },
+  {
+   "id": 249,
+   "time": "2026-06-08 21:33",
+   "date": "2026-06-08",
+   "sender_id": 26,
+   "sender": "AI PPT 野生老肖 【小王组】",
+   "content": "[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 248,
+   "time": "2026-06-08 21:33",
+   "date": "2026-06-08",
+   "sender_id": 26,
+   "sender": "AI PPT 野生老肖 【小王组】",
+   "content": "做淘宝黑奴啊。",
+   "type": "text"
+  },
+  {
+   "id": 247,
+   "time": "2026-06-08 21:32",
+   "date": "2026-06-08",
+   "sender_id": 30,
+   "sender": "凯迪",
+   "content": "厉害啊[强]",
+   "type": "share"
+  },
+  {
+   "id": 246,
+   "time": "2026-06-08 21:31",
+   "date": "2026-06-08",
+   "sender_id": 32,
+   "sender": "皮卡丘大哥",
+   "content": "牛逼啊，咋做到的",
+   "type": "share"
+  },
+  {
+   "id": 245,
+   "time": "2026-06-08 21:31",
+   "date": "2026-06-08",
+   "sender_id": 31,
+   "sender": "Derek-郁言-AI编程出海",
+   "content": "+1",
+   "type": "share"
+  },
+  {
+   "id": 244,
+   "time": "2026-06-08 21:31",
+   "date": "2026-06-08",
+   "sender_id": 30,
+   "sender": "凯迪",
+   "content": "你是怎么做到的？",
+   "type": "share"
+  },
+  {
+   "id": 243,
+   "time": "2026-06-08 21:26",
+   "date": "2026-06-08",
+   "sender_id": 26,
+   "sender": "AI PPT 野生老肖 【小王组】",
+   "content": "AI PPT代写 两个月就搞了6000块。[苦涩]",
+   "type": "text"
+  },
+  {
+   "id": 242,
+   "time": "2026-06-08 21:26",
+   "date": "2026-06-08",
+   "sender_id": 29,
+   "sender": "大师兄-全域AI带货",
+   "content": "俺也是，大家一起加油。",
+   "type": "text"
+  },
+  {
+   "id": 241,
+   "time": "2026-06-08 21:24",
+   "date": "2026-06-08",
+   "sender_id": 28,
+   "sender": "清心～小红书起号～柳古点组",
+   "content": "我也是[耶]",
+   "type": "text"
+  },
+  {
+   "id": 240,
+   "time": "2026-06-08 21:22",
+   "date": "2026-06-08",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "我也是最新的小白，刚加入志愿组，啥也不知道[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 239,
+   "time": "2026-06-08 21:21",
+   "date": "2026-06-08",
+   "sender_id": 26,
+   "sender": "AI PPT 野生老肖 【小王组】",
+   "content": "有没有比我更新的小白。[奸笑]",
+   "type": "text"
+  },
+  {
+   "id": 238,
+   "time": "2026-06-08 21:20",
+   "date": "2026-06-08",
+   "sender_id": 26,
+   "sender": "AI PPT 野生老肖 【小王组】",
+   "content": "这么多大佬的么。[坏笑][坏笑][坏笑] 我是今年才加入破局的。[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 237,
+   "time": "2026-06-08 20:20",
+   "date": "2026-06-08",
+   "sender_id": 9,
+   "sender": "聚水潭｜孙双喜｜13630865980",
+   "content": "别到时候群没了",
+   "type": "text"
+  },
+  {
+   "id": 236,
+   "time": "2026-06-08 20:20",
+   "date": "2026-06-08",
+   "sender_id": 9,
+   "sender": "聚水潭｜孙双喜｜13630865980",
+   "content": "群里尽量别讨论工具的事了吧",
+   "type": "text"
+  },
+  {
+   "id": 235,
+   "time": "2026-06-08 20:19",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"聚水潭孙双喜13630865980\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 234,
+   "time": "2026-06-08 20:12",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"咖啡\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 233,
+   "time": "2026-06-08 18:47",
+   "date": "2026-06-08",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "我也是国内的",
+   "type": "text"
+  },
+  {
+   "id": 232,
+   "time": "2026-06-08 18:37",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "国内手机号都可以呀，几个号都没事",
+   "type": "text"
+  },
+  {
+   "id": 231,
+   "time": "2026-06-08 18:28",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "whatsapp我是封了又解，解了又封，就是绑定gg卡的，tg倒是不会[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 230,
+   "time": "2026-06-08 18:27",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "没得还挺快的",
+   "type": "share"
+  },
+  {
+   "id": 229,
+   "time": "2026-06-08 18:27",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "Whatsapp  tg没被封过",
+   "type": "text"
+  },
+  {
+   "id": 228,
+   "time": "2026-06-08 18:26",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "免费物流没有国内的了",
+   "type": "share"
+  },
+  {
+   "id": 227,
+   "time": "2026-06-08 18:26",
+   "date": "2026-06-08",
+   "sender_id": 24,
+   "sender": "桃良十八",
+   "content": "这一期行动营学啥合适，能赚钱的赛道",
+   "type": "text"
+  },
+  {
+   "id": 226,
+   "time": "2026-06-08 18:26",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "免费申请的话物流都不一定能到货",
+   "type": "text"
+  },
+  {
+   "id": 225,
+   "time": "2026-06-08 18:26",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"沐杉\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 224,
+   "time": "2026-06-08 18:26",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "关键词都被屏蔽了",
+   "type": "text"
+  },
+  {
+   "id": 223,
+   "time": "2026-06-08 18:25",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "我也用了好几年了，最近平台不让卖了所以想再囤一张",
+   "type": "text"
+  },
+  {
+   "id": 222,
+   "time": "2026-06-08 18:25",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "是这样吗？我有个朋友用几年了，跟我说还可以啊",
+   "type": "share"
+  },
+  {
+   "id": 221,
+   "time": "2026-06-08 18:24",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "WhatsApp会被封其他目前还没看到",
+   "type": "text"
+  },
+  {
+   "id": 220,
+   "time": "2026-06-08 18:24",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "不让其他地方用的",
+   "type": "text"
+  },
+  {
+   "id": 219,
+   "time": "2026-06-08 18:23",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "gg卡不是会被封吗",
+   "type": "text"
+  },
+  {
+   "id": 218,
+   "time": "2026-06-08 18:22",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "我最近打算再囤一张这类的卡。像那个沃达丰（Vodafone），最近都不好弄，充值也充不进去，或者接不到短信了",
+   "type": "text"
+  },
+  {
+   "id": 217,
+   "time": "2026-06-08 18:20",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "我得到的信息好像也是这样子的，不过没去验证过",
+   "type": "share"
+  },
+  {
+   "id": 216,
+   "time": "2026-06-08 18:17",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "说是一个号码只能绑定3个帳號",
+   "type": "text"
+  },
+  {
+   "id": 215,
+   "time": "2026-06-08 18:16",
+   "date": "2026-06-08",
+   "sender_id": 23,
+   "sender": "莹之光-公众号细分AIP打造-双",
+   "content": "➕你",
+   "type": "text"
+  },
+  {
+   "id": 214,
+   "time": "2026-06-08 18:16",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "是的",
+   "type": "text"
+  },
+  {
+   "id": 213,
+   "time": "2026-06-08 18:16",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "这个就只能私聊了，群内不好细说，容易炸",
+   "type": "share"
+  },
+  {
+   "id": 212,
+   "time": "2026-06-08 18:15",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"十七°\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 211,
+   "time": "2026-06-08 18:15",
+   "date": "2026-06-08",
+   "sender_id": 23,
+   "sender": "莹之光-公众号细分AIP打造-双",
+   "content": "搞不定啊，就一直卡在这了，我现在只能连deepseek",
+   "type": "share"
+  },
+  {
+   "id": 210,
+   "time": "2026-06-08 18:12",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "最近gg卡到手了正准备用结果弹手机号的又给我解除限制了[破涕为笑]",
+   "type": "share"
+  },
+  {
+   "id": 209,
+   "time": "2026-06-08 18:10",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "plus会员不会跳 现在",
+   "type": "share"
+  },
+  {
+   "id": 208,
+   "time": "2026-06-08 18:10",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "纯净度 加 账号地址",
+   "type": "share"
+  },
+  {
+   "id": 207,
+   "time": "2026-06-08 18:10",
+   "date": "2026-06-08",
+   "sender_id": 23,
+   "sender": "莹之光-公众号细分AIP打造-双",
+   "content": "怎么排查，一点就跳到了验证环节[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 206,
+   "time": "2026-06-08 18:09",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "排查一下就好了",
+   "type": "share"
+  },
+  {
+   "id": 205,
+   "time": "2026-06-08 18:09",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "我五个plus弹了两个手机号验证，有两个因为苹果没弹",
+   "type": "text"
+  },
+  {
+   "id": 204,
+   "time": "2026-06-08 18:09",
+   "date": "2026-06-08",
+   "sender_id": 23,
+   "sender": "莹之光-公众号细分AIP打造-双",
+   "content": "@星哥-AI设计 星哥，怎么判断是哪类问题导致的呢",
+   "type": "text"
+  },
+  {
+   "id": 203,
+   "time": "2026-06-08 18:09",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "是的",
+   "type": "text"
+  },
+  {
+   "id": 202,
+   "time": "2026-06-08 18:08",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "是的，就是前段时间限制，不管什么网络都可能弹",
+   "type": "share"
+  },
+  {
+   "id": 201,
+   "time": "2026-06-08 18:08",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "他最近限制解除了，只要你充值plus，它基本上都不验证",
+   "type": "text"
+  },
+  {
+   "id": 200,
+   "time": "2026-06-08 18:07",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "对，用静态IP还弹了一段时间，专门搞了一个gg卡，结果最近又不给我弹了[破涕为笑]",
+   "type": "share"
+  },
+  {
+   "id": 199,
+   "time": "2026-06-08 18:06",
+   "date": "2026-06-08",
+   "sender_id": 21,
+   "sender": "星哥-AI设计",
+   "content": "上次在线下活动现场，我分别帮小伙伴解决过1和3这两种情况",
+   "type": "text"
+  },
+  {
+   "id": 198,
+   "time": "2026-06-08 18:05",
+   "date": "2026-06-08",
+   "sender_id": 22,
+   "sender": "方恨少-AI设计-渔子清组",
+   "content": "我居然看不懂你们在聊什么[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 197,
+   "time": "2026-06-08 18:05",
+   "date": "2026-06-08",
+   "sender_id": 21,
+   "sender": "星哥-AI设计",
+   "content": "遇到codex跳手机验证，一般是三个原因：1上网工具设置不对。2 网络质量不行 。3 账号问题。",
+   "type": "text"
+  },
+  {
+   "id": 196,
+   "time": "2026-06-08 18:04",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "你说的是gg卡吧[捂脸][捂脸][捂脸]",
+   "type": "share"
+  },
+  {
+   "id": 195,
+   "time": "2026-06-08 18:03",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "20% 净利润 差不多",
+   "type": "text"
+  },
+  {
+   "id": 194,
+   "time": "2026-06-08 18:03",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "还专门弄了一个英国手机卡应对codex的验证",
+   "type": "text"
+  },
+  {
+   "id": 193,
+   "time": "2026-06-08 18:02",
+   "date": "2026-06-08",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "我的苹果也不需要手机号，不是苹果的几个账号碰到手机号验证了",
+   "type": "text"
+  },
+  {
+   "id": 192,
+   "time": "2026-06-08 17:59",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "还没到那个量",
+   "type": "text"
+  },
+  {
+   "id": 191,
+   "time": "2026-06-08 17:59",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "Gpt后台都可以看到号码，就是不让修改号码[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 190,
+   "time": "2026-06-08 17:58",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "![图片](http://127.0.0.1:5030/image/c701833417b9b224c9fe9e18bb319efe,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/c15e1c7a93b0479b24a69dfb21d7562b)",
+   "type": "image"
+  },
+  {
+   "id": 189,
+   "time": "2026-06-08 17:58",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "那这个压货看怎么压法？如果卖30万GMV，8000净利润还是有可能，但是30W的日 GMV，需要压的钱可不是小数目[捂脸]",
+   "type": "share"
+  },
+  {
+   "id": 188,
+   "time": "2026-06-08 17:58",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "一件代发啊",
+   "type": "share"
+  },
+  {
+   "id": 187,
+   "time": "2026-06-08 17:57",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "谢谢各位大佬",
+   "type": "text"
+  },
+  {
+   "id": 186,
+   "time": "2026-06-08 17:57",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "codex 开plus付费就不用手机号了",
+   "type": "text"
+  },
+  {
+   "id": 185,
+   "time": "2026-06-08 17:56",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "你是需要提前备货到俄罗斯吗？",
+   "type": "share"
+  },
+  {
+   "id": 184,
+   "time": "2026-06-08 17:56",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "这个8000是利润吧",
+   "type": "share"
+  },
+  {
+   "id": 183,
+   "time": "2026-06-08 17:56",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "训练营我看回放了 主要我是跟卖卖",
+   "type": "share"
+  },
+  {
+   "id": 182,
+   "time": "2026-06-08 17:56",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "压30W，日入8000GMV吗？",
+   "type": "share"
+  },
+  {
+   "id": 181,
+   "time": "2026-06-08 17:55",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "8000 左右货赚 2500↔️ 2 个月",
+   "type": "text"
+  },
+  {
+   "id": 180,
+   "time": "2026-06-08 17:54",
+   "date": "2026-06-08",
+   "sender_id": 8,
+   "sender": "泰山Ai",
+   "content": "你要是压30万，日入8000没问题",
+   "type": "text"
+  },
+  {
+   "id": 179,
+   "time": "2026-06-08 17:54",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "电脑装个hermes，你想要登录还是不想要登录，它会给你配置好",
+   "type": "text"
+  },
+  {
+   "id": 178,
+   "time": "2026-06-08 17:54",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "以前我参加过Temu的行动营，不过当时一直没开单[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 177,
+   "time": "2026-06-08 17:54",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "哦 上次主要做铺货吗？我也没参加",
+   "type": "share"
+  },
+  {
+   "id": 176,
+   "time": "2026-06-08 17:53",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "Ozon的净利润率如何呢？",
+   "type": "share"
+  },
+  {
+   "id": 175,
+   "time": "2026-06-08 17:53",
+   "date": "2026-06-08",
+   "sender_id": 8,
+   "sender": "泰山Ai",
+   "content": "我给你个网址",
+   "type": "text"
+  },
+  {
+   "id": 174,
+   "time": "2026-06-08 17:53",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "不登录不让用啊",
+   "type": "text"
+  },
+  {
+   "id": 173,
+   "time": "2026-06-08 17:53",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "不是跟卖",
+   "type": "text"
+  },
+  {
+   "id": 172,
+   "time": "2026-06-08 17:53",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "![图片](http://127.0.0.1:5030/image/8ca849f3abd695954c9f5d5e8716719e,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/6c2ac2f6948136481abda1f953e6fe66)",
+   "type": "image"
+  },
+  {
+   "id": 171,
+   "time": "2026-06-08 17:52",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "没 我做精铺",
+   "type": "share"
+  },
+  {
+   "id": 170,
+   "time": "2026-06-08 17:52",
+   "date": "2026-06-08",
+   "sender_id": 18,
+   "sender": "KT",
+   "content": "我用的苹果账号登录，没有出现手机号登录情况",
+   "type": "text"
+  },
+  {
+   "id": 169,
+   "time": "2026-06-08 17:52",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "接码平台弄怕了，",
+   "type": "text"
+  },
+  {
+   "id": 168,
+   "time": "2026-06-08 17:51",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "想登录就接码平台",
+   "type": "text"
+  },
+  {
+   "id": 167,
+   "time": "2026-06-08 17:51",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "去弄张实体电话卡吧，二次接码就gg了",
+   "type": "text"
+  },
+  {
+   "id": 166,
+   "time": "2026-06-08 17:51",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "Codex可以不用登录的",
+   "type": "text"
+  },
+  {
+   "id": 165,
+   "time": "2026-06-08 17:51",
+   "date": "2026-06-08",
+   "sender_id": 17,
+   "sender": "安迪-ai写作出海-海盐蓝组",
+   "content": "tb上找就行了",
+   "type": "text"
+  },
+  {
+   "id": 164,
+   "time": "2026-06-08 17:51",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "@张金龙—lizzy组 大佬有没有codex手机号的解决方法",
+   "type": "text"
+  },
+  {
+   "id": 163,
+   "time": "2026-06-08 17:50",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "上次你参加的Ozon行动营吗？",
+   "type": "share"
+  },
+  {
+   "id": 162,
+   "time": "2026-06-08 17:49",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "[强]",
+   "type": "share"
+  },
+  {
+   "id": 161,
+   "time": "2026-06-08 17:49",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "现在自己琢磨自动化俄罗斯电商",
+   "type": "text"
+  },
+  {
+   "id": 159,
+   "time": "2026-06-08 17:49",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "自己瞎做的 2 个月了 提现一次",
+   "type": "text"
+  },
+  {
+   "id": 160,
+   "time": "2026-06-08 17:49",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "我都服了",
+   "type": "text"
+  },
+  {
+   "id": 158,
+   "time": "2026-06-08 17:49",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "codex我的不知道为什么一定要用手机号",
+   "type": "text"
+  },
+  {
+   "id": 157,
+   "time": "2026-06-08 17:49",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/d247330f2c5729df15df73889cf9e9f7,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/f4f1c8af15fec4513a0c1e1679d51a0c)",
+   "type": "image"
+  },
+  {
+   "id": 156,
+   "time": "2026-06-08 17:49",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "Codex做视频",
+   "type": "text"
+  },
+  {
+   "id": 155,
+   "time": "2026-06-08 17:48",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "[视频号|我让 Codex 分析13条对标和108条评论，反推出今天该拍什么 #AI #自媒体 #Codex #对标分析 #内容运营](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=rgjNqbibdAo2egU3yjNQls24St9x97zAB0IvNA5od0tdNkg3ASkrmJzjic1XaHIAAJ24m5HUnxOH80BNdtzRjgLw&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1fc)",
+   "type": "share"
+  },
+  {
+   "id": 154,
+   "time": "2026-06-08 17:48",
+   "date": "2026-06-08",
+   "sender_id": 16,
+   "sender": "张金龙—lizzy组",
+   "content": "[视频号|Codex 做视频完整流程， 从脚本、配音、字幕到成片交付， 全流程由 Codex 自动执行制作完成！](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFHPTG5OYYcOibOPVU4vP0gU3hG0hPtRVHvSItcGV9HnWb3ag6EIaCLgulcGZ11YddLuyc4nYgF98WndBz4LQuV3ic8Np7oBSSeMDYS3eVlm57JA&hy=SH&idx=1&m=282608b6e187c5fef5d8e4e8a6d32b1d&uzid=7a166)",
+   "type": "share"
+  },
+  {
+   "id": 153,
+   "time": "2026-06-08 17:48",
+   "date": "2026-06-08",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "全部都很卷[撇嘴]",
+   "type": "text"
+  },
+  {
+   "id": 152,
+   "time": "2026-06-08 17:46",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "还是要有渠道啦",
+   "type": "text"
+  },
+  {
+   "id": 151,
+   "time": "2026-06-08 17:46",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "啥都卷",
+   "type": "text"
+  },
+  {
+   "id": 150,
+   "time": "2026-06-08 17:45",
+   "date": "2026-06-08",
+   "sender_id": 15,
+   "sender": "Emma-AI TK",
+   "content": "AI代写不是说现在也很卷了吗",
+   "type": "text"
+  },
+  {
+   "id": 149,
+   "time": "2026-06-08 17:45",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "估计大差不差",
+   "type": "text"
+  },
+  {
+   "id": 148,
+   "time": "2026-06-08 17:44",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "不过现在有没有变化，就不清楚了",
+   "type": "text"
+  },
+  {
+   "id": 147,
+   "time": "2026-06-08 17:44",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "25年6月份的",
+   "type": "text"
+  },
+  {
+   "id": 146,
+   "time": "2026-06-08 17:44",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "![图片](http://127.0.0.1:5030/image/bd012609721bd8c8dc1e60d38ac9ba79,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/5a1b16095ba85f382959e07dea68a028)",
+   "type": "image"
+  },
+  {
+   "id": 145,
+   "time": "2026-06-08 17:44",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "就是留子嘛",
+   "type": "text"
+  },
+  {
+   "id": 144,
+   "time": "2026-06-08 17:44",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "懂了",
+   "type": "text"
+  },
+  {
+   "id": 143,
+   "time": "2026-06-08 17:41",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "你搜索下之前的行动有的",
+   "type": "text"
+  },
+  {
+   "id": 142,
+   "time": "2026-06-08 17:40",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"一叶知秋\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 141,
+   "time": "2026-06-08 17:40",
+   "date": "2026-06-08",
+   "sender_id": 14,
+   "sender": "罗晓钊-TK AI电商-Annia组",
+   "content": "也是需要自己获客？",
+   "type": "text"
+  },
+  {
+   "id": 140,
+   "time": "2026-06-08 17:39",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "啥内容呢",
+   "type": "share"
+  },
+  {
+   "id": 139,
+   "time": "2026-06-08 17:39",
+   "date": "2026-06-08",
+   "sender_id": 14,
+   "sender": "罗晓钊-TK AI电商-Annia组",
+   "content": "写作出海主要是写啥？",
+   "type": "text"
+  },
+  {
+   "id": 138,
+   "time": "2026-06-08 17:39",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "不过不太适合我[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 137,
+   "time": "2026-06-08 17:38",
+   "date": "2026-06-08",
+   "sender_id": 13,
+   "sender": "一叶知秋",
+   "content": "我有参加过",
+   "type": "text"
+  },
+  {
+   "id": 136,
+   "time": "2026-06-08 17:38",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "之前有出过吗",
+   "type": "text"
+  },
+  {
+   "id": 135,
+   "time": "2026-06-08 17:38",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "写作出海是跟啥相关的",
+   "type": "text"
+  },
+  {
+   "id": 134,
+   "time": "2026-06-08 17:37",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"文武双全\"邀请\"程建-志愿者\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 133,
+   "time": "2026-06-08 17:36",
+   "date": "2026-06-08",
+   "sender_id": 7,
+   "sender": "红杉",
+   "content": "那不就是智能体吗",
+   "type": "text"
+  },
+  {
+   "id": 132,
+   "time": "2026-06-08 17:36",
+   "date": "2026-06-08",
+   "sender_id": 12,
+   "sender": "风-AI写作出海-海盐蓝组",
+   "content": "跨境电商还是不要做俄罗斯，俄罗斯企业经常耍流氓想着白嫖",
+   "type": "text"
+  },
+  {
+   "id": 131,
+   "time": "2026-06-08 17:36",
+   "date": "2026-06-08",
+   "sender_id": 11,
+   "sender": "俊哥-公众号细分AIP打造-双喜组",
+   "content": "我们有没有搞一个往期问题汇总，做一个专栏，直接让学员有问题先去那里找答案，一个项目中整一个[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 130,
+   "time": "2026-06-08 17:36",
+   "date": "2026-06-08",
+   "sender_id": 7,
+   "sender": "红杉",
+   "content": "还是代写又稳定又快",
+   "type": "text"
+  },
+  {
+   "id": 129,
+   "time": "2026-06-08 17:34",
+   "date": "2026-06-08",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "上了船发现不对，一大堆问题，啥问题五花八门的，都把教练问懵圈了",
+   "type": "text"
+  },
+  {
+   "id": 128,
+   "time": "2026-06-08 17:34",
+   "date": "2026-06-08",
+   "sender_id": 9,
+   "sender": "聚水潭｜孙双喜｜13630865980",
+   "content": "对",
+   "type": "text"
+  },
+  {
+   "id": 127,
+   "time": "2026-06-08 17:33",
+   "date": "2026-06-08",
+   "sender_id": 10,
+   "sender": "释",
+   "content": "小白还是只推荐做代写hh",
+   "type": "text"
+  },
+  {
+   "id": 126,
+   "time": "2026-06-08 17:33",
+   "date": "2026-06-08",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "一般很多小白就愿意猎奇",
+   "type": "text"
+  },
+  {
+   "id": 125,
+   "time": "2026-06-08 17:32",
+   "date": "2026-06-08",
+   "sender_id": 9,
+   "sender": "聚水潭｜孙双喜｜13630865980",
+   "content": "跨境虽然利润高点，但是各种事也比较多[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 124,
+   "time": "2026-06-08 17:32",
+   "date": "2026-06-08",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "有门槛",
+   "type": "text"
+  },
+  {
+   "id": 123,
+   "time": "2026-06-08 17:32",
+   "date": "2026-06-08",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "不太适合小白",
+   "type": "text"
+  },
+  {
+   "id": 122,
+   "time": "2026-06-08 17:31",
+   "date": "2026-06-08",
+   "sender_id": 8,
+   "sender": "泰山Ai",
+   "content": "有家底的可以做",
+   "type": "text"
+  },
+  {
+   "id": 121,
+   "time": "2026-06-08 17:31",
+   "date": "2026-06-08",
+   "sender_id": 8,
+   "sender": "泰山Ai",
+   "content": "我们这有做的，确实挣钱但是押款也很厉害",
+   "type": "text"
+  },
+  {
+   "id": 120,
+   "time": "2026-06-08 17:31",
+   "date": "2026-06-08",
+   "sender_id": 7,
+   "sender": "红杉",
+   "content": "看来挺赚钱啊",
+   "type": "text"
+  },
+  {
+   "id": 119,
+   "time": "2026-06-08 17:31",
+   "date": "2026-06-08",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "没有了",
+   "type": "share"
+  },
+  {
+   "id": 118,
+   "time": "2026-06-08 17:29",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "感觉挺不错的。",
+   "type": "text"
+  },
+  {
+   "id": 117,
+   "time": "2026-06-08 17:29",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "这个电商这一期还有没？",
+   "type": "text"
+  },
+  {
+   "id": 116,
+   "time": "2026-06-08 17:12",
+   "date": "2026-06-08",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "[捂脸]就是这往期学员问题比较多，还问我为什么呢",
+   "type": "text"
+  },
+  {
+   "id": 115,
+   "time": "2026-06-08 17:11",
+   "date": "2026-06-08",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "已经跟她说了",
+   "type": "text"
+  },
+  {
+   "id": 114,
+   "time": "2026-06-08 17:10",
+   "date": "2026-06-08",
+   "sender_id": 5,
+   "sender": "java同学-AI设计-渔子清组",
+   "content": "不可以，说了 要公司",
+   "type": "share"
+  },
+  {
+   "id": 112,
+   "time": "2026-06-08 17:05",
+   "date": "2026-06-08",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "👌🏻",
+   "type": "text"
+  },
+  {
+   "id": 113,
+   "time": "2026-06-08 17:05",
+   "date": "2026-06-08",
+   "sender_id": 4,
+   "sender": "Lily -公众号漫画-杜汭锜组",
+   "content": "一定要公司",
+   "type": "text"
+  },
+  {
+   "id": 111,
+   "time": "2026-06-08 17:05",
+   "date": "2026-06-08",
+   "sender_id": 3,
+   "sender": "声而不凡-公众号漫画工作流-鸟儿组",
+   "content": "@伴月 要公司的才行",
+   "type": "text"
+  },
+  {
+   "id": 110,
+   "time": "2026-06-08 17:04",
+   "date": "2026-06-08",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "跨境电商那个课程里面提到在俄罗斯平台做电商需要开通企业营业执照。那开个体工商户执照是不是也可以呢？还是说一定要开有限公司的",
+   "type": "text"
+  },
+  {
+   "id": 109,
+   "time": "2026-06-08 17:04",
+   "date": "2026-06-08",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "![图片](http://127.0.0.1:5030/image/69327f5cb170bc736aac3044582dd1ac,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/73cb44c5727b56adb935d92f6a4a0a97)",
+   "type": "image"
+  },
+  {
+   "id": 108,
+   "time": "2026-06-08 17:04",
+   "date": "2026-06-08",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "有位往期的学员咨询，报名的问题",
+   "type": "text"
+  },
+  {
+   "id": 107,
+   "time": "2026-06-08 16:06",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Cherry\"邀请\"长风\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 106,
+   "time": "2026-06-08 16:04",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Cherry\"邀请\"小草\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 105,
+   "time": "2026-06-08 15:42",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"悔海拾萃\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 104,
+   "time": "2026-06-08 15:34",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Cherry\"邀请\"blue～blood（AI进化版）\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 103,
+   "time": "2026-06-08 15:33",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Cherry\"邀请\"张宇华\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 102,
+   "time": "2026-06-08 15:31",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渔子清\"邀请\"老朱（独善其身）\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 101,
+   "time": "2026-06-08 14:46",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"一方\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 100,
+   "time": "2026-06-08 14:03",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"Blue蓝蓝\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 99,
+   "time": "2026-06-08 11:46",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"朱朱\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 98,
+   "time": "2026-06-08 11:04",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"Xuᴗue\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 97,
+   "time": "2026-06-08 10:54",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Annia Shaw-领队 \"邀请\"宏源@数字-小红书n8n志愿者\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 96,
+   "time": "2026-06-08 09:30",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"皮卡丘大哥\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 95,
+   "time": "2026-06-08 09:23",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"jyxer\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 94,
+   "time": "2026-06-08 09:21",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"黄可\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 93,
+   "time": "2026-06-08 09:19",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"十三行图\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 92,
+   "time": "2026-06-08 09:10",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"国哥AI\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 91,
+   "time": "2026-06-08 09:08",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"横笛\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 90,
+   "time": "2026-06-08 09:07",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"俊\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 89,
+   "time": "2026-06-08 09:07",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"海边的曼彻斯特\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 88,
+   "time": "2026-06-08 09:06",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"渐渐\"邀请\"晏闻艺\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 87,
+   "time": "2026-06-08 07:44",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Annia Shaw-领队 \"邀请\"忠陆先森\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 86,
+   "time": "2026-06-08 07:39",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"杜汭锜（ruì qí）-08期领队\"邀请\"陌上花开\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 85,
+   "time": "2026-06-08 01:09",
+   "date": "2026-06-08",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"海盐蓝\"邀请\"谢华\"加入了群聊",
+   "type": "system"
+  }
+ ],
+ "total": 170,
+ "page": 1,
+ "page_size": 170
+}

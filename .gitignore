@@ -1,0 +1,7 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+*.log
+
+# Cloudflare Pages 自动写入的自定义域 CNAME（如启用自定义域）
+CNAME

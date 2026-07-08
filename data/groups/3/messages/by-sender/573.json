@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 26041,
+   "time": "2026-03-14 12:46",
+   "date": "2026-03-14",
+   "sender_id": 573,
+   "sender": "tree",
+   "content": "我已确认，并遵守规则",
+   "type": "text"
+  },
+  {
+   "id": 22974,
+   "time": "2026-03-01 12:49",
+   "date": "2026-03-01",
+   "sender_id": 573,
+   "sender": "tree",
+   "content": "[转账|发送 ￥39.90](参加openclaw训练营)",
+   "type": "share"
+  },
+  {
+   "id": 19747,
+   "time": "2026-02-09 12:24",
+   "date": "2026-02-09",
+   "sender_id": 573,
+   "sender": "tree",
+   "content": "已认真阅读，确认参与项目",
+   "type": "text"
+  },
+  {
+   "id": 12751,
+   "time": "2026-01-08 19:36",
+   "date": "2026-01-08",
+   "sender_id": 573,
+   "sender": "tree",
+   "content": "![图片](http://127.0.0.1:5030/image/921a287518cef206081808162c2574a0,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-01/Img/7ae9e06d6dfbe6a1d29b262d117ae866)",
+   "type": "image"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

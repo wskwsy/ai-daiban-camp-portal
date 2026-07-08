@@ -1,0 +1,16 @@
+{
+ "messages": [
+  {
+   "id": 23049,
+   "time": "2026-03-01 14:25",
+   "date": "2026-03-01",
+   "sender_id": 617,
+   "sender": "云悦",
+   "content": "[转账|发送 ￥39.90]",
+   "type": "share"
+  }
+ ],
+ "total": 1,
+ "page": 1,
+ "page_size": 1
+}

@@ -1,0 +1,160 @@
+{
+ "messages": [
+  {
+   "id": 11135,
+   "time": "2026-01-01 23:28",
+   "date": "2026-01-01",
+   "sender_id": 237,
+   "sender": "系统消息",
+   "content": "",
+   "type": "system"
+  },
+  {
+   "id": 11133,
+   "time": "2026-01-01 23:27",
+   "date": "2026-01-01",
+   "sender_id": 323,
+   "sender": "天元",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  },
+  {
+   "id": 11134,
+   "time": "2026-01-01 23:27",
+   "date": "2026-01-01",
+   "sender_id": 253,
+   "sender": "菜籽油 | 24小时内回复信息",
+   "content": "[红包]",
+   "type": "share"
+  },
+  {
+   "id": 11131,
+   "time": "2026-01-01 23:27",
+   "date": "2026-01-01",
+   "sender_id": 234,
+   "sender": "小机AI智能体",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  },
+  {
+   "id": 11132,
+   "time": "2026-01-01 23:27",
+   "date": "2026-01-01",
+   "sender_id": 338,
+   "sender": "云承锦",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  },
+  {
+   "id": 11130,
+   "time": "2026-01-01 23:27",
+   "date": "2026-01-01",
+   "sender_id": 385,
+   "sender": "ʚ樱花ɞ",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  },
+  {
+   "id": 11128,
+   "time": "2026-01-01 23:27",
+   "date": "2026-01-01",
+   "sender_id": 480,
+   "sender": "灰灰",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  },
+  {
+   "id": 11129,
+   "time": "2026-01-01 23:27",
+   "date": "2026-01-01",
+   "sender_id": 422,
+   "sender": "小陈-0903",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  },
+  {
+   "id": 11126,
+   "time": "2026-01-01 23:27",
+   "date": "2026-01-01",
+   "sender_id": 537,
+   "sender": "💫破茧亭",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  },
+  {
+   "id": 11127,
+   "time": "2026-01-01 23:27",
+   "date": "2026-01-01",
+   "sender_id": 266,
+   "sender": "初遇",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  },
+  {
+   "id": 11125,
+   "time": "2026-01-01 23:27",
+   "date": "2026-01-01",
+   "sender_id": 378,
+   "sender": "AiRu👑~~💓",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  },
+  {
+   "id": 11124,
+   "time": "2026-01-01 23:27",
+   "date": "2026-01-01",
+   "sender_id": 363,
+   "sender": "喵金鱼",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  },
+  {
+   "id": 11123,
+   "time": "2026-01-01 23:27",
+   "date": "2026-01-01",
+   "sender_id": 253,
+   "sender": "菜籽油 | 24小时内回复信息",
+   "content": "[分享]",
+   "type": "share"
+  },
+  {
+   "id": 11122,
+   "time": "2026-01-01 23:26",
+   "date": "2026-01-01",
+   "sender_id": 511,
+   "sender": "飞雪连天",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  },
+  {
+   "id": 11121,
+   "time": "2026-01-01 23:26",
+   "date": "2026-01-01",
+   "sender_id": 317,
+   "sender": "张张呀",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  },
+  {
+   "id": 11120,
+   "time": "2026-01-01 23:26",
+   "date": "2026-01-01",
+   "sender_id": 302,
+   "sender": "I7",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  },
+  {
+   "id": 11119,
+   "time": "2026-01-01 23:26",
+   "date": "2026-01-01",
+   "sender_id": 243,
+   "sender": "真希",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  }
+ ],
+ "total": 34567,
+ "page": 692,
+ "page_size": 50
+}

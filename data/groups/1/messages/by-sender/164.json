@@ -1,0 +1,70 @@
+{
+ "messages": [
+  {
+   "id": 1792,
+   "time": "2026-07-06 15:17",
+   "date": "2026-07-06",
+   "sender_id": 164,
+   "sender": "金花-AI全域带货-Helen组",
+   "content": "电话拒接，短信不回，微信加不上",
+   "type": "text"
+  },
+  {
+   "id": 1791,
+   "time": "2026-07-06 15:16",
+   "date": "2026-07-06",
+   "sender_id": 164,
+   "sender": "金花-AI全域带货-Helen组",
+   "content": "捞人",
+   "type": "text"
+  },
+  {
+   "id": 1790,
+   "time": "2026-07-06 15:15",
+   "date": "2026-07-06",
+   "sender_id": 164,
+   "sender": "金花-AI全域带货-Helen组",
+   "content": "![图片](http://127.0.0.1:5030/image/92e8fab4cd784c2e0b64ef240c996022,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/20c9a82200d4bb09028ee853a994fa3c)",
+   "type": "image"
+  },
+  {
+   "id": 1782,
+   "time": "2026-07-06 15:02",
+   "date": "2026-07-06",
+   "sender_id": 164,
+   "sender": "金花-AI全域带货-Helen组",
+   "content": "@伴月 把洋哥或者破局的视频号推给他，里面有购买引导课的链接",
+   "type": "text"
+  },
+  {
+   "id": 1489,
+   "time": "2026-07-05 21:11",
+   "date": "2026-07-05",
+   "sender_id": 164,
+   "sender": "金花-AI全域带货-Helen组",
+   "content": "这个",
+   "type": "text"
+  },
+  {
+   "id": 1488,
+   "time": "2026-07-05 21:11",
+   "date": "2026-07-05",
+   "sender_id": 164,
+   "sender": "金花-AI全域带货-Helen组",
+   "content": "@清心～小红书起号～柳古点组 ",
+   "type": "text"
+  },
+  {
+   "id": 1487,
+   "time": "2026-07-05 21:10",
+   "date": "2026-07-05",
+   "sender_id": 164,
+   "sender": "金花-AI全域带货-Helen组",
+   "content": "[名片]",
+   "type": "card"
+  }
+ ],
+ "total": 7,
+ "page": 1,
+ "page_size": 7
+}

@@ -1,0 +1,70 @@
+{
+ "messages": [
+  {
+   "id": 214,
+   "time": "2026-06-08 18:16",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "是的",
+   "type": "text"
+  },
+  {
+   "id": 209,
+   "time": "2026-06-08 18:10",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "plus会员不会跳 现在",
+   "type": "share"
+  },
+  {
+   "id": 208,
+   "time": "2026-06-08 18:10",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "纯净度 加 账号地址",
+   "type": "share"
+  },
+  {
+   "id": 203,
+   "time": "2026-06-08 18:09",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "是的",
+   "type": "text"
+  },
+  {
+   "id": 201,
+   "time": "2026-06-08 18:08",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "他最近限制解除了，只要你充值plus，它基本上都不验证",
+   "type": "text"
+  },
+  {
+   "id": 186,
+   "time": "2026-06-08 17:57",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "codex 开plus付费就不用手机号了",
+   "type": "text"
+  },
+  {
+   "id": 184,
+   "time": "2026-06-08 17:56",
+   "date": "2026-06-08",
+   "sender_id": 19,
+   "sender": "Doki",
+   "content": "这个8000是利润吧",
+   "type": "share"
+  }
+ ],
+ "total": 7,
+ "page": 1,
+ "page_size": 7
+}

@@ -1,0 +1,70 @@
+{
+ "messages": [
+  {
+   "id": 662,
+   "time": "2026-06-24 13:33",
+   "date": "2026-06-24",
+   "sender_id": 80,
+   "sender": "风子",
+   "content": "可以",
+   "type": "text"
+  },
+  {
+   "id": 658,
+   "time": "2026-06-24 13:33",
+   "date": "2026-06-24",
+   "sender_id": 80,
+   "sender": "风子",
+   "content": "这个是AI做然后转换为可编辑的吗",
+   "type": "text"
+  },
+  {
+   "id": 651,
+   "time": "2026-06-24 13:31",
+   "date": "2026-06-24",
+   "sender_id": 80,
+   "sender": "风子",
+   "content": "我最近也在研究PPT了",
+   "type": "text"
+  },
+  {
+   "id": 650,
+   "time": "2026-06-24 13:31",
+   "date": "2026-06-24",
+   "sender_id": 80,
+   "sender": "风子",
+   "content": "可以随便看一个吗，就是能代表精美的设计质量就行",
+   "type": "text"
+  },
+  {
+   "id": 647,
+   "time": "2026-06-24 13:30",
+   "date": "2026-06-24",
+   "sender_id": 80,
+   "sender": "风子",
+   "content": "有大概的样片看看吗",
+   "type": "text"
+  },
+  {
+   "id": 645,
+   "time": "2026-06-24 13:27",
+   "date": "2026-06-24",
+   "sender_id": 80,
+   "sender": "风子",
+   "content": "自己接怎么报价",
+   "type": "text"
+  },
+  {
+   "id": 643,
+   "time": "2026-06-24 13:26",
+   "date": "2026-06-24",
+   "sender_id": 80,
+   "sender": "风子",
+   "content": "精美单怎么算价格",
+   "type": "text"
+  }
+ ],
+ "total": 7,
+ "page": 1,
+ "page_size": 7
+}

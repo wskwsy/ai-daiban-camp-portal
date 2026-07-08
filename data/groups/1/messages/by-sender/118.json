@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1260,
+   "time": "2026-07-05 11:35",
+   "date": "2026-07-05",
+   "sender_id": 118,
+   "sender": "时光-AI设计(含GPT image2)-稳稳组",
+   "content": "还是稳定一点好，避免后续带来不必要的麻烦事",
+   "type": "text"
+  },
+  {
+   "id": 955,
+   "time": "2026-07-04 20:01",
+   "date": "2026-07-04",
+   "sender_id": 118,
+   "sender": "时光-AI设计(含GPT image2)-稳稳组",
+   "content": "明天再看看，还没更新",
+   "type": "share"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

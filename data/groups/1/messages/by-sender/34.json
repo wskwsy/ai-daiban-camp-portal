@@ -1,0 +1,88 @@
+{
+ "messages": [
+  {
+   "id": 1103,
+   "time": "2026-07-05 09:34",
+   "date": "2026-07-05",
+   "sender_id": 34,
+   "sender": "王瑞",
+   "content": "![图片](http://127.0.0.1:5030/image/5d0896ed6be9bb5a766128c01d885a24,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/606b2b4be31b68f2709ce6c15399bbe4)",
+   "type": "image"
+  },
+  {
+   "id": 613,
+   "time": "2026-06-24 13:11",
+   "date": "2026-06-24",
+   "sender_id": 34,
+   "sender": "王瑞",
+   "content": "10快到几千都有，看个人能力，",
+   "type": "text"
+  },
+  {
+   "id": 611,
+   "time": "2026-06-24 12:54",
+   "date": "2026-06-24",
+   "sender_id": 34,
+   "sender": "王瑞",
+   "content": "根据自己时间规划接单就行",
+   "type": "text"
+  },
+  {
+   "id": 610,
+   "time": "2026-06-24 12:54",
+   "date": "2026-06-24",
+   "sender_id": 34,
+   "sender": "王瑞",
+   "content": "做的好的一个月1万多",
+   "type": "text"
+  },
+  {
+   "id": 609,
+   "time": "2026-06-24 12:53",
+   "date": "2026-06-24",
+   "sender_id": 34,
+   "sender": "王瑞",
+   "content": "PPT行动营就可以变现，我上期参加的",
+   "type": "text"
+  },
+  {
+   "id": 560,
+   "time": "2026-06-24 10:32",
+   "date": "2026-06-24",
+   "sender_id": 34,
+   "sender": "王瑞",
+   "content": "之前的也是解散了",
+   "type": "text"
+  },
+  {
+   "id": 542,
+   "time": "2026-06-24 10:26",
+   "date": "2026-06-24",
+   "sender_id": 34,
+   "sender": "王瑞",
+   "content": "我现在也没分配啊",
+   "type": "text"
+  },
+  {
+   "id": 283,
+   "time": "2026-06-09 09:46",
+   "date": "2026-06-09",
+   "sender_id": 34,
+   "sender": "王瑞",
+   "content": "好的",
+   "type": "text"
+  },
+  {
+   "id": 260,
+   "time": "2026-06-09 09:09",
+   "date": "2026-06-09",
+   "sender_id": 34,
+   "sender": "王瑞",
+   "content": "谁有比特浏览器续费的折扣了",
+   "type": "text"
+  }
+ ],
+ "total": 9,
+ "page": 1,
+ "page_size": 9
+}

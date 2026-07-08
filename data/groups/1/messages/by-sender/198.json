@@ -1,0 +1,70 @@
+{
+ "messages": [
+  {
+   "id": 1923,
+   "time": "2026-07-06 18:23",
+   "date": "2026-07-06",
+   "sender_id": 198,
+   "sender": "大倪-lizzy组",
+   "content": "@颜恒-全域AI带货-Annia组 谢谢哈，是我截错了[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 1891,
+   "time": "2026-07-06 17:41",
+   "date": "2026-07-06",
+   "sender_id": 198,
+   "sender": "大倪-lizzy组",
+   "content": "没有呢",
+   "type": "text"
+  },
+  {
+   "id": 1890,
+   "time": "2026-07-06 17:41",
+   "date": "2026-07-06",
+   "sender_id": 198,
+   "sender": "大倪-lizzy组",
+   "content": "[捂脸]我这边是codex的",
+   "type": "text"
+  },
+  {
+   "id": 1882,
+   "time": "2026-07-06 17:38",
+   "date": "2026-07-06",
+   "sender_id": 198,
+   "sender": "大倪-lizzy组",
+   "content": "@颜恒-全域AI带货-Annia组 能帮我跟她说声吗？",
+   "type": "text"
+  },
+  {
+   "id": 1871,
+   "time": "2026-07-06 17:25",
+   "date": "2026-07-06",
+   "sender_id": 198,
+   "sender": "大倪-lizzy组",
+   "content": "![图片](http://127.0.0.1:5030/image/cdda98bd365550262ec2cd64893e14f0,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/31178d264ac1e875a2780292a5b18193)",
+   "type": "image"
+  },
+  {
+   "id": 1872,
+   "time": "2026-07-06 17:25",
+   "date": "2026-07-06",
+   "sender_id": 198,
+   "sender": "大倪-lizzy组",
+   "content": "![图片](http://127.0.0.1:5030/image/54ddadbdc870cc2c653533777e2b810d,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/338c05904353e8d6f14cfaec177aeb76)",
+   "type": "image"
+  },
+  {
+   "id": 1870,
+   "time": "2026-07-06 17:25",
+   "date": "2026-07-06",
+   "sender_id": 198,
+   "sender": "大倪-lizzy组",
+   "content": "捞人 有认识的吗？留的号码不对，联系不上",
+   "type": "text"
+  }
+ ],
+ "total": 7,
+ "page": 1,
+ "page_size": 7
+}

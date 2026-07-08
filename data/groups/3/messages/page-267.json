@@ -1,0 +1,457 @@
+{
+ "messages": [
+  {
+   "id": 26705,
+   "time": "2026-03-19 00:22",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "发出你们的美食",
+   "type": "text"
+  },
+  {
+   "id": 26704,
+   "time": "2026-03-19 00:22",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "让我帮忙代吃",
+   "type": "text"
+  },
+  {
+   "id": 26703,
+   "time": "2026-03-19 00:22",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![动画表情](http://vweixinf.tc.qq.com/110/20401/stodownload?m=7c37cd7268004bf97cc15e46870affd1&filekey=30440201010430302e02016e0402535a04203763333763643732363830303462663937636331356534363837306166666431020300ebf3040d00000004627466730000000132&hy=SZ&storeid=262d64b9000036767a67b5f880000006e01004fb1535a1b460880967648737&ef=1&bizid=1022)",
+   "type": "sticker"
+  },
+  {
+   "id": 26702,
+   "time": "2026-03-19 00:22",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "大家想吃的烧烤",
+   "type": "text"
+  },
+  {
+   "id": 26701,
+   "time": "2026-03-19 00:22",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "没事",
+   "type": "text"
+  },
+  {
+   "id": 26700,
+   "time": "2026-03-19 00:22",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![动画表情](http://vweixinf.tc.qq.com/110/20401/stodownload?m=7c37cd7268004bf97cc15e46870affd1&filekey=30440201010430302e02016e0402535a04203763333763643732363830303462663937636331356534363837306166666431020300ebf3040d00000004627466730000000132&hy=SZ&storeid=262d64b9000036767a67b5f880000006e01004fb1535a1b460880967648737&ef=1&bizid=1022)",
+   "type": "sticker"
+  },
+  {
+   "id": 26699,
+   "time": "2026-03-19 00:21",
+   "date": "2026-03-19",
+   "sender_id": 240,
+   "sender": "筱宇",
+   "content": "[捂脸]算了算了",
+   "type": "text"
+  },
+  {
+   "id": 26698,
+   "time": "2026-03-19 00:21",
+   "date": "2026-03-19",
+   "sender_id": 240,
+   "sender": "筱宇",
+   "content": "![图片](http://127.0.0.1:5030/image/c96b9762b5ff47a39737c450ed61f9aa,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-03/Img/dda9071e8e67f913f925ba36b16deaaf)",
+   "type": "image"
+  },
+  {
+   "id": 26697,
+   "time": "2026-03-19 00:20",
+   "date": "2026-03-19",
+   "sender_id": 449,
+   "sender": "沈筠夏",
+   "content": "+1",
+   "type": "share"
+  },
+  {
+   "id": 26696,
+   "time": "2026-03-19 00:20",
+   "date": "2026-03-19",
+   "sender_id": 449,
+   "sender": "沈筠夏",
+   "content": "![动画表情](http://vweixinf.tc.qq.com/110/20401/stodownload?m=51cf850df29317b76b47b7f74ec6d4a3&filekey=3043020101042f302d02016e040253480420353163663835306466323933313762373662343762376637346563366434613302020d01040d00000004627466730000000132&hy=SH&storeid=2660b711d0001dd60bbaeb96c0000006e01004fb153481ef7f0d157d58cb54&ef=1&bizid=1022)",
+   "type": "sticker"
+  },
+  {
+   "id": 26695,
+   "time": "2026-03-19 00:20",
+   "date": "2026-03-19",
+   "sender_id": 449,
+   "sender": "沈筠夏",
+   "content": "你们这帮子可恶的小鬼头",
+   "type": "text"
+  },
+  {
+   "id": 26694,
+   "time": "2026-03-19 00:20",
+   "date": "2026-03-19",
+   "sender_id": 449,
+   "sender": "沈筠夏",
+   "content": "[破涕为笑]准备关闭群消息",
+   "type": "text"
+  },
+  {
+   "id": 26693,
+   "time": "2026-03-19 00:19",
+   "date": "2026-03-19",
+   "sender_id": 449,
+   "sender": "沈筠夏",
+   "content": "结果饿饿要xi",
+   "type": "text"
+  },
+  {
+   "id": 26692,
+   "time": "2026-03-19 00:19",
+   "date": "2026-03-19",
+   "sender_id": 449,
+   "sender": "沈筠夏",
+   "content": "我忙完来爬楼",
+   "type": "text"
+  },
+  {
+   "id": 26691,
+   "time": "2026-03-19 00:19",
+   "date": "2026-03-19",
+   "sender_id": 352,
+   "sender": "花仙子美学设计🌸",
+   "content": "默默咽了咽口水🤤",
+   "type": "text"
+  },
+  {
+   "id": 26690,
+   "time": "2026-03-19 00:19",
+   "date": "2026-03-19",
+   "sender_id": 449,
+   "sender": "沈筠夏",
+   "content": "这个热了肉不缩？",
+   "type": "share"
+  },
+  {
+   "id": 26689,
+   "time": "2026-03-19 00:19",
+   "date": "2026-03-19",
+   "sender_id": 352,
+   "sender": "花仙子美学设计🌸",
+   "content": "我要吃有酸笋的螺狮[哇]",
+   "type": "text"
+  },
+  {
+   "id": 26688,
+   "time": "2026-03-19 00:19",
+   "date": "2026-03-19",
+   "sender_id": 449,
+   "sender": "沈筠夏",
+   "content": "[捂脸][捂脸][捂脸]",
+   "type": "share"
+  },
+  {
+   "id": 26687,
+   "time": "2026-03-19 00:19",
+   "date": "2026-03-19",
+   "sender_id": 240,
+   "sender": "筱宇",
+   "content": "[破涕为笑]配送费巨贵",
+   "type": "text"
+  },
+  {
+   "id": 26686,
+   "time": "2026-03-19 00:18",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[吃瓜]可恶，居然有外卖",
+   "type": "text"
+  },
+  {
+   "id": 26685,
+   "time": "2026-03-19 00:18",
+   "date": "2026-03-19",
+   "sender_id": 240,
+   "sender": "筱宇",
+   "content": "[捂脸]聊的打开了外卖软件[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 26684,
+   "time": "2026-03-19 00:17",
+   "date": "2026-03-19",
+   "sender_id": 290,
+   "sender": "沐悦",
+   "content": "咽口水",
+   "type": "text"
+  },
+  {
+   "id": 26683,
+   "time": "2026-03-19 00:17",
+   "date": "2026-03-19",
+   "sender_id": 290,
+   "sender": "沐悦",
+   "content": "流口水🤤",
+   "type": "text"
+  },
+  {
+   "id": 26682,
+   "time": "2026-03-19 00:17",
+   "date": "2026-03-19",
+   "sender_id": 290,
+   "sender": "沐悦",
+   "content": "好馋",
+   "type": "text"
+  },
+  {
+   "id": 26681,
+   "time": "2026-03-19 00:17",
+   "date": "2026-03-19",
+   "sender_id": 290,
+   "sender": "沐悦",
+   "content": "太可恶了",
+   "type": "text"
+  },
+  {
+   "id": 26680,
+   "time": "2026-03-19 00:17",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "我超级喜欢螺蛳肉",
+   "type": "text"
+  },
+  {
+   "id": 26679,
+   "time": "2026-03-19 00:16",
+   "date": "2026-03-19",
+   "sender_id": 290,
+   "sender": "沐悦",
+   "content": "我把群屏蔽一晚上",
+   "type": "text"
+  },
+  {
+   "id": 26678,
+   "time": "2026-03-19 00:16",
+   "date": "2026-03-19",
+   "sender_id": 453,
+   "sender": "尧",
+   "content": "我真要起来热螺蛳了",
+   "type": "text"
+  },
+  {
+   "id": 26677,
+   "time": "2026-03-19 00:16",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "我想吃",
+   "type": "share"
+  },
+  {
+   "id": 26676,
+   "time": "2026-03-19 00:16",
+   "date": "2026-03-19",
+   "sender_id": 290,
+   "sender": "沐悦",
+   "content": "我不看了",
+   "type": "text"
+  },
+  {
+   "id": 26675,
+   "time": "2026-03-19 00:16",
+   "date": "2026-03-19",
+   "sender_id": 290,
+   "sender": "沐悦",
+   "content": "[流泪]",
+   "type": "text"
+  },
+  {
+   "id": 26674,
+   "time": "2026-03-19 00:16",
+   "date": "2026-03-19",
+   "sender_id": 453,
+   "sender": "尧",
+   "content": "![图片](http://127.0.0.1:5030/image/8df661d694bdd93dd506b86e526575b3,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-03/Img/14de44364b19b32531fa853561e9a007)",
+   "type": "image"
+  },
+  {
+   "id": 26673,
+   "time": "2026-03-19 00:16",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "哈哈哈",
+   "type": "text"
+  },
+  {
+   "id": 26672,
+   "time": "2026-03-19 00:16",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[奸笑][奸笑][奸笑]刚好陪我一起吃",
+   "type": "share"
+  },
+  {
+   "id": 26671,
+   "time": "2026-03-19 00:15",
+   "date": "2026-03-19",
+   "sender_id": 453,
+   "sender": "尧",
+   "content": "这样下去怕是睡不着了[色]",
+   "type": "text"
+  },
+  {
+   "id": 26670,
+   "time": "2026-03-19 00:15",
+   "date": "2026-03-19",
+   "sender_id": 240,
+   "sender": "筱宇",
+   "content": "夺夺粉火锅",
+   "type": "text"
+  },
+  {
+   "id": 26668,
+   "time": "2026-03-19 00:15",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "起来吃",
+   "type": "share"
+  },
+  {
+   "id": 26669,
+   "time": "2026-03-19 00:15",
+   "date": "2026-03-19",
+   "sender_id": 302,
+   "sender": "I7",
+   "content": "![图片](http://127.0.0.1:5030/image/d2dfb92fb453f8835010bbf978497c98,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-03/Img/08e03ff93933c1fd1993fd90e1fb5be1)",
+   "type": "image"
+  },
+  {
+   "id": 26667,
+   "time": "2026-03-19 00:14",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "哈哈哈",
+   "type": "text"
+  },
+  {
+   "id": 26666,
+   "time": "2026-03-19 00:14",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[坏笑][坏笑][坏笑]家人们，云吃饭((*^∀^))[饭]",
+   "type": "text"
+  },
+  {
+   "id": 26665,
+   "time": "2026-03-19 00:14",
+   "date": "2026-03-19",
+   "sender_id": 290,
+   "sender": "沐悦",
+   "content": "[旺柴]",
+   "type": "text"
+  },
+  {
+   "id": 26664,
+   "time": "2026-03-19 00:14",
+   "date": "2026-03-19",
+   "sender_id": 290,
+   "sender": "沐悦",
+   "content": "小黄鱼烤的好吃",
+   "type": "text"
+  },
+  {
+   "id": 26663,
+   "time": "2026-03-19 00:13",
+   "date": "2026-03-19",
+   "sender_id": 240,
+   "sender": "筱宇",
+   "content": "[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 26661,
+   "time": "2026-03-19 00:13",
+   "date": "2026-03-19",
+   "sender_id": 240,
+   "sender": "筱宇",
+   "content": "还好晚上吃的",
+   "type": "text"
+  },
+  {
+   "id": 26662,
+   "time": "2026-03-19 00:13",
+   "date": "2026-03-19",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/e82885c24ae6a902160b47357ac00501,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-03/Img/45318fa77bb67c84599e4f78859189c1)",
+   "type": "image"
+  },
+  {
+   "id": 26660,
+   "time": "2026-03-19 00:13",
+   "date": "2026-03-19",
+   "sender_id": 240,
+   "sender": "筱宇",
+   "content": "![图片](http://127.0.0.1:5030/image/c55fbdfadb747a6408b2c27eb095d169,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-03/Img/ebfa45833a8728b78b0cf1486342ea38)",
+   "type": "image"
+  },
+  {
+   "id": 26658,
+   "time": "2026-03-19 00:13",
+   "date": "2026-03-19",
+   "sender_id": 352,
+   "sender": "花仙子美学设计🌸",
+   "content": "给你们炒个菜，助助兴",
+   "type": "text"
+  },
+  {
+   "id": 26659,
+   "time": "2026-03-19 00:13",
+   "date": "2026-03-19",
+   "sender_id": 453,
+   "sender": "尧",
+   "content": "糖醋鸡架",
+   "type": "text"
+  },
+  {
+   "id": 26657,
+   "time": "2026-03-19 00:13",
+   "date": "2026-03-19",
+   "sender_id": 423,
+   "sender": "初心",
+   "content": "我也爱吃烤鱼",
+   "type": "text"
+  },
+  {
+   "id": 26656,
+   "time": "2026-03-19 00:13",
+   "date": "2026-03-19",
+   "sender_id": 240,
+   "sender": "筱宇",
+   "content": "压锅生蚝",
+   "type": "text"
+  }
+ ],
+ "total": 34567,
+ "page": 267,
+ "page_size": 50
+}

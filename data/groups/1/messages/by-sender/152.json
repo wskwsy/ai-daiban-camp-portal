@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1371,
+   "time": "2026-07-05 13:59",
+   "date": "2026-07-05",
+   "sender_id": 152,
+   "sender": "A~虎哥~08期编程出海志愿者",
+   "content": "捞人 加不上，电话也打不通",
+   "type": "text"
+  },
+  {
+   "id": 1370,
+   "time": "2026-07-05 13:59",
+   "date": "2026-07-05",
+   "sender_id": 152,
+   "sender": "A~虎哥~08期编程出海志愿者",
+   "content": "![图片](http://127.0.0.1:5030/image/b110171adebf50b7f3743ca6f5fd56c9,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/2915020e64da511d48eac0a3c58c4a65)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

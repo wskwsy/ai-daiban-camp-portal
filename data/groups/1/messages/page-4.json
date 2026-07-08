@@ -1,0 +1,457 @@
+{
+ "messages": [
+  {
+   "id": 1970,
+   "time": "2026-07-06 20:26",
+   "date": "2026-07-06",
+   "sender_id": 38,
+   "sender": "未知成员",
+   "content": "\"海盐蓝\" 拍了拍 \"橙锋AI\" 好运连连[庆祝]",
+   "type": "share"
+  },
+  {
+   "id": 1969,
+   "time": "2026-07-06 20:26",
+   "date": "2026-07-06",
+   "sender_id": 177,
+   "sender": "橙锋AI",
+   "content": "好的 谢谢",
+   "type": "text"
+  },
+  {
+   "id": 1968,
+   "time": "2026-07-06 20:26",
+   "date": "2026-07-06",
+   "sender_id": 89,
+   "sender": "彼岸",
+   "content": "[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 1967,
+   "time": "2026-07-06 20:23",
+   "date": "2026-07-06",
+   "sender_id": 140,
+   "sender": "海盐蓝",
+   "content": "@橙锋AI 宝子，这个学员无法通过你留的微信号添加你，麻烦你看到信息添加一下对方哈\n\n学员微信昵称：缘.缘\n微信号：KSheng662017",
+   "type": "text"
+  },
+  {
+   "id": 1966,
+   "time": "2026-07-06 20:22",
+   "date": "2026-07-06",
+   "sender_id": 120,
+   "sender": "流水若轩",
+   "content": "长时间不回复，把我删了",
+   "type": "text"
+  },
+  {
+   "id": 1965,
+   "time": "2026-07-06 20:21",
+   "date": "2026-07-06",
+   "sender_id": 205,
+   "sender": "熙雾AI",
+   "content": "长时间不回复可以打电话试试",
+   "type": "text"
+  },
+  {
+   "id": 1964,
+   "time": "2026-07-06 20:17",
+   "date": "2026-07-06",
+   "sender_id": 22,
+   "sender": "方恨少-AI设计-渔子清组",
+   "content": "他设置了，我也只能等回复了",
+   "type": "text"
+  },
+  {
+   "id": 1963,
+   "time": "2026-07-06 20:16",
+   "date": "2026-07-06",
+   "sender_id": 22,
+   "sender": "方恨少-AI设计-渔子清组",
+   "content": "![图片](http://127.0.0.1:5030/image/24e2228533470fefa671585c3eeb26b3,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/c77de6e7169805f446e210cbc5a4ce95)",
+   "type": "image"
+  },
+  {
+   "id": 1962,
+   "time": "2026-07-06 20:16",
+   "date": "2026-07-06",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "麻烦你了，谢谢",
+   "type": "text"
+  },
+  {
+   "id": 1961,
+   "time": "2026-07-06 20:15",
+   "date": "2026-07-06",
+   "sender_id": 22,
+   "sender": "方恨少-AI设计-渔子清组",
+   "content": "他是上一期的AI绘画学员，我给他发了信息，也一直没回复！",
+   "type": "text"
+  },
+  {
+   "id": 1960,
+   "time": "2026-07-06 20:14",
+   "date": "2026-07-06",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "我加不了",
+   "type": "text"
+  },
+  {
+   "id": 1959,
+   "time": "2026-07-06 20:14",
+   "date": "2026-07-06",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "![图片](http://127.0.0.1:5030/image/e4d0b0f8c359e40463dbe31ef665704e,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/43acdf6177095dd426aecb6eb304fbf0)",
+   "type": "image"
+  },
+  {
+   "id": 1958,
+   "time": "2026-07-06 20:10",
+   "date": "2026-07-06",
+   "sender_id": 22,
+   "sender": "方恨少-AI设计-渔子清组",
+   "content": "@小万-AI一人公司-熙雾组 [疑问]不是放在群里了吗？你不能直接加吗？",
+   "type": "text"
+  },
+  {
+   "id": 1957,
+   "time": "2026-07-06 20:10",
+   "date": "2026-07-06",
+   "sender_id": 210,
+   "sender": "乔乔-破局AI思维-麋鹿鲁哟组",
+   "content": "捞个人，打电话不接，添加微信不通过",
+   "type": "text"
+  },
+  {
+   "id": 1956,
+   "time": "2026-07-06 20:10",
+   "date": "2026-07-06",
+   "sender_id": 210,
+   "sender": "乔乔-破局AI思维-麋鹿鲁哟组",
+   "content": "![图片](http://127.0.0.1:5030/image/dd001fc8cf3cab93433acc46ea099b0e,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/8451f7ec940e0796bcc4619a605ad6ae)",
+   "type": "image"
+  },
+  {
+   "id": 1955,
+   "time": "2026-07-06 20:04",
+   "date": "2026-07-06",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"Annia Shaw-领队 \"邀请\"红尘\"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 1954,
+   "time": "2026-07-06 19:53",
+   "date": "2026-07-06",
+   "sender_id": 79,
+   "sender": "Gary 陈家怡",
+   "content": "发了短信",
+   "type": "text"
+  },
+  {
+   "id": 1953,
+   "time": "2026-07-06 19:53",
+   "date": "2026-07-06",
+   "sender_id": 79,
+   "sender": "Gary 陈家怡",
+   "content": "@鸟儿 我也在加他",
+   "type": "text"
+  },
+  {
+   "id": 1952,
+   "time": "2026-07-06 19:53",
+   "date": "2026-07-06",
+   "sender_id": 209,
+   "sender": "长风-全域AI带货-Cherry组",
+   "content": "星球编号都到十万多了吗[发呆]",
+   "type": "share"
+  },
+  {
+   "id": 1951,
+   "time": "2026-07-06 19:52",
+   "date": "2026-07-06",
+   "sender_id": 208,
+   "sender": "沈然",
+   "content": "麻烦大家帮忙捞个人[抱拳]\n编号 52419\n微信号 wxid_t4dzjzt3yx2112\n手机号 15168556241",
+   "type": "text"
+  },
+  {
+   "id": 1950,
+   "time": "2026-07-06 19:51",
+   "date": "2026-07-06",
+   "sender_id": 207,
+   "sender": "鸟儿",
+   "content": "拜托大家帮忙捞个人[抱拳]\n编号 101061\n微信号 hulu_aka\n手机号 13127717880",
+   "type": "text"
+  },
+  {
+   "id": 1949,
+   "time": "2026-07-06 19:48",
+   "date": "2026-07-06",
+   "sender_id": 206,
+   "sender": "地球AI｜曾子迪",
+   "content": "捞个人，电话，短信都触达了，目前还没有添加",
+   "type": "text"
+  },
+  {
+   "id": 1948,
+   "time": "2026-07-06 19:48",
+   "date": "2026-07-06",
+   "sender_id": 206,
+   "sender": "地球AI｜曾子迪",
+   "content": "![图片](http://127.0.0.1:5030/image/a89174e09b9821e29155bb73d71c0fcc,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/7d88f093023a1c926665f446fb05eaeb)",
+   "type": "image"
+  },
+  {
+   "id": 1947,
+   "time": "2026-07-06 19:47",
+   "date": "2026-07-06",
+   "sender_id": 56,
+   "sender": "雪花-破局AI小程序-渐渐组",
+   "content": "捞个人，有加过这位学员的大佬吗？[流泪]",
+   "type": "text"
+  },
+  {
+   "id": 1946,
+   "time": "2026-07-06 19:47",
+   "date": "2026-07-06",
+   "sender_id": 56,
+   "sender": "雪花-破局AI小程序-渐渐组",
+   "content": "![图片](http://127.0.0.1:5030/image/57286813956f2cae436b3939cc705690,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/90a62973028d88dd45c55940f7f6e6c8)",
+   "type": "image"
+  },
+  {
+   "id": 1945,
+   "time": "2026-07-06 19:46",
+   "date": "2026-07-06",
+   "sender_id": 38,
+   "sender": "未知成员",
+   "content": "\"Helen\" 拍了拍 \"运营鑫\"",
+   "type": "share"
+  },
+  {
+   "id": 1944,
+   "time": "2026-07-06 19:44",
+   "date": "2026-07-06",
+   "sender_id": 39,
+   "sender": "运营鑫",
+   "content": "![图片](http://127.0.0.1:5030/image/d83f6eda235fcae7cecefc53e37cc635,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/44be7a1a8d43e5742f4e6e63a81fb016)",
+   "type": "image"
+  },
+  {
+   "id": 1943,
+   "time": "2026-07-06 19:44",
+   "date": "2026-07-06",
+   "sender_id": 39,
+   "sender": "运营鑫",
+   "content": "@所有人 \n11期破局行动报名完美落幕！开营仪式重磅来袭！\n\nAI迭代不等人，行动者先破局！\n这一期，我们集结了100+位实战派教练、30+位领队、20+位资料官、400+位志愿者，用全流程的极致陪伴，带你一个人干出一个团队的活！\n\n往期10期超1.2万人次报名、91.08%的超高上岸率，就是这套陪跑体系实打实的证明！\n\n开营仪式，4位重量级实战嘉宾带你拿结果：\n20:30 卡尔｜小红书虚拟产品致胜心法\n21:00 七哥Seven｜AI一人公司创业\n21:30 腾云猫｜智能化全域AI带货\n22:00 韦俊国｜05后大学生赚第一桶金\n\n时间：7月9日（周四）晚8点\n预约方式：视频号搜索「#AI破局#」或点击下方海报扫码预约。\n直播间等你，不见不散！",
+   "type": "text"
+  },
+  {
+   "id": 1942,
+   "time": "2026-07-06 19:39",
+   "date": "2026-07-06",
+   "sender_id": 175,
+   "sender": "Sneaker-鞋罗汉",
+   "content": "星球号也没回",
+   "type": "text"
+  },
+  {
+   "id": 1941,
+   "time": "2026-07-06 19:39",
+   "date": "2026-07-06",
+   "sender_id": 175,
+   "sender": "Sneaker-鞋罗汉",
+   "content": "![图片](http://127.0.0.1:5030/image/88efc3b82840e036c4e5f44a96e4efbd,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/bb4db44454ac602c350efdb00e83c999)",
+   "type": "image"
+  },
+  {
+   "id": 1940,
+   "time": "2026-07-06 19:39",
+   "date": "2026-07-06",
+   "sender_id": 175,
+   "sender": "Sneaker-鞋罗汉",
+   "content": "我也捞个人，有这人的吗，电话不通，短信没回，微信手机都加不上[擦汗]",
+   "type": "text"
+  },
+  {
+   "id": 1939,
+   "time": "2026-07-06 18:50",
+   "date": "2026-07-06",
+   "sender_id": 205,
+   "sender": "熙雾AI",
+   "content": "消息太多，被覆盖了吧",
+   "type": "text"
+  },
+  {
+   "id": 1938,
+   "time": "2026-07-06 18:49",
+   "date": "2026-07-06",
+   "sender_id": 202,
+   "sender": "Y",
+   "content": "不好意思啊，漏看消息了",
+   "type": "share"
+  },
+  {
+   "id": 1937,
+   "time": "2026-07-06 18:48",
+   "date": "2026-07-06",
+   "sender_id": 4,
+   "sender": "Lily -公众号漫画-杜汭锜组",
+   "content": "@小万-AI一人公司-熙雾组 什么意思？",
+   "type": "text"
+  },
+  {
+   "id": 1936,
+   "time": "2026-07-06 18:46",
+   "date": "2026-07-06",
+   "sender_id": 100,
+   "sender": "柳古点.🌈小红书起号营",
+   "content": "有的营人数太多，不止一个领队，即使公布名单，也不一定加上的是正确的[旺柴]",
+   "type": "share"
+  },
+  {
+   "id": 1935,
+   "time": "2026-07-06 18:44",
+   "date": "2026-07-06",
+   "sender_id": 204,
+   "sender": "羽晗",
+   "content": "@Y 我周六就联系你啦，一直没有等到你的回复呀[愉快]～",
+   "type": "share"
+  },
+  {
+   "id": 1934,
+   "time": "2026-07-06 18:43",
+   "date": "2026-07-06",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "![图片](http://127.0.0.1:5030/image/eb75bb3f60f31e4de56048d8ca50398c,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/5f91c75c564a1c70985635978a8c38f5)",
+   "type": "image"
+  },
+  {
+   "id": 1933,
+   "time": "2026-07-06 18:43",
+   "date": "2026-07-06",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "@方恨少-AI设计-渔子清组 你好，我的那个学员就是这个人，能推荐给我吗？",
+   "type": "text"
+  },
+  {
+   "id": 1932,
+   "time": "2026-07-06 18:42",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "不好意思哈，这个我没有，只有领队自己可以登录志愿者系统才可以查看有哪些志愿者哦，和你们登录才能查看学员是一样的",
+   "type": "share"
+  },
+  {
+   "id": 1931,
+   "time": "2026-07-06 18:41",
+   "date": "2026-07-06",
+   "sender_id": 27,
+   "sender": "小万-AI一人公司-熙雾组",
+   "content": "@Lily -公众号漫画-杜汭锜组 谢谢，不是这个人",
+   "type": "text"
+  },
+  {
+   "id": 1930,
+   "time": "2026-07-06 18:40",
+   "date": "2026-07-06",
+   "sender_id": 161,
+   "sender": "华仔Andy",
+   "content": "后续尽量都要有主动加的意识，不一定都是等着被加",
+   "type": "text"
+  },
+  {
+   "id": 1929,
+   "time": "2026-07-06 18:37",
+   "date": "2026-07-06",
+   "sender_id": 161,
+   "sender": "华仔Andy",
+   "content": "志愿者和领队名单表可以发下，让大家核对自行添加领队",
+   "type": "share"
+  },
+  {
+   "id": 1928,
+   "time": "2026-07-06 18:35",
+   "date": "2026-07-06",
+   "sender_id": 203,
+   "sender": "香香",
+   "content": "难度加倍[呲牙][呲牙][呲牙]",
+   "type": "share"
+  },
+  {
+   "id": 1927,
+   "time": "2026-07-06 18:34",
+   "date": "2026-07-06",
+   "sender_id": 173,
+   "sender": "大胡",
+   "content": "我有两个呢，加微打电话发短信，一个也没回应[Emm]",
+   "type": "share"
+  },
+  {
+   "id": 1926,
+   "time": "2026-07-06 18:28",
+   "date": "2026-07-06",
+   "sender_id": 132,
+   "sender": "汽水-AI PPT-夏蝉组",
+   "content": "星球号：52149\n微信名：Jeff-Tzeng\n微信 ：Jeff-Tzeng\n电话183626543",
+   "type": "text"
+  },
+  {
+   "id": 1925,
+   "time": "2026-07-06 18:27",
+   "date": "2026-07-06",
+   "sender_id": 132,
+   "sender": "汽水-AI PPT-夏蝉组",
+   "content": "有没有能联系上这个的，打电话添加都不回",
+   "type": "text"
+  },
+  {
+   "id": 1924,
+   "time": "2026-07-06 18:27",
+   "date": "2026-07-06",
+   "sender_id": 132,
+   "sender": "汽水-AI PPT-夏蝉组",
+   "content": "![图片](http://127.0.0.1:5030/image/2f8a35aa6e5142a49c8101f6c8ceb2bd,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/06651af59a07d86e06fd444ff4ce7bb1)",
+   "type": "image"
+  },
+  {
+   "id": 1923,
+   "time": "2026-07-06 18:23",
+   "date": "2026-07-06",
+   "sender_id": 198,
+   "sender": "大倪-lizzy组",
+   "content": "@颜恒-全域AI带货-Annia组 谢谢哈，是我截错了[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 1922,
+   "time": "2026-07-06 18:20",
+   "date": "2026-07-06",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "客气了",
+   "type": "text"
+  },
+  {
+   "id": 1921,
+   "time": "2026-07-06 18:19",
+   "date": "2026-07-06",
+   "sender_id": 202,
+   "sender": "Y",
+   "content": "嗯嗯，谢谢",
+   "type": "text"
+  }
+ ],
+ "total": 2120,
+ "page": 4,
+ "page_size": 50
+}

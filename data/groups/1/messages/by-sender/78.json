@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 2038,
+   "time": "2026-07-07 09:57",
+   "date": "2026-07-07",
+   "sender_id": 78,
+   "sender": "Zzz",
+   "content": "捞人，有没有大佬认识的[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 2039,
+   "time": "2026-07-07 09:57",
+   "date": "2026-07-07",
+   "sender_id": 78,
+   "sender": "Zzz",
+   "content": "![图片](http://127.0.0.1:5030/image/f17e5b7d5f31b891876c52f777ee70bc,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/6c6cfb25a85e61d54b51bc62d43b0ba5)",
+   "type": "image"
+  },
+  {
+   "id": 1438,
+   "time": "2026-07-05 16:26",
+   "date": "2026-07-05",
+   "sender_id": 78,
+   "sender": "Zzz",
+   "content": "@柳古点.🌈 多谢大佬[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 1433,
+   "time": "2026-07-05 16:21",
+   "date": "2026-07-05",
+   "sender_id": 78,
+   "sender": "Zzz",
+   "content": "捞人，有大佬认识的嘛",
+   "type": "text"
+  },
+  {
+   "id": 1434,
+   "time": "2026-07-05 16:21",
+   "date": "2026-07-05",
+   "sender_id": 78,
+   "sender": "Zzz",
+   "content": "![图片](http://127.0.0.1:5030/image/5f5ef5db78afd039ac7e844a5d52eadf,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/3146777d65b81d88177b37e1738cb40a)",
+   "type": "image"
+  },
+  {
+   "id": 615,
+   "time": "2026-06-24 13:12",
+   "date": "2026-06-24",
+   "sender_id": 78,
+   "sender": "Zzz",
+   "content": "@王瑞 请问行动营结束了还能接单吗",
+   "type": "text"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

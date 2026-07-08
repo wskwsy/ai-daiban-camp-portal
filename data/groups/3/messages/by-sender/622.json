@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 29989,
+   "time": "2026-05-03 16:12",
+   "date": "2026-05-03",
+   "sender_id": 622,
+   "sender": "孟想成真1319",
+   "content": "![图片](http://127.0.0.1:5030/image/0fe3b8d9490c208bbb77279b06ede19a,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-05/Img/c65fcc35f1b47ac6e04793016be026e3)",
+   "type": "image"
+  },
+  {
+   "id": 23358,
+   "time": "2026-03-02 14:28",
+   "date": "2026-03-02",
+   "sender_id": 622,
+   "sender": "孟想成真1319",
+   "content": "[红包]",
+   "type": "share"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

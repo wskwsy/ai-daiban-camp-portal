@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 34985,
+   "time": "2026-06-20 12:00",
+   "date": "2026-06-20",
+   "sender_id": 656,
+   "sender": "BBS魔法小铺",
+   "content": "sorry 打断说话[合十]",
+   "type": "text"
+  },
+  {
+   "id": 34983,
+   "time": "2026-06-20 11:59",
+   "date": "2026-06-20",
+   "sender_id": 656,
+   "sender": "BBS魔法小铺",
+   "content": "快手的，有谁麻烦您帮拉一下感恩",
+   "type": "share"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

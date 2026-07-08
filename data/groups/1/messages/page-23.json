@@ -1,0 +1,457 @@
+{
+ "messages": [
+  {
+   "id": 1020,
+   "time": "2026-07-04 21:06",
+   "date": "2026-07-04",
+   "sender_id": 71,
+   "sender": "秦川-AI PPT-夏蝉组",
+   "content": "是的",
+   "type": "share"
+  },
+  {
+   "id": 1019,
+   "time": "2026-07-04 21:05",
+   "date": "2026-07-04",
+   "sender_id": 122,
+   "sender": "竹子-AI 编程产品出海-小屋姐组）",
+   "content": "邀请学员是要自己先建一个小群吧？",
+   "type": "text"
+  },
+  {
+   "id": 1018,
+   "time": "2026-07-04 20:50",
+   "date": "2026-07-04",
+   "sender_id": 71,
+   "sender": "秦川-AI PPT-夏蝉组",
+   "content": "嗯嗯",
+   "type": "text"
+  },
+  {
+   "id": 1017,
+   "time": "2026-07-04 20:49",
+   "date": "2026-07-04",
+   "sender_id": 119,
+   "sender": "玄川-AI PPT-夏蝉组",
+   "content": "@秦川-AI PPT-夏蝉组",
+   "type": "share"
+  },
+  {
+   "id": 1016,
+   "time": "2026-07-04 20:47",
+   "date": "2026-07-04",
+   "sender_id": 71,
+   "sender": "秦川-AI PPT-夏蝉组",
+   "content": "志愿服务还没出来",
+   "type": "text"
+  },
+  {
+   "id": 1015,
+   "time": "2026-07-04 20:46",
+   "date": "2026-07-04",
+   "sender_id": 71,
+   "sender": "秦川-AI PPT-夏蝉组",
+   "content": "![图片](http://127.0.0.1:5030/image/9cf357911de620038f2fd14cdf0506b2,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/7482116dcaf0b2a9a3748390d89b5588)",
+   "type": "image"
+  },
+  {
+   "id": 1014,
+   "time": "2026-07-04 20:45",
+   "date": "2026-07-04",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"秦川-AI PPT-夏蝉组\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 1013,
+   "time": "2026-07-04 20:45",
+   "date": "2026-07-04",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"秦川-AI PPT-夏蝉组\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 1012,
+   "time": "2026-07-04 20:40",
+   "date": "2026-07-04",
+   "sender_id": 106,
+   "sender": "无为（8:00-22:00）",
+   "content": "好的",
+   "type": "share"
+  },
+  {
+   "id": 1011,
+   "time": "2026-07-04 20:39",
+   "date": "2026-07-04",
+   "sender_id": 11,
+   "sender": "俊哥-公众号细分AIP打造-双喜组",
+   "content": "呼叫AI一人公司短视频行动营的领队，我被调剂到你们营了，请及时联系我",
+   "type": "text"
+  },
+  {
+   "id": 1010,
+   "time": "2026-07-04 20:38",
+   "date": "2026-07-04",
+   "sender_id": 124,
+   "sender": "Blue蓝蓝-破局AI小程序-渐渐组",
+   "content": "+1",
+   "type": "share"
+  },
+  {
+   "id": 1009,
+   "time": "2026-07-04 20:38",
+   "date": "2026-07-04",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "PPT的志愿者晚点哈，我人在外面，晚点到家添加各位[合十]",
+   "type": "text"
+  },
+  {
+   "id": 1008,
+   "time": "2026-07-04 20:37",
+   "date": "2026-07-04",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "那个是最晚时间",
+   "type": "text"
+  },
+  {
+   "id": 1007,
+   "time": "2026-07-04 20:37",
+   "date": "2026-07-04",
+   "sender_id": 6,
+   "sender": "王庆",
+   "content": "志愿者服务开放就可以添加了",
+   "type": "text"
+  },
+  {
+   "id": 1006,
+   "time": "2026-07-04 20:35",
+   "date": "2026-07-04",
+   "sender_id": 121,
+   "sender": "浅浅-小红书虚拟产品-kiroto 组",
+   "content": "手册写的是明后 2 天加，不过这会儿志愿服务已经开放了，可以看到学员",
+   "type": "share"
+  },
+  {
+   "id": 1005,
+   "time": "2026-07-04 20:31",
+   "date": "2026-07-04",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "高龄了学员[抱拳]",
+   "type": "text"
+  },
+  {
+   "id": 1004,
+   "time": "2026-07-04 20:31",
+   "date": "2026-07-04",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "![图片](http://127.0.0.1:5030/image/c4048cc43d506cc728ae8b0b10eec144,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/452de1c533b4dd21aeb40796da48f347)",
+   "type": "image"
+  },
+  {
+   "id": 1003,
+   "time": "2026-07-04 20:31",
+   "date": "2026-07-04",
+   "sender_id": 25,
+   "sender": "关二爷",
+   "content": "我加完了[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 1002,
+   "time": "2026-07-04 20:30",
+   "date": "2026-07-04",
+   "sender_id": 70,
+   "sender": "十一｜AI 编程产品出海-小屋姐组",
+   "content": "了解了，不过我还真没遇到过呢[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 1001,
+   "time": "2026-07-04 20:30",
+   "date": "2026-07-04",
+   "sender_id": 123,
+   "sender": "AI内容工厂-阿宝",
+   "content": "今天开始加人了嘛？",
+   "type": "text"
+  },
+  {
+   "id": 1000,
+   "time": "2026-07-04 20:29",
+   "date": "2026-07-04",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "我已经连着四期30学员一起加，还没风控过",
+   "type": "text"
+  },
+  {
+   "id": 999,
+   "time": "2026-07-04 20:27",
+   "date": "2026-07-04",
+   "sender_id": 119,
+   "sender": "玄川-AI PPT-夏蝉组",
+   "content": "不过这种完全没啥的，只要答个疑就好了",
+   "type": "text"
+  },
+  {
+   "id": 998,
+   "time": "2026-07-04 20:26",
+   "date": "2026-07-04",
+   "sender_id": 119,
+   "sender": "玄川-AI PPT-夏蝉组",
+   "content": "一般是第二天直接踢下线",
+   "type": "share"
+  },
+  {
+   "id": 997,
+   "time": "2026-07-04 20:26",
+   "date": "2026-07-04",
+   "sender_id": 122,
+   "sender": "竹子-AI 编程产品出海-小屋姐组）",
+   "content": "在哪里看分配的人",
+   "type": "text"
+  },
+  {
+   "id": 996,
+   "time": "2026-07-04 20:26",
+   "date": "2026-07-04",
+   "sender_id": 121,
+   "sender": "浅浅-小红书虚拟产品-kiroto 组",
+   "content": "![图片](http://127.0.0.1:5030/image/96d182dc4447ae8698e028f5b96c65fa,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/7addf93a2fe8b71d77ae9a9286da2fe2)",
+   "type": "image"
+  },
+  {
+   "id": 995,
+   "time": "2026-07-04 20:26",
+   "date": "2026-07-04",
+   "sender_id": 121,
+   "sender": "浅浅-小红书虚拟产品-kiroto 组",
+   "content": "麻烦问下咱们分组是按志愿服务里展示的为准对吧？我这好像重新分配了，之前报志愿者的时候加我的是内容自动化的领队，这会儿看着营变小红书了",
+   "type": "text"
+  },
+  {
+   "id": 994,
+   "time": "2026-07-04 20:26",
+   "date": "2026-07-04",
+   "sender_id": 70,
+   "sender": "十一｜AI 编程产品出海-小屋姐组",
+   "content": "我刚刚添加了31个人，没有提示呢",
+   "type": "share"
+  },
+  {
+   "id": 993,
+   "time": "2026-07-04 20:25",
+   "date": "2026-07-04",
+   "sender_id": 38,
+   "sender": "未知成员",
+   "content": "\"田超\" 拍了拍 \"星哥-AI设计\"",
+   "type": "share"
+  },
+  {
+   "id": 992,
+   "time": "2026-07-04 20:25",
+   "date": "2026-07-04",
+   "sender_id": 119,
+   "sender": "玄川-AI PPT-夏蝉组",
+   "content": "以前还要手动提醒，现在要不要问他们要不要手动提醒？",
+   "type": "text"
+  },
+  {
+   "id": 991,
+   "time": "2026-07-04 20:25",
+   "date": "2026-07-04",
+   "sender_id": 11,
+   "sender": "俊哥-公众号细分AIP打造-双喜组",
+   "content": "好的，那我分批次添加",
+   "type": "share"
+  },
+  {
+   "id": 990,
+   "time": "2026-07-04 20:23",
+   "date": "2026-07-04",
+   "sender_id": 21,
+   "sender": "星哥-AI设计",
+   "content": "不同微信权限不一样,数量不一样. 有的一次20个,有的一次10个就报繁忙",
+   "type": "share"
+  },
+  {
+   "id": 989,
+   "time": "2026-07-04 20:23",
+   "date": "2026-07-04",
+   "sender_id": 26,
+   "sender": "AI PPT 野生老肖 【小王组】",
+   "content": "我是第一次当志愿者。",
+   "type": "text"
+  },
+  {
+   "id": 988,
+   "time": "2026-07-04 20:22",
+   "date": "2026-07-04",
+   "sender_id": 85,
+   "sender": "小机AI-AI 编程产品出海-小屋姐组",
+   "content": "[强]",
+   "type": "text"
+  },
+  {
+   "id": 986,
+   "time": "2026-07-04 20:22",
+   "date": "2026-07-04",
+   "sender_id": 11,
+   "sender": "俊哥-公众号细分AIP打造-双喜组",
+   "content": "微信一天上限是添加多少个",
+   "type": "text"
+  },
+  {
+   "id": 987,
+   "time": "2026-07-04 20:22",
+   "date": "2026-07-04",
+   "sender_id": 120,
+   "sender": "流水若轩",
+   "content": "没有领队联系啊",
+   "type": "text"
+  },
+  {
+   "id": 985,
+   "time": "2026-07-04 20:22",
+   "date": "2026-07-04",
+   "sender_id": 119,
+   "sender": "玄川-AI PPT-夏蝉组",
+   "content": "我的号抗揍[旺柴]",
+   "type": "text"
+  },
+  {
+   "id": 984,
+   "time": "2026-07-04 20:22",
+   "date": "2026-07-04",
+   "sender_id": 119,
+   "sender": "玄川-AI PPT-夏蝉组",
+   "content": "不会",
+   "type": "share"
+  },
+  {
+   "id": 983,
+   "time": "2026-07-04 20:22",
+   "date": "2026-07-04",
+   "sender_id": 85,
+   "sender": "小机AI-AI 编程产品出海-小屋姐组",
+   "content": "已经加完了吗？一天加那么多，不会风控吧",
+   "type": "share"
+  },
+  {
+   "id": 982,
+   "time": "2026-07-04 20:21",
+   "date": "2026-07-04",
+   "sender_id": 119,
+   "sender": "玄川-AI PPT-夏蝉组",
+   "content": "我上次才当志愿者，三四个加不上[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 981,
+   "time": "2026-07-04 20:21",
+   "date": "2026-07-04",
+   "sender_id": 119,
+   "sender": "玄川-AI PPT-夏蝉组",
+   "content": "这次运气挺好的，只有一个",
+   "type": "text"
+  },
+  {
+   "id": 980,
+   "time": "2026-07-04 20:20",
+   "date": "2026-07-04",
+   "sender_id": 85,
+   "sender": "小机AI-AI 编程产品出海-小屋姐组",
+   "content": "确实哈",
+   "type": "text"
+  },
+  {
+   "id": 979,
+   "time": "2026-07-04 20:20",
+   "date": "2026-07-04",
+   "sender_id": 20,
+   "sender": "95°",
+   "content": "可以是可以，我怕账号降权封号[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 978,
+   "time": "2026-07-04 20:19",
+   "date": "2026-07-04",
+   "sender_id": 85,
+   "sender": "小机AI-AI 编程产品出海-小屋姐组",
+   "content": "[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 975,
+   "time": "2026-07-04 20:19",
+   "date": "2026-07-04",
+   "sender_id": 85,
+   "sender": "小机AI-AI 编程产品出海-小屋姐组",
+   "content": "这个按钮作用是什么，",
+   "type": "text"
+  },
+  {
+   "id": 976,
+   "time": "2026-07-04 20:19",
+   "date": "2026-07-04",
+   "sender_id": 85,
+   "sender": "小机AI-AI 编程产品出海-小屋姐组",
+   "content": "给codex自动化用的嘛？",
+   "type": "text"
+  },
+  {
+   "id": 977,
+   "time": "2026-07-04 20:19",
+   "date": "2026-07-04",
+   "sender_id": 85,
+   "sender": "小机AI-AI 编程产品出海-小屋姐组",
+   "content": "![图片](http://127.0.0.1:5030/image/387557099390a1792bcb65158c715ace,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/731f70ade287293c80b9db5e4aff7f62)",
+   "type": "image"
+  },
+  {
+   "id": 974,
+   "time": "2026-07-04 20:18",
+   "date": "2026-07-04",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "那也发了[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 973,
+   "time": "2026-07-04 20:18",
+   "date": "2026-07-04",
+   "sender_id": 47,
+   "sender": "小王",
+   "content": "还可以星球发私信",
+   "type": "text"
+  },
+  {
+   "id": 972,
+   "time": "2026-07-04 20:17",
+   "date": "2026-07-04",
+   "sender_id": 2,
+   "sender": "熊教官",
+   "content": "电话号，微信号都不行，我今晚先发短信。[捂脸]陌生电话我从来不接。\n\n明天打他电话，都不行的话，备注，让竹子解决",
+   "type": "text"
+  },
+  {
+   "id": 971,
+   "time": "2026-07-04 20:17",
+   "date": "2026-07-04",
+   "sender_id": 119,
+   "sender": "玄川-AI PPT-夏蝉组",
+   "content": "我是两个都不行，只能打电话了[捂脸]",
+   "type": "text"
+  }
+ ],
+ "total": 2120,
+ "page": 23,
+ "page_size": 50
+}

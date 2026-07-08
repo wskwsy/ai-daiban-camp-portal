@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 31080,
+   "time": "2026-05-09 14:12",
+   "date": "2026-05-09",
+   "sender_id": 432,
+   "sender": "Butterfly♀",
+   "content": "图文带货多少钱呀，找谁报名呢",
+   "type": "text"
+  },
+  {
+   "id": 4473,
+   "time": "2026-05-01 12:42",
+   "date": "2026-05-01",
+   "sender_id": 432,
+   "sender": "Butterfly♀",
+   "content": "收到了 谢谢菜菜老师[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 5743,
+   "time": "2026-03-27 13:12",
+   "date": "2026-03-27",
+   "sender_id": 432,
+   "sender": "Butterfly♀",
+   "content": "谢谢菜菜老师[玫瑰][玫瑰]",
+   "type": "text"
+  },
+  {
+   "id": 25963,
+   "time": "2026-03-13 22:28",
+   "date": "2026-03-13",
+   "sender_id": 432,
+   "sender": "Butterfly♀",
+   "content": "手动剪辑会教吗",
+   "type": "text"
+  },
+  {
+   "id": 25962,
+   "time": "2026-03-13 22:27",
+   "date": "2026-03-13",
+   "sender_id": 432,
+   "sender": "Butterfly♀",
+   "content": "剪辑训练营只教ai剪辑吗",
+   "type": "text"
+  },
+  {
+   "id": 20828,
+   "time": "2026-02-16 19:53",
+   "date": "2026-02-16",
+   "sender_id": 432,
+   "sender": "Butterfly♀",
+   "content": "家人们除夕🥳🧨快乐",
+   "type": "text"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

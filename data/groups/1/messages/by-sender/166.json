@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1495,
+   "time": "2026-07-05 21:13",
+   "date": "2026-07-05",
+   "sender_id": 166,
+   "sender": "医生",
+   "content": "![图片](http://127.0.0.1:5030/image/c6aa83ce0b9c89c551a7705b39f2989a,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/23591711cb0b1340d44b96e5beacaa32)",
+   "type": "image"
+  },
+  {
+   "id": 1494,
+   "time": "2026-07-05 21:13",
+   "date": "2026-07-05",
+   "sender_id": 166,
+   "sender": "医生",
+   "content": "寻人，大家帮忙下，谢谢",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

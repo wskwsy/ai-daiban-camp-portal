@@ -1,0 +1,457 @@
+{
+ "messages": [
+  {
+   "id": 29705,
+   "time": "2026-04-28 23:07",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "我打完一管都是敲了半天问我疼不疼才拔的",
+   "type": "text"
+  },
+  {
+   "id": 29704,
+   "time": "2026-04-28 23:07",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "啊他们不先敲一敲吗",
+   "type": "text"
+  },
+  {
+   "id": 29703,
+   "time": "2026-04-28 23:04",
+   "date": "2026-04-28",
+   "sender_id": 508,
+   "sender": "潘潘爱拿铁",
+   "content": "太折腾，先是两管，没拔成，又去整了一次，三管",
+   "type": "text"
+  },
+  {
+   "id": 29702,
+   "time": "2026-04-28 23:03",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "第一次见到这么多的",
+   "type": "text"
+  },
+  {
+   "id": 29701,
+   "time": "2026-04-28 23:03",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "好家伙",
+   "type": "text"
+  },
+  {
+   "id": 29700,
+   "time": "2026-04-28 23:03",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "哇",
+   "type": "text"
+  },
+  {
+   "id": 29699,
+   "time": "2026-04-28 23:02",
+   "date": "2026-04-28",
+   "sender_id": 508,
+   "sender": "潘潘爱拿铁",
+   "content": "我三管，医生都惊呆了",
+   "type": "share"
+  },
+  {
+   "id": 29698,
+   "time": "2026-04-28 23:00",
+   "date": "2026-04-28",
+   "sender_id": 263,
+   "sender": "谦谦",
+   "content": "@菜籽油¹ 拔智齿是大事，老师一定要好好休息！[拥抱][拥抱]",
+   "type": "text"
+  },
+  {
+   "id": 29697,
+   "time": "2026-04-28 22:57",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "晚安菜菜老师",
+   "type": "text"
+  },
+  {
+   "id": 29696,
+   "time": "2026-04-28 22:55",
+   "date": "2026-04-28",
+   "sender_id": 266,
+   "sender": "初遇",
+   "content": "[拥抱][拥抱][拥抱]",
+   "type": "text"
+  },
+  {
+   "id": 29695,
+   "time": "2026-04-28 22:55",
+   "date": "2026-04-28",
+   "sender_id": 250,
+   "sender": "青柠.",
+   "content": "![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=a09fbdd2da08e5d6ca2abea72144be1f&filekey=30340201010420301e020201060402535a0410a09fbdd2da08e5d6ca2abea72144be1f020245d5040d00000004627466730000000131&hy=SZ&storeid=32303231303632353131353231343030303063396536336331353434623230353033396530393030303030313036&bizid=1023)",
+   "type": "sticker"
+  },
+  {
+   "id": 29694,
+   "time": "2026-04-28 22:55",
+   "date": "2026-04-28",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "可以给我打电话",
+   "type": "text"
+  },
+  {
+   "id": 29693,
+   "time": "2026-04-28 22:55",
+   "date": "2026-04-28",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "大家如果是急事",
+   "type": "text"
+  },
+  {
+   "id": 29692,
+   "time": "2026-04-28 22:55",
+   "date": "2026-04-28",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "我先休息休息",
+   "type": "text"
+  },
+  {
+   "id": 29691,
+   "time": "2026-04-28 22:54",
+   "date": "2026-04-28",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "@RJM 很勇了",
+   "type": "text"
+  },
+  {
+   "id": 29690,
+   "time": "2026-04-28 22:52",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "一次四个我都不知道用哪吃饭（）",
+   "type": "text"
+  },
+  {
+   "id": 29689,
+   "time": "2026-04-28 22:52",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "剩下俩都是分开拔的",
+   "type": "text"
+  },
+  {
+   "id": 29688,
+   "time": "2026-04-28 22:52",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "一次就是最多拔了俩",
+   "type": "text"
+  },
+  {
+   "id": 29687,
+   "time": "2026-04-28 22:52",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "这个真没有",
+   "type": "text"
+  },
+  {
+   "id": 29686,
+   "time": "2026-04-28 22:52",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "没有没有",
+   "type": "share"
+  },
+  {
+   "id": 29685,
+   "time": "2026-04-28 22:52",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "![动画表情](http://vweixinf.tc.qq.com/110/20401/stodownload?m=bcc23d555f7e355182cf288a5389d29e&filekey=30440201010430302e02016e0402534804206263633233643535356637653335353138326366323838613533383964323965020300c20c040d00000004627466730000000132&hy=SH&storeid=26790fa4000011ad88a4093690000006e01004fb1534827aee1b15680a4bb7&ef=1&bizid=1022)",
+   "type": "sticker"
+  },
+  {
+   "id": 29684,
+   "time": "2026-04-28 22:52",
+   "date": "2026-04-28",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[捂脸][捂脸][捂脸]太猛了，一次拔四颗",
+   "type": "text"
+  },
+  {
+   "id": 29683,
+   "time": "2026-04-28 22:51",
+   "date": "2026-04-28",
+   "sender_id": 271,
+   "sender": "淼林成意",
+   "content": "真不容易呀[捂脸]想想都疼",
+   "type": "share"
+  },
+  {
+   "id": 29682,
+   "time": "2026-04-28 22:51",
+   "date": "2026-04-28",
+   "sender_id": 271,
+   "sender": "淼林成意",
+   "content": "你太厉害啦[强][强][强]太有勇气啦",
+   "type": "text"
+  },
+  {
+   "id": 29681,
+   "time": "2026-04-28 22:51",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "然后第二天缓过来了哪哪都难受",
+   "type": "text"
+  },
+  {
+   "id": 29680,
+   "time": "2026-04-28 22:51",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "木的",
+   "type": "text"
+  },
+  {
+   "id": 29679,
+   "time": "2026-04-28 22:51",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "拔完了一天脸都是母的",
+   "type": "text"
+  },
+  {
+   "id": 29678,
+   "time": "2026-04-28 22:50",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "一管不顶事",
+   "type": "text"
+  },
+  {
+   "id": 29677,
+   "time": "2026-04-28 22:50",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "拔智齿一次给我下了两管麻药",
+   "type": "text"
+  },
+  {
+   "id": 29676,
+   "time": "2026-04-28 22:50",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "我嘎嘎怕疼",
+   "type": "share"
+  },
+  {
+   "id": 29675,
+   "time": "2026-04-28 22:50",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "拔了至少以后不用再操心它了",
+   "type": "text"
+  },
+  {
+   "id": 29674,
+   "time": "2026-04-28 22:50",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "没事想开点",
+   "type": "text"
+  },
+  {
+   "id": 29673,
+   "time": "2026-04-28 22:50",
+   "date": "2026-04-28",
+   "sender_id": 271,
+   "sender": "淼林成意",
+   "content": "太厉害啦\n你是不是对于痛觉不敏感，有的人就是比较敏感那的[捂脸]就是怕痛",
+   "type": "share"
+  },
+  {
+   "id": 29672,
+   "time": "2026-04-28 22:50",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "小问题",
+   "type": "text"
+  },
+  {
+   "id": 29671,
+   "time": "2026-04-28 22:50",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "我那颗阻生齿进手术室拔的，里里外外拔了半小时",
+   "type": "text"
+  },
+  {
+   "id": 29670,
+   "time": "2026-04-28 22:50",
+   "date": "2026-04-28",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "好吧，我以为很久",
+   "type": "text"
+  },
+  {
+   "id": 29669,
+   "time": "2026-04-28 22:49",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "不算久（）",
+   "type": "text"
+  },
+  {
+   "id": 29668,
+   "time": "2026-04-28 22:49",
+   "date": "2026-04-28",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "十几分钟吧都",
+   "type": "text"
+  },
+  {
+   "id": 29667,
+   "time": "2026-04-28 22:49",
+   "date": "2026-04-28",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "下智拔，花了很久力气",
+   "type": "text"
+  },
+  {
+   "id": 29666,
+   "time": "2026-04-28 22:49",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "要不然拔的晚了根深蒂固了就更难拔了",
+   "type": "text"
+  },
+  {
+   "id": 29665,
+   "time": "2026-04-28 22:48",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "智齿这种东西真的是越早拔越好",
+   "type": "text"
+  },
+  {
+   "id": 29664,
+   "time": "2026-04-28 22:48",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "想开点",
+   "type": "text"
+  },
+  {
+   "id": 29663,
+   "time": "2026-04-28 22:48",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "拔了之后就不用再操心智齿发炎了",
+   "type": "text"
+  },
+  {
+   "id": 29662,
+   "time": "2026-04-28 22:48",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "其实还好",
+   "type": "text"
+  },
+  {
+   "id": 29661,
+   "time": "2026-04-28 22:48",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "没事别害怕",
+   "type": "text"
+  },
+  {
+   "id": 29660,
+   "time": "2026-04-28 22:47",
+   "date": "2026-04-28",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "@RJM 你是真的有点厉害",
+   "type": "text"
+  },
+  {
+   "id": 29659,
+   "time": "2026-04-28 22:47",
+   "date": "2026-04-28",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=352157a2cc07df27108552ba0c648fba&filekey=30350201010421301f02020106040253480410352157a2cc07df27108552ba0c648fba0203015a96040d00000004627466730000000132&hy=SH&storeid=2630a86250007b03b000000000000010600004f50534810d67b40b728ea307&bizid=1023)",
+   "type": "sticker"
+  },
+  {
+   "id": 29658,
+   "time": "2026-04-28 22:47",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "其实也就是最多一个月",
+   "type": "text"
+  },
+  {
+   "id": 29657,
+   "time": "2026-04-28 22:47",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "然后后面就是个坑慢慢愈合",
+   "type": "text"
+  },
+  {
+   "id": 29656,
+   "time": "2026-04-28 22:46",
+   "date": "2026-04-28",
+   "sender_id": 259,
+   "sender": "RJM",
+   "content": "一个周拆了线",
+   "type": "text"
+  }
+ ],
+ "total": 34567,
+ "page": 187,
+ "page_size": 50
+}

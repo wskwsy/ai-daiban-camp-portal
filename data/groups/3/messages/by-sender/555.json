@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 26078,
+   "time": "2026-03-14 13:57",
+   "date": "2026-03-14",
+   "sender_id": 555,
+   "sender": "静水",
+   "content": "我已确认，并遵守规则",
+   "type": "text"
+  },
+  {
+   "id": 21569,
+   "time": "2026-02-21 17:23",
+   "date": "2026-02-21",
+   "sender_id": 555,
+   "sender": "静水",
+   "content": "![动画表情](http://mmbiz.qpic.cn/mmemoticon/Q3auHgzwzM6xv5afsBmPyMgGAFWgdq0E6F5g9wWn3ToeLWrBeeEjluXJfBugcOIq/0)",
+   "type": "sticker"
+  },
+  {
+   "id": 20791,
+   "time": "2026-02-16 19:50",
+   "date": "2026-02-16",
+   "sender_id": 555,
+   "sender": "静水",
+   "content": "家人们除夕🥳🧨快乐",
+   "type": "text"
+  },
+  {
+   "id": 20788,
+   "time": "2026-02-16 19:49",
+   "date": "2026-02-16",
+   "sender_id": 555,
+   "sender": "静水",
+   "content": "不会是我们每个人吧[偷笑]",
+   "type": "text"
+  },
+  {
+   "id": 20725,
+   "time": "2026-02-16 19:45",
+   "date": "2026-02-16",
+   "sender_id": 555,
+   "sender": "静水",
+   "content": "一行",
+   "type": "text"
+  },
+  {
+   "id": 10644,
+   "time": "2026-01-11 13:58",
+   "date": "2026-01-11",
+   "sender_id": 555,
+   "sender": "静水",
+   "content": "[强][强][强]",
+   "type": "share"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

@@ -1,0 +1,457 @@
+{
+ "messages": [
+  {
+   "id": 20652,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 314,
+   "sender": "一支钢笔的故事",
+   "content": "一行",
+   "type": "text"
+  },
+  {
+   "id": 20651,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 270,
+   "sender": "Smile-Vicky",
+   "content": "飞燕",
+   "type": "text"
+  },
+  {
+   "id": 20649,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 273,
+   "sender": "橘子",
+   "content": "一行",
+   "type": "text"
+  },
+  {
+   "id": 20650,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 390,
+   "sender": "Jason",
+   "content": "亲戚",
+   "type": "text"
+  },
+  {
+   "id": 20648,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 517,
+   "sender": "鹏哥",
+   "content": "泡泡柱",
+   "type": "text"
+  },
+  {
+   "id": 20646,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[破涕为笑]你们猜不到了，哈哈哈",
+   "type": "text"
+  },
+  {
+   "id": 20647,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 516,
+   "sender": "青栀",
+   "content": "婉婉",
+   "type": "text"
+  },
+  {
+   "id": 20645,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 294,
+   "sender": "蔓越莓",
+   "content": "子瞻",
+   "type": "text"
+  },
+  {
+   "id": 20643,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 514,
+   "sender": "靖雯瑶&",
+   "content": "子瞻",
+   "type": "text"
+  },
+  {
+   "id": 20644,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 314,
+   "sender": "一支钢笔的故事",
+   "content": "婉婉",
+   "type": "text"
+  },
+  {
+   "id": 20642,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 233,
+   "sender": "彩虹糖",
+   "content": "泡泡柱",
+   "type": "text"
+  },
+  {
+   "id": 20640,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 336,
+   "sender": "you raise me up",
+   "content": "子瞻",
+   "type": "text"
+  },
+  {
+   "id": 20641,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 480,
+   "sender": "灰灰",
+   "content": "子瞻",
+   "type": "text"
+  },
+  {
+   "id": 20639,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 232,
+   "sender": "未知成员",
+   "content": "\"拾琪\" 拍了拍 \"菜籽油（24小时内尽量回复信息）\" 19959783657电话",
+   "type": "share"
+  },
+  {
+   "id": 20638,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 365,
+   "sender": "Keeper",
+   "content": "婉婉",
+   "type": "text"
+  },
+  {
+   "id": 20637,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 385,
+   "sender": "ʚ樱花ɞ",
+   "content": "子瞻",
+   "type": "text"
+  },
+  {
+   "id": 20636,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 316,
+   "sender": "达拉崩吧",
+   "content": "子瞻",
+   "type": "text"
+  },
+  {
+   "id": 20635,
+   "time": "2026-02-16 19:40",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[红包]",
+   "type": "share"
+  },
+  {
+   "id": 20634,
+   "time": "2026-02-16 19:39",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "小伙伴们，我们来玩个游戏，大家猜一下，谁是第一个除夕给我送礼物的人😄猜对有奶茶🧋",
+   "type": "text"
+  },
+  {
+   "id": 20633,
+   "time": "2026-02-16 19:39",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "@一只幸运🐱 除夕快乐",
+   "type": "text"
+  },
+  {
+   "id": 20632,
+   "time": "2026-02-16 19:39",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "@coco 哈哈哈",
+   "type": "text"
+  },
+  {
+   "id": 20631,
+   "time": "2026-02-16 19:39",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/62490b00ffe3d2a4d1b7d6b2ca64bed9,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/937b929bc09e8eff1db03d805b99e2be)",
+   "type": "image"
+  },
+  {
+   "id": 20630,
+   "time": "2026-02-16 19:39",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/f9abd63721b39a4af65d9dd5860e5f5b,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/accf16e0c9fbd6415e5b6bbdc1e66d36)",
+   "type": "image"
+  },
+  {
+   "id": 20629,
+   "time": "2026-02-16 19:38",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/5c4b93c5d7049b9b3cffe5ba2bb10404,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/5dec0f0e04d1aaa08ec615d2996e018a)",
+   "type": "image"
+  },
+  {
+   "id": 20628,
+   "time": "2026-02-16 19:35",
+   "date": "2026-02-16",
+   "sender_id": 359,
+   "sender": "coco",
+   "content": "孩子乱发表情包",
+   "type": "text"
+  },
+  {
+   "id": 20626,
+   "time": "2026-02-16 19:35",
+   "date": "2026-02-16",
+   "sender_id": 237,
+   "sender": "系统消息",
+   "content": "\"coco\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 20627,
+   "time": "2026-02-16 19:35",
+   "date": "2026-02-16",
+   "sender_id": 237,
+   "sender": "系统消息",
+   "content": "\"coco\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 20625,
+   "time": "2026-02-16 19:32",
+   "date": "2026-02-16",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "油姐除夕快乐",
+   "type": "text"
+  },
+  {
+   "id": 20624,
+   "time": "2026-02-16 19:31",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![视频](http://127.0.0.1:5030/video/3f168e2222e134e38047b89c116d2b85,msg/video/2026-02/cc077cca05bc458e956aad5dc08ff784)",
+   "type": "video"
+  },
+  {
+   "id": 20623,
+   "time": "2026-02-16 19:31",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 20622,
+   "time": "2026-02-16 19:23",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/65101d7c23b6d352576b4f8c0207f748,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/1599e738de1ffdae72f7209a09c27276)",
+   "type": "image"
+  },
+  {
+   "id": 20621,
+   "time": "2026-02-16 19:22",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![视频](http://127.0.0.1:5030/video/938201150a698ebf0c48f155c97c7570,msg/video/2026-02/6cb298a9f063a7ea119232a8de344805)",
+   "type": "video"
+  },
+  {
+   "id": 20620,
+   "time": "2026-02-16 19:21",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/f99da674491dd4da7fd7af421d85f5c4,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/7a1196c7d172d540e7e1442614387eea)",
+   "type": "image"
+  },
+  {
+   "id": 20619,
+   "time": "2026-02-16 19:21",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[破涕为笑][破涕为笑][破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 20618,
+   "time": "2026-02-16 19:21",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[语音](http://127.0.0.1:5030/voice/7888033494552297144)",
+   "type": "voice"
+  },
+  {
+   "id": 20617,
+   "time": "2026-02-16 19:21",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[语音](http://127.0.0.1:5030/voice/3237624555729541794)",
+   "type": "voice"
+  },
+  {
+   "id": 20616,
+   "time": "2026-02-16 19:20",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![视频](http://127.0.0.1:5030/video/183f3a490bc6f8ab5a860c7d409af501,msg/video/2026-02/143f6bd2898aaeae5a6922c8e378beff)",
+   "type": "video"
+  },
+  {
+   "id": 20615,
+   "time": "2026-02-16 19:20",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[笑脸][笑脸][笑脸]",
+   "type": "text"
+  },
+  {
+   "id": 20614,
+   "time": "2026-02-16 19:20",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "烟花爆竹",
+   "type": "text"
+  },
+  {
+   "id": 20612,
+   "time": "2026-02-16 19:20",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![视频](http://127.0.0.1:5030/video/b77bdd64cac76ff58d565a54ae57e84a,msg/video/2026-02/4e0898a1ed87913ab417685f44a3df69)",
+   "type": "video"
+  },
+  {
+   "id": 20613,
+   "time": "2026-02-16 19:20",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/a85a782b90472c6c2463e0eea04d46e6,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/c138773737276c3286d2d3903ab3fce6)",
+   "type": "image"
+  },
+  {
+   "id": 20611,
+   "time": "2026-02-16 14:57",
+   "date": "2026-02-16",
+   "sender_id": 237,
+   "sender": "系统消息",
+   "content": "\"真ᥫ᭡落地(24小时内尽量回复)\"邀请\"Candy \"加入了群聊",
+   "type": "system"
+  },
+  {
+   "id": 20610,
+   "time": "2026-02-16 00:24",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 20609,
+   "time": "2026-02-16 00:24",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "等一下，谁报名了，我好像没发完恭喜",
+   "type": "text"
+  },
+  {
+   "id": 20608,
+   "time": "2026-02-16 00:24",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "咱们团队怎么这么多社恐的小伙伴们",
+   "type": "text"
+  },
+  {
+   "id": 20607,
+   "time": "2026-02-16 00:16",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "小伙伴们可以链接起来",
+   "type": "text"
+  },
+  {
+   "id": 20606,
+   "time": "2026-02-16 00:16",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "哈哈哈",
+   "type": "text"
+  },
+  {
+   "id": 20605,
+   "time": "2026-02-16 00:16",
+   "date": "2026-02-16",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[名片]",
+   "type": "card"
+  },
+  {
+   "id": 20604,
+   "time": "2026-02-16 00:14",
+   "date": "2026-02-16",
+   "sender_id": 270,
+   "sender": "Smile-Vicky",
+   "content": "恭喜@Me 锁定成功菜籽油战队名额[庆祝][庆祝][庆祝]",
+   "type": "text"
+  },
+  {
+   "id": 20603,
+   "time": "2026-02-16 00:14",
+   "date": "2026-02-16",
+   "sender_id": 314,
+   "sender": "一支钢笔的故事",
+   "content": "恭喜@Me 锁定成功菜籽油战队名额[庆祝][庆祝][庆祝]",
+   "type": "text"
+  }
+ ],
+ "total": 34567,
+ "page": 453,
+ "page_size": 50
+}

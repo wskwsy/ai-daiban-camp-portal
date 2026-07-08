@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 4487,
+   "time": "2026-05-01 14:13",
+   "date": "2026-05-01",
+   "sender_id": 436,
+   "sender": "Wan.",
+   "content": "收到了 谢谢菜菜老师[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 26051,
+   "time": "2026-03-14 12:58",
+   "date": "2026-03-14",
+   "sender_id": 436,
+   "sender": "Wan.",
+   "content": "我已确认，并遵守规则",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

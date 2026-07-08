@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 4345,
+   "time": "2026-05-01 10:12",
+   "date": "2026-05-01",
+   "sender_id": 389,
+   "sender": "火火",
+   "content": "收到了 谢谢菜菜老师[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 29737,
+   "time": "2026-04-30 17:51",
+   "date": "2026-04-30",
+   "sender_id": 389,
+   "sender": "火火",
+   "content": "认可",
+   "type": "text"
+  },
+  {
+   "id": 28590,
+   "time": "2026-04-16 21:14",
+   "date": "2026-04-16",
+   "sender_id": 389,
+   "sender": "火火",
+   "content": "[转账|接收 ￥99.00]",
+   "type": "share"
+  },
+  {
+   "id": 28499,
+   "time": "2026-04-16 16:46",
+   "date": "2026-04-16",
+   "sender_id": 389,
+   "sender": "火火",
+   "content": "![图片](http://127.0.0.1:5030/image/cb556b4c2327d4dd5253fa757a53f584,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-04/Img/cfa9e5cf786577a53db24b9553744817)",
+   "type": "image"
+  },
+  {
+   "id": 27962,
+   "time": "2026-04-13 08:03",
+   "date": "2026-04-13",
+   "sender_id": 389,
+   "sender": "火火",
+   "content": "![图片](http://127.0.0.1:5030/image/cb556b4c2327d4dd5253fa757a53f584,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-04/Img/88d30b0818c1fdf13a383b5d6a61b682)",
+   "type": "image"
+  },
+  {
+   "id": 22626,
+   "time": "2026-02-27 15:55",
+   "date": "2026-02-27",
+   "sender_id": 389,
+   "sender": "火火",
+   "content": "[分享]",
+   "type": "share"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

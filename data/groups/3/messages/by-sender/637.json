@@ -1,0 +1,16 @@
+{
+ "messages": [
+  {
+   "id": 28775,
+   "time": "2026-04-19 12:09",
+   "date": "2026-04-19",
+   "sender_id": 637,
+   "sender": "西橙",
+   "content": "[转账|发送 ￥9.90]",
+   "type": "share"
+  }
+ ],
+ "total": 1,
+ "page": 1,
+ "page_size": 1
+}

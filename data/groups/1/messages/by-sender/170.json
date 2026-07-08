@@ -1,0 +1,43 @@
+{
+ "messages": [
+  {
+   "id": 1544,
+   "time": "2026-07-06 06:52",
+   "date": "2026-07-06",
+   "sender_id": 170,
+   "sender": "小九-小红书虚拟产品-羽晗组",
+   "content": "@玉佩-AI PPT 实战-译晨组 谢谢",
+   "type": "text"
+  },
+  {
+   "id": 1540,
+   "time": "2026-07-06 01:43",
+   "date": "2026-07-06",
+   "sender_id": 170,
+   "sender": "小九-小红书虚拟产品-羽晗组",
+   "content": "![图片](http://127.0.0.1:5030/image/63cb280cc6a8711e5977ed4af714b611,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/e321bde3a8300c0081347bf3c95b0d4e)",
+   "type": "image"
+  },
+  {
+   "id": 1541,
+   "time": "2026-07-06 01:43",
+   "date": "2026-07-06",
+   "sender_id": 170,
+   "sender": "小九-小红书虚拟产品-羽晗组",
+   "content": "![图片](http://127.0.0.1:5030/image/033b421b54b78af3f1ebaee9327eeb7e,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/736e818ed487a4ffe813fdd0d495362e)",
+   "type": "image"
+  },
+  {
+   "id": 1539,
+   "time": "2026-07-06 01:43",
+   "date": "2026-07-06",
+   "sender_id": 170,
+   "sender": "小九-小红书虚拟产品-羽晗组",
+   "content": "大佬们明天看下有添加以上两位圈友的话还请麻烦推荐一下微信，谢谢[咖啡]",
+   "type": "text"
+  }
+ ],
+ "total": 4,
+ "page": 1,
+ "page_size": 4
+}

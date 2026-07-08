@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1801,
+   "time": "2026-07-06 16:00",
+   "date": "2026-07-06",
+   "sender_id": 192,
+   "sender": "小丽-全域AI带货志愿者",
+   "content": "捞人",
+   "type": "text"
+  },
+  {
+   "id": 1802,
+   "time": "2026-07-06 16:00",
+   "date": "2026-07-06",
+   "sender_id": 192,
+   "sender": "小丽-全域AI带货志愿者",
+   "content": "![图片](http://127.0.0.1:5030/image/096d4a9b956167e56c00c06e4ff6941a,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/6d91fdded762b0291fc089e54555e085)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

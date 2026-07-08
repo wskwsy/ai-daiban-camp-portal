@@ -1,0 +1,79 @@
+{
+ "messages": [
+  {
+   "id": 1848,
+   "time": "2026-07-06 16:59",
+   "date": "2026-07-06",
+   "sender_id": 65,
+   "sender": "微光-AI设计-渔子清组",
+   "content": "这个看微信号和名称与你的相符@吴义松-codex行动营领队 ",
+   "type": "share"
+  },
+  {
+   "id": 1846,
+   "time": "2026-07-06 16:58",
+   "date": "2026-07-06",
+   "sender_id": 65,
+   "sender": "微光-AI设计-渔子清组",
+   "content": "[名片]",
+   "type": "card"
+  },
+  {
+   "id": 927,
+   "time": "2026-07-04 19:34",
+   "date": "2026-07-04",
+   "sender_id": 65,
+   "sender": "微光-AI设计-渔子清组",
+   "content": "领队会找你的",
+   "type": "share"
+  },
+  {
+   "id": 756,
+   "time": "2026-06-25 17:16",
+   "date": "2026-06-25",
+   "sender_id": 65,
+   "sender": "微光-AI设计-渔子清组",
+   "content": "https://aipoju.com/action",
+   "type": "text"
+  },
+  {
+   "id": 754,
+   "time": "2026-06-25 17:16",
+   "date": "2026-06-25",
+   "sender_id": 65,
+   "sender": "微光-AI设计-渔子清组",
+   "content": "这是知识星球吧",
+   "type": "text"
+  },
+  {
+   "id": 594,
+   "time": "2026-06-24 11:40",
+   "date": "2026-06-24",
+   "sender_id": 65,
+   "sender": "微光-AI设计-渔子清组",
+   "content": "开营，和学员一样",
+   "type": "text"
+  },
+  {
+   "id": 562,
+   "time": "2026-06-24 10:33",
+   "date": "2026-06-24",
+   "sender_id": 65,
+   "sender": "微光-AI设计-渔子清组",
+   "content": "不在想学的项目里就要报",
+   "type": "text"
+  },
+  {
+   "id": 551,
+   "time": "2026-06-24 10:27",
+   "date": "2026-06-24",
+   "sender_id": 65,
+   "sender": "微光-AI设计-渔子清组",
+   "content": "没分的，应该报名完会再分配",
+   "type": "text"
+  }
+ ],
+ "total": 8,
+ "page": 1,
+ "page_size": 8
+}

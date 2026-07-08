@@ -1,0 +1,52 @@
+{
+ "messages": [
+  {
+   "id": 2084,
+   "time": "2026-07-07 11:34",
+   "date": "2026-07-07",
+   "sender_id": 145,
+   "sender": "a！舞歌-浮生若梦组",
+   "content": "@玉佩-AI PPT 实战-译晨组 我添加了，他没有同意",
+   "type": "text"
+  },
+  {
+   "id": 2080,
+   "time": "2026-07-07 11:24",
+   "date": "2026-07-07",
+   "sender_id": 145,
+   "sender": "a！舞歌-浮生若梦组",
+   "content": "捞一下",
+   "type": "share"
+  },
+  {
+   "id": 2079,
+   "time": "2026-07-07 11:23",
+   "date": "2026-07-07",
+   "sender_id": 145,
+   "sender": "a！舞歌-浮生若梦组",
+   "content": "这位谁有好友帮忙联系一下",
+   "type": "text"
+  },
+  {
+   "id": 2078,
+   "time": "2026-07-07 11:23",
+   "date": "2026-07-07",
+   "sender_id": 145,
+   "sender": "a！舞歌-浮生若梦组",
+   "content": "![图片](http://127.0.0.1:5030/image/854a1a9d80561ee0ea0816ba96a61108,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/86469df74aee30a566206cc394aa5caf)",
+   "type": "image"
+  },
+  {
+   "id": 1216,
+   "time": "2026-07-05 11:20",
+   "date": "2026-07-05",
+   "sender_id": 145,
+   "sender": "a！舞歌-浮生若梦组",
+   "content": "@竹子-AI 编程产品出海-小屋姐组） 才第一天，耐心点",
+   "type": "text"
+  }
+ ],
+ "total": 5,
+ "page": 1,
+ "page_size": 5
+}

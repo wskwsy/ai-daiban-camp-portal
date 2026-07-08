@@ -1,0 +1,79 @@
+{
+ "messages": [
+  {
+   "id": 36111,
+   "time": "2026-06-26 22:11",
+   "date": "2026-06-26",
+   "sender_id": 283,
+   "sender": "云中的angel🐼",
+   "content": "祝贺子瞻老师公司开业大吉！[烟花][烟花]",
+   "type": "text"
+  },
+  {
+   "id": 2392,
+   "time": "2026-06-23 21:53",
+   "date": "2026-06-23",
+   "sender_id": 283,
+   "sender": "云中的angel🐼",
+   "content": "[转账|发送 ￥89.00]",
+   "type": "share"
+  },
+  {
+   "id": 32645,
+   "time": "2026-05-23 14:56",
+   "date": "2026-05-23",
+   "sender_id": 283,
+   "sender": "云中的angel🐼",
+   "content": "欢迎@夏颖|小红书0粉开店.上课 新股东回家[爱心][爱心][爱心]",
+   "type": "text"
+  },
+  {
+   "id": 32379,
+   "time": "2026-05-23 11:00",
+   "date": "2026-05-23",
+   "sender_id": 283,
+   "sender": "云中的angel🐼",
+   "content": "已阅读并认可",
+   "type": "text"
+  },
+  {
+   "id": 25990,
+   "time": "2026-03-14 12:08",
+   "date": "2026-03-14",
+   "sender_id": 283,
+   "sender": "云中的angel🐼",
+   "content": "我已确认，并遵守规则",
+   "type": "text"
+  },
+  {
+   "id": 21030,
+   "time": "2026-02-17 00:25",
+   "date": "2026-02-17",
+   "sender_id": 283,
+   "sender": "云中的angel🐼",
+   "content": "飞燕老师辛苦啦",
+   "type": "text"
+  },
+  {
+   "id": 14089,
+   "time": "2026-01-19 22:08",
+   "date": "2026-01-19",
+   "sender_id": 283,
+   "sender": "云中的angel🐼",
+   "content": "恭喜@一行 俱乐部破150人[庆祝][庆祝][庆祝]",
+   "type": "text"
+  },
+  {
+   "id": 14080,
+   "time": "2026-01-19 22:00",
+   "date": "2026-01-19",
+   "sender_id": 283,
+   "sender": "云中的angel🐼",
+   "content": "[红包]",
+   "type": "share"
+  }
+ ],
+ "total": 8,
+ "page": 1,
+ "page_size": 8
+}

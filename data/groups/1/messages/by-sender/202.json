@@ -1,0 +1,52 @@
+{
+ "messages": [
+  {
+   "id": 1938,
+   "time": "2026-07-06 18:49",
+   "date": "2026-07-06",
+   "sender_id": 202,
+   "sender": "Y",
+   "content": "不好意思啊，漏看消息了",
+   "type": "share"
+  },
+  {
+   "id": 1921,
+   "time": "2026-07-06 18:19",
+   "date": "2026-07-06",
+   "sender_id": 202,
+   "sender": "Y",
+   "content": "嗯嗯，谢谢",
+   "type": "text"
+  },
+  {
+   "id": 1919,
+   "time": "2026-07-06 18:16",
+   "date": "2026-07-06",
+   "sender_id": 202,
+   "sender": "Y",
+   "content": "是的",
+   "type": "text"
+  },
+  {
+   "id": 1917,
+   "time": "2026-07-06 18:13",
+   "date": "2026-07-06",
+   "sender_id": 202,
+   "sender": "Y",
+   "content": "在哪里能看到领队的信息",
+   "type": "text"
+  },
+  {
+   "id": 1916,
+   "time": "2026-07-06 18:12",
+   "date": "2026-07-06",
+   "sender_id": 202,
+   "sender": "Y",
+   "content": "原先报的是小红书起号志愿者，现在被分配到虚拟的志愿者，目前没有新的领队➕我[尴尬]",
+   "type": "text"
+  }
+ ],
+ "total": 5,
+ "page": 1,
+ "page_size": 5
+}

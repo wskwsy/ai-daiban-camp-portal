@@ -1,0 +1,52 @@
+{
+ "messages": [
+  {
+   "id": 937,
+   "time": "2026-07-04 19:39",
+   "date": "2026-07-04",
+   "sender_id": 103,
+   "sender": "忠陆先森-全域 AI 带货 annia 组",
+   "content": "好的",
+   "type": "text"
+  },
+  {
+   "id": 935,
+   "time": "2026-07-04 19:38",
+   "date": "2026-07-04",
+   "sender_id": 103,
+   "sender": "忠陆先森-全域 AI 带货 annia 组",
+   "content": "全域 AI 带货领队是哪位大佬[抱拳]",
+   "type": "text"
+  },
+  {
+   "id": 934,
+   "time": "2026-07-04 19:38",
+   "date": "2026-07-04",
+   "sender_id": 103,
+   "sender": "忠陆先森-全域 AI 带货 annia 组",
+   "content": "没有领队找我啊，我都分配学员了。",
+   "type": "text"
+  },
+  {
+   "id": 857,
+   "time": "2026-07-03 14:22",
+   "date": "2026-07-03",
+   "sender_id": 103,
+   "sender": "忠陆先森-全域 AI 带货 annia 组",
+   "content": "我就还没重新分配呢，应该没事",
+   "type": "text"
+  },
+  {
+   "id": 856,
+   "time": "2026-07-03 14:21",
+   "date": "2026-07-03",
+   "sender_id": 103,
+   "sender": "忠陆先森-全域 AI 带货 annia 组",
+   "content": "他是 tk 的志愿者，这个营已经没有了，可能他还重新分配。",
+   "type": "text"
+  }
+ ],
+ "total": 5,
+ "page": 1,
+ "page_size": 5
+}

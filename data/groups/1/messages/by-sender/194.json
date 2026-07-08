@@ -1,0 +1,70 @@
+{
+ "messages": [
+  {
+   "id": 1874,
+   "time": "2026-07-06 17:28",
+   "date": "2026-07-06",
+   "sender_id": 194,
+   "sender": "AI内容工厂-小熊猫",
+   "content": "![图片](http://127.0.0.1:5030/image/5c2298718121ca154dd65c09c27b07b1,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/8129be3f0109507cfb0a15a60bc9e7da)",
+   "type": "image"
+  },
+  {
+   "id": 1873,
+   "time": "2026-07-06 17:28",
+   "date": "2026-07-06",
+   "sender_id": 194,
+   "sender": "AI内容工厂-小熊猫",
+   "content": "#捞人",
+   "type": "text"
+  },
+  {
+   "id": 1822,
+   "time": "2026-07-06 16:28",
+   "date": "2026-07-06",
+   "sender_id": 194,
+   "sender": "AI内容工厂-小熊猫",
+   "content": "3Q",
+   "type": "text"
+  },
+  {
+   "id": 1821,
+   "time": "2026-07-06 16:27",
+   "date": "2026-07-06",
+   "sender_id": 194,
+   "sender": "AI内容工厂-小熊猫",
+   "content": "[OK]",
+   "type": "text"
+  },
+  {
+   "id": 1818,
+   "time": "2026-07-06 16:27",
+   "date": "2026-07-06",
+   "sender_id": 194,
+   "sender": "AI内容工厂-小熊猫",
+   "content": "这个姐姐也一直加不上     根本搜不到人",
+   "type": "text"
+  },
+  {
+   "id": 1817,
+   "time": "2026-07-06 16:27",
+   "date": "2026-07-06",
+   "sender_id": 194,
+   "sender": "AI内容工厂-小熊猫",
+   "content": "![图片](http://127.0.0.1:5030/image/834ff249cb63c93dd4e6dbb7188e39d2,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/da9b50245a39f0e7728d4f520083de26)",
+   "type": "image"
+  },
+  {
+   "id": 1816,
+   "time": "2026-07-06 16:27",
+   "date": "2026-07-06",
+   "sender_id": 194,
+   "sender": "AI内容工厂-小熊猫",
+   "content": "#捞人   AI内容工厂自动化",
+   "type": "text"
+  }
+ ],
+ "total": 7,
+ "page": 1,
+ "page_size": 7
+}

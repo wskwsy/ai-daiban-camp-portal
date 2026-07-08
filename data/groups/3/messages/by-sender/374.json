@@ -1,0 +1,88 @@
+{
+ "messages": [
+  {
+   "id": 32393,
+   "time": "2026-05-23 11:18",
+   "date": "2026-05-23",
+   "sender_id": 374,
+   "sender": "梦琪",
+   "content": "已阅读并认可",
+   "type": "text"
+  },
+  {
+   "id": 4475,
+   "time": "2026-05-01 12:44",
+   "date": "2026-05-01",
+   "sender_id": 374,
+   "sender": "梦琪",
+   "content": "收到了 谢谢菜菜老师[爱心]",
+   "type": "text"
+  },
+  {
+   "id": 4189,
+   "time": "2026-04-30 21:34",
+   "date": "2026-04-30",
+   "sender_id": 374,
+   "sender": "梦琪",
+   "content": "收到",
+   "type": "text"
+  },
+  {
+   "id": 28088,
+   "time": "2026-04-13 13:32",
+   "date": "2026-04-13",
+   "sender_id": 374,
+   "sender": "梦琪",
+   "content": "[转账|接收 ￥19.00]",
+   "type": "share"
+  },
+  {
+   "id": 28080,
+   "time": "2026-04-13 13:06",
+   "date": "2026-04-13",
+   "sender_id": 374,
+   "sender": "梦琪",
+   "content": "![图片](http://127.0.0.1:5030/image/47a6dd73ff2b1ba9185afb9a95207068,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-04/Img/4fbe86c69176112bc3a49f800feb9d00)",
+   "type": "image"
+  },
+  {
+   "id": 26003,
+   "time": "2026-03-14 12:11",
+   "date": "2026-03-14",
+   "sender_id": 374,
+   "sender": "梦琪",
+   "content": "我已确认，并遵守规则",
+   "type": "text"
+  },
+  {
+   "id": 18415,
+   "time": "2026-02-01 20:56",
+   "date": "2026-02-01",
+   "sender_id": 374,
+   "sender": "梦琪",
+   "content": "㊗望舒老师生日快乐[庆祝][庆祝]",
+   "type": "text"
+  },
+  {
+   "id": 12856,
+   "time": "2026-01-09 11:45",
+   "date": "2026-01-09",
+   "sender_id": 374,
+   "sender": "梦琪",
+   "content": "![图片](http://127.0.0.1:5030/image/701130ccc49fd2b8935fc11e0359cd4d,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-01/Img/da76d7292420fce63946d35b4e3b9b38)",
+   "type": "image"
+  },
+  {
+   "id": 11146,
+   "time": "2026-01-01 23:29",
+   "date": "2026-01-01",
+   "sender_id": 374,
+   "sender": "梦琪",
+   "content": "恭喜油姐🎉",
+   "type": "text"
+  }
+ ],
+ "total": 9,
+ "page": 1,
+ "page_size": 9
+}

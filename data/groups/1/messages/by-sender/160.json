@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1660,
+   "time": "2026-07-06 12:24",
+   "date": "2026-07-06",
+   "sender_id": 160,
+   "sender": "恒毅皓月 小红书虚拟产品 kirito组",
+   "content": "关键词错误，训练营默认用企业号的。你得说加朋友，不带任何业务类话术。",
+   "type": "share"
+  },
+  {
+   "id": 1463,
+   "time": "2026-07-05 19:45",
+   "date": "2026-07-05",
+   "sender_id": 160,
+   "sender": "恒毅皓月 小红书虚拟产品 kirito组",
+   "content": "[吃瓜]",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

@@ -1,0 +1,16 @@
+{
+ "messages": [
+  {
+   "id": 408,
+   "time": "2026-06-11 21:25",
+   "date": "2026-06-11",
+   "sender_id": 1,
+   "sender": "系统消息",
+   "content": "\"柳古点.🌈\"邀请\"LR\"加入了群聊",
+   "type": "system"
+  }
+ ],
+ "total": 1,
+ "page": 1,
+ "page_size": 1
+}

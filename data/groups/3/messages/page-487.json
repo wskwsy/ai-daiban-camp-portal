@@ -1,0 +1,457 @@
+{
+ "messages": [
+  {
+   "id": 19452,
+   "time": "2026-02-08 18:38",
+   "date": "2026-02-08",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "你直接问商家",
+   "type": "text"
+  },
+  {
+   "id": 19451,
+   "time": "2026-02-08 18:38",
+   "date": "2026-02-08",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "鸿蒙要2.0",
+   "type": "text"
+  },
+  {
+   "id": 19450,
+   "time": "2026-02-08 18:38",
+   "date": "2026-02-08",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "安卓要10.0",
+   "type": "text"
+  },
+  {
+   "id": 19449,
+   "time": "2026-02-08 18:38",
+   "date": "2026-02-08",
+   "sender_id": 495,
+   "sender": "懂将来",
+   "content": "![图片](http://127.0.0.1:5030/image/fe149cb03618330bd1fb9e1719e5372d,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/79b7b5412e3d24b97187881f65eb821b)",
+   "type": "image"
+  },
+  {
+   "id": 19448,
+   "time": "2026-02-08 18:38",
+   "date": "2026-02-08",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "看系统",
+   "type": "text"
+  },
+  {
+   "id": 19447,
+   "time": "2026-02-08 18:37",
+   "date": "2026-02-08",
+   "sender_id": 495,
+   "sender": "懂将来",
+   "content": "哪个可以啊",
+   "type": "text"
+  },
+  {
+   "id": 19446,
+   "time": "2026-02-08 18:37",
+   "date": "2026-02-08",
+   "sender_id": 237,
+   "sender": "系统消息",
+   "content": "\"京墨\" 撤回了一条消息",
+   "type": "system"
+  },
+  {
+   "id": 19445,
+   "time": "2026-02-08 18:37",
+   "date": "2026-02-08",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "[破涕为笑]",
+   "type": "share"
+  },
+  {
+   "id": 19444,
+   "time": "2026-02-08 18:37",
+   "date": "2026-02-08",
+   "sender_id": 495,
+   "sender": "懂将来",
+   "content": "买的多了。卖家还涨价了[破涕为笑]",
+   "type": "share"
+  },
+  {
+   "id": 19443,
+   "time": "2026-02-08 18:31",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "这个不行",
+   "type": "share"
+  },
+  {
+   "id": 19442,
+   "time": "2026-02-08 18:31",
+   "date": "2026-02-08",
+   "sender_id": 430,
+   "sender": "淑淑",
+   "content": "老师，我这个手机可以吗",
+   "type": "text"
+  },
+  {
+   "id": 19441,
+   "time": "2026-02-08 18:31",
+   "date": "2026-02-08",
+   "sender_id": 430,
+   "sender": "淑淑",
+   "content": "[转账|发送 ￥56.00](短剧)",
+   "type": "share"
+  },
+  {
+   "id": 19440,
+   "time": "2026-02-08 18:30",
+   "date": "2026-02-08",
+   "sender_id": 430,
+   "sender": "淑淑",
+   "content": "![图片](http://127.0.0.1:5030/image/d709d8de9c32e11a2f3765e8609eab92,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/45ced21efc229a6e7275bcb63772f97b)",
+   "type": "image"
+  },
+  {
+   "id": 19439,
+   "time": "2026-02-08 18:21",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![动画表情](http://wxapp.tc.qq.com/262/20304/stodownload?m=7d0127740331f0f6720369ab9bbc744a&filekey=30350201010421301f020201060402534804107d0127740331f0f6720369ab9bbc744a02030d0c19040d00000004627466730000000132&hy=SH&storeid=2631665eb000000c5000000000000010600004f50534816fd2a00b774744d5&bizid=1023)",
+   "type": "sticker"
+  },
+  {
+   "id": 19438,
+   "time": "2026-02-08 18:21",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "手机不合格的，去把手机搞好搞定",
+   "type": "text"
+  },
+  {
+   "id": 19437,
+   "time": "2026-02-08 18:20",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/1f59ac715c079d13e9ee9f509bf751ec,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/379b1ef7a586dcd1020e03a23bf812fd)",
+   "type": "image"
+  },
+  {
+   "id": 19436,
+   "time": "2026-02-08 18:20",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![视频](http://127.0.0.1:5030/video/692b979e7e56343db663083d9f6a8b4a,692b979e7e56343db663083d9f6a8b4a,msg/video/2026-02/61d1e3ec52fb1c4d720877b666e80df2)",
+   "type": "video"
+  },
+  {
+   "id": 19432,
+   "time": "2026-02-08 18:20",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "想要做的自己需要准备低版本手机，看我的图片，点手机设置-关于手机可以查看，不是这两个系统的做不了",
+   "type": "text"
+  },
+  {
+   "id": 19433,
+   "time": "2026-02-08 18:20",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "HarmonyOS 版本 不是2.0  可以花小钱 降级",
+   "type": "text"
+  },
+  {
+   "id": 19434,
+   "time": "2026-02-08 18:20",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "马上过年啦，快递也快停了，就带大家做短剧过渡一下，不管赚多赚少，我都希望群里每个人都能赚到钱！",
+   "type": "text"
+  },
+  {
+   "id": 19435,
+   "time": "2026-02-08 18:20",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "![图片](http://127.0.0.1:5030/image/6fbf4c7ef168f42d83510071bfab0e9f,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/72658648cc0bebdaf2bd805f479ccf4c)",
+   "type": "image"
+  },
+  {
+   "id": 19431,
+   "time": "2026-02-08 18:20",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "这两个版本的手机",
+   "type": "text"
+  },
+  {
+   "id": 19430,
+   "time": "2026-02-08 18:19",
+   "date": "2026-02-08",
+   "sender_id": 256,
+   "sender": "影",
+   "content": "你这个是 16",
+   "type": "text"
+  },
+  {
+   "id": 19429,
+   "time": "2026-02-08 18:19",
+   "date": "2026-02-08",
+   "sender_id": 255,
+   "sender": "竹子  减脂版，已-12斤",
+   "content": "这个可以么",
+   "type": "text"
+  },
+  {
+   "id": 19428,
+   "time": "2026-02-08 18:19",
+   "date": "2026-02-08",
+   "sender_id": 255,
+   "sender": "竹子  减脂版，已-12斤",
+   "content": "![图片](http://127.0.0.1:5030/image/30cf90111931fa74eafecc89d7679dad,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/906c73b79b94f753ebf15452218fa1a9)",
+   "type": "image"
+  },
+  {
+   "id": 19427,
+   "time": "2026-02-08 18:08",
+   "date": "2026-02-08",
+   "sender_id": 256,
+   "sender": "影",
+   "content": "好的，那我也参加[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 19426,
+   "time": "2026-02-08 18:06",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "可以的@影 ",
+   "type": "text"
+  },
+  {
+   "id": 19425,
+   "time": "2026-02-08 18:05",
+   "date": "2026-02-08",
+   "sender_id": 256,
+   "sender": "影",
+   "content": "这个可以吧",
+   "type": "text"
+  },
+  {
+   "id": 19424,
+   "time": "2026-02-08 18:05",
+   "date": "2026-02-08",
+   "sender_id": 256,
+   "sender": "影",
+   "content": "![图片](http://127.0.0.1:5030/image/a5c0f3c924df21fb9c01718324d603ab,msg/attach/395e129f24f5bf00da88ea52e9acece5/2026-02/Img/329442baa90e5903f31f7a5728e07647)",
+   "type": "image"
+  },
+  {
+   "id": 19423,
+   "time": "2026-02-08 16:36",
+   "date": "2026-02-08",
+   "sender_id": 358,
+   "sender": "梁冠绬",
+   "content": "现在都是安卓15了",
+   "type": "text"
+  },
+  {
+   "id": 19422,
+   "time": "2026-02-08 16:35",
+   "date": "2026-02-08",
+   "sender_id": 358,
+   "sender": "梁冠绬",
+   "content": "@大婷婷 谢谢大婷婷给我鉴定 我的手机可以[呲牙][强]",
+   "type": "text"
+  },
+  {
+   "id": 19421,
+   "time": "2026-02-08 16:25",
+   "date": "2026-02-08",
+   "sender_id": 323,
+   "sender": "天元",
+   "content": "我想吃烧烤了[旺柴]",
+   "type": "share"
+  },
+  {
+   "id": 19420,
+   "time": "2026-02-08 16:24",
+   "date": "2026-02-08",
+   "sender_id": 257,
+   "sender": "陈建荣",
+   "content": "好的",
+   "type": "text"
+  },
+  {
+   "id": 19419,
+   "time": "2026-02-08 16:24",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "@陈建荣 能降就能用",
+   "type": "text"
+  },
+  {
+   "id": 19418,
+   "time": "2026-02-08 16:09",
+   "date": "2026-02-08",
+   "sender_id": 257,
+   "sender": "陈建荣",
+   "content": "@菜籽油（24小时内尽量回复信息） 我要是把手机系统版本降到10的系统可以用吗",
+   "type": "text"
+  },
+  {
+   "id": 19417,
+   "time": "2026-02-08 16:09",
+   "date": "2026-02-08",
+   "sender_id": 518,
+   "sender": "遇见",
+   "content": "多少钱来着",
+   "type": "text"
+  },
+  {
+   "id": 19416,
+   "time": "2026-02-08 16:09",
+   "date": "2026-02-08",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "快没了",
+   "type": "text"
+  },
+  {
+   "id": 19415,
+   "time": "2026-02-08 16:09",
+   "date": "2026-02-08",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "这个还有",
+   "type": "text"
+  },
+  {
+   "id": 19414,
+   "time": "2026-02-08 16:09",
+   "date": "2026-02-08",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "[链接|183元 OPPO R15全网通4G低价热门工作室全面屏学生游戏二手备用机原屏 拼多多](https://mobile.yangkeduo.com/goods2.html?_wv=41729&_wvx=10&_x_share_id=zZaKGf7r3glVhzx3nmCvMjzA7UhcCVi3&goods_id=770295280636&page_from=63&pxq_secret_key=IQHX52CDUKSYA72NVZZL2MPKL5TSJVPJQE6TXFS7IHM7QNGZKBUQ&_oak_share_snapshot_num=18300&_oak_share_time=1770538133&share_uin=FPCF4N45CRV3ELE5TU2WXZXL5I_GEXDA&refer_share_id=vcu02kq3cvw1w8nnd3vobci7hpqtviti&refer_share_uin=FPCF4N45CRV3ELE5TU2WXZXL5I_GEXDA&refer_share_channel=message)",
+   "type": "share"
+  },
+  {
+   "id": 19413,
+   "time": "2026-02-08 16:08",
+   "date": "2026-02-08",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "123上链接",
+   "type": "text"
+  },
+  {
+   "id": 19412,
+   "time": "2026-02-08 16:08",
+   "date": "2026-02-08",
+   "sender_id": 256,
+   "sender": "影",
+   "content": "链接还有吗？",
+   "type": "text"
+  },
+  {
+   "id": 19411,
+   "time": "2026-02-08 16:08",
+   "date": "2026-02-08",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "油姐，你下次就应该多找几个链接[捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 19410,
+   "time": "2026-02-08 16:07",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "[捂脸][捂脸][捂脸]因为电商也太多徒弟要做",
+   "type": "text"
+  },
+  {
+   "id": 19409,
+   "time": "2026-02-08 16:07",
+   "date": "2026-02-08",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 19408,
+   "time": "2026-02-08 16:07",
+   "date": "2026-02-08",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "带货能力太离谱",
+   "type": "text"
+  },
+  {
+   "id": 19407,
+   "time": "2026-02-08 16:07",
+   "date": "2026-02-08",
+   "sender_id": 458,
+   "sender": "大婷婷",
+   "content": "商家也觉得离谱，不过是你离谱[呲牙]",
+   "type": "share"
+  },
+  {
+   "id": 19406,
+   "time": "2026-02-08 16:07",
+   "date": "2026-02-08",
+   "sender_id": 596,
+   "sender": "阿腾",
+   "content": "老师，加仑拉一下",
+   "type": "text"
+  },
+  {
+   "id": 19405,
+   "time": "2026-02-08 16:06",
+   "date": "2026-02-08",
+   "sender_id": 419,
+   "sender": "冉冉",
+   "content": "@菜籽油（24小时内尽量回复信息） 菜菜姐收一下转账呀",
+   "type": "share"
+  },
+  {
+   "id": 19404,
+   "time": "2026-02-08 16:03",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "联系我进反馈群",
+   "type": "text"
+  },
+  {
+   "id": 19403,
+   "time": "2026-02-08 16:03",
+   "date": "2026-02-08",
+   "sender_id": 246,
+   "sender": "菜籽油",
+   "content": "加仑是谁的",
+   "type": "text"
+  }
+ ],
+ "total": 34567,
+ "page": 487,
+ "page_size": 50
+}

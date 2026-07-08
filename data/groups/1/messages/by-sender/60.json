@@ -1,0 +1,61 @@
+{
+ "messages": [
+  {
+   "id": 1888,
+   "time": "2026-07-06 17:40",
+   "date": "2026-07-06",
+   "sender_id": 60,
+   "sender": "凤歌-全域 AI 带货-helen 组",
+   "content": "@AI教育微课-helen组-文婕志愿者 [OK]",
+   "type": "text"
+  },
+  {
+   "id": 1885,
+   "time": "2026-07-06 17:39",
+   "date": "2026-07-06",
+   "sender_id": 60,
+   "sender": "凤歌-全域 AI 带货-helen 组",
+   "content": "@AI教育微课-helen组-文婕志愿者 ",
+   "type": "text"
+  },
+  {
+   "id": 1883,
+   "time": "2026-07-06 17:39",
+   "date": "2026-07-06",
+   "sender_id": 60,
+   "sender": "凤歌-全域 AI 带货-helen 组",
+   "content": "[名片]",
+   "type": "card"
+  },
+  {
+   "id": 1092,
+   "time": "2026-07-05 09:17",
+   "date": "2026-07-05",
+   "sender_id": 60,
+   "sender": "凤歌-全域 AI 带货-helen 组",
+   "content": "捞人 可有加过的朋友",
+   "type": "text"
+  },
+  {
+   "id": 1090,
+   "time": "2026-07-05 09:17",
+   "date": "2026-07-05",
+   "sender_id": 60,
+   "sender": "凤歌-全域 AI 带货-helen 组",
+   "content": "![图片](http://127.0.0.1:5030/image/c46f9b1f60a3a94deda5fe6bc57aed66,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/0f9f88cd1528a042b39fd3b89761e34f)",
+   "type": "image"
+  },
+  {
+   "id": 486,
+   "time": "2026-06-24 10:03",
+   "date": "2026-06-24",
+   "sender_id": 60,
+   "sender": "凤歌-全域 AI 带货-helen 组",
+   "content": "@小红书虚拟XiXi 这里",
+   "type": "share"
+  }
+ ],
+ "total": 6,
+ "page": 1,
+ "page_size": 6
+}

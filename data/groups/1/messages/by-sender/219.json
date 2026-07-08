@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 2033,
+   "time": "2026-07-07 09:53",
+   "date": "2026-07-07",
+   "sender_id": 219,
+   "sender": "你若是风",
+   "content": "捞个人，请问下有小伙伴认识这位的么？加微信没回，电话打不进去",
+   "type": "text"
+  },
+  {
+   "id": 2034,
+   "time": "2026-07-07 09:53",
+   "date": "2026-07-07",
+   "sender_id": 219,
+   "sender": "你若是风",
+   "content": "![图片](http://127.0.0.1:5030/image/157d516e9b224f0b7716febf456dd22f,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/0e74d4644f94515c671fce955da33ce9)",
+   "type": "image"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

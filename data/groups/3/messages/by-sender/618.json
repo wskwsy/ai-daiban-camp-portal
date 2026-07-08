@@ -1,0 +1,16 @@
+{
+ "messages": [
+  {
+   "id": 23150,
+   "time": "2026-03-01 18:17",
+   "date": "2026-03-01",
+   "sender_id": 618,
+   "sender": "肖姐",
+   "content": "[转账|发送 ￥39.90](小龙虾一个)",
+   "type": "share"
+  }
+ ],
+ "total": 1,
+ "page": 1,
+ "page_size": 1
+}

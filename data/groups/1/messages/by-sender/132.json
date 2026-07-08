@@ -1,0 +1,52 @@
+{
+ "messages": [
+  {
+   "id": 1926,
+   "time": "2026-07-06 18:28",
+   "date": "2026-07-06",
+   "sender_id": 132,
+   "sender": "汽水-AI PPT-夏蝉组",
+   "content": "星球号：52149\n微信名：Jeff-Tzeng\n微信 ：Jeff-Tzeng\n电话183626543",
+   "type": "text"
+  },
+  {
+   "id": 1925,
+   "time": "2026-07-06 18:27",
+   "date": "2026-07-06",
+   "sender_id": 132,
+   "sender": "汽水-AI PPT-夏蝉组",
+   "content": "有没有能联系上这个的，打电话添加都不回",
+   "type": "text"
+  },
+  {
+   "id": 1924,
+   "time": "2026-07-06 18:27",
+   "date": "2026-07-06",
+   "sender_id": 132,
+   "sender": "汽水-AI PPT-夏蝉组",
+   "content": "![图片](http://127.0.0.1:5030/image/2f8a35aa6e5142a49c8101f6c8ceb2bd,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/06651af59a07d86e06fd444ff4ce7bb1)",
+   "type": "image"
+  },
+  {
+   "id": 1111,
+   "time": "2026-07-05 09:44",
+   "date": "2026-07-05",
+   "sender_id": 132,
+   "sender": "汽水-AI PPT-夏蝉组",
+   "content": "可以@子桐 ",
+   "type": "text"
+  },
+  {
+   "id": 1075,
+   "time": "2026-07-05 08:26",
+   "date": "2026-07-05",
+   "sender_id": 132,
+   "sender": "汽水-AI PPT-夏蝉组",
+   "content": "可以用",
+   "type": "text"
+  }
+ ],
+ "total": 5,
+ "page": 1,
+ "page_size": 5
+}

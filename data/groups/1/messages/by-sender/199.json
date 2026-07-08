@@ -1,0 +1,16 @@
+{
+ "messages": [
+  {
+   "id": 1876,
+   "time": "2026-07-06 17:30",
+   "date": "2026-07-06",
+   "sender_id": 199,
+   "sender": "<msg><appmsg appid=\"\" sdkver=\"0\"><title>这个我今天刚加过，加了好几次，短信不回，打电话才通过</title><des></des><action></action><type>57</type><showtype>0</showtype><soundtype>0</soundtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url></url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><songalbumurl></songalbumurl><songlyric></songlyric><template_id></template_id><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><aeskey></aeskey></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><thumburl></thumburl><md5></md5><statextstr></statextstr><refermsg><chatusr>qq842757763</chatusr><type>3</type><createtime>1783329958</createtime><msgsource>&lt;msgsource&gt;\n\t&lt;img_file_name&gt;262a684f-a60a-4e05-b72d-d94b281e60ba.png&lt;/img_file_name&gt;\n\t&lt;alnode&gt;\n\t\t&lt;fr&gt;1&lt;/fr&gt;\n\t\t&lt;cf&gt;3&lt;/cf&gt;\n\t&lt;/alnode&gt;\n\t&lt;sec_msg_node&gt;\n\t\t&lt;uuid&gt;ff004a3932c4e28a0cea1fe1d3421e3c_&lt;/uuid&gt;\n\t\t&lt;risk-file-flag /&gt;\n\t\t&lt;risk-file-md5-list /&gt;\n\t&lt;/sec_msg_node&gt;\n\t&lt;imgmsg_pd cdnbigimgurl_size=\"3501\" cdnbigimgurl_pd_pri=\"30\" cdnbigimgurl_pd=\"0\" /&gt;\n\t&lt;silence&gt;0&lt;/silence&gt;\n\t&lt;membercount&gt;455&lt;/membercount&gt;\n\t&lt;signature&gt;N0_V1_eLrTCIOW|v1_DRGpyF8W&lt;/signature&gt;\n\t&lt;tmp_node&gt;\n\t\t&lt;publisher-id&gt;&lt;/publisher-id&gt;\n\t&lt;/tmp_node&gt;\n&lt;/msgsource&gt;\n</msgsource><displayname></displayname><svrid>6180181764909534206</svrid><fromusr>44570562880@chatroom</fromusr><content>qq842757763",
+   "content": "[引用]",
+   "type": "share"
+  }
+ ],
+ "total": 1,
+ "page": 1,
+ "page_size": 1
+}

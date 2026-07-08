@@ -1,0 +1,52 @@
+{
+ "messages": [
+  {
+   "id": 1910,
+   "time": "2026-07-06 17:59",
+   "date": "2026-07-06",
+   "sender_id": 201,
+   "sender": "Ai小程序-星卡-渐渐组",
+   "content": "@AI内容工厂-恋哲之 ",
+   "type": "text"
+  },
+  {
+   "id": 1909,
+   "time": "2026-07-06 17:58",
+   "date": "2026-07-06",
+   "sender_id": 201,
+   "sender": "Ai小程序-星卡-渐渐组",
+   "content": "电话没接",
+   "type": "text"
+  },
+  {
+   "id": 1908,
+   "time": "2026-07-06 17:58",
+   "date": "2026-07-06",
+   "sender_id": 201,
+   "sender": "Ai小程序-星卡-渐渐组",
+   "content": "我看看  谢谢哈",
+   "type": "text"
+  },
+  {
+   "id": 1901,
+   "time": "2026-07-06 17:51",
+   "date": "2026-07-06",
+   "sender_id": 201,
+   "sender": "Ai小程序-星卡-渐渐组",
+   "content": "#捞人",
+   "type": "text"
+  },
+  {
+   "id": 1900,
+   "time": "2026-07-06 17:51",
+   "date": "2026-07-06",
+   "sender_id": 201,
+   "sender": "Ai小程序-星卡-渐渐组",
+   "content": "![图片](http://127.0.0.1:5030/image/0544469df6ff0dae65f8dfd910429899,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/8d6e4b90811b75dcada02139a98fd607)",
+   "type": "image"
+  }
+ ],
+ "total": 5,
+ "page": 1,
+ "page_size": 5
+}

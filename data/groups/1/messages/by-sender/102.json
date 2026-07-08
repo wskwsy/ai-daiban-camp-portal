@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 853,
+   "time": "2026-07-03 13:23",
+   "date": "2026-07-03",
+   "sender_id": 102,
+   "sender": "锦鲤鹿-AI PPT-夏蝉组",
+   "content": "那他手下的学员谁拉群呀",
+   "type": "share"
+  },
+  {
+   "id": 852,
+   "time": "2026-07-03 13:22",
+   "date": "2026-07-03",
+   "sender_id": 102,
+   "sender": "锦鲤鹿-AI PPT-夏蝉组",
+   "content": "[破涕为笑]",
+   "type": "text"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}

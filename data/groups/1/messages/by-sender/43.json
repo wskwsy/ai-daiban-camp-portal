@@ -1,0 +1,808 @@
+{
+ "messages": [
+  {
+   "id": 1642,
+   "time": "2026-07-06 11:51",
+   "date": "2026-07-06",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "可以，但是最好新号，因为新号有流量扶持",
+   "type": "text"
+  },
+  {
+   "id": 1574,
+   "time": "2026-07-06 09:47",
+   "date": "2026-07-06",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "![动画表情](http://wxapp.tc.qq.com/275/20304/stodownload?m=4ab276c6037f9405c8ac86cdb06937b6&filekey=30350201010421301f020201130402534804104ab276c6037f9405c8ac86cdb06937b602030141ed040d00000004627466730000000132&hy=SH&storeid=26752935c0005ae5db4739abb0000011300004f50534807b07bd1e7604503b&bizid=1023)",
+   "type": "sticker"
+  },
+  {
+   "id": 1537,
+   "time": "2026-07-06 00:15",
+   "date": "2026-07-06",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "[破涕为笑] 我也很尴尬",
+   "type": "text"
+  },
+  {
+   "id": 1538,
+   "time": "2026-07-06 00:15",
+   "date": "2026-07-06",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "![图片](http://127.0.0.1:5030/image/863b11536ba39c7ccb944f742c803d98,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/10708f374655c72b165cdd8e6dca622d)",
+   "type": "image"
+  },
+  {
+   "id": 1536,
+   "time": "2026-07-06 00:15",
+   "date": "2026-07-06",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "哈哈 我这刚刚有学员问，预习手册和开营后的手册有什么不同",
+   "type": "text"
+  },
+  {
+   "id": 1532,
+   "time": "2026-07-06 00:06",
+   "date": "2026-07-06",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "明天看看呗  因为今天周日",
+   "type": "text"
+  },
+  {
+   "id": 1528,
+   "time": "2026-07-06 00:04",
+   "date": "2026-07-06",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "时间太长了。 有点不合理",
+   "type": "text"
+  },
+  {
+   "id": 1527,
+   "time": "2026-07-06 00:04",
+   "date": "2026-07-06",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "看不到 得10日了",
+   "type": "text"
+  },
+  {
+   "id": 1329,
+   "time": "2026-07-05 12:30",
+   "date": "2026-07-05",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "谁有这2位的",
+   "type": "text"
+  },
+  {
+   "id": 1328,
+   "time": "2026-07-05 12:30",
+   "date": "2026-07-05",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "捞人",
+   "type": "text"
+  },
+  {
+   "id": 1327,
+   "time": "2026-07-05 12:30",
+   "date": "2026-07-05",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "![图片](http://127.0.0.1:5030/image/15a21ae40f030e134b9fa11ec729c0f6,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/733fba022686aeaed9b016bbc351cb38)",
+   "type": "image"
+  },
+  {
+   "id": 1157,
+   "time": "2026-07-05 10:24",
+   "date": "2026-07-05",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "让他去学图片和短视频带货 这两个",
+   "type": "text"
+  },
+  {
+   "id": 1156,
+   "time": "2026-07-05 10:24",
+   "date": "2026-07-05",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "如果需要做详情页  短视频  那全域带货不适合她  ",
+   "type": "share"
+  },
+  {
+   "id": 1046,
+   "time": "2026-07-04 23:26",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "现在就应该开放 [阴险]",
+   "type": "text"
+  },
+  {
+   "id": 1045,
+   "time": "2026-07-04 23:26",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "还有6天，太长了",
+   "type": "text"
+  },
+  {
+   "id": 1044,
+   "time": "2026-07-04 23:26",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 1042,
+   "time": "2026-07-04 23:25",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "10 日吗",
+   "type": "text"
+  },
+  {
+   "id": 939,
+   "time": "2026-07-04 19:42",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "而且今天周六",
+   "type": "text"
+  },
+  {
+   "id": 938,
+   "time": "2026-07-04 19:42",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "今天晚上刚出来 别急",
+   "type": "text"
+  },
+  {
+   "id": 923,
+   "time": "2026-07-04 19:34",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "志愿服务 已经有了",
+   "type": "text"
+  },
+  {
+   "id": 922,
+   "time": "2026-07-04 19:34",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "![图片](http://127.0.0.1:5030/image/78acdbd28426efa51f7d86f4bf252bcf,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-07/Img/c3751e1af8d636aa112ca62239bb6f88)",
+   "type": "image"
+  },
+  {
+   "id": 921,
+   "time": "2026-07-04 19:34",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "什么官方运营？",
+   "type": "text"
+  },
+  {
+   "id": 917,
+   "time": "2026-07-04 19:31",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "志愿者不需要报名",
+   "type": "text"
+  },
+  {
+   "id": 915,
+   "time": "2026-07-04 19:31",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "不需要",
+   "type": "text"
+  },
+  {
+   "id": 907,
+   "time": "2026-07-04 19:14",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "开工",
+   "type": "text"
+  },
+  {
+   "id": 898,
+   "time": "2026-07-04 17:39",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "大佬。 这个一天20页  是指的多长时间？",
+   "type": "text"
+  },
+  {
+   "id": 897,
+   "time": "2026-07-04 17:39",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "中年男人的速度就是慢，一天也就能做个20页左右。所以结论，后面基本上能做到200+以上一天。",
+   "type": "text"
+  },
+  {
+   "id": 896,
+   "time": "2026-07-04 17:39",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "@野生老肖",
+   "type": "text"
+  },
+  {
+   "id": 877,
+   "time": "2026-07-04 16:44",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "@野生老肖 多多指教呀。 这个月我是ppt志愿者 [奸笑]",
+   "type": "text"
+  },
+  {
+   "id": 875,
+   "time": "2026-07-04 16:42",
+   "date": "2026-07-04",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "[强]",
+   "type": "text"
+  },
+  {
+   "id": 851,
+   "time": "2026-07-03 13:16",
+   "date": "2026-07-03",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "[捂脸][捂脸][捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 850,
+   "time": "2026-07-03 13:16",
+   "date": "2026-07-03",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "而且他还是志愿者",
+   "type": "text"
+  },
+  {
+   "id": 838,
+   "time": "2026-07-01 21:56",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "哦哦",
+   "type": "text"
+  },
+  {
+   "id": 834,
+   "time": "2026-07-01 21:52",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "但是现在看好几个人都已经弄好了",
+   "type": "text"
+  },
+  {
+   "id": 833,
+   "time": "2026-07-01 21:52",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "@内容工厂-兔女财 我是志愿者 所以没有报名",
+   "type": "text"
+  },
+  {
+   "id": 829,
+   "time": "2026-07-01 21:50",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "@王庆 ",
+   "type": "text"
+  },
+  {
+   "id": 828,
+   "time": "2026-07-01 21:49",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "我们志愿者去哪里看资料？",
+   "type": "text"
+  },
+  {
+   "id": 827,
+   "time": "2026-07-01 21:49",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "请问 现在看他们都在准备了。注册了派单系统",
+   "type": "text"
+  },
+  {
+   "id": 826,
+   "time": "2026-07-01 21:49",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "[链接|Day 1\n\n派单系统已注册，4个入口已认，了解派单规则\n\n没卡\n\nWPS已经安装，4个AI工具全部备齐\n完成一份AI大纲](https://t.zsxq.com/YW20h)",
+   "type": "share"
+  },
+  {
+   "id": 818,
+   "time": "2026-07-01 12:08",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 817,
+   "time": "2026-07-01 12:08",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "接单多 不是赚钱更多",
+   "type": "text"
+  },
+  {
+   "id": 816,
+   "time": "2026-07-01 12:08",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "我们是给他们做写手 接单。按理应该可以一直接呀。  [捂脸]  当黑奴",
+   "type": "text"
+  },
+  {
+   "id": 813,
+   "time": "2026-07-01 12:06",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "这个派单系统， 开营期间开通了。后面会继续能接单吗？  还是就关了",
+   "type": "text"
+  },
+  {
+   "id": 809,
+   "time": "2026-07-01 11:13",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "哦",
+   "type": "text"
+  },
+  {
+   "id": 807,
+   "time": "2026-07-01 11:11",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "避免微信账号被封",
+   "type": "text"
+  },
+  {
+   "id": 806,
+   "time": "2026-07-01 11:11",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "现在还没有开始的。时间推移了",
+   "type": "text"
+  },
+  {
+   "id": 805,
+   "time": "2026-07-01 11:11",
+   "date": "2026-07-01",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "7.8日后才行",
+   "type": "text"
+  },
+  {
+   "id": 638,
+   "time": "2026-06-24 13:20",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "[呲牙][呲牙][呲牙][呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 637,
+   "time": "2026-06-24 13:20",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "@野生老肖 你这个想法666",
+   "type": "text"
+  },
+  {
+   "id": 636,
+   "time": "2026-06-24 13:20",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "按理应该一直可以接单才对。因为他们也需要黑奴呀",
+   "type": "text"
+  },
+  {
+   "id": 634,
+   "time": "2026-06-24 13:19",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "好吧",
+   "type": "text"
+  },
+  {
+   "id": 628,
+   "time": "2026-06-24 13:18",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "才一个月？",
+   "type": "text"
+  },
+  {
+   "id": 626,
+   "time": "2026-06-24 13:18",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "@野生老肖 你现在在哪里接单",
+   "type": "text"
+  },
+  {
+   "id": 624,
+   "time": "2026-06-24 13:17",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "咱行动营那个接单平台。结束后还能继续接单吗？",
+   "type": "text"
+  },
+  {
+   "id": 621,
+   "time": "2026-06-24 13:17",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "@野生老肖 很不错",
+   "type": "text"
+  },
+  {
+   "id": 614,
+   "time": "2026-06-24 13:12",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "@王瑞 中标概率如何",
+   "type": "text"
+  },
+  {
+   "id": 590,
+   "time": "2026-06-24 11:33",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "[尴尬][尴尬][尴尬][尴尬][尴尬]",
+   "type": "text"
+  },
+  {
+   "id": 587,
+   "time": "2026-06-24 11:29",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "[呲牙][呲牙][呲牙][呲牙][呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 583,
+   "time": "2026-06-24 11:26",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "不关注的。一个个再去通知。也不一定报。都不一定看星球[捂脸][捂脸][捂脸]",
+   "type": "text"
+  },
+  {
+   "id": 582,
+   "time": "2026-06-24 11:26",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "关注的人 自然会关注。今天就报名了",
+   "type": "text"
+  },
+  {
+   "id": 581,
+   "time": "2026-06-24 11:25",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "报名时间。都有两天拆解了。星球也在每天发",
+   "type": "text"
+  },
+  {
+   "id": 579,
+   "time": "2026-06-24 11:25",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "报名应该就一天截止了",
+   "type": "text"
+  },
+  {
+   "id": 577,
+   "time": "2026-06-24 11:25",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "因为那个需要时间 ",
+   "type": "text"
+  },
+  {
+   "id": 576,
+   "time": "2026-06-24 11:24",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "报名不应该延长。但是准备加好友分配群时间应该延长",
+   "type": "text"
+  },
+  {
+   "id": 559,
+   "time": "2026-06-24 10:31",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "这些项目都能赚钱 [呲牙]",
+   "type": "share"
+  },
+  {
+   "id": 544,
+   "time": "2026-06-24 10:26",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "你没有分配怎么来这个 群的   @王瑞",
+   "type": "text"
+  },
+  {
+   "id": 539,
+   "time": "2026-06-24 10:21",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "那我去退掉",
+   "type": "text"
+  },
+  {
+   "id": 538,
+   "time": "2026-06-24 10:21",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "好",
+   "type": "text"
+  },
+  {
+   "id": 536,
+   "time": "2026-06-24 10:20",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "[呲牙][呲牙][呲牙][呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 535,
+   "time": "2026-06-24 10:20",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "确定吗。那我可以退了",
+   "type": "text"
+  },
+  {
+   "id": 532,
+   "time": "2026-06-24 10:19",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "我的ppt限制700人",
+   "type": "text"
+  },
+  {
+   "id": 531,
+   "time": "2026-06-24 10:19",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "就不用报名了",
+   "type": "text"
+  },
+  {
+   "id": 530,
+   "time": "2026-06-24 10:19",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "哪怕调整了。原先确认的营也可以去学习",
+   "type": "text"
+  },
+  {
+   "id": 528,
+   "time": "2026-06-24 10:19",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "我觉得应该报名之前就去确定好志愿者比较好",
+   "type": "text"
+  },
+  {
+   "id": 527,
+   "time": "2026-06-24 10:18",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "@倞本 我的意思是 咱这样 占了其他圈友名额[呲牙][呲牙][呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 514,
+   "time": "2026-06-24 10:13",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "我觉得这样不好，如果等分配了之后然后再退款，那我们志愿者不就白白地占用名额了吗",
+   "type": "text"
+  },
+  {
+   "id": 512,
+   "time": "2026-06-24 10:12",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "不能 随机的[破涕为笑]",
+   "type": "text"
+  },
+  {
+   "id": 505,
+   "time": "2026-06-24 10:09",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "主要什么时候确认志愿者和能退款的时间会不会过了",
+   "type": "text"
+  },
+  {
+   "id": 501,
+   "time": "2026-06-24 10:09",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "我是PPT的志愿者，然后刚才也报上了，如果不二次分配的话，可以退的",
+   "type": "text"
+  },
+  {
+   "id": 500,
+   "time": "2026-06-24 10:08",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "ppt这个不会放开sop",
+   "type": "text"
+  },
+  {
+   "id": 482,
+   "time": "2026-06-24 10:03",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "报名了",
+   "type": "text"
+  },
+  {
+   "id": 478,
+   "time": "2026-06-24 10:01",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "我记得上期是学费",
+   "type": "text"
+  },
+  {
+   "id": 474,
+   "time": "2026-06-24 10:00",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "这次ppt是押金了？不是学费了吗？",
+   "type": "text"
+  },
+  {
+   "id": 473,
+   "time": "2026-06-24 10:00",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "![图片](http://127.0.0.1:5030/image/fdc53386c77b96f3be128d06101c0e61,msg/attach/70a0da803d49c0c8eaaf20ead9628b7b/2026-06/Img/8220b84a8b64892f2ef6f98d11c5334f)",
+   "type": "image"
+  },
+  {
+   "id": 445,
+   "time": "2026-06-24 09:45",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "一个就够了。精力时间有限的",
+   "type": "text"
+  },
+  {
+   "id": 441,
+   "time": "2026-06-24 09:44",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "对",
+   "type": "share"
+  },
+  {
+   "id": 435,
+   "time": "2026-06-24 09:38",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "[呲牙]",
+   "type": "text"
+  },
+  {
+   "id": 434,
+   "time": "2026-06-24 09:38",
+   "date": "2026-06-24",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "志愿者了。不需要报名",
+   "type": "text"
+  },
+  {
+   "id": 374,
+   "time": "2026-06-10 15:45",
+   "date": "2026-06-10",
+   "sender_id": 43,
+   "sender": "田超",
+   "content": "@Bigcat——Lizzy组 有",
+   "type": "text"
+  }
+ ],
+ "total": 89,
+ "page": 1,
+ "page_size": 89
+}

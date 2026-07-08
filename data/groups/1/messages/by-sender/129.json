@@ -1,0 +1,160 @@
+{
+ "messages": [
+  {
+   "id": 2057,
+   "time": "2026-07-07 10:12",
+   "date": "2026-07-07",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "我有他微信，我推给你",
+   "type": "text"
+  },
+  {
+   "id": 2053,
+   "time": "2026-07-07 10:11",
+   "date": "2026-07-07",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "不是我加的那一个幸福小绵羊",
+   "type": "share"
+  },
+  {
+   "id": 2051,
+   "time": "2026-07-07 10:09",
+   "date": "2026-07-07",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "有微信号吗",
+   "type": "share"
+  },
+  {
+   "id": 1834,
+   "time": "2026-07-06 16:33",
+   "date": "2026-07-06",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "群里找到一个同名的，我尝试联系一下",
+   "type": "share"
+  },
+  {
+   "id": 1815,
+   "time": "2026-07-06 16:27",
+   "date": "2026-07-06",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "哪个营",
+   "type": "share"
+  },
+  {
+   "id": 1814,
+   "time": "2026-07-06 16:26",
+   "date": "2026-07-06",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "哪个营",
+   "type": "share"
+  },
+  {
+   "id": 1810,
+   "time": "2026-07-06 16:25",
+   "date": "2026-07-06",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "互帮互助",
+   "type": "share"
+  },
+  {
+   "id": 1803,
+   "time": "2026-07-06 16:05",
+   "date": "2026-07-06",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "我有他微信，我推给你",
+   "type": "share"
+  },
+  {
+   "id": 1797,
+   "time": "2026-07-06 15:38",
+   "date": "2026-07-06",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "不是他",
+   "type": "text"
+  },
+  {
+   "id": 1796,
+   "time": "2026-07-06 15:38",
+   "date": "2026-07-06",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "找到一个，但是微信号对不上",
+   "type": "share"
+  },
+  {
+   "id": 1788,
+   "time": "2026-07-06 15:12",
+   "date": "2026-07-06",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "什么营",
+   "type": "share"
+  },
+  {
+   "id": 1778,
+   "time": "2026-07-06 14:59",
+   "date": "2026-07-06",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "那不是他",
+   "type": "share"
+  },
+  {
+   "id": 1769,
+   "time": "2026-07-06 14:56",
+   "date": "2026-07-06",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "codex产品实战",
+   "type": "text"
+  },
+  {
+   "id": 1763,
+   "time": "2026-07-06 14:55",
+   "date": "2026-07-06",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "看下微信号",
+   "type": "text"
+  },
+  {
+   "id": 1752,
+   "time": "2026-07-06 14:52",
+   "date": "2026-07-06",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "大家帮忙看看有没有加叫  自由人  的朋友，他微信号不对",
+   "type": "text"
+  },
+  {
+   "id": 1061,
+   "time": "2026-07-04 23:36",
+   "date": "2026-07-04",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "开营之后，志愿者能看到手册吗",
+   "type": "text"
+  },
+  {
+   "id": 1057,
+   "time": "2026-07-04 23:34",
+   "date": "2026-07-04",
+   "sender_id": 129,
+   "sender": "子奕",
+   "content": "志愿者没看到行动营手册吗，如果自己没报名的话",
+   "type": "text"
+  }
+ ],
+ "total": 17,
+ "page": 1,
+ "page_size": 17
+}

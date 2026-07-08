@@ -1,0 +1,25 @@
+{
+ "messages": [
+  {
+   "id": 1835,
+   "time": "2026-07-06 16:34",
+   "date": "2026-07-06",
+   "sender_id": 196,
+   "sender": "Eleven-小红书起号实战-柳古点",
+   "content": "[OK]",
+   "type": "share"
+  },
+  {
+   "id": 1830,
+   "time": "2026-07-06 16:30",
+   "date": "2026-07-06",
+   "sender_id": 196,
+   "sender": "Eleven-小红书起号实战-柳古点",
+   "content": "你这个两个人和我一样，都没加上，看来他俩既报了虚拟资料，又报了小红书起号@Jerry.z ",
+   "type": "share"
+  }
+ ],
+ "total": 2,
+ "page": 1,
+ "page_size": 2
+}
