@@ -1,9 +1,0 @@
-# Cloudflare Pages 头部配置
-# 静态资源（CSS/JS/图片）均带 ?v=N 版本号，可安全长缓存，最大化性能
-/assets/*
-  Cache-Control: public, max-age=31536000, immutable
-
-# 全站基础安全头（对静态站无害）
-/*
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: strict-origin-when-cross-origin
