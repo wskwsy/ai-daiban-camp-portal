@@ -17,7 +17,10 @@
 
   // 把动态 API 路径映射到静态 JSON 文件路径
   function staticPath(apiPath) {
-    const p = apiPath.replace(/^\//, '');
+    // 先把 query string 拆出来，避免污染路径分段比对
+    const _qIdx = apiPath.indexOf('?');
+    const rawQuery = _qIdx >= 0 ? apiPath.slice(_qIdx + 1) : '';
+    const p = apiPath.slice(0, _qIdx < 0 ? undefined : _qIdx).replace(/^\//, '');
     const parts = p.split('/');
     const head = parts[0];
     if (head === 'config') {
@@ -36,7 +39,7 @@
         return `${DATA_BASE}/groups/${gid}/summaries.json`;
       }
       if (sub === 'messages') {
-        const q = new URLSearchParams(apiPath.split('?')[1] || '');
+        const q = new URLSearchParams(rawQuery);
         const sender = q.get('sender_id');
         const date = q.get('date');
         if (sender) return `${DATA_BASE}/groups/${gid}/messages/by-sender/${sender}.json`;
