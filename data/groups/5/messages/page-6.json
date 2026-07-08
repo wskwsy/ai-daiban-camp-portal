@@ -1,6 +1,24 @@
 {
  "messages": [
   {
+   "id": 37074,
+   "time": "2026-07-08 10:03",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"小迷糊水獭（语汐）-全域AI带货\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
+   "id": 37073,
+   "time": "2026-07-08 10:03",
+   "date": "2026-07-08",
+   "sender_id": 38,
+   "sender": "",
+   "content": "\"抖音电商－时光\" 拍了拍 \"Annia Shaw-领队\" 你要成长绝处也能逢生",
+   "type": "share"
+  },
+  {
    "id": 37072,
    "time": "2026-07-08 10:03",
    "date": "2026-07-08",
@@ -37,7 +55,7 @@
    "type": "sticker"
   }
  ],
- "total": 254,
+ "total": 256,
  "page": 6,
  "page_size": 50
 }

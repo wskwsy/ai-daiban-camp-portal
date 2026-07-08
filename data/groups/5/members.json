@@ -1,6 +1,25 @@
 {
  "members": [
   {
+   "id": 858,
+   "nickname": "木木-边城组",
+   "display_name": "木木-边城组",
+   "avatar": null,
+   "intro": {
+    "nickname": "木木",
+    "location": "北京",
+    "company": "",
+    "intro": "【微信昵称】木木\n【所在地区】北京\n【我的行动目标】变现\n【我需要】 找到工作以外挣钱的闭环\n【想和大家说的话】不断学习，行动起来，听话照做，一起实现目标",
+    "goal": "变现",
+    "offer": "",
+    "seek": "1、找到工作以外挣钱的闭环",
+    "words": "不断学习，行动起来，听话照做，一起实现目标",
+    "tags": [],
+    "punchline": "不断学习，行动起来，听话照做，一起实现目标"
+   },
+   "message_count": 1
+  },
+  {
    "id": 857,
    "nickname": "堂堂奶奶-天朋彬帅",
    "display_name": "堂堂奶奶-天朋彬帅",
