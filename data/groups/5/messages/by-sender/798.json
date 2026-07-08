@@ -233,9 +233,18 @@
    "sender": "志愿者—红尘",
    "content": "![动画表情](http://wxapp.tc.qq.com/275/20304/stodownload?m=a122ca78c086b7329d017ea71e888abb&filekey=30350201010421301f02020113040253480410a122ca78c086b7329d017ea71e888abb0203062849040d00000004627466730000000132&hy=SH&storeid=264795de70005ea1f000000000000011300004f505348075eeb01e69021b64&bizid=1023)",
    "type": "sticker"
+  },
+  {
+   "id": 37775,
+   "time": "2026-07-06 21:26",
+   "date": "2026-07-06",
+   "sender_id": 798,
+   "sender": "志愿者—红尘",
+   "content": "好的，来啦[呲牙]",
+   "type": "text"
   }
  ],
- "total": 26,
+ "total": 27,
  "page": 1,
- "page_size": 26
+ "page_size": 27
 }
