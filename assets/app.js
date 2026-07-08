@@ -826,7 +826,7 @@
         content.innerHTML = '<div class="empty-state"><div class="icon">🛟</div><h3>暂无群组数据</h3><p>请先采集群消息。</p></div>';
         return;
       }
-      const currentGroupId = P.resolveGroupId(activeGroupId);
+      currentGroupId = P.resolveGroupId(activeGroupId);
       const group = groups.find(g => g.id === currentGroupId) || activeGroup;
       P.renderGroupSwitcher(document.getElementById('groupSwitcher'), currentGroupId, groups);
       const brand = document.getElementById('brandGroupName');
