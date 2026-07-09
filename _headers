@@ -1,0 +1,7 @@
+# 页面 HTML 不缓存：门户是手动快照（非实时同步），文案/功能更新需立即生效
+/*.html
+  Cache-Control: no-cache
+
+# 带 ?v= 版本号的静态资源（style.css / app.js 等）：内容哈希化，可安全长期缓存
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable

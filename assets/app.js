@@ -316,7 +316,7 @@
       set('metaMember', totalCrew.toLocaleString());
       set('metaDigest', totalDigest.toLocaleString());
       set('heroBigMsg', totalMsg.toLocaleString());
-      set('heroEyebrow', `群名：${group.name || '未知'} · 实时同步`);
+      set('heroEyebrow', `群名：${group.name || '未知'} · 同营人名册`);
 
       // --- 进度条：按「今天距开营的第几天 / 营期总天数」计算 ---
       const fill = document.getElementById('progressFill');
