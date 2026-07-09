@@ -1,6 +1,42 @@
 {
  "messages": [
   {
+   "id": 38126,
+   "time": "2026-07-09 20:18",
+   "date": "2026-07-09",
+   "sender_id": 1,
+   "sender": "",
+   "content": "\"Annia Shaw-领队 \"已开启“进群需要群主/群管理员确认”",
+   "type": "text"
+  },
+  {
+   "id": 38120,
+   "time": "2026-07-09 20:10",
+   "date": "2026-07-09",
+   "sender_id": 1,
+   "sender": "",
+   "content": "\"Annia Shaw-领队 \"修改群名为“全域AI带货4群｜11期”",
+   "type": "text"
+  },
+  {
+   "id": 37993,
+   "time": "2026-07-09 19:23",
+   "date": "2026-07-09",
+   "sender_id": 1,
+   "sender": "",
+   "content": "\"安妮教练💗\"邀请\"腾云猫\"加入了群聊",
+   "type": "text"
+  },
+  {
+   "id": 37988,
+   "time": "2026-07-09 14:59",
+   "date": "2026-07-09",
+   "sender_id": 1,
+   "sender": "",
+   "content": "\"雷明\" 撤回了一条消息",
+   "type": "text"
+  },
+  {
    "id": 37984,
    "time": "2026-07-09 12:25",
    "date": "2026-07-09",
@@ -5482,7 +5518,7 @@
    "type": "text"
   }
  ],
- "total": 609,
+ "total": 613,
  "page": 1,
- "page_size": 609
+ "page_size": 613
 }
